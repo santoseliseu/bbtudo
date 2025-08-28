@@ -1,5 +1,7 @@
 SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operação
 8.09.76.78.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Shale Preto - Joie INATIVO;2257.01;2524.8;FATURAMENTO VD RJ;VITRINE
+8.30.57.78.12;Quadriciclo Infantil em Madeira Cloudy - Buba;191.74;214.48;FATURAMENTO VD RJ;VITRINE
+8.30.57.76.00;Casinha de Encaixar Cloudy - Buba;58.85;65.83;FATURAMENTO VD RJ;VITRINE
 24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;97.2;105.73;FATURAMENTO VD RJ;VITRINE
 24.11.175.90.06;Persiana Zebra Rolo Dupla 160X160 Branca;124.51;140.85;FATURAMENTO VD RJ;VITRINE
 24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;124.52;140.85;FATURAMENTO VD RJ;VITRINE
@@ -8,7 +10,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.11.175.162.06;Persiana Toucher Rolo Translúcida 120X140 Branca;62.58;70.79;FATURAMENTO VD RJ;VITRINE
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;119.71;140.03;FATURAMENTO VD RJ;VITRINE
 6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;142.77;170.88;FATURAMENTO VD RJ;VITRINE
-8.25.57.180.07;Kit Lavador Nasal Azul - Buba;7.83;8.9;FATURAMENTO VD RJ;VITRINE
+8.25.57.180.07;Kit Lavador Nasal Azul - Buba;12.81;14.57;FATURAMENTO VD RJ;VITRINE
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;11.69;13.3;FATURAMENTO VD RJ;VITRINE
 24.10.159.457.08;Saco para Assar Batatas de Poliéster Vermelho 20cm x 24,5cm;2.74;3.15;FATURAMENTO VD RJ;VITRINE
 24.52.159.138.00;Conjunto 6 Canecas de Vidro Vintage 95ml - Lyor;11.0;12.02;FATURAMENTO VD RJ;VITRINE
@@ -871,7 +873,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.03.04.61.18;Bebê Conforto Wizz Rosa - Cosco;194.34;262.17;FATURAMENTO VD RJ;VITRINE
 8.30.23.01.01;Carrinho Elétrico E-car Mercedes-Benz 12V com Controle Remoto Infanti - Preto;1088.72;1500.24;FATURAMENTO VD RJ;VITRINE
 8.30.23.02.06;Carrinho Elétrico E-car Mercedes-Benz 12V com Controle Remoto Infanti - Branco;1113.69;1499.45;FATURAMENTO VD RJ;VITRINE
-8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;1596.75;2110.59;FATURAMENTO VD RJ;VITRINE
+8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;1596.75;2110.58;FATURAMENTO VD RJ;VITRINE
 8.06.23.07.01;Cadeira de Alimentação Pepper 0 meses a 18 kg Black Lush - Infanti;486.39;649.49;FATURAMENTO VD RJ;VITRINE
 8.06.23.08.11;Cadeira de Alimentação Pepper 0 meses a 18 kg Green Lush - Infanti;465.73;649.5;FATURAMENTO VD RJ;VITRINE
 8.06.23.09.07;Cadeira de Alimentação Pepper 0 meses a 18 kg Grey Lush - Infanti;487.12;674.0;FATURAMENTO VD RJ;VITRINE
@@ -1192,7 +1194,8 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.25.57.181.18;Lavador Nasal Seringa Dino Rosa - Buba;7.15;8.14;FATURAMENTO VD RJ;VITRINE
 8.25.57.182.11;Lavador Nasal Seringa Dino Verde - Buba;6.63;7.54;FATURAMENTO VD RJ;VITRINE
 8.25.57.184.10;Rede De Proteção Para Banheira Cinza - Buba;24.7;27.85;FATURAMENTO VD RJ;VITRINE
-8.25.57.204.07;Bandana Com Mordedor Espaço Azul - Buba;11.46;13.15;FATURAMENTO VD RJ;VITRINE
+8.60.57.01.10;Ninho Para Bebê Redutor de Berço Cinza - Buba;83.72;94.38;FATURAMENTO VD RJ;VITRINE
+8.25.57.204.07;Bandana Com Mordedor Espaço Azul - Buba;12.51;14.1;FATURAMENTO VD RJ;VITRINE
 8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;65.02;71.88;FATURAMENTO VD RJ;VITRINE
 21.62.131.01.10;Poltrona Comfort Pés Madeira Sarja Rústico - Cia do Móvel;877.78;1094.45;FATURAMENTO VD RJ;VITRINE
 21.62.131.02.10;Puff Nuvem Sarja Rústico - Cia do Móvel;207.03;258.13;FATURAMENTO VD RJ;VITRINE
@@ -1466,7 +1469,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.25.53.100.00;Creme Corporal Baby Moments 500ml Pele Delicada - Chicco;16.87;18.76;FATURAMENTO VD RJ;VITRINE
 8.07.32.41.00;Cadeirinha de Carro Primo Luxe Rouge até 25 kg Vermelho - Team Tex;307.73;354.41;FATURAMENTO VD RJ;VITRINE
 8.07.32.44.00;Cadeirinha de Carro Kalle Mickey Mouse Typo Team Tex;202.17;244.1;FATURAMENTO VD RJ;VITRINE
-8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;9.07;10.31;FATURAMENTO VD RJ;VITRINE
+8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;10.1;11.39;FATURAMENTO VD RJ;VITRINE
 8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;36.02;40.44;FATURAMENTO VD RJ;VITRINE
 8.30.57.01.00;Risque e Apague Com Esponja Buba;10.89;12.36;FATURAMENTO VD RJ;VITRINE
 8.30.57.03.00;Baby Ball Cute Colors Buba;11.7;13.31;FATURAMENTO VD RJ;VITRINE
@@ -1504,7 +1507,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Azul - Buba;117.92;134.71;FATURAMENTO VD RJ;VITRINE
 8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;123.88;139.34;FATURAMENTO VD RJ;VITRINE
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;102.92;115.24;FATURAMENTO VD RJ;VITRINE
-8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;10.54;11.68;FATURAMENTO VD RJ;VITRINE
+8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;11.9;13.31;FATURAMENTO VD RJ;VITRINE
 8.09.02.101.27;Carrinho de Bebê Anna³ Sparkling Grey - Maxi-Cosi;1171.92;1614.92;FATURAMENTO VD RJ;VITRINE
 8.05.61.01.116;Cadeira de Descanso Sunset Até 11,5Kg Cinza e Branco - Mastela;201.82;232.31;FATURAMENTO VD RJ;VITRINE
 8.05.61.03.89;Cadeira de Descanso Sunset Até 11,5Kg Azul e Cinza - Mastela;201.82;232.31;FATURAMENTO VD RJ;VITRINE
@@ -1657,7 +1660,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.30.57.33.69;Treme-Treme De Atividades Zoo Dino - Buba;48.69;55.39;FATURAMENTO VD RJ;VITRINE
 8.30.57.34.69;Treme-Treme De Atividades Zoo Elefante - Buba;48.69;55.39;FATURAMENTO VD RJ;VITRINE
 8.30.57.36.69;Treme-Treme De Atividades Zoo Panda - Buba;49.52;55.39;FATURAMENTO VD RJ;VITRINE
-8.25.57.137.69;Bandana Com Mordedor Arco-Íris e Abelha - Buba;11.46;13.15;FATURAMENTO VD RJ;VITRINE
+8.25.57.137.69;Bandana Com Mordedor Arco-Íris e Abelha - Buba;12.51;14.1;FATURAMENTO VD RJ;VITRINE
 8.25.57.138.69;Bandana Com Mordedor Dino - Buba;11.44;13.06;FATURAMENTO VD RJ;VITRINE
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;5.87;6.74;FATURAMENTO VD RJ;VITRINE
 8.24.57.73.07;Escova Para Mamadeira Em Silicone Azul - Buba;18.13;20.81;FATURAMENTO VD RJ;VITRINE
@@ -1806,7 +1809,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;924.49;1034.18;FATURAMENTO VD RJ;VITRINE
 8.25.99.02.00;Acolchoado Dupla Face Para Recém-Nascido Mesh Verde e Cinza - 4 Moms;220.72;229.92;FATURAMENTO VD RJ;VITRINE
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;56.97;65.39;FATURAMENTO VD RJ;VITRINE
-8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;96.89;110.23;FATURAMENTO VD RJ;VITRINE
+8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;97.19;108.72;FATURAMENTO VD RJ;VITRINE
 8.25.57.125.10;Assento Redutor Com Escada Cinza - Buba;67.69;70.51;FATURAMENTO VD RJ;VITRINE
 8.30.57.23.69;Atomic Ball - Buba;30.44;34.0;FATURAMENTO VD RJ;VITRINE
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;53.77;57.81;FATURAMENTO VD RJ;VITRINE
@@ -1861,7 +1864,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.30.57.48.10;Elefantinho Cinza - Buba;50.06;56.95;FATURAMENTO VD RJ;VITRINE
 8.25.57.163.18;Almofada Infantil Para Banho Rosa - Buba;51.43;59.03;FATURAMENTO VD RJ;VITRINE
 8.25.57.164.07;Almofada Infantil Para Banho Azul - Buba;54.08;61.66;FATURAMENTO VD RJ;VITRINE
-8.25.57.165.06;Bolsa Térmica Com Capa Protetora Coala - Buba;18.86;21.45;FATURAMENTO VD RJ;VITRINE
+8.25.57.165.06;Bolsa Térmica Com Capa Protetora Coala - Buba;19.17;21.45;FATURAMENTO VD RJ;VITRINE
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;157.71;179.99;FATURAMENTO VD RJ;VITRINE
 8.01.103.01.10;Banheira de Bebê Baby Happy Cinza - Premium Baby;136.1;156.22;FATURAMENTO VD RJ;VITRINE
 8.01.103.02.11;Banheira de Bebê Baby Happy Verde - Premium Baby;138.58;156.22;FATURAMENTO VD RJ;VITRINE
@@ -1942,7 +1945,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.13.57.06.69;Tapete Infantil Dobrável Dulpa Face Zoo 1,95 x 1,46 cm - Buba ;149.08;154.72;FATURAMENTO VD RJ;VITRINE
 8.25.57.201.06;Troninho Infantil com Som Branco - Buba;108.68;123.63;FATURAMENTO VD RJ;VITRINE
 8.25.57.202.07;Bandana Com Mordedor Animais Azul - Buba;11.26;11.73;FATURAMENTO VD RJ;VITRINE
-8.25.57.203.18;Bandana Com Mordedor Animais Rosa - Buba;11.44;13.06;FATURAMENTO VD RJ;VITRINE
+8.25.57.203.18;Bandana Com Mordedor Animais Rosa - Buba;12.51;14.1;FATURAMENTO VD RJ;VITRINE
 8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo Colorido - Buba;52.18;59.35;FATURAMENTO VD RJ;VITRINE
 8.03.57.03.69;Almofada de Atividades Panda - Buba ;50.45;57.38;FATURAMENTO VD RJ;VITRINE
 8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;103.6;138.33;FATURAMENTO VD RJ;VITRINE
@@ -1954,7 +1957,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.05.61.28.10;Cadeira de Descanso com Balanço e Moisés 360° 4 Em 1 Macaquinho - Mastela;428.9;490.02;FATURAMENTO VD RJ;VITRINE
 8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;60.2;68.39;FATURAMENTO VD RJ;VITRINE
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;60.2;68.57;FATURAMENTO VD RJ;VITRINE
-8.01.57.02.10;Banheira Infantil Dobrável Ofurô Cinza - Buba;226.08;259.51;FATURAMENTO VD RJ;VITRINE
+8.01.57.02.10;Banheira Infantil Dobrável Ofurô Cinza - Buba;261.01;294.25;FATURAMENTO VD RJ;VITRINE
 8.30.92.24.10;Moby Organizador de Brinquedos de Banho Baleia  - Skip Hop;100.64;104.45;FATURAMENTO VD RJ;VITRINE
 8.30.92.26.69;Móbile de Atividades Bandana Buddies Unicórnio - Skip Hop;97.7;104.46;FATURAMENTO VD RJ;VITRINE
 8.30.92.27.69;Móbile de Atividades Bandana Buddies Macaco - Skip Hop;101.0;109.28;FATURAMENTO VD RJ;VITRINE
@@ -2920,7 +2923,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.04.23.10.07;Berço Portátil Stelle Blue Cozy - Infanti;336.62;449.5;FATURAMENTO VD RJ;VITRINE
 8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;46.25;64.5;FATURAMENTO VD RJ;VITRINE
 8.04.23.16.01;Berço Portátil Stelle Preto Noite - Infanti;322.31;449.5;FATURAMENTO VD RJ;VITRINE
-8.04.23.17.10;Berço Portátil Donatello co-bed Cinza Grafite - Infanti;486.39;649.49;FATURAMENTO VD RJ;VITRINE
+8.04.23.17.10;Berço Portátil Donatello co-bed Cinza Grafite - Infanti;465.72;649.49;FATURAMENTO VD RJ;VITRINE
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;305.37;403.64;FATURAMENTO VD RJ;VITRINE
 21.40.175.01.01;Banqueta Eiffel Preta;152.1;174.49;FATURAMENTO VD RJ;VITRINE
 24.10.159.267.00;Conjunto de Petisqueira 10,5cmx32cm - Lyor;22.41;25.73;FATURAMENTO VD RJ;VITRINE
@@ -3384,7 +3387,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;1086.55;1515.32;FATURAMENTO VD RJ;VITRINE
 8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;11.2;11.67;FATURAMENTO VD RJ;VITRINE
 8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;18.17;18.93;FATURAMENTO VD RJ;VITRINE
-8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;42.59;48.45;FATURAMENTO VD RJ;VITRINE
+8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;46.34;51.84;FATURAMENTO VD RJ;VITRINE
 8.07.01.26.01;Cadeirinha com Isofix Multifix 0 a 36kg Safety1st Black Urban;556.94;753.66;FATURAMENTO VD RJ;VITRINE
 8.07.01.27.27;Cadeirinha de Carro com Isofix Multifix 0 a 36kg Safety1st  Grey Urban;539.23;738.01;FATURAMENTO VD RJ;VITRINE
 8.12.01.04.06;Trava de Segurança Multifuncional White - Safety 1st;6.17;7.54;FATURAMENTO VD RJ;VITRINE
@@ -7138,7 +7141,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.09.28.86.07;Carrinho de Bebê Romano Azul - Galzerano;364.09;419.5;FATURAMENTO VD ES;VITRINE
 8.09.28.87.01;Carrinho de Bebê Romano Preto e Cobre - Galzerano;364.09;419.5;FATURAMENTO VD ES;VITRINE
 8.09.28.88.01;Carrinho com Bebê Conforto Travel System Romano Preto e Cobre - Galzerano;529.17;609.71;FATURAMENTO VD ES;VITRINE
-7.10.49.01.20;Panela de pressão elétrica multifuncional 4L - Mollie - 110V -  Inox + Livro de Receitas;145.37;167.12;FATURAMENTO VD ES;VITRINE
+7.10.49.01.20;Panela de pressão elétrica multifuncional 4L - Mollie - 110V -  Inox + Livro de Receitas;161.33;185.91;FATURAMENTO VD ES;VITRINE
 7.10.49.02.20;Panela de pressão elétrica multifuncional  4L - Mollie - 220V -  Inox + Livro de Receitas;150.43;172.69;FATURAMENTO VD ES;VITRINE
 24.11.175.43.00;Persiana Hanoy Rolo Bambu 140X160 Cedro;115.14;132.72;FATURAMENTO VD ES;VITRINE
 24.11.175.159.57;Persiana Soft Linho Rolo 120X160 Bege;82.24;94.8;FATURAMENTO VD ES;VITRINE
@@ -8045,7 +8048,8 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.57.181.18;Lavador Nasal Seringa Dino Rosa - Buba;6.92;6.92;FATURAMENTO VD RJ;BB TUDO
 8.25.57.182.11;Lavador Nasal Seringa Dino Verde - Buba;6.41;6.41;FATURAMENTO VD RJ;BB TUDO
 8.25.57.184.10;Rede De Proteção Para Banheira Cinza - Buba;23.67;23.67;FATURAMENTO VD RJ;BB TUDO
-8.25.57.204.07;Bandana Com Mordedor Espaço Azul - Buba;11.18;11.18;FATURAMENTO VD RJ;BB TUDO
+8.60.57.01.10;Ninho Para Bebê Redutor de Berço Cinza - Buba;80.22;80.22;FATURAMENTO VD RJ;BB TUDO
+8.25.57.204.07;Bandana Com Mordedor Espaço Azul - Buba;11.98;11.98;FATURAMENTO VD RJ;BB TUDO
 8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;61.1;61.1;FATURAMENTO VD RJ;BB TUDO
 8.25.105.06.11;Cesto Organizador Retangular Dino - 3 Sprouts;141.27;141.27;FATURAMENTO VD RJ;BB TUDO
 8.30.148.35.07;Boneca Angela Fada Happiness Maya Com Caixa - Metoo;92.82;92.82;FATURAMENTO VD RJ;BB TUDO
@@ -8214,7 +8218,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.53.100.00;Creme Corporal Baby Moments 500ml Pele Delicada - Chicco;15.95;15.95;FATURAMENTO VD RJ;BB TUDO
 8.07.32.41.00;Cadeirinha de Carro Primo Luxe Rouge até 25 kg Vermelho - Team Tex;301.25;301.25;FATURAMENTO VD RJ;BB TUDO
 8.07.32.44.00;Cadeirinha de Carro Kalle Mickey Mouse Typo Team Tex;207.48;207.48;FATURAMENTO VD RJ;BB TUDO
-8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;8.76;8.76;FATURAMENTO VD RJ;BB TUDO
+8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;9.68;9.68;FATURAMENTO VD RJ;BB TUDO
 8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;34.37;34.37;FATURAMENTO VD RJ;BB TUDO
 8.30.57.01.00;Risque e Apague Com Esponja Buba;10.51;10.51;FATURAMENTO VD RJ;BB TUDO
 8.30.57.03.00;Baby Ball Cute Colors Buba;11.31;11.31;FATURAMENTO VD RJ;BB TUDO
@@ -8252,7 +8256,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Azul - Buba;114.5;114.5;FATURAMENTO VD RJ;BB TUDO
 8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;118.44;118.44;FATURAMENTO VD RJ;BB TUDO
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;97.96;97.96;FATURAMENTO VD RJ;BB TUDO
-8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;9.93;9.93;FATURAMENTO VD RJ;BB TUDO
+8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;11.31;11.31;FATURAMENTO VD RJ;BB TUDO
 8.09.02.101.27;Carrinho de Bebê Anna³ Sparkling Grey - Maxi-Cosi;1372.68;1372.68;FATURAMENTO VD RJ;BB TUDO
 8.05.61.01.116;Cadeira de Descanso Sunset Até 11,5Kg Cinza e Branco - Mastela;197.46;197.46;FATURAMENTO VD RJ;BB TUDO
 8.05.61.03.89;Cadeira de Descanso Sunset Até 11,5Kg Azul e Cinza - Mastela;197.46;197.46;FATURAMENTO VD RJ;BB TUDO
@@ -8403,7 +8407,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.30.57.33.69;Treme-Treme De Atividades Zoo Dino - Buba;47.08;47.08;FATURAMENTO VD RJ;BB TUDO
 8.30.57.34.69;Treme-Treme De Atividades Zoo Elefante - Buba;47.08;47.08;FATURAMENTO VD RJ;BB TUDO
 8.30.57.36.69;Treme-Treme De Atividades Zoo Panda - Buba;47.08;47.08;FATURAMENTO VD RJ;BB TUDO
-8.25.57.137.69;Bandana Com Mordedor Arco-Íris e Abelha - Buba;11.18;11.18;FATURAMENTO VD RJ;BB TUDO
+8.25.57.137.69;Bandana Com Mordedor Arco-Íris e Abelha - Buba;11.98;11.98;FATURAMENTO VD RJ;BB TUDO
 8.25.57.138.69;Bandana Com Mordedor Dino - Buba;11.1;11.1;FATURAMENTO VD RJ;BB TUDO
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;5.73;5.73;FATURAMENTO VD RJ;BB TUDO
 8.24.57.73.07;Escova Para Mamadeira Em Silicone Azul - Buba;17.69;17.69;FATURAMENTO VD RJ;BB TUDO
@@ -8548,7 +8552,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;879.05;879.05;FATURAMENTO VD RJ;BB TUDO
 8.25.99.02.00;Acolchoado Dupla Face Para Recém-Nascido Mesh Verde e Cinza - 4 Moms;195.43;195.43;FATURAMENTO VD RJ;BB TUDO
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;55.58;55.58;FATURAMENTO VD RJ;BB TUDO
-8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;93.7;93.7;FATURAMENTO VD RJ;BB TUDO
+8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;92.41;92.41;FATURAMENTO VD RJ;BB TUDO
 8.25.57.125.10;Assento Redutor Com Escada Cinza - Buba;59.93;59.93;FATURAMENTO VD RJ;BB TUDO
 8.30.57.23.69;Atomic Ball - Buba;28.9;28.9;FATURAMENTO VD RJ;BB TUDO
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;49.14;49.14;FATURAMENTO VD RJ;BB TUDO
@@ -8683,7 +8687,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.13.57.06.69;Tapete Infantil Dobrável Dulpa Face Zoo 1,95 x 1,46 cm - Buba ;131.51;131.51;FATURAMENTO VD RJ;BB TUDO
 8.25.57.201.06;Troninho Infantil com Som Branco - Buba;105.09;105.09;FATURAMENTO VD RJ;BB TUDO
 8.25.57.202.07;Bandana Com Mordedor Animais Azul - Buba;9.97;9.97;FATURAMENTO VD RJ;BB TUDO
-8.25.57.203.18;Bandana Com Mordedor Animais Rosa - Buba;11.1;11.1;FATURAMENTO VD RJ;BB TUDO
+8.25.57.203.18;Bandana Com Mordedor Animais Rosa - Buba;11.98;11.98;FATURAMENTO VD RJ;BB TUDO
 8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo Colorido - Buba;50.45;50.45;FATURAMENTO VD RJ;BB TUDO
 8.03.57.03.69;Almofada de Atividades Panda - Buba ;48.77;48.77;FATURAMENTO VD RJ;BB TUDO
 8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;117.58;117.58;FATURAMENTO VD RJ;BB TUDO
@@ -8695,7 +8699,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.05.61.28.10;Cadeira de Descanso com Balanço e Moisés 360° 4 Em 1 Macaquinho - Mastela;416.52;416.52;FATURAMENTO VD RJ;BB TUDO
 8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;58.13;58.13;FATURAMENTO VD RJ;BB TUDO
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;58.28;58.28;FATURAMENTO VD RJ;BB TUDO
-8.01.57.02.10;Banheira Infantil Dobrável Ofurô Cinza - Buba;220.58;220.58;FATURAMENTO VD RJ;BB TUDO
+8.01.57.02.10;Banheira Infantil Dobrável Ofurô Cinza - Buba;250.11;250.11;FATURAMENTO VD RJ;BB TUDO
 8.30.92.24.10;Moby Organizador de Brinquedos de Banho Baleia  - Skip Hop;88.78;88.78;FATURAMENTO VD RJ;BB TUDO
 8.30.92.26.69;Móbile de Atividades Bandana Buddies Unicórnio - Skip Hop;88.79;88.79;FATURAMENTO VD RJ;BB TUDO
 8.30.92.27.69;Móbile de Atividades Bandana Buddies Macaco - Skip Hop;92.89;92.89;FATURAMENTO VD RJ;BB TUDO
@@ -9535,7 +9539,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.57.210.07;Cinta Térmica Infantil Herbal para Cólica Azul - Buba;23.88;23.88;FATURAMENTO VD RJ;BB TUDO
 8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;15.04;15.04;FATURAMENTO VD RJ;BB TUDO
 8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;1288.02;1288.02;FATURAMENTO VD RJ;BB TUDO
-8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;41.18;41.18;FATURAMENTO VD RJ;BB TUDO
+8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;44.07;44.07;FATURAMENTO VD RJ;BB TUDO
 8.07.01.26.01;Cadeirinha com Isofix Multifix 0 a 36kg Safety1st Black Urban;640.61;640.61;FATURAMENTO VD RJ;BB TUDO
 8.12.01.04.06;Trava de Segurança Multifuncional White - Safety 1st;6.41;6.41;FATURAMENTO VD RJ;BB TUDO
 8.12.01.05.01;Trava Flexível Safety 1st Para Puxador Black;5.48;5.48;FATURAMENTO VD RJ;BB TUDO
@@ -10280,7 +10284,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.24.57.64.07;Pote Térmico com Colher Azul - Buba;26.42;26.42;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.30.57.39.69;Dedoches Divertidos Safari - Buba;9.93;9.93;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.25.57.181.18;Lavador Nasal Seringa Dino Rosa - Buba;4.07;4.07;FATURAMENTO BB TOTAL ES;BB TOTAL
-8.25.57.204.07;Bandana Com Mordedor Espaço Azul - Buba;6.58;6.58;FATURAMENTO BB TOTAL ES;BB TOTAL
+8.25.57.204.07;Bandana Com Mordedor Espaço Azul - Buba;7.05;7.05;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;35.94;35.94;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.60.131.04.06;Colchão para o Berço Sonhos Up - Cia do Móvel;94.5;94.5;FATURAMENTO BB TOTAL ES;BB TOTAL
 21.62.131.38.57;Comoda BO com Porta - Areia/Jequitiba;892.14;892.14;FATURAMENTO BB TOTAL ES;BB TOTAL
@@ -10338,7 +10342,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;5.14;5.14;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.24.53.67.11;Copo de Transição 200ml 4m+ Verde - Chicco;8.68;8.68;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.07.32.41.00;Cadeirinha de Carro Primo Luxe Rouge até 25 kg Vermelho - Team Tex;177.2;177.2;FATURAMENTO BB TOTAL ES;BB TOTAL
-8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;5.16;5.16;FATURAMENTO BB TOTAL ES;BB TOTAL
+8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;5.7;5.7;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.30.57.01.00;Risque e Apague Com Esponja Buba;6.18;6.18;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.05.33.03.18;Andador e Triciclo 5-in-1 Here I Grow Pink - Tiny Love;119.8;119.8;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;134.3;134.3;FATURAMENTO BB TOTAL ES;BB TOTAL
@@ -10419,7 +10423,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;14.6;14.6;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.25.57.135.06;Travesseiro Anatômico Viscoelástico Baby Branco - Buba;14.6;14.6;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.25.57.136.06;Travesseiro Viscoelástico Branco - Buba;17.54;17.54;FATURAMENTO BB TOTAL ES;BB TOTAL
-8.25.57.137.69;Bandana Com Mordedor Arco-Íris e Abelha - Buba;6.58;6.58;FATURAMENTO BB TOTAL ES;BB TOTAL
+8.25.57.137.69;Bandana Com Mordedor Arco-Íris e Abelha - Buba;7.05;7.05;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.25.57.138.69;Bandana Com Mordedor Dino - Buba;6.53;6.53;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;3.37;3.37;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.24.57.75.18;Escova Para Mamadeira Em Silicone Rosa - Buba;10.4;10.4;FATURAMENTO BB TOTAL ES;BB TOTAL
@@ -10471,7 +10475,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.02.68.01.01;Base com Isofix para Bebê Conforto - Litet;129.3;129.3;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.61.130.03.10;Lençol de Elástico Avulso Mini Berço 40cm x 85cm x 10cm Cinza - Arrumadinho;8.68;8.68;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;32.7;32.7;FATURAMENTO BB TOTAL ES;BB TOTAL
-8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;55.12;55.12;FATURAMENTO BB TOTAL ES;BB TOTAL
+8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;54.36;54.36;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.30.57.27.69;Livrinho De Atividades Jungle - Buba;17.48;17.48;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.04.02.10.11;Moisés Para Carrinho Oria Essential Green - Maxi-Cosi;322.85;322.85;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.04.76.06.11;Moisés Ramble XL Signature Pine - Joie;414.23;414.23;FATURAMENTO BB TOTAL ES;BB TOTAL
@@ -11109,7 +11113,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.09.02.81.01;Carrinho de Bebê Eva Essential Black - Maxi-Cosi;772.5;1064.51;FULFILLMENT MELI;VITRINE
 8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite - Maxi-Cosi;797.88;1099.5;FULFILLMENT MELI;VITRINE
 8.03.03.15.10;Bebê Conforto Beta Cinza Mescla - Voyage;170.69;238.04;FULFILLMENT MELI;VITRINE
-8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;1596.75;2110.59;FULFILLMENT MELI;VITRINE
+8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;1596.75;2110.58;FULFILLMENT MELI;VITRINE
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;125.13;174.5;FULFILLMENT MELI;VITRINE
 8.06.23.12.07;Cadeira de Alimentação Portátil e Ultracompacta Toast Grey Lush - Infanti;125.13;174.5;FULFILLMENT MELI;VITRINE
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;1086.55;1515.32;FULFILLMENT MELI;VITRINE
@@ -11252,7 +11256,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.09.02.80.27;Carrinho de Bebê Eva Essential Black Champagne - Maxi-Cosi;772.49;1064.51;FULFILLMENT AMAZON;VITRINE
 8.09.02.81.01;Carrinho de Bebê Eva Essential Black - Maxi-Cosi;772.5;1064.51;FULFILLMENT AMAZON;VITRINE
 8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite - Maxi-Cosi;797.88;1099.5;FULFILLMENT AMAZON;VITRINE
-8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;1596.75;2110.59;FULFILLMENT AMAZON;VITRINE
+8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;1596.75;2110.58;FULFILLMENT AMAZON;VITRINE
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;1086.55;1515.32;FULFILLMENT AMAZON;VITRINE
 8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;303.9;418.78;FULFILLMENT AMAZON;VITRINE
 8.09.04.110.01;Carrinho de Bebê Toffy Preto Absoluto - Cosco;303.9;418.78;FULFILLMENT AMAZON;VITRINE
