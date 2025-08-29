@@ -978,7 +978,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 21.14.46.61.76;Cadeira Diretor Giratória Eames Marrom;341.48;392.66;FATURAMENTO VD RJ;VITRINE
 21.14.46.62.01;Cadeira Diretor Giratória Eames Preta;354.25;404.74;FATURAMENTO VD RJ;VITRINE
 21.14.46.66.10;Cadeira Diretor Giratória Eames Cinza;335.27;383.06;FATURAMENTO VD RJ;VITRINE
-21.14.46.67.00;Cadeira Diretor Giratória Tela Eames Cobre;341.15;383.06;FATURAMENTO VD RJ;VITRINE
+21.14.46.67.00;Cadeira Diretor Giratória Tela Eames Cobre;335.27;383.06;FATURAMENTO VD RJ;VITRINE
 21.14.46.69.01;Cadeira Diretor Mesh Preta;294.08;335.88;FATURAMENTO VD RJ;VITRINE
 21.14.46.97.06;Cadeira Eames Branca;63.26;72.28;FATURAMENTO VD RJ;VITRINE
 21.14.46.119.10;Cadeira Eames Eiffel Cinza;91.58;103.16;FATURAMENTO VD RJ;VITRINE
@@ -1084,7 +1084,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 21.14.46.1091.00;Cadeira Eames Em PP Salmão Base Madeira;58.54;67.11;FATURAMENTO VD RJ;VITRINE
 21.14.46.1096.08;Cadeira Eames Em PP Vermelha Base Madeira;58.55;67.12;FATURAMENTO VD RJ;VITRINE
 21.14.46.1201.06;Cadeira Folha Abs Branca Base Cromada;129.23;147.65;FATURAMENTO VD RJ;VITRINE
-21.14.46.1202.01;Cadeira Folha Abs Preta Base Cromada;131.5;147.65;FATURAMENTO VD RJ;VITRINE
+21.14.46.1202.01;Cadeira Folha Abs Preta Base Cromada;129.23;147.65;FATURAMENTO VD RJ;VITRINE
 21.14.46.1236.12;Cadeira Kaila em Polipropileno Creme Base Madeira;75.91;86.73;FATURAMENTO VD RJ;VITRINE
 21.14.46.1256.16;Cadeira Colméia Amarela Base Madeira;62.46;71.6;FATURAMENTO VD RJ;VITRINE
 21.14.46.1326.06;Cadeira Jacobsen Em PP Branca Base Metal;125.89;143.83;FATURAMENTO VD RJ;VITRINE
@@ -3687,7 +3687,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.11.159.80.01;Bandeja de Metal com Espelho Preta 20cm x 30cm x 4cm - Lyor;31.24;35.54;FATURAMENTO VD ES;VITRINE
 24.11.159.81.04;Bandeja de Metal com Espelho Dourada 15cm x 25cm x 4cm;24.54;27.69;FATURAMENTO VD ES;VITRINE
 24.11.159.82.04;Bandeja de Metal com Espelho Dourada 20cm x 30cm x 4cm;31.45;35.18;FATURAMENTO VD ES;VITRINE
-24.11.159.84.04;Porta Retrato de Metal Dourado 10cm x 15cm - Lyor;19.45;21.96;FATURAMENTO VD ES;VITRINE
+24.11.159.84.04;Porta Retrato de Metal Dourado 10cm x 15cm - Lyor;19.34;21.96;FATURAMENTO VD ES;VITRINE
 24.11.159.85.01;Porta Retrato de Metal Preto 10cm x 15cm - Lyor;17.91;20.06;FATURAMENTO VD ES;VITRINE
 24.11.159.86.00;Porta Retrato de Mdf 10cm x 15cm - Lyor;6.14;6.99;FATURAMENTO VD ES;VITRINE
 24.11.159.88.00;Bandeja Retangular de Mdf 41,5cm x 21,5cm x 4cm;21.89;25.13;FATURAMENTO VD ES;VITRINE
@@ -3839,7 +3839,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.56.159.100.00;Taça de Cerveja de Cristal Ecológico Sommelier 400ml - Lyor;9.48;10.73;FATURAMENTO VD ES;VITRINE
 24.52.159.08.00;Caneca de Chopp e Cerveja de Vidro Caveira Rock Style 510ml;7.28;8.28;FATURAMENTO VD ES;VITRINE
 24.55.159.13.60;Jogo 2 Molheiras de Vidro com 2 Colheres de Bambu 7cm;8.21;9.34;FATURAMENTO VD ES;VITRINE
-24.10.159.84.00;Meleira de Vidro com Tampa de Plástico Cromada 280ml - Lyor;5.86;6.56;FATURAMENTO VD ES;VITRINE
+24.10.159.84.00;Meleira de Vidro com Tampa de Plástico Cromada 280ml - Lyor;5.76;6.56;FATURAMENTO VD ES;VITRINE
 24.10.159.85.01;Aparelho de Fondue 8 Pçs com Pintura Epoxy e Cerâmica Preto;79.23;90.12;FATURAMENTO VD ES;VITRINE
 24.11.159.51.00;Potiche de Cristal Carrossel 10,5cm - Lyor;6.1;6.91;FATURAMENTO VD ES;VITRINE
 24.10.159.50.00;Molheira de Cristal Dublin 140ml - Lyor;5.2;5.92;FATURAMENTO VD ES;VITRINE
@@ -3864,7 +3864,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.10.159.72.11;Sousplat Patinado de Plástico Moon Verde 33cm - Lyor;7.4;8.42;FATURAMENTO VD ES;VITRINE
 24.52.159.46.00;Xícara de Cristal Lile 200ml - Lyor;3.07;3.49;FATURAMENTO VD ES;VITRINE
 24.10.159.60.00;Sousplat de Plástico Balls 32cm - Lyor;7.58;8.63;FATURAMENTO VD ES;VITRINE
-24.11.159.49.00;Potiche Cristal com Pé Diamond Âmbar Metalizado 15cm Lyor;36.81;41.04;FATURAMENTO VD ES;VITRINE
+24.11.159.49.00;Potiche Cristal com Pé Diamond Âmbar Metalizado 15cm Lyor;36.22;41.04;FATURAMENTO VD ES;VITRINE
 24.56.159.55.00;Jarra de Cristal Deli Diamante 340ml - Lyor;5.83;6.63;FATURAMENTO VD ES;VITRINE
 24.10.159.61.00;Jarra de Vidro Colméia 340ml - Lyor;5.83;6.63;FATURAMENTO VD ES;VITRINE
 24.10.159.171.00;Bowl de Cristal Clover 9cm - Lyor;3.51;3.99;FATURAMENTO VD ES;VITRINE
@@ -4211,14 +4211,14 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.11.159.28.00;Cachepot de Cristal Diamante 7,2cm - Lyor;3.64;4.12;FATURAMENTO VD ES;VITRINE
 24.51.159.01.00;Tapete de PVC com Antiderrapante para Banheiro 49cm - Lyor;7.65;7.94;FATURAMENTO VD ES;VITRINE
 24.51.159.02.10;Tapete de PVC com Antiderrapante para Banheiro Cinza 49cm;5.88;6.1;FATURAMENTO VD ES;VITRINE
-24.52.159.49.00;Xícara de Chá de Cristal com Pires Coração 170ml - Lyor;9.3;10.49;FATURAMENTO VD ES;VITRINE
+24.52.159.49.00;Xícara de Chá de Cristal com Pires Coração 170ml - Lyor;9.22;10.49;FATURAMENTO VD ES;VITRINE
 24.10.159.195.00;Bowl Quadrado de Cristal Coração 8,5cm - Lyor;5.02;5.71;FATURAMENTO VD ES;VITRINE
 24.56.159.115.00;Travessa Oval de Cristal Coração 25cm - Lyor;11.17;12.7;FATURAMENTO VD ES;VITRINE
 24.10.159.228.00;Queijeira de Cristal com Tampa Coração 19,5cm - Lyor;24.08;27.4;FATURAMENTO VD ES;VITRINE
 24.56.159.104.00;Taça para Água de Cristal Coração 330ml - Lyor;5.91;6.69;FATURAMENTO VD ES;VITRINE
 24.10.159.14.00;Garrafa para Azeite de Vidro com Tampa de Rolha 230ml  Lyor;6.34;7.21;FATURAMENTO VD ES;VITRINE
 24.10.159.166.00;Bowl de Cristal Coração 13,5cm;6.09;6.92;FATURAMENTO VD ES;VITRINE
-24.10.159.15.00;Molheira de Cristal Coração 15,5cm;6.18;7.0;FATURAMENTO VD ES;VITRINE
+24.10.159.15.00;Molheira de Cristal Coração 15,5cm;6.15;7.0;FATURAMENTO VD ES;VITRINE
 24.55.159.04.20;Garfo para Assado de Aço Inox Positano 25 cm - Lyor;4.57;5.21;FATURAMENTO VD ES;VITRINE
 24.55.159.50.00;Espátula de Aço Inox para Bolo Positano 26cm - Lyor;4.45;5.07;FATURAMENTO VD ES;VITRINE
 24.10.159.113.00;Concha de Aço Inox Positano 33,5cm - Lyor;7.28;8.28;FATURAMENTO VD ES;VITRINE
@@ -4614,7 +4614,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 21.14.50.721.00;Conjunto Com 2 Cadeiras Eames Office Com Braço Office Preta  Base Em Aço Cromado;177.86;209.51;FATURAMENTO VD ES;VITRINE
 21.14.50.722.00;Cadeira Eames Office Com Braço Rosa  Base Em Aço Cromado;195.31;226.12;FATURAMENTO VD ES;VITRINE
 21.14.50.724.00;Cadeira com Braços Eames Amarela  com Office Cromada;93.43;111.26;FATURAMENTO VD ES;VITRINE
-21.14.50.726.00;Cadeira com Braços Eames Branca  com Office Cromada;159.5;183.9;FATURAMENTO VD ES;VITRINE
+21.14.50.726.00;Cadeira com Braços Eames Branca  com Office Cromada;191.95;226.12;FATURAMENTO VD ES;VITRINE
 21.14.50.727.00;Conjunto Com 2 Cadeiras Eames Office Com Braço Office Branco  Base Em Aço Cromado;172.23;203.59;FATURAMENTO VD ES;VITRINE
 21.14.50.730.00;Cadeira com Braços Eames Creme  com Base Office Preta;88.93;104.76;FATURAMENTO VD ES;VITRINE
 21.14.50.732.00;Cadeira com Braços Eames Preta  com Base Office Preta;88.93;104.76;FATURAMENTO VD ES;VITRINE
@@ -5059,7 +5059,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.56.66.531.00;Travessa Oval de Cristal Pearl 24cm x 12cm x 2cm - Wolff;7.84;8.92;FATURAMENTO VD ES;VITRINE
 24.50.66.431.00;Vaso de Vidro com Borda Dourada Taj 13cm x 28,5cm - Wolff;46.36;52.52;FATURAMENTO VD ES;VITRINE
 24.50.66.693.00;Castiçal Para Vela De Vidro Creta 8cm x 8cm x 16Cm;17.03;19.45;FATURAMENTO VD ES;VITRINE
-24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;15.37;17.34;FATURAMENTO VD ES;VITRINE
+24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;15.24;17.34;FATURAMENTO VD ES;VITRINE
 24.50.66.734.00;Vaso De Cristal Maya Âmbar 13,5cm x 10cm x 22,5Cm;31.03;35.15;FATURAMENTO VD ES;VITRINE
 24.54.66.397.04;Conjunto 6 Copos Altos Vidro Fio Ouro Mandala 380ml Wolff;43.03;48.75;FATURAMENTO VD ES;VITRINE
 21.14.46.158.00;Cadeira Eames Transparente Policarbonato;77.66;87.56;FATURAMENTO VD ES;VITRINE
@@ -5938,7 +5938,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.30.94.14.08;Kit de Presente Fresh Touch Sophie La Girafa Vermelho - Vulli;219.24;219.24;FATURAMENTO VD ES;VITRINE
 24.54.66.312.00;Abridor de Champanhe em Liga de Zinco Antiderrapante 11,5cm;11.44;13.04;FATURAMENTO VD ES;VITRINE
 24.54.66.339.00;Balde de Gelo em Vidro com Alça e Pegador Romano 15cm x 13cm x 14cm - Wolff;21.01;23.91;FATURAMENTO VD ES;VITRINE
-24.52.66.398.00;Manteigueira Francesa De Vidro 10,5cm x 10,5cm x 11Cm;9.31;10.42;FATURAMENTO VD ES;VITRINE
+24.52.66.398.00;Manteigueira Francesa De Vidro 10,5cm x 10,5cm x 11Cm;9.16;10.42;FATURAMENTO VD ES;VITRINE
 24.53.66.163.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 1L;13.68;15.56;FATURAMENTO VD ES;VITRINE
 24.53.66.165.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 800Ml;12.55;14.27;FATURAMENTO VD ES;VITRINE
 24.57.66.680.00;Queijeira De Cristal Com Tampa Imperatriz 20cm x 20cm x 13,5Cm;24.34;27.69;FATURAMENTO VD ES;VITRINE
@@ -6268,8 +6268,8 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.54.66.112.00;Garrafa Wolff de Cristal 850ml;51.13;58.15;FATURAMENTO VD ES;VITRINE
 24.54.66.110.00;Garrafa Wolff de Cristal 700ml;54.69;62.22;FATURAMENTO VD ES;VITRINE
 24.54.66.111.00;Garrafa Wolff de Cristal 750ml;55.63;63.29;FATURAMENTO VD ES;VITRINE
-24.57.66.396.00;Petisqueira Wolff Pearl de Cristal Incolor;14.99;16.77;FATURAMENTO VD ES;VITRINE
-24.56.66.33.00;Travessa Wolff Pearl de Cristal 30cm x 13cm x 3cm;13.27;14.84;FATURAMENTO VD ES;VITRINE
+24.57.66.396.00;Petisqueira Wolff Pearl de Cristal Incolor;14.74;16.77;FATURAMENTO VD ES;VITRINE
+24.56.66.33.00;Travessa Wolff Pearl de Cristal 30cm x 13cm x 3cm;13.05;14.84;FATURAMENTO VD ES;VITRINE
 24.56.66.132.00;Jogo de 3 Bowls Wolff Pearl de Cristal 14cm x 4,5cm;12.67;14.42;FATURAMENTO VD ES;VITRINE
 24.56.66.34.00;Jogo de 4 Bowls Wolff Pearl de Cristal Incolor;12.42;14.13;FATURAMENTO VD ES;VITRINE
 24.56.66.35.00;Jogo de 4 Bowls Wolff Pearl de Cristal Incolor 14cm x 8cm;28.43;32.35;FATURAMENTO VD ES;VITRINE
@@ -6893,7 +6893,7 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 24.11.159.39.00;Cesta Oval de plástico com Forro em Tecido 24cm;10.79;12.27;FATURAMENTO VD ES;VITRINE
 24.11.159.36.00;Cesta Oval de Plástico com Forro em Tecido 27cm;13.36;15.2;FATURAMENTO VD ES;VITRINE
 24.11.159.35.00;Cesta Redonda de Plástico com Forro em Tecido 21cm;10.66;12.13;FATURAMENTO VD ES;VITRINE
-24.52.159.53.00;Chaleira de Vidro Borossilicato 750ml;19.96;22.33;FATURAMENTO VD ES;VITRINE
+24.52.159.53.00;Chaleira de Vidro Borossilicato 750ml;19.63;22.33;FATURAMENTO VD ES;VITRINE
 24.52.159.54.01;Garrafa Térmica de Plástico com Termômetro Tap Preta 1L;40.97;45.67;FATURAMENTO VD ES;VITRINE
 24.52.159.56.06;Caneca Mixer de Aço Inox com Tampa Branca 440ml;21.25;24.18;FATURAMENTO VD ES;VITRINE
 24.52.159.57.06;Garrafa Térmica de Plástico com Termômetro Tap Branca 1L;40.24;45.59;FATURAMENTO VD ES;VITRINE
