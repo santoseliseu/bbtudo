@@ -1,13 +1,24 @@
 SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operação
+8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;1784.46;2011.7;FATURAMENTO VD RJ;VITRINE
+8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;45.79;54.25;FATURAMENTO VD RJ;VITRINE
 8.09.76.78.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Shale Preto - Joie INATIVO;2257.01;2524.8;FATURAMENTO VD RJ;VITRINE
-8.30.57.78.12;Quadriciclo Infantil em Madeira Cloudy - Buba;191.74;214.48;FATURAMENTO VD RJ;VITRINE
-8.30.57.76.00;Casinha de Encaixar Cloudy - Buba;58.85;65.83;FATURAMENTO VD RJ;VITRINE
-24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;97.2;105.73;FATURAMENTO VD RJ;VITRINE
+8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;475.65;536.22;FATURAMENTO VD RJ;VITRINE
 24.11.175.90.06;Persiana Zebra Rolo Dupla 160X160 Branca;124.51;140.85;FATURAMENTO VD RJ;VITRINE
-24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;124.52;140.85;FATURAMENTO VD RJ;VITRINE
+24.11.175.162.06;Persiana Toucher Rolo Translúcida 120X140 Branca;62.58;70.79;FATURAMENTO VD RJ;VITRINE
+8.67.103.02.07;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby;519.59;591.08;FATURAMENTO VD RJ;VITRINE
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;65.65;77.11;FATURAMENTO VD RJ;VITRINE
+6.28.60.05.115;Bicicleta com Rodinhas Aro 14 First Pro 4 anos até 25kg Preto e Laranja - Nathor;376.6;427.95;FATURAMENTO VD RJ;VITRINE
+8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;54.22;61.67;FATURAMENTO VD RJ;VITRINE
+8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;54.21;61.67;FATURAMENTO VD RJ;VITRINE
+8.24.92.67.00;Garrafa de Aço Inox 350ml Spark Style Espaço - Skip Hop;105.58;121.3;FATURAMENTO VD RJ;VITRINE
 24.11.175.92.57;Persiana Zebra Rolo Dupla 160X160 Bege Linho;124.51;140.85;FATURAMENTO VD RJ;VITRINE
 24.11.175.154.57;Persiana Soft Linho Rolo 100X220 Bege;97.04;109.77;FATURAMENTO VD RJ;VITRINE
-24.11.175.162.06;Persiana Toucher Rolo Translúcida 120X140 Branca;62.58;70.79;FATURAMENTO VD RJ;VITRINE
+24.11.175.24.57;Persiana Premier Pvc 25Mm 100X160 Caramelo;90.89;99.81;FATURAMENTO VD RJ;VITRINE
+24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;97.2;105.73;FATURAMENTO VD RJ;VITRINE
+24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;124.52;140.85;FATURAMENTO VD RJ;VITRINE
+21.14.50.482.00;Cadeira Web Wood Preta;78.02;92.83;FATURAMENTO VD RJ;VITRINE
+8.30.57.78.12;Quadriciclo Infantil em Madeira Cloudy - Buba;191.74;214.48;FATURAMENTO VD RJ;VITRINE
+8.30.57.76.00;Casinha de Encaixar Cloudy - Buba;58.85;65.83;FATURAMENTO VD RJ;VITRINE
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;119.71;140.03;FATURAMENTO VD RJ;VITRINE
 6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;142.77;170.88;FATURAMENTO VD RJ;VITRINE
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;12.81;14.57;FATURAMENTO VD RJ;VITRINE
@@ -1293,7 +1304,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 21.14.50.470.00;Cadeira Saarinen Wood Marrom;80.93;91.97;FATURAMENTO VD RJ;VITRINE
 21.14.50.480.00;Conjunto 2 Cadeiras Web Wood  Creme;156.64;186.44;FATURAMENTO VD RJ;VITRINE
 21.14.50.481.00;Conjunto 4 cadeiras Web  Wood Creme;313.28;372.88;FATURAMENTO VD RJ;VITRINE
-21.14.50.482.00;Cadeira Web Wood Preta;78.02;92.83;FATURAMENTO VD RJ;VITRINE
 21.14.50.566.00;Cadeira Eames Tower Preta  Base Cobre;57.63;65.49;FATURAMENTO VD RJ;VITRINE
 21.14.50.662.00;Cadeira Saarinen PP  Office Cromada Amarela;100.1;113.75;FATURAMENTO VD RJ;VITRINE
 21.14.50.746.00;Cadeira Eames PP Azul Bic  Office Cromada;96.81;110.01;FATURAMENTO VD RJ;VITRINE
@@ -1643,7 +1653,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.14.110.04.11;Poster Minha Chegada Aquarela Verde - Coloré;7.19;9.0;FATURAMENTO VD RJ;VITRINE
 8.14.110.05.18;Poster Minha Chegada Aquarela Rosa - Coloré;7.19;9.0;FATURAMENTO VD RJ;VITRINE
 8.24.111.02.00;Copo Thermalock com Canudo Kids 335ml Tubarão - Contigo;43.52;49.95;FATURAMENTO VD RJ;VITRINE
-8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;1784.46;2011.7;FATURAMENTO VD RJ;VITRINE
 8.12.47.06.10;Rede Protetora de Banho Cinza - KaBaby;50.7;58.2;FATURAMENTO VD RJ;VITRINE
 8.25.86.09.18;Escova de Dente Infantil Baby's Brush 6+ meses Rosa - MAM;12.2;14.0;FATURAMENTO VD RJ;VITRINE
 8.24.72.57.18;Jogo de Colher e Garfo Cabo em Silicone Porquinho Rosa - MarcusMarcus;36.48;39.24;FATURAMENTO VD RJ;VITRINE
@@ -1697,7 +1706,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.08.98.08.07;Canguru Básico Avançado 5 Em 1 Navy Blue 15Kg - Ibimboo;114.78;119.56;FATURAMENTO VD RJ;VITRINE
 8.08.98.09.10;Canguru Básico Avançado 5 Em 1 Dark Grey 15Kg - Ibimboo;114.78;119.56;FATURAMENTO VD RJ;VITRINE
 8.08.98.10.18;Canguru 5 Em 1 Ergonômico Marsala (Antigo Rosa Escuro) 15Kg - Ibimboo;147.36;153.5;FATURAMENTO VD RJ;VITRINE
-8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;475.65;536.22;FATURAMENTO VD RJ;VITRINE
 8.24.86.07.11;Bomba Tira-Leite Manual - Mam;117.6;132.49;FATURAMENTO VD RJ;VITRINE
 8.01.74.12.07;Banheira de Bebê Slim Plus Azul - Kiddo;236.64;296.31;FATURAMENTO VD RJ;VITRINE
 8.61.130.15.07;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Azul - Arrumadinho;5.45;6.08;FATURAMENTO VD RJ;VITRINE
@@ -1829,7 +1837,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.04.76.07.01;Moisés Ramble XL Signature Eclipse - Joie;777.04;883.95;FATURAMENTO VD RJ;VITRINE
 8.24.92.65.11;Garrafa com Canudo Flip Zoo 384 ml Cachorro Pug - Skip Hop;35.58;37.96;FATURAMENTO VD RJ;VITRINE
 8.24.92.66.00;Garrafa de Aço Inox 350ml Spark Style Arco-Íris - Skip Hop;106.13;121.87;FATURAMENTO VD RJ;VITRINE
-8.24.92.67.00;Garrafa de Aço Inox 350ml Spark Style Espaço - Skip Hop;105.58;121.3;FATURAMENTO VD RJ;VITRINE
 8.24.92.68.00;Garrafa de Aço Inox 350ml Spark Style Morango - Skip Hop;105.58;121.3;FATURAMENTO VD RJ;VITRINE
 8.24.92.70.00;Mala de Rodinha Infantil Zoo Unicórnio Skip Hop;263.43;294.69;FATURAMENTO VD RJ;VITRINE
 8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;179.52;194.32;FATURAMENTO VD RJ;VITRINE
@@ -2102,7 +2109,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;324.35;382.09;FATURAMENTO VD RJ;VITRINE
 8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;324.36;382.1;FATURAMENTO VD RJ;VITRINE
 8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;105.52;125.03;FATURAMENTO VD RJ;VITRINE
-8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;54.21;61.67;FATURAMENTO VD RJ;VITRINE
 8.24.149.51.18;Kit de Alimentação Silicone BLW Set1 Velvet Rose - Minikoioi;105.86;120.42;FATURAMENTO VD RJ;VITRINE
 8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;46.61;52.07;FATURAMENTO VD RJ;VITRINE
 8.25.57.205.07;Kit Lixas de Unha Elétrico - Buba;22.71;25.89;FATURAMENTO VD RJ;VITRINE
@@ -2357,7 +2363,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.24.149.75.18;Tigela Urso de Silicone Bowly 450ml Pinky Pink - Minikoioi;65.11;74.06;FATURAMENTO VD RJ;VITRINE
 8.24.149.76.10;Tigela Urso de Silicone Bowly 450ml Powder Grey - Minikoioi;65.11;74.06;FATURAMENTO VD RJ;VITRINE
 8.24.149.77.11;Tigela Urso de Silicone Bowly 450ml River Green - Minikoioi;65.11;74.07;FATURAMENTO VD RJ;VITRINE
-8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;54.22;61.67;FATURAMENTO VD RJ;VITRINE
 8.25.75.108.06;Capa Protetora Para Bebê Conforto Algodão Clássico Lese Branco - D´Bella for Baby;125.0;125.0;FATURAMENTO VD RJ;VITRINE
 8.25.75.109.06;Capa Protetora Para Carrinho Slim Algodão Clássico Lese Branco - D´Bella for Baby;103.0;103.0;FATURAMENTO VD RJ;VITRINE
 8.25.75.111.07;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Clássico Aviões - D´Bella for Baby;97.0;97.0;FATURAMENTO VD RJ;VITRINE
@@ -2525,7 +2530,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.25.70.46.00;Prendedor de Chupeta Easy Listras Zig Zag - Clingo;6.79;7.07;FATURAMENTO VD RJ;VITRINE
 8.30.121.02.00;Mordedor Grasp & Teethe Teether Colorido - Oball;27.91;34.95;FATURAMENTO VD RJ;VITRINE
 8.11.160.05.02;Bolsa de Passeio Ovelhinha - MaiT;128.94;161.45;FATURAMENTO VD RJ;VITRINE
-6.28.60.05.115;Bicicleta com Rodinhas Aro 14 First Pro 4 anos até 25kg Preto e Laranja - Nathor;376.6;427.95;FATURAMENTO VD RJ;VITRINE
 6.28.60.07.110;Bicicleta Infantil  Black Aro 12'' até 21kg Verde e Preto - Nathor;120.42;136.84;FATURAMENTO VD RJ;VITRINE
 6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;126.08;143.27;FATURAMENTO VD RJ;VITRINE
 6.28.60.14.72;Bicicleta Infantil Charm Aro 12'' até 21 kg Azul e Rosa - Nathor;121.2;137.73;FATURAMENTO VD RJ;VITRINE
@@ -2698,7 +2702,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 21.14.50.464.00;Cadeira Saarinen Wood Branca;57.53;63.02;FATURAMENTO VD RJ;VITRINE
 8.09.39.18.01;Carrinho de Bebê Para Gêmeos Twingo Black - Burigotto;724.39;824.05;FATURAMENTO VD RJ;VITRINE
 24.11.175.08.57;Persiana Premier Pvc 25Mm 120X160 Bege;111.88;114.98;FATURAMENTO VD RJ;VITRINE
-8.67.103.02.07;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby;519.59;591.08;FATURAMENTO VD RJ;VITRINE
 8.25.69.32.00;Perfume De Ambientes Baby Home 250ml - BioClub;23.45;26.88;FATURAMENTO VD RJ;VITRINE
 8.25.69.33.00;Refil Brinquedos Limpinhos Natural 500ml - BioClub;17.91;20.35;FATURAMENTO VD RJ;VITRINE
 8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;231.54;309.18;FATURAMENTO VD RJ;VITRINE
@@ -2973,7 +2976,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 
 
 ";52.78;57.42;FATURAMENTO VD RJ;VITRINE
-24.11.175.24.57;Persiana Premier Pvc 25Mm 100X160 Caramelo;90.89;99.81;FATURAMENTO VD RJ;VITRINE
 24.11.175.48.57;Persiana Bauhaus Rolo Bambu 140X160  Fresno;107.82;121.97;FATURAMENTO VD RJ;VITRINE
 24.11.175.161.57;Persiana Toucher Rolo Translúcida 120X140 Bege;62.58;70.79;FATURAMENTO VD RJ;VITRINE
 24.57.66.04.00;Porta Guardanapos Wolff de Sisal 12cm x 6cm x 8cm;8.02;9.04;FATURAMENTO VD RJ;VITRINE
@@ -3063,8 +3065,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.04.28.01.18;Berço Co-Leito Bari Preto Grafite e Rosa - Galzerano;207.88;216.54;FATURAMENTO VD RJ;VITRINE
 8.04.28.03.10;Berço Co-Leito Bari Preto e Cinza - Galzerano;194.62;208.68;FATURAMENTO VD RJ;VITRINE
 8.04.28.08.00;Cercado Real - Galzerano;259.52;297.89;FATURAMENTO VD RJ;VITRINE
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;65.65;77.11;FATURAMENTO VD RJ;VITRINE
-8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;45.79;54.25;FATURAMENTO VD RJ;VITRINE
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;116.88;137.07;FATURAMENTO VD RJ;VITRINE
 8.03.28.11.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;187.12;308.86;FATURAMENTO VD RJ;VITRINE
 8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;97.28;114.6;FATURAMENTO VD RJ;VITRINE
@@ -3626,19 +3626,38 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.11.175.31.01;Persiana Off 25 Pvc 25Mm 120X130 Preta;83.65;91.87;FATURAMENTO VD RJ;VITRINE
 24.11.175.37.06;Persiana Off 25 Pvc 25Mm 160X130 Branca;111.07;120.82;FATURAMENTO VD RJ;VITRINE
 24.11.175.45.00;Persiana Hanoy Rolo Bambu 100X220 Cedro;105.81;121.97;FATURAMENTO VD RJ;VITRINE
-24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;84.48;94.12;FATURAMENTO VD ES;VITRINE
-24.11.175.42.00;Persiana Hanoy Rolo Bambu 120X160 Cedro;98.69;113.76;FATURAMENTO VD ES;VITRINE
-24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;90.63;104.47;FATURAMENTO VD ES;VITRINE
+8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;45.79;54.25;FATURAMENTO VD ES;VITRINE
+8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;496.17;569.52;FATURAMENTO VD ES;VITRINE
 24.11.175.90.06;Persiana Zebra Rolo Dupla 160X160 Branca;120.91;139.38;FATURAMENTO VD ES;VITRINE
-24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;120.91;139.38;FATURAMENTO VD ES;VITRINE
+24.11.175.162.06;Persiana Toucher Rolo Translúcida 120X140 Branca;60.77;70.05;FATURAMENTO VD ES;VITRINE
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;65.65;77.11;FATURAMENTO VD ES;VITRINE
+8.24.149.32.18;Conjunto Copo com Canudo + Tampa Snack Pink e Grey - Minikoioi;55.12;61.66;FATURAMENTO VD ES;VITRINE
+8.24.149.33.11;Conjunto Copo com Canudo + Tampa Snack Green e Grey - Minikoio;55.13;61.67;FATURAMENTO VD ES;VITRINE
+8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;55.14;61.67;FATURAMENTO VD ES;VITRINE
+8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;55.12;61.66;FATURAMENTO VD ES;VITRINE
+8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;55.12;61.67;FATURAMENTO VD ES;VITRINE
+8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;55.13;61.67;FATURAMENTO VD ES;VITRINE
+8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;55.12;61.67;FATURAMENTO VD ES;VITRINE
+8.24.149.29.11;Conjunto Copo com Canudo + Tampa Snack Aqua Green e Grey - Minikoioi;55.13;61.67;FATURAMENTO VD ES;VITRINE
+24.11.175.07.06;Persiana Premier Pvc 25Mm 120X160 Branca;89.11;99.29;FATURAMENTO VD ES;VITRINE
+24.11.175.34.57;Persiana Off 25 Pvc 25Mm 140X130 Bege;84.48;94.12;FATURAMENTO VD ES;VITRINE
+24.11.175.40.10;Persiana Off 25 Pvc 25Mm 160X130 Chumbo;96.54;107.56;FATURAMENTO VD ES;VITRINE
+24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;90.63;104.47;FATURAMENTO VD ES;VITRINE
 24.11.175.92.57;Persiana Zebra Rolo Dupla 160X160 Bege Linho;120.91;139.38;FATURAMENTO VD ES;VITRINE
+24.11.175.154.57;Persiana Soft Linho Rolo 100X220 Bege;94.23;108.63;FATURAMENTO VD ES;VITRINE
+24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;106.59;122.87;FATURAMENTO VD ES;VITRINE
+24.71.175.11.06;Carrinho Multiuso 3 Prateleiras Branco;82.8;94.99;FATURAMENTO VD ES;VITRINE
+24.11.175.24.57;Persiana Premier Pvc 25Mm 100X160 Caramelo;74.26;82.74;FATURAMENTO VD ES;VITRINE
+24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Chumbo;47.08;52.45;FATURAMENTO VD ES;VITRINE
+24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;84.48;94.12;FATURAMENTO VD ES;VITRINE
+24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;120.91;139.38;FATURAMENTO VD ES;VITRINE
+24.11.175.127.06;Persiana Screen Rolo Solar 180X220 Branca;198.69;229.04;FATURAMENTO VD ES;VITRINE
+21.14.175.15.06;Cadeira Giratória Escritório Arco Branca;156.6;179.66;FATURAMENTO VD ES;VITRINE
+21.14.50.482.00;Cadeira Web Wood Preta;55.23;63.81;FATURAMENTO VD ES;VITRINE
+24.11.175.42.00;Persiana Hanoy Rolo Bambu 120X160 Cedro;98.69;113.76;FATURAMENTO VD ES;VITRINE
 24.11.175.106.06;Persiana Bloom Blackout Linho Branca 160X160;201.34;232.09;FATURAMENTO VD ES;VITRINE
 24.11.175.152.57;Persiana Soft Linho Rolo 140X160 Bege;95.95;110.6;FATURAMENTO VD ES;VITRINE
-24.11.175.154.57;Persiana Soft Linho Rolo 100X220 Bege;94.23;108.63;FATURAMENTO VD ES;VITRINE
-24.11.175.162.06;Persiana Toucher Rolo Translúcida 120X140 Branca;60.77;70.05;FATURAMENTO VD ES;VITRINE
 24.71.175.01.57;Cesto De Bambu Natural;48.58;56.0;FATURAMENTO VD ES;VITRINE
-24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;106.59;122.87;FATURAMENTO VD ES;VITRINE
-21.14.175.15.06;Cadeira Giratória Escritório Arco Branca;156.6;179.66;FATURAMENTO VD ES;VITRINE
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;127.81;147.38;FATURAMENTO VD ES;VITRINE
 6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;152.06;175.86;FATURAMENTO VD ES;VITRINE
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;470.56;541.41;FATURAMENTO VD ES;VITRINE
@@ -4556,7 +4575,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 21.14.50.477.00;Conjunto Com 2 Cadeiras Web Wood Amarela;139.87;178.96;FATURAMENTO VD ES;VITRINE
 21.14.50.480.00;Conjunto 2 Cadeiras Web Wood  Creme;110.51;130.21;FATURAMENTO VD ES;VITRINE
 21.14.50.481.00;Conjunto 4 cadeiras Web  Wood Creme;362.5;421.55;FATURAMENTO VD ES;VITRINE
-21.14.50.482.00;Cadeira Web Wood Preta;55.23;63.81;FATURAMENTO VD ES;VITRINE
 21.14.50.489.00;Conjunto 2 Cadeiras Web Wood  Cinza;151.06;179.61;FATURAMENTO VD ES;VITRINE
 21.14.50.490.00;Conjunto 4 Cadeiras Web  Wood Cinza;300.56;357.94;FATURAMENTO VD ES;VITRINE
 21.14.50.495.00;Cadeira De Balanço Eames Com Braço Creme  Base Em Metal E Madeira;114.82;133.54;FATURAMENTO VD ES;VITRINE
@@ -5180,7 +5198,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.08.98.08.07;Canguru Básico Avançado 5 Em 1 Navy Blue 15Kg - Ibimboo;116.87;131.75;FATURAMENTO VD ES;VITRINE
 8.08.98.09.10;Canguru Básico Avançado 5 Em 1 Dark Grey 15Kg - Ibimboo;116.87;131.75;FATURAMENTO VD ES;VITRINE
 8.08.98.10.18;Canguru 5 Em 1 Ergonômico Marsala (Antigo Rosa Escuro) 15Kg - Ibimboo;150.04;169.15;FATURAMENTO VD ES;VITRINE
-8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;496.17;569.52;FATURAMENTO VD ES;VITRINE
 8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;14.99;17.13;FATURAMENTO VD ES;VITRINE
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;89.91;89.91;FATURAMENTO VD ES;VITRINE
 8.30.94.10.00;Centro de Atividades Sophie La Girafe - Vulli;134.91;134.91;FATURAMENTO VD ES;VITRINE
@@ -5279,12 +5296,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.01.39.08.06;Banheira de Bebê Ofuro Opla Polar Branco - Burigotto;112.95;133.83;FATURAMENTO VD ES;VITRINE
 8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;112.27;133.03;FATURAMENTO VD ES;VITRINE
 8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;105.52;125.03;FATURAMENTO VD ES;VITRINE
-8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;55.12;61.66;FATURAMENTO VD ES;VITRINE
-8.24.149.29.11;Conjunto Copo com Canudo + Tampa Snack Aqua Green e Grey - Minikoioi;55.13;61.67;FATURAMENTO VD ES;VITRINE
-8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;55.12;61.67;FATURAMENTO VD ES;VITRINE
-8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;55.13;61.67;FATURAMENTO VD ES;VITRINE
-8.24.149.32.18;Conjunto Copo com Canudo + Tampa Snack Pink e Grey - Minikoioi;55.12;61.66;FATURAMENTO VD ES;VITRINE
-8.24.149.33.11;Conjunto Copo com Canudo + Tampa Snack Green e Grey - Minikoio;55.13;61.67;FATURAMENTO VD ES;VITRINE
 8.24.149.39.07;Kit de Alimentação Silicone BLW Set 2 Mineral Blue - Minikoioi;118.69;132.76;FATURAMENTO VD ES;VITRINE
 8.24.149.40.18;Kit de Alimentação Silicone BLW Set 2 Pinky Pink - Minikoioi;116.69;132.75;FATURAMENTO VD ES;VITRINE
 8.24.149.41.10;Kit de Alimentação Silicone BLW Set 2 Powder Grey - Minikoioi;118.68;132.75;FATURAMENTO VD ES;VITRINE
@@ -5328,7 +5339,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.24.72.65.08;Copo de Treinamento em Silicone com Grip Leão Vermelho - MarcusMarcus;26.09;29.95;FATURAMENTO VD ES;VITRINE
 8.25.72.11.07;Escova Massageadora em Silicone Hipopótamo - MarcusMarcus;34.97;39.95;FATURAMENTO VD ES;VITRINE
 8.25.57.84.18;Chupeta Comfort Tamanho 2 Ursinho Rosa - Buba;8.67;9.95;FATURAMENTO VD ES;VITRINE
-8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;55.12;61.67;FATURAMENTO VD ES;VITRINE
 8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;46.61;52.07;FATURAMENTO VD ES;VITRINE
 8.25.57.205.07;Kit Lixas de Unha Elétrico - Buba;22.71;25.89;FATURAMENTO VD ES;VITRINE
 8.25.57.208.18;Kit Cuidados com o Bebê com Estojo 6 Itens Rosa - Buba;44.77;51.04;FATURAMENTO VD ES;VITRINE
@@ -5516,7 +5526,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 8.24.149.77.11;Tigela Urso de Silicone Bowly 450ml River Green - Minikoioi;66.21;74.06;FATURAMENTO VD ES;VITRINE
 8.24.149.78.18;Tigela Urso de Silicone Bowly 450ml Velvet Rose - Minikoioi;66.2;74.06;FATURAMENTO VD ES;VITRINE
 8.24.149.79.76;Tigela Urso de Silicone Bowly 450ml Woody Brown - Minikoioi;66.2;74.06;FATURAMENTO VD ES;VITRINE
-8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;55.14;61.67;FATURAMENTO VD ES;VITRINE
 8.24.149.06.11;Colher e Garfo Silicone e Bambu Dig In Aqua Green - Minikoioi;35.67;39.9;FATURAMENTO VD ES;VITRINE
 8.24.149.09.07;Colher e Garfo Silicone e Bambu Dig In Deep Blue - Minikoioi;35.68;39.9;FATURAMENTO VD ES;VITRINE
 8.24.149.25.11;Colher e Garfo Silicone e Bambu Dig In River Green - Minikoioi;35.68;39.9;FATURAMENTO VD ES;VITRINE
@@ -6672,10 +6681,7 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.11.175.14.10;Persiana Premier Pvc 25Mm 140X160 Chumbo;103.96;115.84;FATURAMENTO VD ES;VITRINE
 24.11.175.15.06;Persiana Premier Pvc 25Mm 160X160 Branca;118.8;132.37;FATURAMENTO VD ES;VITRINE
 24.11.175.25.57;Persiana Off 25 Pvc 25Mm 80X130 Bege;47.08;52.45;FATURAMENTO VD ES;VITRINE
-24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Chumbo;47.08;52.45;FATURAMENTO VD ES;VITRINE
-24.11.175.34.57;Persiana Off 25 Pvc 25Mm 140X130 Bege;84.48;94.12;FATURAMENTO VD ES;VITRINE
 24.11.175.36.10;Persiana Off 25 Pvc 25Mm 140X130 Chumbo;84.48;94.12;FATURAMENTO VD ES;VITRINE
-24.11.175.40.10;Persiana Off 25 Pvc 25Mm 160X130 Chumbo;96.54;107.56;FATURAMENTO VD ES;VITRINE
 24.11.175.47.57;Persiana Bauhaus Rolo Bambu 120X160  Fresno;98.69;113.76;FATURAMENTO VD ES;VITRINE
 24.11.175.53.57;Persiana Bauhaus Rolo Bambu 140X160 Honey Mapple;115.13;132.72;FATURAMENTO VD ES;VITRINE
 24.11.175.80.57;Persiana Zebra Rolo Dupla 120X160 Caramelo;90.63;104.47;FATURAMENTO VD ES;VITRINE
@@ -6685,7 +6691,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.11.175.118.57;Persiana Bloom Corta Luz Linho Bege 160X160;192.57;221.98;FATURAMENTO VD ES;VITRINE
 24.11.175.120.10;Persiana Bloom Corta Luz Cinza 140X160;168.42;194.14;FATURAMENTO VD ES;VITRINE
 24.11.175.121.10;Persiana Bloom Corta Luz Cinza 160X160;192.57;221.98;FATURAMENTO VD ES;VITRINE
-24.11.175.127.06;Persiana Screen Rolo Solar 180X220 Branca;198.69;229.04;FATURAMENTO VD ES;VITRINE
 24.11.175.130.06;Persiana Screen Rolo Solar 120X160 Branca;78.0;89.91;FATURAMENTO VD ES;VITRINE
 24.11.175.158.57;Persiana Soft Linho Rolo 160X220 Bege;150.77;173.8;FATURAMENTO VD ES;VITRINE
 24.71.175.06.01;Cesto Dobrável Preto;59.86;69.0;FATURAMENTO VD ES;VITRINE
@@ -6694,7 +6699,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 24.11.175.171.57;Persiana Nouvel  Rolo Blackout 120X160 Bege Creme;79.95;92.16;FATURAMENTO VD ES;VITRINE
 24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;94.0;108.35;FATURAMENTO VD ES;VITRINE
 24.70.175.05.10;Escada De Alumínio 4X3 Multi 7 Em 1 Sem Plataforma;511.02;570.51;FATURAMENTO VD ES;VITRINE
-24.71.175.11.06;Carrinho Multiuso 3 Prateleiras Branco;82.8;94.99;FATURAMENTO VD ES;VITRINE
 21.14.175.18.01;Cadeira De Escritório Malha Com Encosto;251.11;288.07;FATURAMENTO VD ES;VITRINE
 21.14.175.35.06;Kit 2 Cadeiras Eames Leda Branca;174.13;196.17;FATURAMENTO VD ES;VITRINE
 21.40.175.02.06;Banqueta Eiffel Branca;152.1;174.49;FATURAMENTO VD ES;VITRINE
@@ -6783,7 +6787,6 @@ SKU;Nome;Custo Líquido Atualizado;Custo Bruto Atualizado;Almoxarifado;Operaçã
 
 
 ";54.61;61.86;FATURAMENTO VD ES;VITRINE
-24.11.175.07.06;Persiana Premier Pvc 25Mm 120X160 Branca;89.11;99.29;FATURAMENTO VD ES;VITRINE
 24.11.175.17.01;Persiana Premier Pvc 25Mm 160X160 Preta;118.8;132.37;FATURAMENTO VD ES;VITRINE
 21.14.175.37.57;Cadeira Saarinen Wood Nude;58.78;65.16;FATURAMENTO VD ES;VITRINE
 24.71.175.17.01;Carrinho Multiuso Gala 3 Prateleiras Metal Preto;62.1;71.25;FATURAMENTO VD ES;VITRINE
@@ -6949,7 +6952,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 
 
 ";36.5;41.52;FATURAMENTO VD ES;VITRINE
-24.11.175.24.57;Persiana Premier Pvc 25Mm 100X160 Caramelo;74.26;82.74;FATURAMENTO VD ES;VITRINE
 24.11.175.48.57;Persiana Bauhaus Rolo Bambu 140X160  Fresno;105.81;121.97;FATURAMENTO VD ES;VITRINE
 24.11.175.161.57;Persiana Toucher Rolo Translúcida 120X140 Bege;61.41;70.79;FATURAMENTO VD ES;VITRINE
 24.57.66.04.00;Porta Guardanapos Wolff de Sisal 12cm x 6cm x 8cm;7.76;8.91;FATURAMENTO VD ES;VITRINE
@@ -7004,8 +7006,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;6.1;8.51;FATURAMENTO VD ES;VITRINE
 8.04.28.01.18;Berço Co-Leito Bari Preto Grafite e Rosa - Galzerano;212.26;245.74;FATURAMENTO VD ES;VITRINE
 8.04.28.03.10;Berço Co-Leito Bari Preto e Cinza - Galzerano;212.26;245.74;FATURAMENTO VD ES;VITRINE
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;65.65;77.11;FATURAMENTO VD ES;VITRINE
-8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;45.79;54.25;FATURAMENTO VD ES;VITRINE
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;116.88;138.48;FATURAMENTO VD ES;VITRINE
 8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;98.98;114.6;FATURAMENTO VD ES;VITRINE
 8.01.28.16.06;Redutor de Banheira de Bebê Plásstica Branco - Galzerano;26.06;30.88;FATURAMENTO VD ES;VITRINE
@@ -7343,7 +7343,13 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.09.39.27.01;Carrinho de Bebê CR3 Gray e Cobre - Burigotto;346.46;346.46;FULFILLMENT VISUAL IN;VISUAL IN
 8.09.39.28.18;Carrinho com Bebê Conforto Travel System Ecco CZ Rosa - Burigotto;501.51;501.51;FULFILLMENT VISUAL IN;VISUAL IN
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;501.51;501.51;FULFILLMENT VISUAL IN;VISUAL IN
+8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;1709.94;1709.94;FATURAMENTO VD RJ;BB TUDO
 8.09.76.78.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Shale Preto - Joie INATIVO;2146.08;2146.08;FATURAMENTO VD RJ;BB TUDO
+8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;455.79;455.79;FATURAMENTO VD RJ;BB TUDO
+8.67.103.02.07;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby;502.42;502.42;FATURAMENTO VD RJ;BB TUDO
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;65.54;65.54;FATURAMENTO VD RJ;BB TUDO
+6.28.60.05.115;Bicicleta com Rodinhas Aro 14 First Pro 4 anos até 25kg Preto e Laranja - Nathor;363.76;363.76;FATURAMENTO VD RJ;BB TUDO
+8.24.92.67.00;Garrafa de Aço Inox 350ml Spark Style Espaço - Skip Hop;103.1;103.1;FATURAMENTO VD RJ;BB TUDO
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;11.3;11.3;FATURAMENTO VD RJ;BB TUDO
 8.09.73.18.10;Carrinho de Bebê Samba Asphalt Diamante - ABC Design;1983.33;1983.33;FATURAMENTO VD RJ;BB TUDO
 8.09.73.19.01;Carrinho de Bebê Samba Dolphin Diamante - ABC Design;1983.33;1983.33;FATURAMENTO VD RJ;BB TUDO
@@ -8401,7 +8407,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.14.110.04.11;Poster Minha Chegada Aquarela Verde - Coloré;7.65;7.65;FATURAMENTO VD RJ;BB TUDO
 8.14.110.05.18;Poster Minha Chegada Aquarela Rosa - Coloré;7.65;7.65;FATURAMENTO VD RJ;BB TUDO
 8.24.111.02.00;Copo Thermalock com Canudo Kids 335ml Tubarão - Contigo;42.46;42.46;FATURAMENTO VD RJ;BB TUDO
-8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;1709.94;1709.94;FATURAMENTO VD RJ;BB TUDO
 8.12.47.06.10;Rede Protetora de Banho Cinza - KaBaby;49.47;49.47;FATURAMENTO VD RJ;BB TUDO
 8.25.86.09.18;Escova de Dente Infantil Baby's Brush 6+ meses Rosa - MAM;11.9;11.9;FATURAMENTO VD RJ;BB TUDO
 8.24.72.57.18;Jogo de Colher e Garfo Cabo em Silicone Porquinho Rosa - MarcusMarcus;33.35;33.35;FATURAMENTO VD RJ;BB TUDO
@@ -8455,7 +8460,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.08.98.08.07;Canguru Básico Avançado 5 Em 1 Navy Blue 15Kg - Ibimboo;101.63;101.63;FATURAMENTO VD RJ;BB TUDO
 8.08.98.09.10;Canguru Básico Avançado 5 Em 1 Dark Grey 15Kg - Ibimboo;101.63;101.63;FATURAMENTO VD RJ;BB TUDO
 8.08.98.10.18;Canguru 5 Em 1 Ergonômico Marsala (Antigo Rosa Escuro) 15Kg - Ibimboo;130.48;130.48;FATURAMENTO VD RJ;BB TUDO
-8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;455.79;455.79;FATURAMENTO VD RJ;BB TUDO
 8.24.86.07.11;Bomba Tira-Leite Manual - Mam;112.62;112.62;FATURAMENTO VD RJ;BB TUDO
 8.01.74.12.07;Banheira de Bebê Slim Plus Azul - Kiddo;251.86;251.86;FATURAMENTO VD RJ;BB TUDO
 8.61.130.15.07;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Azul - Arrumadinho;5.17;5.17;FATURAMENTO VD RJ;BB TUDO
@@ -8583,7 +8587,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.04.76.07.01;Moisés Ramble XL Signature Eclipse - Joie;751.36;751.36;FATURAMENTO VD RJ;BB TUDO
 8.24.92.65.11;Garrafa com Canudo Flip Zoo 384 ml Cachorro Pug - Skip Hop;32.27;32.27;FATURAMENTO VD RJ;BB TUDO
 8.24.92.66.00;Garrafa de Aço Inox 350ml Spark Style Arco-Íris - Skip Hop;103.59;103.59;FATURAMENTO VD RJ;BB TUDO
-8.24.92.67.00;Garrafa de Aço Inox 350ml Spark Style Espaço - Skip Hop;103.1;103.1;FATURAMENTO VD RJ;BB TUDO
 8.24.92.68.00;Garrafa de Aço Inox 350ml Spark Style Morango - Skip Hop;103.1;103.1;FATURAMENTO VD RJ;BB TUDO
 8.24.92.70.00;Mala de Rodinha Infantil Zoo Unicórnio Skip Hop;250.49;250.49;FATURAMENTO VD RJ;BB TUDO
 8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;165.17;165.17;FATURAMENTO VD RJ;BB TUDO
@@ -9092,7 +9095,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;131.75;131.75;FATURAMENTO VD RJ;BB TUDO
 8.25.70.34.00;Lixeira Mágica Antiodor Para Fraldas 10 Litros - Clingo;103.76;103.76;FATURAMENTO VD RJ;BB TUDO
 8.09.39.18.01;Carrinho de Bebê Para Gêmeos Twingo Black - Burigotto;700.44;700.44;FATURAMENTO VD RJ;BB TUDO
-8.67.103.02.07;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby;502.42;502.42;FATURAMENTO VD RJ;BB TUDO
 8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;262.81;262.81;FATURAMENTO VD RJ;BB TUDO
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;114.87;114.87;FATURAMENTO VD RJ;BB TUDO
 8.24.53.60.07;Copo de Treinamento 200ml 6M+ Verde e Azul - Chicco;13.28;13.28;FATURAMENTO VD RJ;BB TUDO
@@ -9769,6 +9771,15 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.04.04.21.01;Berço Portátil Happy Preto Mescla - Cosco Kids;420.06;420.06;FATURAMENTO VD RJ;BB TUDO
 8.07.76.20.10;Cadeirinha para Carro I-Spin XL 360 Chumbo Ebony - Joie;1870.97;1870.97;FATURAMENTO VD RJ;BB TUDO
 8.07.76.19.11;Cadeirinha para Carro I-Spin XL 360 Verde Pine - Joie;1870.97;1870.97;FATURAMENTO VD RJ;BB TUDO
+8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;46.11;46.11;FATURAMENTO VD ES;BB TUDO
+8.24.149.32.18;Conjunto Copo com Canudo + Tampa Snack Pink e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
+8.24.149.33.11;Conjunto Copo com Canudo + Tampa Snack Green e Grey - Minikoio;52.42;52.42;FATURAMENTO VD ES;BB TUDO
+8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
+8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
+8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
+8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
+8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
+8.24.149.29.11;Conjunto Copo com Canudo + Tampa Snack Aqua Green e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;125.28;125.28;FATURAMENTO VD ES;BB TUDO
 6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;149.48;149.48;FATURAMENTO VD ES;BB TUDO
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;460.2;460.2;FATURAMENTO VD ES;BB TUDO
@@ -9810,12 +9821,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.01.39.08.06;Banheira de Bebê Ofuro Opla Polar Branco - Burigotto;113.76;113.76;FATURAMENTO VD ES;BB TUDO
 8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;113.08;113.08;FATURAMENTO VD ES;BB TUDO
 8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;106.28;106.28;FATURAMENTO VD ES;BB TUDO
-8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
-8.24.149.29.11;Conjunto Copo com Canudo + Tampa Snack Aqua Green e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
-8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
-8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
-8.24.149.32.18;Conjunto Copo com Canudo + Tampa Snack Pink e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
-8.24.149.33.11;Conjunto Copo com Canudo + Tampa Snack Green e Grey - Minikoio;52.42;52.42;FATURAMENTO VD ES;BB TUDO
 8.24.149.39.07;Kit de Alimentação Silicone BLW Set 2 Mineral Blue - Minikoioi;112.85;112.85;FATURAMENTO VD ES;BB TUDO
 8.24.149.40.18;Kit de Alimentação Silicone BLW Set 2 Pinky Pink - Minikoioi;112.84;112.84;FATURAMENTO VD ES;BB TUDO
 8.24.149.41.10;Kit de Alimentação Silicone BLW Set 2 Powder Grey - Minikoioi;112.84;112.84;FATURAMENTO VD ES;BB TUDO
@@ -9850,7 +9855,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.72.09.08;Escova Massageadora em Silicone Leão - MarcusMarcus;36.09;36.09;FATURAMENTO VD ES;BB TUDO
 8.25.72.11.07;Escova Massageadora em Silicone Hipopótamo - MarcusMarcus;33.96;33.96;FATURAMENTO VD ES;BB TUDO
 8.25.57.84.18;Chupeta Comfort Tamanho 2 Ursinho Rosa - Buba;8.46;8.46;FATURAMENTO VD ES;BB TUDO
-8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
 8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;44.26;44.26;FATURAMENTO VD ES;BB TUDO
 8.25.57.205.07;Kit Lixas de Unha Elétrico - Buba;22.01;22.01;FATURAMENTO VD ES;BB TUDO
 8.25.57.208.18;Kit Cuidados com o Bebê com Estojo 6 Itens Rosa - Buba;43.38;43.38;FATURAMENTO VD ES;BB TUDO
@@ -9987,7 +9991,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.24.149.77.11;Tigela Urso de Silicone Bowly 450ml River Green - Minikoioi;62.95;62.95;FATURAMENTO VD ES;BB TUDO
 8.24.149.78.18;Tigela Urso de Silicone Bowly 450ml Velvet Rose - Minikoioi;62.95;62.95;FATURAMENTO VD ES;BB TUDO
 8.24.149.79.76;Tigela Urso de Silicone Bowly 450ml Woody Brown - Minikoioi;62.95;62.95;FATURAMENTO VD ES;BB TUDO
-8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;52.42;52.42;FATURAMENTO VD ES;BB TUDO
 8.24.149.06.11;Colher e Garfo Silicone e Bambu Dig In Aqua Green - Minikoioi;33.92;33.92;FATURAMENTO VD ES;BB TUDO
 8.24.149.09.07;Colher e Garfo Silicone e Bambu Dig In Deep Blue - Minikoioi;33.92;33.92;FATURAMENTO VD ES;BB TUDO
 8.24.149.25.11;Colher e Garfo Silicone e Bambu Dig In River Green - Minikoioi;33.92;33.92;FATURAMENTO VD ES;BB TUDO
@@ -10068,8 +10071,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;668.59;668.59;FATURAMENTO VD ES;BB TUDO
 8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;755.47;755.47;FATURAMENTO VD ES;BB TUDO
 8.09.28.80.12;Carrinho de Bebê Travel System Milano Reversível II Creme e Rosa - Galzerano;537.19;537.19;FATURAMENTO VD ES;BB TUDO
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;65.54;65.54;FATURAMENTO VD ES;BB TUDO
-8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;46.11;46.11;FATURAMENTO VD ES;BB TUDO
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;117.71;117.71;FATURAMENTO VD ES;BB TUDO
 8.01.28.16.06;Redutor de Banheira de Bebê Plásstica Branco - Galzerano;26.25;26.25;FATURAMENTO VD ES;BB TUDO
 8.25.47.104.57;Protetor de Quina Linear Jumbo;16.96;16.96;FATURAMENTO VD ES;BB TUDO
@@ -10086,6 +10087,8 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.09.28.86.07;Carrinho de Bebê Romano Azul - Galzerano;356.58;356.58;FATURAMENTO VD ES;BB TUDO
 8.09.28.87.01;Carrinho de Bebê Romano Preto e Cobre - Galzerano;356.58;356.58;FATURAMENTO VD ES;BB TUDO
 8.09.28.88.01;Carrinho com Bebê Conforto Travel System Romano Preto e Cobre - Galzerano;518.26;518.26;FATURAMENTO VD ES;BB TUDO
+8.67.103.02.07;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby;295.54;295.54;FATURAMENTO BB TOTAL ES;BB TOTAL
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;38.56;38.56;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;6.65;6.65;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.09.39.08.10;Carrinho de Bebê It Cinza - Burigotto;315.85;315.85;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.24.53.02.00;Bomba Tira Leite Manual Step Up - Chicco;19.82;19.82;FATURAMENTO BB TOTAL ES;BB TOTAL
@@ -10691,7 +10694,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.09.76.63.18;Carrinho de Bebê Passeio Guarda Chuva Nitro Rosa Rosy - Joie;182.26;182.26;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.25.70.34.00;Lixeira Mágica Antiodor Para Fraldas 10 Litros - Clingo;61.04;61.04;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.09.39.18.01;Carrinho de Bebê Para Gêmeos Twingo Black - Burigotto;412.02;412.02;FATURAMENTO BB TOTAL ES;BB TOTAL
-8.67.103.02.07;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Azul - Premium Baby;295.54;295.54;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;154.59;154.59;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.24.53.60.07;Copo de Treinamento 200ml 6M+ Verde e Azul - Chicco;7.81;7.81;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;286.52;286.52;FATURAMENTO BB TOTAL ES;BB TOTAL
@@ -11077,7 +11079,6 @@ Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;5.92;5.92;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;368.46;368.46;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;393.29;393.29;FATURAMENTO BB TOTAL ES;BB TOTAL
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;38.56;38.56;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;69.24;69.24;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.01.28.16.06;Redutor de Banheira de Bebê Plásstica Branco - Galzerano;15.44;15.44;FATURAMENTO BB TOTAL ES;BB TOTAL
 8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;316.9;316.9;FATURAMENTO BB TOTAL ES;BB TOTAL
