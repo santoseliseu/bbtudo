@@ -343,7 +343,6 @@ FATURAMENTO VD RJ;221.4;252.96;21.40.46.66.04;Seat Garden Dourado;VITRINE
 FATURAMENTO VD RJ;174.86;199.79;21.40.46.68.00;Seat Garden Navy Metálico;VITRINE
 FATURAMENTO VD ES;157.75;185.83;21.40.50.08.00;Conjunto 2 Banquetas com Braços Eames  Preto;VITRINE
 FATURAMENTO VD ES;157.75;185.83;21.40.50.10.00;Conjunto 2 Banquetas com Braços Eames  Rosa;VITRINE
-FATURAMENTO VD ES;69.83;82.26;21.40.50.13.00;Banqueta Eames PP  Azul Bic;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.40.50.19.00;Banqueta Eames PP  Branca;VITRINE
 FATURAMENTO VD ES;269.95;318.01;21.40.50.20.00;Conjunto 2 Banquetas Eames  Branca;VITRINE
 FATURAMENTO VD ES;69.83;82.26;21.40.50.27.00;Banqueta Eames PP  Fendi;VITRINE
@@ -881,7 +880,7 @@ FATURAMENTO VD ES;29.4;33.66;24.52.66.46.18;Jogo de 4 Xícaras para Café Wolff 
 FATURAMENTO VD ES;10.66;12.13;24.52.66.50.00;Açucareiro Wolff Pearl de Cristal Incolor 10cm x 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;10.66;12.13;24.52.66.50.00;Açucareiro Wolff Pearl de Cristal Incolor 10cm x 8cm x 7cm;VITRINE
 FATURAMENTO VD ES;10.85;12.34;24.52.66.51.00;Meleira Wolff Pearl de Cristal Incolor 10cm x 8cm x 7cm;VITRINE
-FATURAMENTO VD ES;23.08;26.26;24.52.66.52.00;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Incolor;VITRINE
+FATURAMENTO VD ES;22.95;26.11;24.52.66.52.00;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Incolor;VITRINE
 FATURAMENTO VD ES;14.68;16.7;24.52.66.53.00;Açucareiro Wolff Pearl de Cristal Âmbar 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;51.43;58.51;24.52.66.57.00;Prato Duplo Wolff Pearl de Cristal Âmbar 32cm x 24cm;VITRINE
 FATURAMENTO VD ES;14.12;16.06;24.52.66.58.00;Manteigueira Wolff Pearl de Cristal 17cm x 10,5cm x 10cm;VITRINE
@@ -1072,7 +1071,6 @@ FATURAMENTO VD ES;48.35;54.78;24.54.66.70.08;Jogo de 6 Taças Wolff Brand de Vid
 FATURAMENTO VD ES;101.22;115.88;24.54.66.71.07;Jogo de 6 Taças Wolff Coral de Acrílico Azul 450ml;VITRINE
 FATURAMENTO VD ES;110.43;125.62;24.54.66.72.08;Jogo de 6 Taças Wolff Coral de Acrílico Vermelho 450ml;VITRINE
 FATURAMENTO VD ES;16.41;18.59;24.54.66.84.00;Jogo de 6 Taças Wolff Pearl de Cristal 8cm x 6cm;VITRINE
-FATURAMENTO VD ES;2.44;3.0;24.54.66.89.00;Anel para Garrafa Wolff de Aço Inox;VITRINE
 FATURAMENTO VD ES;28.22;31.96;24.54.66.94.00;Caneca Térmica Wolff para Cerveja de Aço Inox 500ml;VITRINE
 FATURAMENTO VD ES;27.26;30.89;24.54.66.95.01;Caneca Térmica Wolff para Cerveja de Aço Inox Preta 500ml;VITRINE
 FATURAMENTO VD ES;4.24;4.82;24.55.159.08.01;Colher de Arroz de Silicone Preta 22cm - Lyor;VITRINE
@@ -3738,7 +3736,6 @@ FULFILLMENT VISUAL IN;434.5;544.07;8.09.28.68.01;Carrinho Milano Reversível II 
 FATURAMENTO VD RJ;420.73;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;253.46;253.46;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TOTAL
 FATURAMENTO VD RJ;582.88;723.86;8.09.28.69.00;Carrinho Olympus Galzerano Chocolate;VITRINE
-FATURAMENTO VD ES;507.18;598.2;8.09.28.69.00;Carrinho Olympus Galzerano Chocolate;VITRINE
 FATURAMENTO VD RJ;582.88;723.86;8.09.28.69.00;Carrinho de Bebê Olympus Chocolate - Galzerano;VITRINE
 FATURAMENTO VD RJ;582.88;723.86;8.09.28.70.10;Carrinho Olympus Galzerano Cinza;VITRINE
 FATURAMENTO VD ES;507.18;598.2;8.09.28.70.10;Carrinho Olympus Galzerano Cinza;VITRINE
@@ -3752,12 +3749,12 @@ FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reve
 FATURAMENTO VISUAL IN SP;463.98;732.05;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;483.23;707.49;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
+FULFILLMENT VISUAL IN;575.83;908.5;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
-FULFILLMENT VISUAL IN;575.83;908.5;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VISUAL IN
+FULFILLMENT VISUAL IN;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
-FULFILLMENT VISUAL IN;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;819.8;1026.55;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;758.58;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VITRINE
@@ -4692,7 +4689,6 @@ FATURAMENTO VD RJ;16.31;17.48;8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Chic
 FATURAMENTO VD RJ;16.31;17.48;8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Verde - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;26.32;30.21;8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Verde - Chicco;BB TOTAL
 FATURAMENTO VD RJ;56.03;61.22;8.24.53.49.00;Copo Sport Cup 266ml Chicco 14m+ Roxo;VITRINE
-FATURAMENTO BBTOTAL ES;26.66;30.61;8.24.53.49.00;Copo Sport Cup 266ml Chicco 14m+ Roxo;BB TOTAL
 FATURAMENTO VD RJ;56.03;61.22;8.24.53.49.00;Copo com Canudo Sport Cup 266ml 14m+ Roxo - Chicco;VITRINE
 FATURAMENTO VD RJ;17.48;18.21;8.24.53.50.00;Copo Sport Cup 266ml Chicco 14m+ Azul;VITRINE
 FATURAMENTO VD ES;17.48;18.21;8.24.53.50.00;Copo Sport Cup 266ml Chicco 14m+ Azul;VITRINE
@@ -4770,7 +4766,6 @@ FATURAMENTO BBTOTAL ES;20.61;23.66;8.24.57.23.18;Garrafa Térmica Inox Parede Du
 FATURAMENTO VD RJ;45.42;47.31;8.24.57.23.18;Garrafa Térmica Inox Parede Dupla com Canudo Buba Rosa;VITRINE
 FATURAMENTO VD RJ;6.15;7.03;8.24.57.25.00;Canudo Repositor em Silicone Buba;VITRINE
 FATURAMENTO BBTOTAL ES;2.86;3.28;8.24.57.25.00;Canudo Repositor em Silicone Buba;BB TOTAL
-FATURAMENTO VD ES;5.42;6.21;8.24.57.25.00;Canudo Repositor em Silicone Buba;VITRINE
 FATURAMENTO VD ES;8.26;9.15;8.24.57.27.18;Porta-Frutinha em Silicone Buba Rosa;VITRINE
 FATURAMENTO BBTOTAL ES;3.45;4.58;8.24.57.27.18;Porta-Frutinha em Silicone Buba Rosa;BB TOTAL
 FATURAMENTO VD ES;8.26;9.15;8.24.57.27.18;Porta-Frutinha em Silicone Rosa - Buba;VITRINE
@@ -5164,7 +5159,6 @@ FATURAMENTO VD RJ;22.66;29.85;8.25.01.20.18;Kit Cuidados do Bebê Pink - Safety 
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;40.53;40.53;8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.21.07;Pulseira de segurança Watch Safety 1st - Azul;VITRINE
-FATURAMENTO BBTOTAL ES;40.53;40.53;8.25.01.21.07;Pulseira de segurança Watch Safety 1st - Azul;BB TOTAL
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;18.71;18.71;8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.22.18;Pulseira de segurança Unicorn Safety 1st - Rosa;VITRINE
@@ -5862,8 +5856,8 @@ FATURAMENTO BBTOTAL ES;19.9;23.58;8.25.69.05.00;Protetor Solar Infantil Natural 
 FATURAMENTO VD RJ;41.49;47.15;8.25.69.05.00;Protetor Solar Infantil Natural Pele Protegidinha - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;20.5;21.94;8.25.69.06.00;Limpeza de Chão Infantil Limpa Chãozinho - Bioclub Baby;VISUAL IN
 FATURAMENTO VD ES;20.5;21.94;8.25.69.06.00;Limpeza de Chão Infantil Limpa Chãozinho - Bioclub Baby;VITRINE
-FATURAMENTO VD ES;21.33;24.45;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;VITRINE
 FULFILLMENT VISUAL IN;17.92;28.28;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;VISUAL IN
+FATURAMENTO VD ES;21.33;24.45;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;VITRINE
 FATURAMENTO VISUAL IN SP;21.44;33.82;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;VISUAL IN
 FATURAMENTO BBTOTAL ES;9.74;12.94;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;BB TOTAL
 FULFILLMENT VISUAL IN;19.13;22.2;8.25.69.08.00;Lava Roupas Concentrado Detergente Natural  - Bioclub Baby;VISUAL IN
@@ -6654,8 +6648,8 @@ FATURAMENTO VD RJ;28.7;39.54;8.30.33.12.00;Mini Mobile Pack & Go Tiny Love - Mag
 FATURAMENTO BBTOTAL ES;21.97;21.97;8.30.33.12.00;Mini Mobile Pack & Go Tiny Love - Magical Tales;BB TOTAL
 FATURAMENTO VD RJ;28.7;39.54;8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;21.97;21.97;8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;BB TOTAL
-FATURAMENTO VD RJ;31.89;43.94;8.30.33.13.00;Mini Mobile Pack & Go Tiny Love - Princess Tales;VITRINE
-FATURAMENTO VD RJ;31.89;43.94;8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;VITRINE
+FATURAMENTO VD RJ;29.23;40.28;8.30.33.13.00;Mini Mobile Pack & Go Tiny Love - Princess Tales;VITRINE
+FATURAMENTO VD RJ;29.23;40.28;8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;15.27;17.53;8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;28.7;39.54;8.30.33.14.00;Mini Mobile Pack & Go Tiny Love Meadow Days;VITRINE
 FATURAMENTO BBTOTAL ES;21.97;21.97;8.30.33.14.00;Mini Mobile Pack & Go Tiny Love Meadow Days;BB TOTAL
@@ -8324,7 +8318,6 @@ FATURAMENTO VD ES;372.88;372.88;8.09.28.67.18;Carrinho Milano Reversível II Cap
 FATURAMENTO VD ES;404.61;404.61;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;404.61;404.61;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;615.28;615.28;8.09.28.69.00;Carrinho Olympus Galzerano Chocolate;BB TUDO
-FATURAMENTO VD ES;508.47;508.47;8.09.28.69.00;Carrinho Olympus Galzerano Chocolate;BB TUDO
 FATURAMENTO VD RJ;615.28;615.28;8.09.28.69.00;Carrinho de Bebê Olympus Chocolate - Galzerano;BB TUDO
 FATURAMENTO VD RJ;615.28;615.28;8.09.28.70.10;Carrinho Olympus Galzerano Cinza;BB TUDO
 FATURAMENTO VD ES;508.47;508.47;8.09.28.70.10;Carrinho Olympus Galzerano Cinza;BB TUDO
@@ -8915,7 +8908,6 @@ FATURAMENTO VD ES;35.94;35.94;8.24.57.16.18;Copo de Treinamento 360° com Alça 
 FATURAMENTO VD ES;30.09;30.09;8.24.57.19.18;Prato Giro Bowl Buba Rosa;BB TUDO
 FATURAMENTO VD RJ;40.21;40.21;8.24.57.23.18;Garrafa Térmica Inox Parede Dupla com Canudo Buba Rosa;BB TUDO
 FATURAMENTO VD RJ;5.98;5.98;8.24.57.25.00;Canudo Repositor em Silicone Buba;BB TUDO
-FATURAMENTO VD ES;5.28;5.28;8.24.57.25.00;Canudo Repositor em Silicone Buba;BB TUDO
 FATURAMENTO VD ES;7.78;7.78;8.24.57.27.18;Porta-Frutinha em Silicone Buba Rosa;BB TUDO
 FATURAMENTO VD ES;7.78;7.78;8.24.57.27.18;Porta-Frutinha em Silicone Rosa - Buba;BB TUDO
 FATURAMENTO VD RJ;7.32;7.32;8.24.57.27.18;Porta-Frutinha em Silicone Rosa - Buba;BB TUDO
@@ -10033,8 +10025,8 @@ FATURAMENTO VD RJ;215.26;215.26;8.30.33.09.00;Mobile Classic Into the Forest - T
 FATURAMENTO VD RJ;215.26;215.26;8.30.33.09.00;Mobile Classic Tiny Love - Into the Forest;BB TUDO
 FATURAMENTO VD RJ;33.61;33.61;8.30.33.12.00;Mini Mobile Pack & Go Tiny Love - Magical Tales;BB TUDO
 FATURAMENTO VD RJ;33.61;33.61;8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;37.35;37.35;8.30.33.13.00;Mini Mobile Pack & Go Tiny Love - Princess Tales;BB TUDO
-FATURAMENTO VD RJ;37.35;37.35;8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;BB TUDO
+FATURAMENTO VD RJ;34.23;34.23;8.30.33.13.00;Mini Mobile Pack & Go Tiny Love - Princess Tales;BB TUDO
+FATURAMENTO VD RJ;34.23;34.23;8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;33.61;33.61;8.30.33.14.00;Mini Mobile Pack & Go Tiny Love Meadow Days;BB TUDO
 FATURAMENTO VD RJ;33.61;33.61;8.30.33.14.00;Mini Móbile Pack & Go Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;27.31;27.31;8.30.33.16.00;Brinquedo Jitter Jumpy Chistopher - Tiny Love;BB TUDO
