@@ -623,8 +623,8 @@ FULFILLMENT AMAZON;78.4;92.48;24.25.49.04.06;Lixeira Retrô com Pedal 20 litros 
 FULFILLMENT VISUAL IN;75.07;110.5;24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca Mollie;VISUAL IN
 FULFILLMENT MELI;78.4;92.48;24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca Mollie;VITRINE
 FATURAMENTO VD ES;79.48;97.57;24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca Mollie;VITRINE
-FATURAMENTO VD RJ;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
 FULFILLMENT VISUAL IN;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VISUAL IN
+FATURAMENTO VD RJ;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
 FULFILLMENT AMAZON;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
 FATURAMENTO VD ES;33.69;41.35;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
 FATURAMENTO VISUAL IN SP;19.64;29.51;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VISUAL IN
@@ -3794,7 +3794,6 @@ FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reve
 FATURAMENTO VD RJ;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;575.83;908.5;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
-FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
@@ -8367,7 +8366,6 @@ FATURAMENTO VD ES;538.74;538.74;8.09.28.77.01;Carrinho Travel System Milano Reve
 FATURAMENTO VD ES;538.74;538.74;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;538.74;538.74;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;668.59;668.59;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
-FATURAMENTO VD RJ;668.59;668.59;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;668.59;668.59;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;668.59;668.59;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;755.47;755.47;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;BB TUDO
