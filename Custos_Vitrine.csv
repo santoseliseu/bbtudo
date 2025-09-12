@@ -135,7 +135,7 @@ FATURAMENTO VD ES;45.96;45.96;21.14.50.1357.01;Cadeira Allegra Berrini  Preta Se
 FATURAMENTO VD ES;91.92;91.92;21.14.50.1358.01;Conjunto 2 Cadeiras Allegra Berrini  Preta;VITRINE
 FATURAMENTO VD ES;183.84;183.84;21.14.50.1359.01;Conjunto 4 Cadeiras Allegra Berrini  Preta;VITRINE
 FATURAMENTO VD ES;168.81;198.86;21.14.50.1362.06;Conjunto com 4 Cadeiras Allegra Berrini  Branca;VITRINE
-FATURAMENTO VD ES;42.2;49.71;21.14.50.1363.57;Cadeira Allegra Berrini  Fendi SeatCo;VITRINE
+FATURAMENTO VD ES;45.96;45.96;21.14.50.1363.57;Cadeira Allegra Berrini  Fendi SeatCo;VITRINE
 FATURAMENTO VD ES;173.51;198.24;21.14.50.1364.57;Conjunto com 2 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;347.02;396.48;21.14.50.1365.57;Conjunto com 4 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;49.71;42.2;21.14.50.1378.10;Cadeira Allegra Berrini  Cinza Brasão;VITRINE
@@ -734,6 +734,7 @@ FATURAMENTO VD ES;14.55;16.55;24.50.66.776.06;Porta-Retrato Textura 10cm x 15cm 
 FATURAMENTO VD ES;15.45;17.65;24.50.66.780.00;Candelabro de Vidro para 3 Velas Allure 15x7x13cm - Wolff;VITRINE
 FATURAMENTO VD ES;63.73;72.2;24.50.66.781.00;Centro de Mesa de Vidro Concha Perolada 33x8,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;96.51;109.34;24.50.66.783.00;Centro de Mesa de Vidro Shield 40cm x 9,5cm - Wolff;VITRINE
+FATURAMENTO VD ES;46.67;55.3;24.50.67.01.00;Bandeja com Espelho Wolff de Bambu Marrom;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.30.00;Porta Retrato de Madeira e Vidro Pinus 10cm x 15cm - Woodart;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.32.00;Porta Retrato Woodart Pinus de Madeira 10cm x 15cm;VITRINE
 FATURAMENTO VD ES;44.67;52.93;24.50.67.40.00;Bandeja de Madeira com Sisal e Bambu Natural 45cm x 30cm - Woodart;VITRINE
@@ -976,7 +977,6 @@ FATURAMENTO VD ES;3.69;4.2;24.53.66.205.00;Garrafa para Azeite de Vidro Pintado 
 FATURAMENTO VD ES;16.11;18.33;24.53.66.206.00;Galheteiro de Vidro com Tampa de Metal Bold 500ml - Wolff;VITRINE
 FATURAMENTO VD ES;41.65;47.38;24.53.66.211.10;Leiteira de Indução em Alumínio com Revestimento Cinza 14cm;VITRINE
 FATURAMENTO VD ES;42.84;48.73;24.53.66.212.01;Leiteira de Indução em Alumínio com Revestimento Preta 14cm;VITRINE
-FATURAMENTO VD ES;11.69;13.19;24.53.66.215.06;Colher Medidora Digital de Plástico Branca 23cm - Wolff;VITRINE
 FATURAMENTO VD ES;37.13;42.24;24.53.66.220.00;Kit 5 Porta Temperos Vidro Borossilicato Tampa Bambu Wolff;VITRINE
 FATURAMENTO VD ES;16.77;19.08;24.53.66.35.06;Pote Wolff Vintage Flores de Cerâmica Branco 10cm x 8cm;VITRINE
 FATURAMENTO VD ES;65.12;74.07;24.53.66.37.00;Panela Wolff Revestimento Cerâmico Indução Granilite Cinza 20cm;VITRINE
@@ -1195,7 +1195,6 @@ FATURAMENTO VD ES;10.17;11.53;24.56.66.353.06;Prato Wolff Heart Beads de Porcela
 FATURAMENTO VD ES;11.28;12.83;24.56.66.356.00;Prato Wolff Heart Pearl de Cristal 29cm x 25cm x 2cm;VITRINE
 FATURAMENTO VD ES;7.09;8.06;24.56.66.373.00;Prato Wolff Pearl de Cristal Ãmbar 20cm;VITRINE
 FATURAMENTO VD ES;23.69;26.94;24.56.66.376.04;Prato Wolff Pearl de Cristal Dourado 28cm;VITRINE
-FATURAMENTO VD ES;8.52;9.77;24.56.66.383.11;Prato Wolff Pearl de Cristal Verde 28cm;VITRINE
 FATURAMENTO VD ES;7.09;8.06;24.56.66.384.00;Prato Wolff Pearl Rainbow de Cristal 20cm;VITRINE
 FATURAMENTO VD ES;6.77;7.71;24.56.66.388.06;Pratro para Sobremesa Wolff Bambu de Melamina Branco 22cm;VITRINE
 FATURAMENTO VD ES;22.59;25.69;24.56.66.41.04;Bowl Wolff Taj de Cristal Borda Dourada Incolor 19cm x 10cm;VITRINE
@@ -1209,8 +1208,8 @@ FATURAMENTO VD ES;23.83;27.11;24.56.66.483.00;Aparelho de Fondue 4 Peças de Por
 FATURAMENTO VD ES;31.68;36.03;24.56.66.486.00;Aparelho de Fondue 4 Peças de Porcelana Coração para Duas Pessoas Vermelho 400ml - Wolff;VITRINE
 FATURAMENTO VD ES;16.14;18.36;24.56.66.49.00;Jogo de 4 Pratos Wolff Pearl de Cristal Âmbar 14cm;VITRINE
 FATURAMENTO VD ES;13.17;14.98;24.56.66.53.00;Jogo de 4 Bowls Wolff Pearl de Cristal Âmbar 9cm;VITRINE
-FATURAMENTO VD ES;12.17;13.84;24.56.66.530.00;Travessa Oval de Cristal Pearl 30cm x 15cm x 2cm - Wolff;VITRINE
-FATURAMENTO VD ES;7.68;8.74;24.56.66.531.00;Travessa Oval de Cristal Pearl 24cm x 12cm x 2cm - Wolff;VITRINE
+FATURAMENTO VD ES;12.17;13.85;24.56.66.530.00;Travessa Oval de Cristal Pearl 30cm x 15cm x 2cm - Wolff;VITRINE
+FATURAMENTO VD ES;7.76;8.83;24.56.66.531.00;Travessa Oval de Cristal Pearl 24cm x 12cm x 2cm - Wolff;VITRINE
 FATURAMENTO VD ES;23.46;26.69;24.56.66.537.00;Prato para Servir de Cristal Martelado com Borda Dourada Taj 26cm - Wolff;VITRINE
 FATURAMENTO VD ES;8.63;9.82;24.56.66.56.18;Prato Wolff Pearl de Cristal Rosa 30cm x 25cm x 2cm;VITRINE
 FATURAMENTO VD ES;5.21;5.92;24.56.66.583.10;Prato De Sobremesa De Melamina Class Cinza 21,5Cm;VITRINE
@@ -1297,7 +1296,7 @@ FATURAMENTO VD ES;10.9;12.92;24.57.66.41.00;Jogo de 4 Anéis para Guardanapos Wo
 FATURAMENTO VD ES;13.63;16.15;24.57.66.42.00;Jogo de 4 Anéis para Guardanapos Woodart Círculo Teca Natural;VITRINE
 FATURAMENTO VD ES;12.82;14.58;24.57.66.431.06;Saladeira Wolff Bambu de Melamina Branco 25cm x 12 cm;VITRINE
 FATURAMENTO VD ES;11.38;12.95;24.57.66.448.00;Saladeira Wolff Pearl de Cristal 21cm x 18cm x 6cm;VITRINE
-FATURAMENTO VD ES;22.5;25.59;24.57.66.451.00;Saladeira Wolff Pearl de Cristal Incolor 21cm x 12cm;VITRINE
+FATURAMENTO VD ES;22.92;26.07;24.57.66.451.00;Saladeira Wolff Pearl de Cristal Incolor 21cm x 12cm;VITRINE
 FATURAMENTO VD ES;22.72;25.85;24.57.66.457.00;Souplast Wolff Pearl de Cristal Incolor 32 cm;VITRINE
 FATURAMENTO VD ES;22.72;25.85;24.57.66.457.00;Souplast Wolff Pearl de Cristal Transparente 32 cm;VITRINE
 FATURAMENTO VD ES;27.66;31.47;24.57.66.462.04;Sousplat Wolff de Cristal Dourada Agate 31cm;VITRINE
@@ -2443,7 +2442,6 @@ FATURAMENTO VD RJ;460.87;642.72;8.06.01.02.11;Cadeira de Refeição Jelly Safety
 FATURAMENTO VD RJ;460.86;642.72;8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;321.36;321.36;8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;460.86;642.72;8.06.01.05.27;Cadeira de Refeição Jelly Safety 1st - Grey;VITRINE
-FATURAMENTO BBTOTAL ES;321.36;321.36;8.06.01.05.27;Cadeira de Refeição Jelly Safety 1st - Grey;BB TOTAL
 FATURAMENTO VD RJ;379.96;529.89;8.06.01.06.18;Cadeira de Alimentação Feed Pink Sky - Safety 1st;VITRINE
 FATURAMENTO VD RJ;379.96;529.89;8.06.01.06.18;Cadeira de Refeição Feed Safety 1st Pink Sky;VITRINE
 FATURAMENTO VD RJ;431.61;601.92;8.06.01.07.01;Cadeira de Alimentação Dobrável Mellow Black - Safety 1st;VITRINE
@@ -2467,14 +2465,14 @@ FATURAMENTO VD RJ;727.75;1014.93;8.06.02.01.80;Cadeira de Refeição Minla Maxi-
 FULFILLMENT AMAZON;727.75;1014.93;8.06.02.01.80;Cadeira de Refeição Minla Maxi-Cosi - Essential Graphite;VITRINE
 FULFILLMENT MAGALU;720.68;966.57;8.06.02.01.80;Cadeira de Refeição Minla Maxi-Cosi - Essential Graphite;VITRINE
 FATURAMENTO BBTOTAL ES;507.47;507.47;8.06.02.01.80;Cadeira de Refeição Minla Maxi-Cosi - Essential Graphite;BB TOTAL
+FULFILLMENT MAGALU;495.14;680.67;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;542.02;755.91;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;496.09;691.85;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
-FULFILLMENT MAGALU;495.14;680.67;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;542.02;755.91;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;377.96;377.96;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;BB TOTAL
+FULFILLMENT MAGALU;495.14;680.67;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
 FULFILLMENT AMAZON;542.02;755.91;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
 FATURAMENTO VD RJ;496.09;691.85;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
-FULFILLMENT MAGALU;495.14;680.67;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
 FULFILLMENT MELI;542.02;755.91;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
 FATURAMENTO BBTOTAL ES;377.96;377.96;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;BB TOTAL
 FATURAMENTO VD RJ;496.09;691.85;8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;VITRINE
@@ -3151,7 +3149,6 @@ FATURAMENTO VD RJ;1838.91;2564.55;8.09.02.07.10;Carrinho com Bebê Conforto Trav
 FATURAMENTO VD RJ;1290.34;1799.5;8.09.02.08.10;Carrinho com Bebê Conforto Travel System Eva² Luxe Trio Twilic Grey - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;759.37;899.75;8.09.02.08.10;Carrinho com Bebê Conforto Travel System Eva² Luxe Trio Twilic Grey - Maxi-Cosi;BB TOTAL
 FULFILLMENT AMAZON;1171.92;1614.92;8.09.02.101.27;Carrinho de Bebê Anna³ Maxi-Cosi Sparkling Grey;VITRINE
-FATURAMENTO VD RJ;1171.92;1614.92;8.09.02.101.27;Carrinho de Bebê Anna³ Maxi-Cosi Sparkling Grey;VITRINE
 FULFILLMENT AMAZON;1171.92;1614.92;8.09.02.101.27;Carrinho de Bebê Anna³ Sparkling Grey - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1171.92;1614.92;8.09.02.101.27;Carrinho de Bebê Anna³ Sparkling Grey - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1617.58;2255.9;8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Maxi-Cosi Sparkilng Grey;VITRINE
@@ -8027,7 +8024,6 @@ FATURAMENTO VD RJ;1649.5;1649.5;8.09.02.05.01;Carrinho com Bebê Conforto Travel
 FATURAMENTO VD RJ;1649.5;1649.5;8.09.02.06.10;Carrinho com Bebê Conforto Travel System Eva² Trio Essential Graphite - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;2564.55;2564.55;8.09.02.07.10;Carrinho com Bebê Conforto Travel System Eva² Luxe Trio Isofix 360º Twillic Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1799.5;1799.5;8.09.02.08.10;Carrinho com Bebê Conforto Travel System Eva² Luxe Trio Twilic Grey - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;1614.92;1614.92;8.09.02.101.27;Carrinho de Bebê Anna³ Maxi-Cosi Sparkling Grey;BB TUDO
 FATURAMENTO VD RJ;1614.92;1614.92;8.09.02.101.27;Carrinho de Bebê Anna³ Sparkling Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;2255.9;2255.9;8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Maxi-Cosi Sparkilng Grey;BB TUDO
 FATURAMENTO VD RJ;2255.9;2255.9;8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;BB TUDO
