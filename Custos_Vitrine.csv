@@ -4501,7 +4501,6 @@ FATURAMENTO VD RJ;3.17;4.12;8.24.23.16.18;Copo Infantil 380 ml Infanti Rosa Escu
 FATURAMENTO BBTOTAL ES;2.06;2.06;8.24.23.16.18;Copo Infantil 380 ml Infanti Rosa Escuro;BB TOTAL
 FATURAMENTO VD RJ;3.17;4.12;8.24.23.16.18;Copo Infantil 380 ml Rosa Escuro - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;2.06;2.06;8.24.23.16.18;Copo Infantil 380 ml Rosa Escuro - Infanti;BB TOTAL
-FATURAMENTO VD RJ;3.17;4.12;8.24.23.17.08;Copo Infantil 380 ml Infanti Vermelho;VITRINE
 FATURAMENTO VD RJ;3.17;4.12;8.24.23.17.08;Copo Infantil 380 ml Vermelho - Infanti;VITRINE
 FATURAMENTO VD RJ;3.17;4.12;8.24.23.19.16;Copo Infantil 380 ml Amarelo - Infanti;VITRINE
 FATURAMENTO VD RJ;3.17;4.12;8.24.23.19.16;Copo Infantil 380 ml Infanti Amarelo;VITRINE
@@ -5725,7 +5724,6 @@ FATURAMENTO VD RJ;116.38;132.39;8.25.57.179.06;Lixeira Antiodor 9 litros Branca 
 FATURAMENTO BBTOTAL ES;50.1;57.51;8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;BB TOTAL
 FATURAMENTO VD RJ;5.22;5.44;8.25.57.18.00;Massageador de Gengiva Com Estojo - Buba;VITRINE
 FATURAMENTO VD RJ;5.22;5.44;8.25.57.18.00;Massageador de Gengiva Com Estojo da Buba;VITRINE
-FATURAMENTO VD ES;5.22;5.98;8.25.57.18.00;Massageador de Gengiva Com Estojo da Buba;VITRINE
 FATURAMENTO VD ES;12.81;14.57;8.25.57.180.07;Kit Lavador Nasal Azul - Buba;VITRINE
 FATURAMENTO VD RJ;12.81;14.57;8.25.57.180.07;Kit Lavador Nasal Azul - Buba;VITRINE
 FATURAMENTO VD RJ;7.15;8.14;8.25.57.181.18;Lavador Nasal Seringa Dino Rosa - Buba;VITRINE
@@ -8736,7 +8734,6 @@ FATURAMENTO VD RJ;3.5;3.5;8.24.23.14.02;Copo Infantil 380 ml Lilás - Infanti;BB
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.15.18;Copo Infantil 380 ml Rosa Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.16.18;Copo Infantil 380 ml Infanti Rosa Escuro;BB TUDO
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.16.18;Copo Infantil 380 ml Rosa Escuro - Infanti;BB TUDO
-FATURAMENTO VD RJ;4.12;4.12;8.24.23.17.08;Copo Infantil 380 ml Infanti Vermelho;BB TUDO
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.17.08;Copo Infantil 380 ml Vermelho - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.19.16;Copo Infantil 380 ml Amarelo - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.19.16;Copo Infantil 380 ml Infanti Amarelo;BB TUDO
@@ -9438,7 +9435,6 @@ FATURAMENTO VD RJ;7.3;7.3;8.25.57.17.00;Luz Noturna Led Buba Branco;BB TUDO
 FATURAMENTO VD RJ;132.39;132.39;8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;BB TUDO
 FATURAMENTO VD RJ;5.44;5.44;8.25.57.18.00;Massageador de Gengiva Com Estojo - Buba;BB TUDO
 FATURAMENTO VD RJ;5.44;5.44;8.25.57.18.00;Massageador de Gengiva Com Estojo da Buba;BB TUDO
-FATURAMENTO VD ES;5.98;5.98;8.25.57.18.00;Massageador de Gengiva Com Estojo da Buba;BB TUDO
 FATURAMENTO VD ES;14.57;14.57;8.25.57.180.07;Kit Lavador Nasal Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;14.57;14.57;8.25.57.180.07;Kit Lavador Nasal Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;8.14;8.14;8.25.57.181.18;Lavador Nasal Seringa Dino Rosa - Buba;BB TUDO
