@@ -229,7 +229,7 @@ FATURAMENTO VD RJ;302.8;359.48;21.14.50.487.00;Conjunto 4 Cadeiras Web Wood Bran
 FATURAMENTO VD ES;259.28;306.63;21.14.50.487.00;Conjunto 4 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;55.23;65.45;21.14.50.49.00;Cadeira Eames  Transparente;VITRINE
 FATURAMENTO VD ES;55.83;66.06;21.14.50.49.00;Cadeira Eames  Transparente;VITRINE
-FATURAMENTO VD ES;74.35;87.59;21.14.50.495.00;Cadeira De Balanço Eames Com Braço Creme  Base Em Metal E Madeira;VITRINE
+FATURAMENTO VD ES;106.86;125.88;21.14.50.495.00;Cadeira De Balanço Eames Com Braço Creme  Base Em Metal E Madeira;VITRINE
 FATURAMENTO VD ES;74.35;87.59;21.14.50.496.00;Cadeira De Balanço Eames Com Braço Preta  Base Em Metal E Madeira;VITRINE
 FATURAMENTO VD ES;74.35;87.59;21.14.50.497.00;Cadeira De Balanço Eames Com Braço Rosa  Base Em Metal E Madeira;VITRINE
 FATURAMENTO VD ES;139.36;164.17;21.14.50.499.00;Cadeira De Balanço Eames Com Braço Branca  Base Em Metal E Madeira;VITRINE
@@ -251,8 +251,8 @@ FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada B
 FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
-FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
+FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;159.36;189.66;21.14.50.667.00;Conjunto Com 2 Cadeiras Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.667.00;Conjunto Com 2 Cadeiras Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
@@ -697,7 +697,6 @@ FATURAMENTO VD ES;58.35;66.1;24.50.66.381.00;Bandeja Decorativa de Vidro com Pé
 FATURAMENTO VD ES;7.53;8.53;24.50.66.393.00;Vaso de Cristal Queen 6cm x 15cm - Wolff;VITRINE
 FATURAMENTO VD ES;11.23;12.72;24.50.66.397.00;Potiche Decorativo Cristal com Pé Queen 11cm x 18cm - Wolff;VITRINE
 FATURAMENTO VD ES;83.66;94.78;24.50.66.413.00;Vaso Murano Italy Verde Esmeralda 18cm x 21cm - Wolff;VITRINE
-FATURAMENTO VD ES;44.85;50.81;24.50.66.414.00;Vaso Murano Italy Rosa Claro e Dourado 10cm x 11cm - Wolff;VITRINE
 FATURAMENTO VD ES;78.93;89.42;24.50.66.420.00;Vaso Murano Italy Púrpura e Rosé 18cm x 21cm - Wolff;VITRINE
 FATURAMENTO VD ES;51.27;58.09;24.50.66.427.00;Vaso de Vidro com Borda Dourada 10cm x 25cm - Wolff;VITRINE
 FATURAMENTO VD ES;55.04;62.36;24.50.66.428.00;Vaso de Vidro com Borda Dourada 10cm x 30cm - Wolff;VITRINE
@@ -3875,8 +3874,8 @@ FATURAMENTO VD RJ;1349.38;1544.94;8.09.53.49.00;Carrinho de Bebê Goody Plus Cit
 FATURAMENTO BBTOTAL ES;196.64;196.64;8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;BB TOTAL
 FATURAMENTO VD RJ;346.09;393.28;8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;VITRINE
 FATURAMENTO BBTOTAL ES;196.64;196.64;8.09.54.04.07;Carrinho de Bebê Evo Tutti Baby Azul;BB TOTAL
-FATURAMENTO VD RJ;146.09;166.19;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;VITRINE
 FATURAMENTO VD ES;146.09;166.19;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;VITRINE
+FATURAMENTO VD RJ;146.09;166.19;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;83.1;83.1;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;BB TOTAL
 FATURAMENTO VD RJ;470.03;557.44;8.09.68.01.01;Carrinho de Bebê Compacto Oppa Litet Preto;VITRINE
 FATURAMENTO VD RJ;470.03;557.44;8.09.68.01.01;Carrinho de Bebê Compacto Oppa Preto - Litet;VITRINE
@@ -8386,8 +8385,8 @@ FATURAMENTO VD RJ;566.09;566.09;8.09.53.45.01;Carrinho de Bebê Mysa Black Satin
 FATURAMENTO VD RJ;566.09;566.09;8.09.53.45.01;Carrinho de Bebê Mysa Black Satin Chicco;BB TUDO
 FATURAMENTO VD RJ;34.21;34.21;8.09.53.46.01;Adaptadores Mysa Fast In Black Chicco;BB TUDO
 FATURAMENTO VD RJ;393.28;393.28;8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;BB TUDO
-FATURAMENTO VD RJ;166.19;166.19;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;BB TUDO
 FATURAMENTO VD ES;166.19;166.19;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;BB TUDO
+FATURAMENTO VD RJ;166.19;166.19;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;BB TUDO
 FATURAMENTO VD RJ;557.44;557.44;8.09.68.01.01;Carrinho de Bebê Compacto Oppa Litet Preto;BB TUDO
 FATURAMENTO VD RJ;557.44;557.44;8.09.68.01.01;Carrinho de Bebê Compacto Oppa Preto - Litet;BB TUDO
 FATURAMENTO VD RJ;1858.97;1858.97;8.09.68.04.76;Carrinho de Bebê Candy 0-15 Kgs Caramelo Litet;BB TUDO
