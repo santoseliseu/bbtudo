@@ -447,7 +447,7 @@ FATURAMENTO VD ES;13.8;15.7;24.10.159.319.00;Pote Hermético de Vidro com Tampa 
 FATURAMENTO VD ES;41.48;50.69;24.10.159.321.00;Cuscuzeira de Aço Inox 16cm x 16cm x 20cm;VITRINE
 FATURAMENTO VD ES;10.1;12.34;24.10.159.323.00;Escorredor de Massas de Aço Inox Prime 24cm - Lyor;VITRINE
 FATURAMENTO VD ES;10.98;13.42;24.10.159.324.00;Escorredor de Arroz de Aço Inox Prime 25cm - Lyor;VITRINE
-FATURAMENTO VD ES;7.08;8.02;24.10.159.326.00;Bandeja para 6 Ovos de Porcelana New Bone Montana;VITRINE
+FATURAMENTO VD ES;6.99;7.92;24.10.159.326.00;Bandeja para 6 Ovos de Porcelana New Bone Montana;VITRINE
 FATURAMENTO VD ES;58.73;66.81;24.10.159.328.00;Suqueira de Cristal Ecológico Diamond 2L - Lyor;VITRINE
 FATURAMENTO VD ES;85.95;97.77;24.10.159.329.00;Suqueira de Cristal Ecológico Diamond 4,7L - Lyor;VITRINE
 FATURAMENTO VD ES;30.67;34.89;24.10.159.331.00;Jarra de Vidro com Fio de Ouro Coração 1L - Lyor;VITRINE
@@ -520,7 +520,7 @@ FATURAMENTO VD ES;36.22;41.03;24.11.159.49.00;Potiche Cristal com Pé Diamond Â
 FATURAMENTO VD ES;6.3;7.13;24.11.159.51.00;Potiche de Cristal Carrossel 10,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;26.34;30.1;24.11.159.74.00;Bandeja Redonda de Mármore Terrazo 20cm - Lyor;VITRINE
 FATURAMENTO VD ES;46.92;51.25;24.11.159.75.00;Bandeja Redonda de Mármore Terrazo 30cm - Lyor;VITRINE
-FATURAMENTO VD ES;20.23;23.11;24.11.159.76.00;Bandeja Retangular de Mármore Terrazo 25cm x 10cm - Lyor;VITRINE
+FATURAMENTO VD ES;20.22;23.11;24.11.159.76.00;Bandeja Retangular de Mármore Terrazo 25cm x 10cm - Lyor;VITRINE
 FATURAMENTO VD ES;23.83;27.11;24.11.159.79.01;Bandeja de Metal com Espelho Preta 15cm x 25cm x 4cm - Lyor;VITRINE
 FATURAMENTO VD ES;31.24;35.54;24.11.159.80.01;Bandeja de Metal com Espelho Preta 20cm x 30cm x 4cm - Lyor;VITRINE
 FATURAMENTO VD ES;23.47;26.7;24.11.159.81.04;Bandeja de Metal com Espelho Dourada 15cm x 25cm x 4cm;VITRINE
@@ -585,7 +585,6 @@ FATURAMENTO VD ES;91.58;105.57;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160
 FATURAMENTO VD ES;90.63;104.47;24.11.175.80.57;Persiana Zebra Rolo Dupla 120X160 Caramelo;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.84.06;Persiana Zebra Rolo Dupla 140X160 Branca;VITRINE
 FATURAMENTO VD ES;105.85;122.01;24.11.175.85.01;Persiana Zebra Rolo Dupla 140X160 Preta;VITRINE
-FATURAMENTO VD ES;105.8;121.96;24.11.175.86.57;Persiana Zebra Rolo Dupla 140X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.87.57;Persiana Zebra Rolo Dupla 140X160 Caramelo;VITRINE
 FATURAMENTO VD ES;120.96;139.44;24.11.175.90.06;Persiana Zebra Rolo Dupla 160X160 Branca;VITRINE
 FATURAMENTO VD ES;120.96;139.44;24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;VITRINE
@@ -626,10 +625,10 @@ FULFILLMENT AMAZON;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litro
 FULFILLMENT VISUAL IN;54.06;76.56;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VISUAL IN
 FULFILLMENT MELI;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FATURAMENTO VD ES;56.79;69.72;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
+FULFILLMENT AMAZON;25.62;29.8;24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca Mollie;VITRINE
 FATURAMENTO VD RJ;25.62;29.8;24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca Mollie;VITRINE
 FATURAMENTO VISUAL IN SP;34.74;23.6;24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca Mollie;VISUAL IN
 FULFILLMENT VISUAL IN;34.74;23.6;24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca Mollie;VISUAL IN
-FULFILLMENT AMAZON;25.62;29.8;24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca Mollie;VITRINE
 FATURAMENTO VD ES;34.95;42.9;24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca Mollie;VITRINE
 FATURAMENTO VD RJ;55.87;65.52;24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca Mollie;VITRINE
 FULFILLMENT VISUAL IN;53.29;78.44;24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca Mollie;VISUAL IN
@@ -661,6 +660,7 @@ FATURAMENTO VD ES;6.58;7.44;24.25.49.29.00;Caixa Box Extra para Lixeiras - Molli
 FATURAMENTO VD ES;42.0;48.22;24.50.163.01.00;Estante Suspensa De Bambu 4 Andares - Oikos;VITRINE
 FATURAMENTO VD ES;69.06;79.27;24.50.163.06.00;Prateleira De Metal Com Espelho Redondo - Oikos;VITRINE
 FATURAMENTO VD ES;26.87;30.44;24.50.66.06.00;VASO CRISTAL DE CHUMBO ANGEL 14x25cm;VITRINE
+FATURAMENTO VD ES;11.38;13.01;24.50.66.109.00;Castiçal Wolff Argos de Vidro 8cm x 16cm;VITRINE
 FATURAMENTO VD ES;44.14;50.0;24.50.66.11.00;Vaso Wolff Murano Italy  Tiffany 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;58.02;65.74;24.50.66.12.00;Vaso Wolff Murano Italy  Âmbar 11,5cm x 13cm;VITRINE
 FATURAMENTO VD ES;74.25;84.12;24.50.66.137.00;Centro de Mesa Wolff Italy de Vidro Âmbar 21cm x 10cm;VITRINE
@@ -867,6 +867,7 @@ FATURAMENTO VD ES;5.03;5.71;24.52.66.421.00;"Caneca Vidro Borossilicato Bom Dia 
 ";VITRINE
 FATURAMENTO VD ES;11.36;12.92;24.52.66.422.00;Kit 2 Canecas de Vidro Borossilicato Bom Dia 280ml - Wolff;VITRINE
 FATURAMENTO VD ES;11.54;13.13;24.52.66.423.00;Kit 2 Canecas de Vidro Flor 280ml - Wolff;VITRINE
+FATURAMENTO VD ES;44.79;50.95;24.52.66.424.18;Kit 2 Xícaras Chá Cerâmica Colibri Pires Rosa 170ml Wolff;VITRINE
 FATURAMENTO VD ES;36.5;41.52;24.52.66.427.00;"Kit 4 Taças Cappuccino Vidro Fio Ouro Lines 240ml Wolff
 
 
@@ -1211,7 +1212,7 @@ FATURAMENTO VD ES;5.2;5.92;24.56.66.584.01;Prato De Sobremesa De Melamina Class 
 FATURAMENTO VD ES;8.66;9.85;24.56.66.589.10;Prato Raso De Melamina Class Cinza 27Cm;VITRINE
 FATURAMENTO VD ES;8.66;9.85;24.56.66.590.01;Prato Raso De Melamina Class Preto 27Cm;VITRINE
 FATURAMENTO VD ES;13.7;15.58;24.56.66.60.04;Prato Wolff Pearl de Cristal Dourado 20cm;VITRINE
-FATURAMENTO VD ES;35.63;40.53;24.56.66.605.10;Prato para Risoto de Cerâmica Mist Cinza Matte 26cm - Wolff;VITRINE
+FATURAMENTO VD ES;33.46;38.06;24.56.66.605.10;Prato para Risoto de Cerâmica Mist Cinza Matte 26cm - Wolff;VITRINE
 FATURAMENTO VD ES;14.18;16.13;24.56.66.63.00;Jogo de 4 Bowls Wolff Pearl de Cristal Incolor 12cm;VITRINE
 FATURAMENTO VD ES;10.83;12.32;24.56.66.64.00;Jogo de 4 Pratos Wolff Pearl de Cristal Âmbar 12cm x 10cm x 1cm;VITRINE
 FATURAMENTO VD ES;9.77;11.11;24.56.66.65.00;Prato Wolff Pearl de Cristal Âmbar 20cm x 17cm;VITRINE
@@ -3835,7 +3836,6 @@ FULFILLMENT VISUAL IN;501.52;791.26;8.09.39.29.57;Carrinho com Bebê Conforto Tr
 FATURAMENTO BBTOTAL ES;38.24;43.9;8.09.47.13.01;Organizador de Assento de Carro Twist-Twist KaBaby Cinza;BB TOTAL
 FATURAMENTO VD RJ;78.62;87.93;8.09.47.13.01;Organizador de Assento de Carro Twist-Twist KaBaby Cinza;VITRINE
 FATURAMENTO VD RJ;421.85;482.99;8.09.53.01.01;Carrinho de Bebê para Gêmeos Ohlalà Twin Black Night;VITRINE
-FATURAMENTO BBTOTAL ES;694.24;796.88;8.09.53.01.01;Carrinho de Bebê para Gêmeos Ohlalà Twin Black Night;BB TOTAL
 FATURAMENTO BBTOTAL ES;288.28;330.9;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone Preto - Chicco;BB TOTAL
 FATURAMENTO VD RJ;578.02;661.8;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone Preto - Chicco;VITRINE
 FATURAMENTO VD RJ;1252.96;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Chicco Graphite;VITRINE
@@ -3932,9 +3932,6 @@ FATURAMENTO VD RJ;1942.0;2224.33;8.09.76.26.10;Carrinho Finiti Carbon - Joie;VIT
 FATURAMENTO VD RJ;1153.85;1301.22;8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;VITRINE
 FATURAMENTO VISUAL IN SP;1227.54;1227.54;8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;VISUAL IN
 FULFILLMENT VISUAL IN;1227.54;1227.54;8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;VISUAL IN
-FATURAMENTO VD RJ;1115.3;1219.35;8.09.76.29.01;Carrinho com Bebê Conforto Travel System Kansas Silver e Preto - Premium Baby;VITRINE
-FATURAMENTO BBTOTAL ES;531.15;609.68;8.09.76.29.01;Carrinho com Bebê Conforto Travel System Kansas Silver e Preto - Premium Baby;BB TOTAL
-FATURAMENTO VD RJ;1115.3;1219.35;8.09.76.29.01;Carrinho e Bebê Conforto TS Kansas Silver/Preto - Premium Baby;VITRINE
 FATURAMENTO VD RJ;2551.89;2902.97;8.09.76.30.01;Carrinho de Bebê Versatrax E Preto Pavement  Joie;VITRINE
 FATURAMENTO VD RJ;2551.89;2902.97;8.09.76.30.01;Carrinho de Bebê Versatrax E Preto Pavement – Joie;VITRINE
 FATURAMENTO VD RJ;1998.24;2273.15;8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;VITRINE
@@ -6315,108 +6312,64 @@ FATURAMENTO VD RJ;22.15;23.07;8.25.98.02.00;Kit Pente Escova Com Cerdas Naturais
 FATURAMENTO BBTOTAL ES;23.44;23.44;8.25.98.05.18;Kit Higiene Rosa (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;BB TOTAL
 FATURAMENTO VD ES;38.91;44.27;8.25.98.05.18;Kit Higiene Rosa (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;VITRINE
 FATURAMENTO VD RJ;38.92;40.54;8.25.98.05.18;Kit Higiene Rosa (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;VITRINE
-FATURAMENTO VD RJ;51.45;69.5;8.26.138.01.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - Recém nascido;VITRINE
-FATURAMENTO VD RJ;52.34;69.5;8.26.138.02.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 3 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.03.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 6 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.04.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 9 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.05.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 12 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.06.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 18 meses (1 a 2 anos);VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.07.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 24 meses (2 a 3 anos);VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.08.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - Recém nascido;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.09.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 3 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.09.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 3 meses;VITRINE
 FATURAMENTO VD RJ;52.35;67.83;8.26.138.10.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 6 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.10.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 6 meses;BB TOTAL
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.12.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 12 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.13.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 18 meses (1 a 2 anos);VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.14.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 24 meses (2 a 3 anos);VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.15.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - Recém nascido;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.16.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 3 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.19.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 12 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.20.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.20.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 18 meses (1 a 2 anos);VITRINE
 FATURAMENTO BBTOTAL ES;22.1;26.18;8.26.138.22.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - Recém nascido;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.22.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - Recém nascido;VITRINE
-FATURAMENTO VD RJ;52.34;69.5;8.26.138.23.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 3 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.24.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 6 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.25.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 9 meses;BB TOTAL
 FATURAMENTO VD RJ;52.15;69.5;8.26.138.25.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 9 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.26.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 12 meses;BB TOTAL
 FATURAMENTO VD RJ;29.33;34.75;8.26.138.26.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 12 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.27.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.27.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 18 meses (1 a 2 anos);VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.29.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - Recém nascid;VITRINE
 FATURAMENTO BBTOTAL ES;22.1;26.18;8.26.138.30.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 3 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.30.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 3 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.31.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 6 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.32.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 9 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.32.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 9 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.33.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 12 meses;BB TOTAL
 FATURAMENTO VD RJ;29.33;34.75;8.26.138.33.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 12 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.34.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 18 meses (1;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.35.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 24 meses (2;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.36.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - Recém nascido;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.37.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 3 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.38.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 6 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.39.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 9 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.40.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 12 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.41.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 18 meses (1 a 2 anos);VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.42.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 24 meses (2 a 3 anos);VITRINE
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.44.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 3 meses;VITRINE
 FATURAMENTO BBTOTAL ES;29.33;34.75;8.26.138.44.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 3 meses;BB TOTAL
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.45.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 6 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.46.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 9 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.46.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 9 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.47.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 12 meses;VITRINE
-FATURAMENTO VD RJ;51.45;58.47;8.26.138.48.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 18 meses (1 a 2 anos);VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.49.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 24 meses (2 a 3 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.49.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 24 meses (2 a 3 anos);VITRINE
-FATURAMENTO VD RJ;82.48;109.5;8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;VITRINE
 FATURAMENTO BBTOTAL ES;46.21;54.75;8.26.138.51.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 3 meses;BB TOTAL
 FATURAMENTO VD RJ;82.48;109.5;8.26.138.51.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 3 meses;VITRINE
-FATURAMENTO VD RJ;82.48;109.5;8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;VITRINE
-FATURAMENTO VD RJ;82.48;109.5;8.26.138.53.06;Macacão Magnético Algodão Pima Branco com bordados em Rosa - Recém nascido;VITRINE
-FATURAMENTO VD RJ;82.48;109.5;8.26.138.54.06;Macacão Magnético Algodão Pima Branco com bordados em Rosa - 3 meses;VITRINE
 FATURAMENTO BBTOTAL ES;46.21;54.75;8.26.138.55.06;Macacão Magnético Algodão Pima Branco com bordados em Rosa - 6 meses;BB TOTAL
 FATURAMENTO VD RJ;82.48;109.5;8.26.138.55.06;Macacão Magnético Algodão Pima Branco com bordados em Rosa - 6 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.56.07;Macacão Magnético Listra Azul com girafinhas - Recém nascido;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.56.07;Macacão Magnético Listra Azul com girafinhas - Recém nascido;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.57.07;Macacão Magnético Listra Azul com girafinhas - 3 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.58.07;Macacão Magnético Listra Azul com girafinhas - 6 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.58.07;Macacão Magnético Listra Azul com girafinhas - 6 meses;VITRINE
 FATURAMENTO VD RJ;52.35;67.83;8.26.138.59.07;Macacão Magnético Listra Azul com girafinhas - 9 meses;VITRINE
 FATURAMENTO BBTOTAL ES;33.92;33.92;8.26.138.59.07;Macacão Magnético Listra Azul com girafinhas - 9 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.60.07;Macacão Magnético Listra Azul com girafinhas - 12 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.60.07;Macacão Magnético Listra Azul com girafinhas - 12 meses;BB TOTAL
-FATURAMENTO VD RJ;52.35;59.49;8.26.138.61.07;Macacão Magnético Listra Azul com girafinhas - 18 meses (1 a 2 anos);VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.62.07;Macacão Magnético Listra Azul com girafinhas - 24 meses (2 a 3 anos);VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.63.18;Macacão Magnético Listra Rosa com girafinhas - Recém nascido;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.63.18;Macacão Magnético Listra Rosa com girafinhas - Recém nascido;VITRINE
 FATURAMENTO VD RJ;52.35;64.5;8.26.138.64.18;Macacão Magnético Listra Rosa com girafinhas - 3 meses;VITRINE
 FATURAMENTO BBTOTAL ES;32.25;32.25;8.26.138.64.18;Macacão Magnético Listra Rosa com girafinhas - 3 meses;BB TOTAL
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.65.18;Macacão Magnético Listra Rosa com girafinhas - 6 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.67.18;Macacão Magnético Listra Rosa com girafinhas - 12 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.13;34.13;8.26.138.68.18;Macacão Magnético Listra Rosa com girafinhas - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;68.25;8.26.138.68.18;Macacão Magnético Listra Rosa com girafinhas - 18 meses (1 a 2 anos);VITRINE
 FATURAMENTO BBTOTAL ES;29.33;34.75;8.26.138.70.16;Macacão Magnético Amarelo com girafa lateral branca - Recém nascido;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.70.16;Macacão Magnético Amarelo com girafa lateral branca - Recém nascido;VITRINE
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.71.16;Macacão Magnético Amarelo com girafa lateral branca - 3 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.71.16;Macacão Magnético Amarelo com girafa lateral branca - 3 meses;BB TOTAL
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.72.16;Macacão Magnético Amarelo com girafa lateral branca - 6 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.73.16;Macacão Magnético Amarelo com girafa lateral branca - 9 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.73.16;Macacão Magnético Amarelo com girafa lateral branca - 9 meses;VITRINE
-FATURAMENTO VD RJ;52.35;59.49;8.26.138.74.16;Macacão Magnético Amarelo com girafa lateral branca - 12 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.75.16;Macacão Magnético Amarelo com girafa lateral branca - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.75.16;Macacão Magnético Amarelo com girafa lateral branca - 18 meses (1 a 2 anos);VITRINE
-FATURAMENTO VD RJ;52.35;59.49;8.26.138.76.16;Macacão Magnético Amarelo com girafa lateral branca - 24 meses (2 a 3 anos);VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.77.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - Recém nascido;BB TOTAL
 FATURAMENTO VD RJ;29.33;34.75;8.26.138.77.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - Recém nascido;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.78.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 3 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.78.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 3 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.79.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 6 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.80.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 9 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.80.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 9 meses;VITRINE
-FATURAMENTO VD RJ;52.35;69.5;8.26.138.81.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 12 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.82.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.82.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 18 meses (1 a 2 anos);VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.83.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 24 meses (2 a 3 anos);BB TOTAL
@@ -8411,8 +8364,6 @@ FATURAMENTO VD RJ;1784.16;1784.16;8.09.76.25.10;Carrinho de Bebê Parcel Carbon 
 FATURAMENTO VD RJ;1784.16;1784.16;8.09.76.25.10;Carrinho de Bebê Parcel Carbon Joie;BB TUDO
 FATURAMENTO VD RJ;2224.33;2224.33;8.09.76.26.10;Carrinho Finiti Carbon - Joie;BB TUDO
 FATURAMENTO VD RJ;1301.22;1301.22;8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;BB TUDO
-FATURAMENTO VD RJ;1219.35;1219.35;8.09.76.29.01;Carrinho com Bebê Conforto Travel System Kansas Silver e Preto - Premium Baby;BB TUDO
-FATURAMENTO VD RJ;1219.35;1219.35;8.09.76.29.01;Carrinho e Bebê Conforto TS Kansas Silver/Preto - Premium Baby;BB TUDO
 FATURAMENTO VD RJ;2273.15;2273.15;8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;BB TUDO
 FATURAMENTO VD RJ;2273.15;2273.15;8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale Joie;BB TUDO
 FATURAMENTO VD RJ;2039.48;2039.48;8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;BB TUDO
@@ -9770,79 +9721,35 @@ FATURAMENTO VD ES;112.41;112.41;8.25.94.11.00;Mordedor So Pure Aro Sophie La Gir
 FATURAMENTO VD RJ;23.07;23.07;8.25.98.02.00;Kit Pente Escova Com Cerdas Naturais Azul/Verde Ibimboo;BB TUDO
 FATURAMENTO VD ES;44.27;44.27;8.25.98.05.18;Kit Higiene Rosa (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;BB TUDO
 FATURAMENTO VD RJ;40.54;40.54;8.25.98.05.18;Kit Higiene Rosa (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.01.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - Recém nascido;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.02.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.03.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 6 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.04.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 9 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.05.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 12 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.06.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 18 meses (1 a 2 anos);BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.07.06;Macacão Magnético Branco com detalhes azul jeans, avelã e estampa surf - 24 meses (2 a 3 anos);BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.08.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - Recém nascido;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.09.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 3 meses;BB TUDO
 FATURAMENTO VD RJ;67.83;67.83;8.26.138.10.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 6 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.12.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 12 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.13.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 18 meses (1 a 2 anos);BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.14.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 24 meses (2 a 3 anos);BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.15.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - Recém nascido;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.16.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.19.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 12 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.20.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 18 meses (1 a 2 anos);BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.22.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - Recém nascido;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.23.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.24.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 6 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.25.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 9 meses;BB TUDO
 FATURAMENTO VD RJ;34.75;34.75;8.26.138.26.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 12 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.27.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 18 meses (1 a 2 anos);BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.29.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - Recém nascid;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.30.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.31.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 6 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.32.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 9 meses;BB TUDO
 FATURAMENTO VD RJ;34.75;34.75;8.26.138.33.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 12 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.34.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 18 meses (1;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.35.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - 24 meses (2;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.36.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - Recém nascido;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.37.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.38.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 6 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.39.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 9 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.40.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 12 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.41.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 18 meses (1 a 2 anos);BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.42.10;Macacão Magnético Mescla, girafa de courinho decorativa no peito - 24 meses (2 a 3 anos);BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.44.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.45.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 6 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.46.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 9 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.47.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 12 meses;BB TUDO
-FATURAMENTO VD RJ;58.47;58.47;8.26.138.48.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 18 meses (1 a 2 anos);BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.49.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 24 meses (2 a 3 anos);BB TUDO
-FATURAMENTO VD RJ;109.5;109.5;8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;BB TUDO
 FATURAMENTO VD RJ;109.5;109.5;8.26.138.51.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 3 meses;BB TUDO
-FATURAMENTO VD RJ;109.5;109.5;8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;BB TUDO
-FATURAMENTO VD RJ;109.5;109.5;8.26.138.53.06;Macacão Magnético Algodão Pima Branco com bordados em Rosa - Recém nascido;BB TUDO
-FATURAMENTO VD RJ;109.5;109.5;8.26.138.54.06;Macacão Magnético Algodão Pima Branco com bordados em Rosa - 3 meses;BB TUDO
 FATURAMENTO VD RJ;109.5;109.5;8.26.138.55.06;Macacão Magnético Algodão Pima Branco com bordados em Rosa - 6 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.56.07;Macacão Magnético Listra Azul com girafinhas - Recém nascido;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.57.07;Macacão Magnético Listra Azul com girafinhas - 3 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.58.07;Macacão Magnético Listra Azul com girafinhas - 6 meses;BB TUDO
 FATURAMENTO VD RJ;67.83;67.83;8.26.138.59.07;Macacão Magnético Listra Azul com girafinhas - 9 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.60.07;Macacão Magnético Listra Azul com girafinhas - 12 meses;BB TUDO
-FATURAMENTO VD RJ;59.49;59.49;8.26.138.61.07;Macacão Magnético Listra Azul com girafinhas - 18 meses (1 a 2 anos);BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.62.07;Macacão Magnético Listra Azul com girafinhas - 24 meses (2 a 3 anos);BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.63.18;Macacão Magnético Listra Rosa com girafinhas - Recém nascido;BB TUDO
 FATURAMENTO VD RJ;64.5;64.5;8.26.138.64.18;Macacão Magnético Listra Rosa com girafinhas - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.65.18;Macacão Magnético Listra Rosa com girafinhas - 6 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.67.18;Macacão Magnético Listra Rosa com girafinhas - 12 meses;BB TUDO
 FATURAMENTO VD RJ;68.25;68.25;8.26.138.68.18;Macacão Magnético Listra Rosa com girafinhas - 18 meses (1 a 2 anos);BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.70.16;Macacão Magnético Amarelo com girafa lateral branca - Recém nascido;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.71.16;Macacão Magnético Amarelo com girafa lateral branca - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.72.16;Macacão Magnético Amarelo com girafa lateral branca - 6 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.73.16;Macacão Magnético Amarelo com girafa lateral branca - 9 meses;BB TUDO
-FATURAMENTO VD RJ;59.49;59.49;8.26.138.74.16;Macacão Magnético Amarelo com girafa lateral branca - 12 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.75.16;Macacão Magnético Amarelo com girafa lateral branca - 18 meses (1 a 2 anos);BB TUDO
-FATURAMENTO VD RJ;59.49;59.49;8.26.138.76.16;Macacão Magnético Amarelo com girafa lateral branca - 24 meses (2 a 3 anos);BB TUDO
 FATURAMENTO VD RJ;34.75;34.75;8.26.138.77.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - Recém nascido;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.78.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 3 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.79.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 6 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.80.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 9 meses;BB TUDO
-FATURAMENTO VD RJ;69.5;69.5;8.26.138.81.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 12 meses;BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.82.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 18 meses (1 a 2 anos);BB TUDO
 FATURAMENTO VD RJ;69.5;69.5;8.26.138.83.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 24 meses (2 a 3 anos);BB TUDO
 FATURAMENTO VD RJ;95.0;95.0;8.27.01.01.07;Troninho Flex Potty 3 in 1 Safety 1st Blue;BB TUDO
