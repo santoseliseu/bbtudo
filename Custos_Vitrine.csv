@@ -152,8 +152,8 @@ FATURAMENTO VD ES;139.66;164.52;21.14.50.270.00;Conjunto Com 2 Cadeiras Eames Ei
 FATURAMENTO VD ES;132.35;155.91;21.14.50.271.00;Cadeira Eames Eiffel Transparente  Base Preta;VITRINE
 FATURAMENTO VD RJ;132.35;155.91;21.14.50.271.00;Cadeira Eames Eiffel Transparente  Base Preta;VITRINE
 FATURAMENTO VD ES;264.7;311.82;21.14.50.272.00;Conjunto Com 2 Cadeiras Eames Eiffel Transparente  Base Preta;VITRINE
-FATURAMENTO VD RJ;50.91;60.43;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
 FATURAMENTO VD ES;67.96;78.28;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
+FATURAMENTO VD RJ;50.91;60.43;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
 FATURAMENTO VD ES;101.82;120.86;21.14.50.29.00;Conjunto 2 Cadeiras Eames  Fendi;VITRINE
 FATURAMENTO VD RJ;101.82;120.86;21.14.50.29.00;Conjunto 2 Cadeiras Eames  Fendi;VITRINE
 FATURAMENTO VD ES;111.54;131.4;21.14.50.299.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Preta  Base Aço Cromado;VITRINE
@@ -954,7 +954,7 @@ FATURAMENTO VD ES;9.48;10.78;24.53.66.13.00;Moedor para Sal e Pimenta de Acrilí
 FATURAMENTO VD ES;84.19;95.77;24.53.66.135.00;Conjunto 12 Potes Com Tampa Hermética E Rack Giratório 120Ml;VITRINE
 FATURAMENTO VD ES;68.37;77.78;24.53.66.137.00;Conjunto 8 Potes Com Tampa Hermética E Rack Em Bambu;VITRINE
 FATURAMENTO VD ES;7.35;8.35;24.53.66.139.01;Garrafa Para Azeite De Vidro Preta Essência 500Ml;VITRINE
-FATURAMENTO VD ES;16.89;19.3;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
+FATURAMENTO VD ES;16.31;18.63;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
 FATURAMENTO VD RJ;19.72;22.53;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
 FATURAMENTO VD ES;15.24;17.34;24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;VITRINE
 FATURAMENTO VD ES;10.22;11.63;24.53.66.144.00;Porta Mantimento De Vidro Com Tampa De Bambu 350Ml;VITRINE
@@ -3264,7 +3264,6 @@ FULFILLMENT MELI;1358.28;1894.27;8.09.02.14.10;Carrinho com Bebê Conforto e Bas
 FATURAMENTO VD RJ;1257.27;1753.38;8.09.02.16.57;Carrinho com Bebê Conforto e Base Travel System Eva³ Luxe Trio Twilic Truffle - Maxi Cosi;VITRINE
 FATURAMENTO VD RJ;362.48;499.51;8.09.02.18.01;Plataforma com Assento Hop-On Board Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;249.76;249.76;8.09.02.18.01;Plataforma com Assento Hop-On Board Black - Maxi-Cosi;BB TOTAL
-FATURAMENTO VD RJ;1218.28;1664.97;8.09.02.66.27;Travel System Anna² Trio Maxi-Cosi Sparkling Grey;VITRINE
 FATURAMENTO VD RJ;1148.22;1551.79;8.09.02.69.27;Carrinho de Bebê Anna2 Maxi-Cosi- Sparkling Grey;VITRINE
 FATURAMENTO VD RJ;1714.22;1947.98;8.09.02.72.01;Carrinho de Bebê Lila CP² Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;1036.78;1036.78;8.09.02.72.01;Carrinho de Bebê Lila CP² Essential Black - Maxi-Cosi;BB TOTAL
@@ -3694,7 +3693,6 @@ FATURAMENTO BBTOTAL ES;204.56;204.56;8.09.23.56.10;Carrinho de Bebê Rock infant
 FATURAMENTO BBTOTAL ES;184.46;184.46;8.09.23.57.10;Carrinho de Bebê Rock Grey Ice - Infanti;BB TOTAL
 FATURAMENTO VD RJ;267.73;368.92;8.09.23.57.10;Carrinho de Bebê Rock Grey Ice - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;184.46;184.46;8.09.23.57.10;Carrinho de Bebê Rock infanti - Grey Ice;BB TOTAL
-FATURAMENTO VD RJ;267.73;368.92;8.09.23.57.10;Carrinho de Bebê Rock infanti - Grey Ice;VITRINE
 FATURAMENTO VD RJ;765.6;1055.0;8.09.23.58.01;Carrinho de Bebê Flux Infanti Preto;VITRINE
 FATURAMENTO VD RJ;765.6;1055.0;8.09.23.58.01;Carrinho de Bebê Flux Preto - Infanti;VITRINE
 FATURAMENTO VD RJ;494.01;685.56;8.09.23.59.01;Carrinho com Bebê Conforto Travel System Breeze Duo Infanti Preto;VITRINE
@@ -4303,7 +4301,6 @@ FATURAMENTO VD RJ;575.04;599.0;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;BB TOTAL
 FATURAMENTO VD RJ;575.04;599.0;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TOTAL
-FATURAMENTO VD RJ;219.93;302.07;8.13.33.09.00;Tapete 2 em 1 Mobile Musical Tiny Love - Treasure the Ocean;VITRINE
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Tiny Love Boho Chic;VITRINE
 FATURAMENTO VD RJ;130.29;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
@@ -8022,7 +8019,6 @@ FATURAMENTO VD RJ;1614.92;1614.92;8.09.02.135.10;Carrinho com Bebê Conforto Tra
 FATURAMENTO VD RJ;1894.27;1894.27;8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1753.38;1753.38;8.09.02.16.57;Carrinho com Bebê Conforto e Base Travel System Eva³ Luxe Trio Twilic Truffle - Maxi Cosi;BB TUDO
 FATURAMENTO VD RJ;499.51;499.51;8.09.02.18.01;Plataforma com Assento Hop-On Board Black - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;1664.97;1664.97;8.09.02.66.27;Travel System Anna² Trio Maxi-Cosi Sparkling Grey;BB TUDO
 FATURAMENTO VD RJ;1551.79;1551.79;8.09.02.69.27;Carrinho de Bebê Anna2 Maxi-Cosi- Sparkling Grey;BB TUDO
 FATURAMENTO VD RJ;1947.98;1947.98;8.09.02.72.01;Carrinho de Bebê Lila CP² Essential Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1947.98;1947.98;8.09.02.72.01;Carrinho de Bebê Lila CP² Maxi-Cosi - Essential Black;BB TUDO
@@ -8230,7 +8226,6 @@ FATURAMENTO VD RJ;377.86;377.86;8.09.23.55.10;Carrinho de Bebê Rock infanti - B
 FATURAMENTO VD RJ;409.11;409.11;8.09.23.56.10;Carrinho de Bebê Rock Grey Total - Infanti;BB TUDO
 FATURAMENTO VD RJ;409.11;409.11;8.09.23.56.10;Carrinho de Bebê Rock infanti - Grey Total;BB TUDO
 FATURAMENTO VD RJ;368.92;368.92;8.09.23.57.10;Carrinho de Bebê Rock Grey Ice - Infanti;BB TUDO
-FATURAMENTO VD RJ;368.92;368.92;8.09.23.57.10;Carrinho de Bebê Rock infanti - Grey Ice;BB TUDO
 FATURAMENTO VD RJ;1055.0;1055.0;8.09.23.58.01;Carrinho de Bebê Flux Infanti Preto;BB TUDO
 FATURAMENTO VD RJ;1055.0;1055.0;8.09.23.58.01;Carrinho de Bebê Flux Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;685.56;685.56;8.09.23.59.01;Carrinho com Bebê Conforto Travel System Breeze Duo Infanti Preto;BB TUDO
@@ -8545,7 +8540,6 @@ FATURAMENTO VD RJ;225.79;225.79;8.13.33.07.00;Tapete Gymini Sunny Day Tiny Love 
 FATURAMENTO VD RJ;225.79;225.79;8.13.33.07.00;Tapete e Ginásio de Atividades Gymini Sunny Day Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;599.0;599.0;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;BB TUDO
 FATURAMENTO VD RJ;599.0;599.0;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;302.07;302.07;8.13.33.09.00;Tapete 2 em 1 Mobile Musical Tiny Love - Treasure the Ocean;BB TUDO
 FATURAMENTO VD RJ;402.15;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;402.15;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Tiny Love Boho Chic;BB TUDO
 FATURAMENTO VD RJ;179.53;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;BB TUDO
