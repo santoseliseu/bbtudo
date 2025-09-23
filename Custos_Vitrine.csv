@@ -1149,7 +1149,6 @@ FATURAMENTO VD ES;36.44;41.46;24.56.159.56.00;Jarra de Cristal Palm Hand Paiting
 FATURAMENTO VD ES;15.37;17.49;24.56.159.57.00;Prato Raso de Cristal Coração Âmbar Metalizado 28cm - Lyor;VITRINE
 FATURAMENTO VD ES;11.23;12.77;24.56.159.74.00;Prato para Sobremesa de Cristal Renaissance 23cm - Lyor;VITRINE
 FATURAMENTO VD ES;15.45;16.09;24.56.159.77.01;Prato de Vidro Opalino Friends Time Pasta Black 28cm - Lyor;VITRINE
-FATURAMENTO VD RJ;15.44;17.01;24.56.159.77.01;Prato de Vidro Opalino Friends Time Pasta Black 28cm - Lyor;VITRINE
 FATURAMENTO VD ES;3.4;3.86;24.56.159.81.06;Prato Raso de Melamina Basic Branco 25,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;5.97;6.76;24.56.159.92.00;Folha Decorativa de Cristal Leaf 19,8cm - Lyor;VITRINE
 FATURAMENTO VD ES;8.58;9.77;24.56.159.96.00;Prato para Sobremesa Cristal Coração Âmbar Metalizado 20cm;VITRINE
@@ -1933,12 +1932,12 @@ FATURAMENTO BBTOTAL ES;49.35;49.35;8.03.71.06.00;Almofada De Banho Unicórnio Az
 FATURAMENTO VD ES;86.85;97.2;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VITRINE
 FATURAMENTO VD RJ;83.68;98.69;8.03.71.06.00;Almofada para Banho Unicórnio Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.68;98.69;8.03.71.06.00;Almofada para Banho Unicórnio Baby Pil;VISUAL IN
+FATURAMENTO VD RJ;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VISUAL IN
 FATURAMENTO BBTOTAL ES;49.32;49.32;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TOTAL
-FATURAMENTO VD RJ;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
+FATURAMENTO VD RJ;83.27;98.64;8.03.71.07.00;Almofada para Banho Creme Ursinho Zeca Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.27;98.64;8.03.71.07.00;Almofada para Banho Creme Ursinho Zeca Baby Pil;VISUAL IN
-FATURAMENTO BBTOTAL ES;49.32;49.32;8.03.71.07.00;Almofada para Banho Creme Ursinho Zeca Baby Pil;BB TOTAL
 FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;VISUAL IN
 FATURAMENTO BBTOTAL ES;40.48;47.96;8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;BB TOTAL
 FATURAMENTO VD RJ;77.62;95.91;8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;VITRINE
@@ -7311,6 +7310,7 @@ FATURAMENTO VD ES;97.2;97.2;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Ba
 FATURAMENTO VD RJ;98.69;98.69;8.03.71.06.00;Almofada para Banho Unicórnio Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.64;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TUDO
+FATURAMENTO VD RJ;98.64;98.64;8.03.71.07.00;Almofada para Banho Creme Ursinho Zeca Baby Pil;BB TUDO
 FATURAMENTO VD RJ;95.91;95.91;8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.81;98.81;8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.81;98.81;8.03.71.09.00;Almofada para Banho Bebê Jacaré Leo Baby Pil;BB TUDO
