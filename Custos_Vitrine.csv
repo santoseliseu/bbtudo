@@ -246,8 +246,8 @@ FATURAMENTO VD ES;101.67;119.77;21.14.50.61.00;Cadeira com Braços Eames  Branca
 FATURAMENTO VD ES;100.48;118.37;21.14.50.62.00;Conjunto 2 Cadeiras com Braços Eames  Branca;VITRINE
 FATURAMENTO VD RJ;132.89;151.01;21.14.50.62.00;Conjunto 2 Cadeiras com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.64.00;Cadeira Eames Com Braço Rosa  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
+FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
@@ -883,7 +883,7 @@ FATURAMENTO VD ES;28.92;32.9;24.52.66.44.00;Prato Wolff Pearl de Cristal Incolor
 FATURAMENTO VD ES;29.4;33.66;24.52.66.46.18;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Rosa 80ml;VITRINE
 FATURAMENTO VD ES;10.31;11.73;24.52.66.50.00;Açucareiro Wolff Pearl de Cristal Incolor 10cm x 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;10.31;11.73;24.52.66.50.00;Açucareiro Wolff Pearl de Cristal Incolor 10cm x 8cm x 7cm;VITRINE
-FATURAMENTO VD ES;10.46;11.91;24.52.66.51.00;Meleira Wolff Pearl de Cristal Incolor 10cm x 8cm x 7cm;VITRINE
+FATURAMENTO VD ES;10.81;12.3;24.52.66.51.00;Meleira Wolff Pearl de Cristal Incolor 10cm x 8cm x 7cm;VITRINE
 FATURAMENTO VD ES;22.97;26.13;24.52.66.52.00;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Incolor;VITRINE
 FATURAMENTO VD ES;14.68;16.7;24.52.66.53.00;Açucareiro Wolff Pearl de Cristal Âmbar 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;51.43;58.51;24.52.66.57.00;Prato Duplo Wolff Pearl de Cristal Âmbar 32cm x 24cm;VITRINE
@@ -1287,7 +1287,7 @@ FATURAMENTO VD ES;22.65;25.76;24.57.66.24.00;Queijeira Wolff Pearl de Cristal In
 FATURAMENTO VD ES;22.65;25.76;24.57.66.24.00;Queijeira Wolff Pearl de Cristal Transparente 20 cmx 12cm;VITRINE
 FATURAMENTO VD ES;18.04;20.71;24.57.66.245.00;Jogo Americano 2 Peças Ponto Ajour Wolff de Algodão Jeans 45cm;VITRINE
 FATURAMENTO VD ES;23.47;26.69;24.57.66.25.00;Queijeira Wolff Pearl de Cristal Âmbar 20cm x 12cm;VITRINE
-FATURAMENTO VD ES;13.62;15.49;24.57.66.26.00;Petisqueira Wolff Pearl de Cristal Incolor 30x13x3cm;VITRINE
+FATURAMENTO VD ES;14.57;16.46;24.57.66.26.00;Petisqueira Wolff Pearl de Cristal Incolor 30x13x3cm;VITRINE
 FATURAMENTO VD ES;6.05;6.88;24.57.66.27.00;Molheira Wolff Pearl de Cristal Incolor 140ml;VITRINE
 FATURAMENTO VD ES;6.71;7.64;24.57.66.275.11;Lugar Americano Wolff de Poliéster Verde 38cm;VITRINE
 FATURAMENTO VD ES;33.43;38.03;24.57.66.28.00;Saladeira Wolff Pearl de Cristal Incolor 21cm x 19cm;VITRINE
@@ -4315,9 +4315,9 @@ FATURAMENTO VD RJ;575.04;599.0;8.13.33.08.00;Tapete e Ginásio de Atividades Gym
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Tiny Love Boho Chic;VITRINE
-FATURAMENTO VD RJ;130.29;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
+FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
 FULFILLMENT AMAZON;144.76;199.47;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
-FATURAMENTO VD RJ;130.29;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
+FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
 FULFILLMENT AMAZON;144.76;199.47;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
 FATURAMENTO VD RJ;123.77;170.55;8.13.33.12.69;Tapete de Atividades Picnic Mat Tiny Love Treasure the Ocean;VITRINE
 FATURAMENTO VD RJ;123.77;170.55;8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;VITRINE
