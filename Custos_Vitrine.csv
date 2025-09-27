@@ -759,7 +759,6 @@ FATURAMENTO VD ES;13.05;14.98;24.51.163.04.10;Saboneteira De Cerâmica Granulado
 FATURAMENTO VD ES;6.38;7.32;24.51.163.06.11;Saboneteira De Cerâmica Listras Verde Sálvia - Oikos;VITRINE
 FATURAMENTO VD ES;11.26;12.93;24.51.163.07.11;Saboneteira De Resina Canelada Verde Laguna - Oikos;VITRINE
 FATURAMENTO VD ES;23.78;27.2;24.51.66.06.00;Jogo de 3 Peças para Banheiro Wolff Litt de Vidro Âmbar;VITRINE
-FATURAMENTO VD ES;24.01;27.2;24.51.66.07.00;Jogo de 3 Peças para Banheiro Wolff Litt Prata de Vidro;VITRINE
 FATURAMENTO VD ES;24.08;27.27;24.51.66.08.00;Jogo de 3 Peças para Banheiro Wolff Litt Rainbow de Vidro;VITRINE
 FATURAMENTO VD ES;21.47;24.54;24.51.66.10.00;Jogo de 3 Peças para Banheiro Wolff Minsk de Vidro Âmbar;VITRINE
 FATURAMENTO VD ES;10.82;12.3;24.51.66.16.00;Porta Sabonete Líquido Wolff de Cerâmica 300ml;VITRINE
@@ -3421,7 +3420,6 @@ FULFILLMENT AMAZON;209.79;289.09;8.09.03.74.01;Carrinho de Bebê Umbrella Park P
 FULFILLMENT MELI;211.94;292.03;8.09.03.74.01;Carrinho de Bebê Umbrella Park Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;209.79;289.09;8.09.03.74.01;Carrinho de Bebê Umbrella Park Preto - Voyage;VITRINE
 FULFILLMENT AMAZON;209.79;289.09;8.09.03.74.01;Carrinho de Bebê Umbrella Park Voyage - Preto;VITRINE
-FULFILLMENT MELI;211.94;292.03;8.09.03.74.01;Carrinho de Bebê Umbrella Park Voyage - Preto;VITRINE
 FATURAMENTO VD RJ;308.92;425.68;8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;VITRINE
 FULFILLMENT MELI;308.92;425.68;8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;VITRINE
 FULFILLMENT MAGALU;273.41;361.82;8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;VITRINE
@@ -3718,7 +3716,6 @@ FULFILLMENT MELI;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - In
 FULFILLMENT MAGALU;362.44;499.44;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;VITRINE
 FULFILLMENT AMAZON;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;VITRINE
 FATURAMENTO VD RJ;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza Infanti;VITRINE
-FULFILLMENT MELI;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza Infanti;VITRINE
 FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto - Infanti;VITRINE
 FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;398.46;398.46;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;BB TOTAL
