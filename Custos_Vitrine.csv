@@ -882,7 +882,6 @@ FATURAMENTO VD ES;96.32;109.12;24.52.66.67.00;Garrafa Térmica Wolff de Aço Ino
 FATURAMENTO VD ES;34.78;39.41;24.52.66.70.00;Garrafa Térmica Wolff Nórdica de Plástico Menta 1L;VITRINE
 FATURAMENTO VD ES;17.12;19.48;24.52.66.79.00;Jogo de 2 Xícaras de Café e Chá Parede Dupla Wolff Incolor 180ml;VITRINE
 FATURAMENTO VD ES;17.38;19.86;24.52.66.80.00;Jogo de 2 Xícaras de Café Wolff Retrô de Cerâmica Laranja 100ml;VITRINE
-FATURAMENTO VD ES;125.69;143.74;24.52.66.86.06;Jogo de 3 Peças para Chá Wolff EGG de Porcelana Branco;VITRINE
 FATURAMENTO VD ES;54.94;65.1;24.52.67.03.00;Jogo de 6 Xícaras Woodart Coração de Chá Pinus Natural 190ml;VITRINE
 FATURAMENTO VD ES;10.11;11.61;24.53.163.02.00;Pote de Vidro Com tampa Retangular 570ml - Oikos;VITRINE
 FATURAMENTO VD ES;12.82;14.72;24.53.163.03.00;Pote de Vidro com tampa Retangular 840ml - Oikos;VITRINE
@@ -1077,7 +1076,6 @@ FATURAMENTO VD ES;27.26;30.89;24.54.66.95.01;Caneca Térmica Wolff para Cerveja 
 FATURAMENTO VD ES;4.24;4.82;24.55.159.08.01;Colher de Arroz de Silicone Preta 22cm - Lyor;VITRINE
 FATURAMENTO VD ES;62.84;71.49;24.55.159.12.18;Faqueiro 24 Peças de Aço Inox Positano Rosé - Lyor;VITRINE
 FATURAMENTO VD ES;3.88;4.42;24.55.159.16.00;Porta Talher de Cristal Coração 8,5cm x 8cm - Lyor;VITRINE
-FATURAMENTO VD ES;11.82;13.43;24.55.159.19.04;Jogo 4 facas para Queijo de Aço Inox Positano Dourada Lyor;VITRINE
 FATURAMENTO VD ES;13.11;14.91;24.55.159.20.20;Jogo 6 Garfos para Mesa de Aço Inox Bambu Elegant Lyor;VITRINE
 FATURAMENTO VD ES;11.1;12.63;24.55.159.22.20;Jogo 6 Colheres de Sobremesa de Aço Inox Bambu Elegant;VITRINE
 FATURAMENTO VD ES;13.24;15.06;24.55.159.34.00;Jogo 6 Colheres para Mesa Aço Inox e Bambu Elegant 19,8cm;VITRINE
@@ -2012,7 +2010,6 @@ FATURAMENTO VD RJ;599.25;835.72;8.04.01.11.27;Berço Portátil Side by Side Gray
 FULFILLMENT AMAZON;599.25;835.72;8.04.01.11.27;Berço Portátil Side by Side Gray - Safety 1st;VITRINE
 FATURAMENTO VD RJ;599.25;835.72;8.04.01.11.27;Berço Side by Side Safety 1st Gray;VITRINE
 FULFILLMENT AMAZON;599.25;835.72;8.04.01.11.27;Berço Side by Side Safety 1st Gray;VITRINE
-FULFILLMENT MELI;503.79;702.59;8.04.01.11.27;Berço Side by Side Safety 1st Gray;VITRINE
 FATURAMENTO VD RJ;293.12;408.79;8.04.01.12.108;Berço Compacto Mini Play Net Blue - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;172.5;204.4;8.04.01.12.108;Berço Compacto Mini Play Net Blue - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;293.12;408.79;8.04.01.12.108;Berço Mini Play Safety 1st Net Blue;VITRINE
@@ -2890,7 +2887,6 @@ FATURAMENTO VD RJ;734.49;841.97;8.07.53.02.01;Cadeirinha para Carro Unico Plus C
 FATURAMENTO VD RJ;735.07;842.65;8.07.53.03.00;Cadeirinha para Carro Unico Plus Chicco 0 a 36 kg India Ink;VITRINE
 FATURAMENTO VD RJ;1573.49;1815.42;8.07.53.04.01;Cadeirinha para Carro Seat4Fix Chicco 0 a 36 kg Black;VITRINE
 FATURAMENTO VD RJ;1025.62;1175.7;8.07.53.08.00;Cadeirinha para Carro Youniverse Fix Chicco 9 a 36 kg Red Passion;VITRINE
-FATURAMENTO VD RJ;596.97;684.32;8.07.53.10.00;Cadeirinha Para Carro Akita Std Intrigue Chicco 9 a 36 kg Preto;VITRINE
 FATURAMENTO VD RJ;942.27;1080.46;8.07.53.11.01;Bebê Conforto Kaily 0 a 13 Kg Black - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;470.64;540.23;8.07.53.11.01;Bebê Conforto Kaily 0 a 13 Kg Black - Chicco;BB TOTAL
 FATURAMENTO VD RJ;942.27;1080.46;8.07.53.11.01;Bebê Conforto Kaily Chicco 0 a 13 Kg Black;VITRINE
@@ -3825,7 +3821,6 @@ FATURAMENTO VD RJ;421.85;482.99;8.09.53.01.01;Carrinho de Bebê para Gêmeos Ohl
 FATURAMENTO BBTOTAL ES;288.28;330.9;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone Preto - Chicco;BB TOTAL
 FATURAMENTO VD RJ;578.02;661.8;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone Preto - Chicco;VITRINE
 FATURAMENTO VD RJ;1252.96;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Chicco Graphite;VITRINE
-FATURAMENTO BBTOTAL ES;606.1;695.71;8.09.53.30.10;Carrinho de Bebê Goody Plus Chicco Graphite;BB TOTAL
 FATURAMENTO VD RJ;1252.96;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Graphite - Chicco;VITRINE
 FATURAMENTO VD RJ;99.96;114.63;8.09.53.33.01;Adaptador para Cadeirinha de Carro Goody Plus Chicco;VITRINE
 FATURAMENTO VD RJ;155.98;177.25;8.09.53.36.00;Carrinho Echo com Bumper Bar Chicco Stone;VITRINE
@@ -5656,7 +5651,6 @@ FATURAMENTO VD RJ;24.26;25.27;8.25.57.133.18;Rede para Banheira Infantil Rosa - 
 FATURAMENTO BBTOTAL ES;11.68;13.41;8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;BB TOTAL
 FATURAMENTO VD ES;24.09;27.66;8.25.57.134.00;Redutor De Assento Dobrável - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;14.52;14.52;8.25.57.134.00;Redutor De Assento Dobrável - Buba;BB TOTAL
-FATURAMENTO VD RJ;20.85;21.72;8.25.57.134.00;Redutor De Assento Dobrável - Buba;VITRINE
 FATURAMENTO VD ES;24.09;27.66;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;14.52;14.52;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TOTAL
 FATURAMENTO VD RJ;20.85;21.72;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;VITRINE
@@ -9332,7 +9326,6 @@ FATURAMENTO VD RJ;29.2;29.2;8.25.57.132.07;Rede para Banheira Infantil Azul - Bu
 FATURAMENTO VD RJ;25.27;25.27;8.25.57.133.18;Rede De Banheira Rosa - Buba;BB TUDO
 FATURAMENTO VD RJ;25.27;25.27;8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;27.66;27.66;8.25.57.134.00;Redutor De Assento Dobrável - Buba;BB TUDO
-FATURAMENTO VD RJ;21.72;21.72;8.25.57.134.00;Redutor De Assento Dobrável - Buba;BB TUDO
 FATURAMENTO VD ES;27.66;27.66;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TUDO
 FATURAMENTO VD RJ;21.72;21.72;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TUDO
 FATURAMENTO VD RJ;29.2;29.2;8.25.57.135.06;Travesseiro Anatomico Viscoelastico Branco - Buba;BB TUDO
