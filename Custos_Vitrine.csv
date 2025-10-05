@@ -354,7 +354,6 @@ FATURAMENTO VD RJ;178.71;203.08;21.40.50.28.00;Conjunto 2 Banquetas Eames  Fendi
 FATURAMENTO VD ES;72.15;83.36;21.40.50.33.00;Banqueta Eames PP  Preto;VITRINE
 FATURAMENTO VD RJ;72.15;85.28;21.40.50.33.00;Banqueta Eames PP  Preto;VITRINE
 FATURAMENTO VD ES;139.66;164.52;21.40.50.34.00;Conjunto 2 Banquetas Eames  Preto;VITRINE
-FATURAMENTO VD ES;139.66;164.52;21.40.50.36.00;Conjunto Com 2 Banquetas Eames Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;102.48;120.73;21.40.50.47.00;Banqueta Eames PC  Transparente;VITRINE
 FATURAMENTO VD ES;204.97;241.46;21.40.50.48.00;Conjunto 2 Banquetas Eames  Transparente;VITRINE
 FATURAMENTO VD ES;141.69;164.09;21.40.50.53.00;Banqueta Web  Fendi;VITRINE
@@ -1400,11 +1399,9 @@ FATURAMENTO VD ES;119.71;140.03;6.28.60.07.110;Bicicleta Infantil  Black Aro 12'
 FULFILLMENT VISUAL IN;100.18;158.05;6.28.60.07.110;Bicicleta Infantil  Black Aro 12'' até 21kg Verde e Preto - Nathor;VISUAL IN
 FULFILLMENT VISUAL IN;119.71;140.03;6.28.60.08.70;Bicicleta Aro 12 Fire Man Nathor Vermelho e Azul;VISUAL IN
 FULFILLMENT VISUAL IN;119.71;140.03;6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;VISUAL IN
-FATURAMENTO VD ES;127.04;148.61;6.28.60.09.114;Bicicleta Aro 12 Violet Nathor Rosa e Lilás;VITRINE
 FATURAMENTO VD ES;127.04;148.61;6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;VITRINE
 FATURAMENTO VD RJ;119.71;140.03;6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;VITRINE
 FULFILLMENT VISUAL IN;278.26;348.44;6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;VISUAL IN
-FATURAMENTO VD ES;119.71;140.03;6.28.60.10.114;Bicicleta Aro 12 Flower Nathor Rosa e Lilás;VITRINE
 FATURAMENTO VD ES;119.71;140.03;6.28.60.10.114;Bicicleta Infantil com Rodinhas Flower Aro 12'' até 21kg Rosa e Lilás - Nathor;VITRINE
 FULFILLMENT VISUAL IN;267.83;335.37;6.28.60.10.114;Bicicleta Infantil com Rodinhas Flower Aro 12'' até 21kg Rosa e Lilás - Nathor;VISUAL IN
 FATURAMENTO VD ES;119.71;140.03;6.28.60.14.72;Bicicleta Aro 12 Charm Nathor Azul e Rosa;VITRINE
@@ -2549,7 +2546,6 @@ FULFILLMENT MELI;731.42;1019.67;8.06.04.14.18;Carrinho com Bebê Conforto Travel
 FULFILLMENT MAGALU;651.69;831.22;8.06.04.14.18;Carrinho com Bebê Conforto Travel System Nexus 3.0 Trio Rosa Royal - Cosco;VITRINE
 FULFILLMENT VISUAL IN;731.42;1019.67;8.06.04.14.18;Carrinho com Bebê Conforto Travel System Nexus 3.0 Trio Rosa Royal - Cosco;VISUAL IN
 FATURAMENTO VD RJ;731.42;1019.67;8.06.04.14.18;Travel System Nexus 3.0 Trio Cosco - Rosa Royal;VITRINE
-FULFILLMENT MELI;731.42;1019.67;8.06.04.14.18;Travel System Nexus 3.0 Trio Cosco - Rosa Royal;VITRINE
 FATURAMENTO VD RJ;767.0;1069.65;8.06.04.15.01;Travel System Nexus 3.0 Trio Cosco Preto Poá;VITRINE
 FATURAMENTO VD RJ;518.26;722.75;8.06.04.16.01;Travel System Jetty 3.0 Trio Cosco - Preto Mescla;VITRINE
 FATURAMENTO VD RJ;493.48;687.75;8.06.04.17.10;Carrinho com Bebê Conforto Travel System Jetty 3.0 Trio Cinza Mescla - Cosco;VITRINE
@@ -2599,7 +2595,6 @@ FULFILLMENT MELI;250.27;284.4;8.06.23.10.01;Cadeira de Alimentação Portátil T
 FATURAMENTO VD RJ;125.13;174.5;8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;VITRINE
 FULFILLMENT AMAZON;125.13;174.5;8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;VITRINE
 FATURAMENTO VD RJ;125.13;174.5;8.06.23.11.11;Cadeira de Alimentação Portátil Toast Infanti Green Lush;VITRINE
-FULFILLMENT MELI;125.13;174.5;8.06.23.11.11;Cadeira de Alimentação Portátil Toast Infanti Green Lush;VITRINE
 FATURAMENTO VD RJ;125.13;174.5;8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;VITRINE
 FULFILLMENT MELI;125.13;174.5;8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;VITRINE
 FATURAMENTO VD RJ;125.13;174.5;8.06.23.12.07;Cadeira de Alimentação Portátil e Ultracompacta Toast Grey Lush - Infanti;VITRINE
@@ -4268,7 +4263,6 @@ FATURAMENTO VD RJ;157.05;197.63;8.13.33.05.00;Tapete de Atividades Super Mat Tin
 FATURAMENTO VD RJ;189.64;246.17;8.13.33.06.00;Tapete Deluxe Gymini Tiny Love - Tiny Princess Tales;VITRINE
 FULFILLMENT AMAZON;189.64;246.17;8.13.33.06.00;Tapete Deluxe Gymini Tiny Love - Tiny Princess Tales;VITRINE
 FATURAMENTO BBTOTAL ES;123.09;123.09;8.13.33.06.00;Tapete Deluxe Gymini Tiny Love - Tiny Princess Tales;BB TOTAL
-FULFILLMENT MELI;163.87;225.79;8.13.33.06.00;Tapete Deluxe Gymini Tiny Love - Tiny Princess Tales;VITRINE
 FATURAMENTO VD RJ;189.64;246.17;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;VITRINE
 FULFILLMENT AMAZON;189.64;246.17;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;123.09;123.09;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;BB TOTAL
@@ -6991,10 +6985,8 @@ FATURAMENTO VD RJ;175.86;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas A
 FATURAMENTO VD ES;175.86;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.07.110;Bicicleta Aro 12 Black 12 Nathor Verde e Preto;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.07.110;Bicicleta Infantil  Black Aro 12'' até 21kg Verde e Preto - Nathor;BB TUDO
-FATURAMENTO VD ES;148.61;148.61;6.28.60.09.114;Bicicleta Aro 12 Violet Nathor Rosa e Lilás;BB TUDO
 FATURAMENTO VD ES;148.61;148.61;6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;BB TUDO
 FATURAMENTO VD RJ;140.03;140.03;6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;BB TUDO
-FATURAMENTO VD ES;140.03;140.03;6.28.60.10.114;Bicicleta Aro 12 Flower Nathor Rosa e Lilás;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.10.114;Bicicleta Infantil com Rodinhas Flower Aro 12'' até 21kg Rosa e Lilás - Nathor;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.14.72;Bicicleta Aro 12 Charm Nathor Azul e Rosa;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.14.72;Bicicleta Infantil Charm Aro 12'' até 21 kg Azul e Rosa - Nathor;BB TUDO
