@@ -50,7 +50,6 @@ FATURAMENTO VD ES;101.48;109.12;21.14.50.1057.00;Conjunto Com 2 Cadeiras Windsor
 FATURAMENTO VD RJ;101.48;119.55;21.14.50.1057.00;Conjunto Com 2 Cadeiras Windsor Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;11.23;12.78;21.14.50.1062.00;Kit Fixação Eames DSW;VITRINE
 FATURAMENTO VD ES;11.23;12.78;21.14.50.1062.00;Kit Fixação Web DSW;VITRINE
-FATURAMENTO VD RJ;16.48;17.17;21.14.50.1062.00;Kit Fixação Web DSW;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1076.00;Conjunto Com 4 Cadeiras Eames Azul Claro  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;50.24;59.18;21.14.50.1077.00;Cadeira Eames Com Braço Azul Claro  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;100.49;118.37;21.14.50.1078.00;Conjunto Com 2 Cadeiras Eames Com Braço Azul Claro  Base Em Polipropileno;VITRINE
@@ -63,7 +62,6 @@ FATURAMENTO VD ES;88.81;104.62;21.14.50.1083.00;Cadeira Eames Com Braço Terraco
 FATURAMENTO VD ES;100.49;118.37;21.14.50.1084.00;Conjunto Com 2 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;200.95;236.73;21.14.50.1085.00;Conjunto Com 4 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;59.28;69.84;21.14.50.109.00;Cadeira Saarinen  Preto;VITRINE
-FATURAMENTO VD RJ;85.5;97.16;21.14.50.109.00;Cadeira Saarinen  Preto;VITRINE
 FATURAMENTO VD ES;118.57;139.68;21.14.50.110.00;Conjunto Com 2 Cadeiras Saarinen Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;399.41;467.53;21.14.50.111.00;Conjunto de 4 Cadeiras Saarinen  Preto;VITRINE
 FATURAMENTO VD ES;36.68;39.44;21.14.50.1127.00;Cadeira Eames Musgo  Base Em Polipropileno;VITRINE
@@ -1426,7 +1424,6 @@ FATURAMENTO VD ES;119.71;140.03;6.28.60.10.114;Bicicleta Infantil com Rodinhas F
 FULFILLMENT VISUAL IN;267.83;335.37;6.28.60.10.114;Bicicleta Infantil com Rodinhas Flower Aro 12'' até 21kg Rosa e Lilás - Nathor;VISUAL IN
 FATURAMENTO VD ES;119.71;140.03;6.28.60.14.72;Bicicleta Aro 12 Charm Nathor Azul e Rosa;VITRINE
 FATURAMENTO VD ES;119.71;140.03;6.28.60.14.72;Bicicleta Infantil Charm Aro 12'' até 21 kg Azul e Rosa - Nathor;VITRINE
-FATURAMENTO VD RJ;341.24;387.77;6.28.60.15.11;Bicicleta Aro 16 Antonella Abs Nathor Verde;VITRINE
 FATURAMENTO VD RJ;341.24;387.77;6.28.60.15.11;Bicicleta com Rodinhas Aro 16 Antonella ABS 5 anos até 30 kg Verde - Nathor;VITRINE
 FULFILLMENT MAGALU;341.24;387.77;6.28.60.15.11;Bicicleta com Rodinhas Aro 16 Antonella ABS 5 anos até 30 kg Verde - Nathor;VITRINE
 FATURAMENTO BBTOTAL ES;189.19;189.19;6.28.60.20.07;Bicicleta Aro 16 Apollo 2 Nathor Azul;BB TOTAL
@@ -1896,7 +1893,6 @@ FATURAMENTO BBTOTAL ES;40.99;47.05;8.03.23.06.57;Travesseiro Termorregulável Vo
 FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
 FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
 FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
-FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD ES;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;VITRINE
@@ -2406,7 +2402,6 @@ FATURAMENTO VISUAL IN SP;460.51;460.51;8.05.61.11.10;Cadeira de Descanso Techno 
 FULFILLMENT VISUAL IN;460.51;460.51;8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;VISUAL IN
 FATURAMENTO BBTOTAL ES;238.65;238.65;8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;BB TOTAL
 FATURAMENTO VD RJ;443.73;477.29;8.05.61.11.10;Cadeira de Descanso Techno Light Mastela Até 18 Kg Cinza Fit;VITRINE
-FATURAMENTO VISUAL IN SP;460.51;460.51;8.05.61.11.10;Cadeira de Descanso Techno Light Mastela Até 18 Kg Cinza Fit;VISUAL IN
 FATURAMENTO BBTOTAL ES;247.62;247.62;8.05.61.23.10;Cadeirinha de Descanso Suporte Ajustável Techno Plus Elefante/Girafa - Mastela;BB TOTAL
 FATURAMENTO VD RJ;475.42;495.23;8.05.61.23.10;Cadeirinha de Descanso Suporte Ajustável Techno Plus Elefante/Girafa - Mastela;VITRINE
 FATURAMENTO BBTOTAL ES;247.62;247.62;8.05.61.23.10;Cadeirinha de Descanso Suporte Ajustável Techno Plus Elefante/Girafa Mastela;BB TOTAL
@@ -2915,7 +2910,6 @@ FATURAMENTO BBTOTAL ES;82.02;97.18;8.07.54.03.77;Cadeirinha de Carro Versati Tut
 FATURAMENTO VD RJ;52.74;65.75;8.07.54.05.01;Assento Triton Tutti Baby Preto e Cinza;VITRINE
 FATURAMENTO VD RJ;276.87;314.63;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;VITRINE
 FATURAMENTO BBTOTAL ES;157.32;157.32;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;BB TOTAL
-FATURAMENTO VD ES;276.87;349.9;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;VITRINE
 FATURAMENTO VD ES;120.86;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Baby 15kg a 36kg Preto;VITRINE
 FATURAMENTO VD RJ;120.87;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Baby 15kg a 36kg Preto;VITRINE
 FATURAMENTO VD ES;129.65;139.41;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;VITRINE
@@ -4935,7 +4929,6 @@ FATURAMENTO BBTOTAL ES;23.83;31.64;8.24.72.101.00;Prato Redondo Com Sucção Hip
 FATURAMENTO VD ES;55.62;63.28;8.24.72.101.00;Prato Redondo Com Sucção Hipopótamo Lucas - Marcus & Marcus;VITRINE
 FATURAMENTO BBTOTAL ES;23.59;23.59;8.24.72.102.00;Kit Com Faca, Garfo E Colher Com Inox Leão Marcus 3 Pcs (Em Silicone E Inox) - Marcus & Marcus;BB TOTAL
 FATURAMENTO VD RJ;45.28;47.17;8.24.72.102.00;Kit Com Faca, Garfo E Colher Com Inox Leão Marcus 3 Pcs (Em Silicone E Inox) - Marcus & Marcus;VITRINE
-FATURAMENTO VD ES;45.28;51.51;8.24.72.102.00;Kit Com Faca, Garfo E Colher Com Inox Leão Marcus 3 Pcs (Em Silicone E Inox) - Marcus & Marcus;VITRINE
 FATURAMENTO BBTOTAL ES;19.86;19.86;8.24.72.113.00;Jogo Anatômico Colher E Garfo Com Inox Porquinha Pokey 2Pcs (Em Silicone E Inox) - Marcus & Marcus;BB TOTAL
 FATURAMENTO BBTOTAL ES;19.86;19.86;8.24.72.113.00;Jogo Anatômico Colher E Garfo Com Inox Porquinha Pokey 2Pcs - Marcus & Marcus;BB TOTAL
 FATURAMENTO VD RJ;38.12;39.71;8.24.72.113.00;Jogo Anatômico Colher E Garfo Com Inox Porquinha Pokey 2Pcs - Marcus & Marcus;VITRINE
@@ -4982,7 +4975,6 @@ FATURAMENTO BBTOTAL ES;19.74;26.21;8.24.72.92.00;Conjunto Tigela E Colher Espát
 FATURAMENTO VD ES;46.07;52.41;8.24.72.92.00;Conjunto Tigela E Colher Espátula Para Papinha Rosa - Marcus & Marcus;VITRINE
 FATURAMENTO VD RJ;46.06;47.98;8.24.72.92.00;Conjunto Tigela E Colher Espátula Para Papinha Rosa - Marcus & Marcus;VITRINE
 FATURAMENTO BBTOTAL ES;19.44;19.44;8.24.72.95.00;Jogo De Colher E Garfo Com Inox Leão Marcus Marcus (Em Silicone E Inox) - Marcus & Marcus;BB TOTAL
-FATURAMENTO VD RJ;37.33;38.88;8.24.72.95.00;Jogo De Colher E Garfo Com Inox Leão Marcus Marcus (Em Silicone E Inox) - Marcus & Marcus;VITRINE
 FATURAMENTO BBTOTAL ES;19.44;19.44;8.24.72.95.00;Jogo de Colher e Garfo em Inox e Silicone Leão Vermelho - Marcus & Marcus;BB TOTAL
 FATURAMENTO VD RJ;37.33;38.88;8.24.72.95.00;Jogo de Colher e Garfo em Inox e Silicone Leão Vermelho - Marcus & Marcus;VITRINE
 FATURAMENTO BBTOTAL ES;27.28;27.28;8.24.72.97.00;Kit Com 2 Tigelas Em Silicone 200 Ml Azul E Lilás Lucas E Willo (Sem Sucção) - Marcus & Marcus;BB TOTAL
@@ -5591,7 +5583,6 @@ FATURAMENTO BBTOTAL ES;5.16;5.16;8.25.57.04.00;Protetor Solar Para Carro Com Ven
 FATURAMENTO VD RJ;9.92;11.39;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;5.16;5.16;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;BB TOTAL
 FATURAMENTO VD RJ;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Buba;VITRINE
-FATURAMENTO VD ES;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Buba;VITRINE
 FATURAMENTO VD RJ;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;VITRINE
 FATURAMENTO VD ES;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;15.14;17.39;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;BB TOTAL
@@ -7013,7 +7004,6 @@ FATURAMENTO VD RJ;140.03;140.03;6.28.60.09.114;Bicicleta Infantil com Rodinhas V
 FATURAMENTO VD ES;140.03;140.03;6.28.60.10.114;Bicicleta Infantil com Rodinhas Flower Aro 12'' até 21kg Rosa e Lilás - Nathor;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.14.72;Bicicleta Aro 12 Charm Nathor Azul e Rosa;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.14.72;Bicicleta Infantil Charm Aro 12'' até 21 kg Azul e Rosa - Nathor;BB TUDO
-FATURAMENTO VD RJ;387.77;387.77;6.28.60.15.11;Bicicleta Aro 16 Antonella Abs Nathor Verde;BB TUDO
 FATURAMENTO VD RJ;387.77;387.77;6.28.60.15.11;Bicicleta com Rodinhas Aro 16 Antonella ABS 5 anos até 30 kg Verde - Nathor;BB TUDO
 FATURAMENTO VD RJ;541.41;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;BB TUDO
 FATURAMENTO VD ES;541.41;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;BB TUDO
@@ -7269,7 +7259,6 @@ FATURAMENTO VD RJ;84.7;84.7;8.03.23.06.57;Travesseiro Termorregulável Volpi Off
 FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
 FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
 FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
-FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD ES;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;BB TUDO
@@ -7823,7 +7812,6 @@ FATURAMENTO VD RJ;220.85;220.85;8.07.54.03.77;Cadeirinha de Carro Versati 15 a 3
 FATURAMENTO VD RJ;220.85;220.85;8.07.54.03.77;Cadeirinha de Carro Versati Tutti Baby 15 a 36 kg Gelo;BB TUDO
 FATURAMENTO VD RJ;65.75;65.75;8.07.54.05.01;Assento Triton Tutti Baby Preto e Cinza;BB TUDO
 FATURAMENTO VD RJ;314.63;314.63;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;BB TUDO
-FATURAMENTO VD ES;349.9;349.9;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;BB TUDO
 FATURAMENTO VD ES;139.41;139.41;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;BB TUDO
 FATURAMENTO VD RJ;146.81;146.81;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;BB TUDO
 FATURAMENTO VD ES;10.03;10.03;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;BB TUDO
@@ -8923,7 +8911,6 @@ FATURAMENTO VD RJ;161.07;161.07;8.24.70.65.00;Aquecedor de Mamadeira Individual 
 FATURAMENTO VD ES;86.22;86.22;8.24.72.07.00;Prato Com Sucção Porquinha Pokey Marcus & Marcus;BB TUDO
 FATURAMENTO VD RJ;61.44;61.44;8.24.72.10.113;Prato de Silicone com Ventosa Sucção Roxo - Marcus&Marcus;BB TUDO
 FATURAMENTO VD RJ;47.17;47.17;8.24.72.102.00;Kit Com Faca, Garfo E Colher Com Inox Leão Marcus 3 Pcs (Em Silicone E Inox) - Marcus & Marcus;BB TUDO
-FATURAMENTO VD ES;51.51;51.51;8.24.72.102.00;Kit Com Faca, Garfo E Colher Com Inox Leão Marcus 3 Pcs (Em Silicone E Inox) - Marcus & Marcus;BB TUDO
 FATURAMENTO VD RJ;39.71;39.71;8.24.72.113.00;Jogo Anatômico Colher E Garfo Com Inox Porquinha Pokey 2Pcs - Marcus & Marcus;BB TUDO
 FATURAMENTO VD ES;42.46;42.46;8.24.72.122.00;Escova Massageadora Com Disco Protetor Girafa Lola - Marcus & Marcus;BB TUDO
 FATURAMENTO VD ES;49.9;49.9;8.24.72.17.08;Prato com Divisórias em Silicone Leão Vermelho - Marcus&Marcus;BB TUDO
@@ -8935,7 +8922,6 @@ FATURAMENTO VD RJ;39.24;39.24;8.24.72.57.18;Jogo de Colher e Garfo Cabo em Silic
 FATURAMENTO VD RJ;81.97;81.97;8.24.72.89.00;Kit Com 3 Potes Em Tritan 240Ml (Vem Com Label Em Silicone Para Escrever) - Marcus & Marcus;BB TUDO
 FATURAMENTO VD ES;52.41;52.41;8.24.72.92.00;Conjunto Tigela E Colher Espátula Para Papinha Rosa - Marcus & Marcus;BB TUDO
 FATURAMENTO VD RJ;47.98;47.98;8.24.72.92.00;Conjunto Tigela E Colher Espátula Para Papinha Rosa - Marcus & Marcus;BB TUDO
-FATURAMENTO VD RJ;38.88;38.88;8.24.72.95.00;Jogo De Colher E Garfo Com Inox Leão Marcus Marcus (Em Silicone E Inox) - Marcus & Marcus;BB TUDO
 FATURAMENTO VD RJ;38.88;38.88;8.24.72.95.00;Jogo de Colher e Garfo em Inox e Silicone Leão Vermelho - Marcus & Marcus;BB TUDO
 FATURAMENTO VD ES;51.51;51.51;8.24.72.97.00;Kit Com 2 Tigelas Em Silicone 200 Ml Azul E Lilás Lucas E Willo (Sem Sucção) - Marcus & Marcus;BB TUDO
 FATURAMENTO VD RJ;47.16;47.16;8.24.72.97.00;Kit Com 2 Tigelas Em Silicone 200 Ml Azul E Lilás Lucas E Willo (Sem Sucção) - Marcus & Marcus;BB TUDO
@@ -9300,7 +9286,6 @@ FATURAMENTO VD RJ;36.42;36.42;8.25.53.99.00;Shampoo e Sabonete Para Pele Delicad
 FATURAMENTO VD RJ;11.39;11.39;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Buba;BB TUDO
 FATURAMENTO VD RJ;11.39;11.39;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;BB TUDO
 FATURAMENTO VD RJ;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Buba;BB TUDO
-FATURAMENTO VD ES;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Buba;BB TUDO
 FATURAMENTO VD RJ;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;BB TUDO
 FATURAMENTO VD ES;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;BB TUDO
 FATURAMENTO VD RJ;24.92;24.92;8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;BB TUDO
