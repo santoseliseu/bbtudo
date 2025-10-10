@@ -558,7 +558,6 @@ FATURAMENTO VD ES;47.08;52.45;24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Ch
 FATURAMENTO VD ES;72.4;80.67;24.11.175.29.06;Persiana Off 25 Pvc 25Mm 120X130 Branca;VITRINE
 FATURAMENTO VD ES;72.4;80.67;24.11.175.31.01;Persiana Off 25 Pvc 25Mm 120X130 Preta;VITRINE
 FATURAMENTO VD ES;84.48;94.12;24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;VITRINE
-FATURAMENTO VD ES;84.48;94.12;24.11.175.35.01;Persiana Off 25 Pvc 25Mm 140X130 Preta;VITRINE
 FATURAMENTO VD ES;84.48;94.12;24.11.175.36.10;Persiana Off 25 Pvc 25Mm 140X130 Chumbo;VITRINE
 FATURAMENTO VD ES;96.52;107.54;24.11.175.37.06;Persiana Off 25 Pvc 25Mm 160X130 Branca;VITRINE
 FATURAMENTO VD ES;97.55;108.69;24.11.175.39.01;Persiana Off 25 Pvc 25Mm 160X130 Preta;VITRINE
@@ -1294,6 +1293,7 @@ FATURAMENTO VD ES;7.36;8.42;24.57.66.489.76;Sousplat Wolff Marrom de Plástico 3
 FATURAMENTO VD ES;39.41;44.84;24.57.66.493.00;Sousplat Wolff Pearl de Cristal 32cm;VITRINE
 FATURAMENTO VD ES;11.21;12.75;24.57.66.506.06;SousplatWolff Bambude Melamina Branco 33cm;VITRINE
 FATURAMENTO VD ES;20.35;23.15;24.57.66.581.00;Tábua de Melamina com Estampa de Madeira 40,5cm x 30,5cm x 1cm - Wolff;VITRINE
+FATURAMENTO VD ES;26.85;30.54;24.57.66.599.00;Sousplat de Cristal com Borda Dourada Linen 33cm - Wolff;VITRINE
 FATURAMENTO VD ES;15.25;17.5;24.57.66.604.00;Lugar Americano de Sisal Mandala Flor 32cm - Wolff;VITRINE
 FATURAMENTO VD ES;51.95;59.63;24.57.66.668.00;Conjunto 6 Peças Queijo De Bambu Com Tábua Ladrilho 23Cm;VITRINE
 FATURAMENTO VD ES;23.48;26.96;24.57.66.669.00;Conjunto 8 Peças Para Sushi De Bambu Akita;VITRINE
@@ -5274,8 +5274,8 @@ FATURAMENTO VD RJ;105.4;113.95;8.25.105.09.17;Cesto Organizador Quadrado Tigre -
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.10.10;Cesto Organizador Quadrado Elefante - 3 Sprouts;VITRINE
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.11.16;Cesto Organizador Quadrado Leão - 3 Sprouts;VITRINE
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.12.10;Cesto Organizador Quadrado Lhama - 3 Sprouts;VITRINE
+FATURAMENTO VD RJ;46.62;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
 FATURAMENTO VD ES;46.61;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
-FATURAMENTO VD RJ;46.61;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
 FATURAMENTO BBTOTAL ES;28.08;28.08;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TOTAL
 FATURAMENTO BBTOTAL ES;2.5;2.5;8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;BB TOTAL
 FATURAMENTO VD ES;4.36;5.0;8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;VITRINE
@@ -9073,8 +9073,8 @@ FATURAMENTO VD RJ;113.95;113.95;8.25.105.09.17;Cesto Organizador Quadrado Tigre 
 FATURAMENTO VD RJ;113.95;113.95;8.25.105.10.10;Cesto Organizador Quadrado Elefante - 3 Sprouts;BB TUDO
 FATURAMENTO VD RJ;113.95;113.95;8.25.105.11.16;Cesto Organizador Quadrado Leão - 3 Sprouts;BB TUDO
 FATURAMENTO VD RJ;113.95;113.95;8.25.105.12.10;Cesto Organizador Quadrado Lhama - 3 Sprouts;BB TUDO
-FATURAMENTO VD ES;52.07;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TUDO
 FATURAMENTO VD RJ;52.07;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TUDO
+FATURAMENTO VD ES;52.07;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TUDO
 FATURAMENTO VD ES;5.0;5.0;8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;BB TUDO
 FATURAMENTO VD RJ;17.17;17.17;8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;BB TUDO
 FATURAMENTO VD ES;17.13;17.13;8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;BB TUDO
