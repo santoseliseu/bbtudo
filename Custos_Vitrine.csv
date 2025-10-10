@@ -585,9 +585,9 @@ FATURAMENTO VD ES;120.91;139.38;24.11.175.90.06;Persiana Zebra Rolo Dupla 160X16
 FATURAMENTO VD ES;122.2;140.85;24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;VITRINE
 FATURAMENTO VD ES;120.91;139.38;24.11.175.92.57;Persiana Zebra Rolo Dupla 160X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;120.91;139.38;24.11.175.93.57;Persiana Zebra Rolo Dupla 160X160 Caramelo;VITRINE
+FULFILLMENT AMAZON;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FATURAMENTO VD RJ;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FULFILLMENT VISUAL IN;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
-FULFILLMENT AMAZON;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FATURAMENTO VD ES;47.9;58.8;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FATURAMENTO VISUAL IN SP;22.46;33.74;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
 FULFILLMENT MELI;24.12;27.38;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
@@ -603,7 +603,6 @@ FULFILLMENT MAGALU;45.75;55.07;24.25.49.03.06;Lixeira Retrô com Pedal 5 litros 
 FATURAMENTO VISUAL IN SP;151.63;227.98;24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca Mollie;VISUAL IN
 FULFILLMENT VISUAL IN;45.96;67.65;24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca Mollie;VISUAL IN
 FATURAMENTO VD ES;23.87;29.02;24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca Mollie;VITRINE
-FULFILLMENT MELI;24.07;29.28;24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca Mollie;VITRINE
 FATURAMENTO VD RJ;78.4;92.48;24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca Mollie;VITRINE
 FULFILLMENT AMAZON;78.4;92.48;24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca Mollie;VITRINE
 FULFILLMENT VISUAL IN;75.07;110.5;24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca Mollie;VISUAL IN
@@ -2656,11 +2655,11 @@ FATURAMENTO VD RJ;400.94;545.75;8.07.01.17.33;Cadeirinha Recline Safety 1st 0 a 
 FATURAMENTO VD RJ;539.23;738.01;8.07.01.27.27;Cadeirinha de Carro com Isofix Multifix 0 a 36kg Safety1st  Grey Urban;VITRINE
 FATURAMENTO VD RJ;670.53;935.12;8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Grey Urban - Safety 1st;VITRINE
 FATURAMENTO VD RJ;670.53;935.12;8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Grey Urban;VITRINE
-FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;VITRINE
 FULFILLMENT AMAZON;670.53;935.12;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;VITRINE
+FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;394.61;467.56;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;BB TOTAL
-FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
 FULFILLMENT AMAZON;670.53;935.12;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
+FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
 FATURAMENTO BBTOTAL ES;394.61;467.56;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;BB TOTAL
 FULFILLMENT MELI;522.18;728.24;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;VITRINE
@@ -3597,14 +3596,14 @@ FATURAMENTO VD RJ;364.69;502.51;8.09.04.94.07;Carrinho de Bebê Reverse Cosco - 
 FULFILLMENT MELI;365.43;503.56;8.09.04.94.07;Carrinho de Bebê Reverse Cosco - Azul Rajado;VITRINE
 FULFILLMENT AMAZON;365.43;503.56;8.09.04.94.07;Carrinho de Bebê Reverse Cosco - Azul Rajado;VITRINE
 FULFILLMENT MAGALU;300.26;403.59;8.09.04.94.07;Carrinho de Bebê Reverse Cosco - Azul Rajado;VITRINE
+FULFILLMENT AMAZON;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
 FATURAMENTO VD RJ;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
 FULFILLMENT MELI;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
 FULFILLMENT MAGALU;291.38;398.95;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
-FULFILLMENT AMAZON;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
+FULFILLMENT AMAZON;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - Cinza Rajado;VITRINE
 FATURAMENTO VD RJ;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - Cinza Rajado;VITRINE
 FULFILLMENT MELI;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - Cinza Rajado;VITRINE
 FULFILLMENT MAGALU;291.38;398.95;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - Cinza Rajado;VITRINE
-FULFILLMENT AMAZON;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - Cinza Rajado;VITRINE
 FATURAMENTO VD RJ;343.53;473.4;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
 FULFILLMENT MELI;335.8;462.74;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
 FULFILLMENT AMAZON;336.19;463.28;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
@@ -6656,7 +6655,6 @@ FATURAMENTO VD RJ;15.44;17.37;8.30.53.26.00;Estrela Musical Chicco Branco;VITRIN
 FATURAMENTO BBTOTAL ES;8.69;8.69;8.30.53.26.00;Estrela Musical Chicco Branco;BB TOTAL
 FATURAMENTO VD RJ;13.36;15.29;8.30.53.27.00;Lua Musical Chicco Amarela;VITRINE
 FATURAMENTO VD RJ;16.93;17.64;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Chicco Verde;VITRINE
-FATURAMENTO BBTOTAL ES;8.82;8.82;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Chicco Verde;BB TOTAL
 FATURAMENTO VD RJ;16.93;17.64;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Colorido - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;8.82;8.82;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Colorido - Chicco;BB TOTAL
 FATURAMENTO VD RJ;69.15;78.74;8.30.53.38.00;Pirâmide Dos Anéis Colorido Chicco;VITRINE
