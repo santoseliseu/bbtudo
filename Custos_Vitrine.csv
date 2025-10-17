@@ -72,7 +72,6 @@ FATURAMENTO VD RJ;36.67;43.2;21.14.50.1127.00;Cadeira Eames Musgo  Base Em Polip
 FATURAMENTO VD ES;73.35;86.4;21.14.50.1128.00;Conjunto Com 2 Cadeiras Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;73.35;86.4;21.14.50.1128.00;Conjunto Com 2 Cadeiras Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1129.00;Conjunto Com 4 Cadeiras Eames Musgo  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;50.57;59.77;21.14.50.1130.00;Cadeira Eames Com Braço Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;100.48;118.36;21.14.50.1131.00;Conjunto Com 2 Cadeiras Eames Com Braço Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;200.95;236.73;21.14.50.1132.00;Conjunto Com 4 Cadeiras Eames Com Braço Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;36.67;43.2;21.14.50.1133.00;Cadeira Eames Azul Zimbro  Base Em Polipropileno;VITRINE
@@ -2422,9 +2421,6 @@ FATURAMENTO BBTOTAL ES;752.26;863.48;8.05.70.02.10;Cadeirinha de Balanço Infant
 FATURAMENTO BBTOTAL ES;155.56;178.56;8.05.70.03.07;Cadeira de Descanso e Moisés com Balanço Aconchego Azul - Clingo;BB TOTAL
 FATURAMENTO VD RJ;331.16;357.11;8.05.70.03.07;Cadeira de Descanso e Moisés com Balanço Aconchego Azul - Clingo;VITRINE
 FATURAMENTO VD RJ;331.16;357.11;8.05.70.04.10;Cadeira de Descanso e Moisés com Balanço Aconchego Cinza - Clingo;VITRINE
-FATURAMENTO VD RJ;1056.92;1185.12;8.05.76.03.10;Cadeira de Balanço e Descanso Bouncer Serina 21N1 Cinza Petite City Joie;VITRINE
-FATURAMENTO VD RJ;1056.92;1185.12;8.05.76.03.10;Cadeira de Descanso Bouncer Serina 21N1 Cinza Petite City - Joie;VITRINE
-FATURAMENTO BBTOTAL ES;516.24;592.56;8.05.76.03.10;Cadeira de Descanso Bouncer Serina 21N1 Cinza Petite City - Joie;BB TOTAL
 FATURAMENTO VD RJ;460.86;642.72;8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;VITRINE
 FATURAMENTO VD RJ;460.86;642.72;8.06.01.01.08;Cadeira de Refeição Jelly Safety 1st - Red;VITRINE
 FATURAMENTO VD RJ;460.87;642.72;8.06.01.02.11;Cadeira de Alimentação Jelly Green - Safety 1st;VITRINE
@@ -5739,7 +5735,6 @@ FATURAMENTO VD RJ;33.68;35.08;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;VITR
 FATURAMENTO VD ES;54.06;61.5;8.25.57.47.69;Almofada Rolinho De Atividades Buba;VITRINE
 FATURAMENTO VD RJ;57.86;65.83;8.25.57.47.69;Almofada Rolinho De Atividades Buba;VITRINE
 FATURAMENTO BBTOTAL ES;29.16;29.16;8.25.57.47.69;Almofada Rolinho De Atividades Buba;BB TOTAL
-FATURAMENTO VD RJ;16.46;18.63;8.25.57.50.07;Kit Escovas Mamadeiras, Bico e Canudo Azul Buba;VITRINE
 FATURAMENTO VD RJ;35.12;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;15.53;17.82;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;BB TOTAL
 FATURAMENTO VD ES;35.12;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;VITRINE
@@ -5861,7 +5856,6 @@ FULFILLMENT VISUAL IN;41.17;64.95;8.25.69.19.00;Kit Box Saudável - BioClub Baby
 FATURAMENTO VD ES;56.03;56.24;8.25.69.19.00;Kit Box Saudável - BioClub Baby;VITRINE
 FATURAMENTO BBTOTAL ES;35.22;46.76;8.25.69.19.00;Kit Box Saudável - BioClub Baby;BB TOTAL
 FULFILLMENT VISUAL IN;41.17;64.95;8.25.69.19.00;Kit Box Saudável BioClub Baby;VISUAL IN
-FATURAMENTO VD ES;56.03;56.24;8.25.69.19.00;Kit Box Saudável BioClub Baby;VITRINE
 FATURAMENTO VISUAL IN SP;17.56;27.7;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;VISUAL IN
 FATURAMENTO VD ES;20.92;23.98;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;VITRINE
 FULFILLMENT VISUAL IN;23.99;24.3;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;VISUAL IN
@@ -6725,7 +6719,6 @@ FATURAMENTO BBTOTAL ES;67.36;67.36;8.30.57.06.07;Bicicleta de Equilíbrio 4 Roda
 FATURAMENTO VD RJ;124.52;141.65;8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Buba Vermelha;VITRINE
 FATURAMENTO VD RJ;124.52;141.65;8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;VITRINE
 FATURAMENTO VD RJ;11.7;13.31;8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;VITRINE
-FATURAMENTO VD RJ;26.24;30.09;8.30.57.12.69;Baby Ball Luz e Som Sortido Buba Colorido;VITRINE
 FATURAMENTO BBTOTAL ES;4.55;4.55;8.30.57.13.69;Risque e Apague Buba Colorido;BB TOTAL
 FATURAMENTO VD RJ;7.93;9.1;8.30.57.13.69;Risque e Apague Buba Colorido;VITRINE
 FATURAMENTO VD RJ;6.08;6.34;8.30.57.14.00;Mordedor Com Água Mãozinha 2.0 - Buba;VITRINE
@@ -6754,7 +6747,6 @@ FATURAMENTO VD RJ;43.48;49.46;8.30.57.32.69;Mola Buba Zoo Unicórnio - Buba;VITR
 FATURAMENTO BBTOTAL ES;22.9;24.46;8.30.57.32.69;Mola Buba Zoo Unicórnio - Buba;BB TOTAL
 FATURAMENTO VD RJ;48.69;55.39;8.30.57.33.69;Dino Buba Zoo Atividades - Buba;VITRINE
 FATURAMENTO VD RJ;48.69;55.39;8.30.57.33.69;Treme-Treme De Atividades Zoo Dino - Buba;VITRINE
-FATURAMENTO VD RJ;48.69;55.39;8.30.57.34.69;Elefante Buba Zoo Atividades - Buba;VITRINE
 FATURAMENTO VD RJ;48.69;55.39;8.30.57.34.69;Treme-Treme De Atividades Zoo Elefante - Buba;VITRINE
 FATURAMENTO VD RJ;48.7;55.39;8.30.57.36.69;Panda Buba Zoo Atividades - Buba;VITRINE
 FATURAMENTO VD RJ;48.7;55.39;8.30.57.36.69;Treme-Treme De Atividades Zoo Panda - Buba;VITRINE
@@ -7503,8 +7495,6 @@ FATURAMENTO VD RJ;1726.95;1726.95;8.05.70.02.10;Cadeirinha de Balanço Infantil 
 FATURAMENTO VD RJ;1726.95;1726.95;8.05.70.02.10;Cadeirinha de Balanço Infantil MamaRoo 5.0 Cinza - 4Moms;BB TUDO
 FATURAMENTO VD RJ;357.11;357.11;8.05.70.03.07;Cadeira de Descanso e Moisés com Balanço Aconchego Azul - Clingo;BB TUDO
 FATURAMENTO VD RJ;357.11;357.11;8.05.70.04.10;Cadeira de Descanso e Moisés com Balanço Aconchego Cinza - Clingo;BB TUDO
-FATURAMENTO VD RJ;1185.12;1185.12;8.05.76.03.10;Cadeira de Balanço e Descanso Bouncer Serina 21N1 Cinza Petite City Joie;BB TUDO
-FATURAMENTO VD RJ;1185.12;1185.12;8.05.76.03.10;Cadeira de Descanso Bouncer Serina 21N1 Cinza Petite City - Joie;BB TUDO
 FATURAMENTO VD RJ;642.72;642.72;8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;642.72;642.72;8.06.01.01.08;Cadeira de Refeição Jelly Safety 1st - Red;BB TUDO
 FATURAMENTO VD RJ;642.72;642.72;8.06.01.02.11;Cadeira de Alimentação Jelly Green - Safety 1st;BB TUDO
@@ -9371,7 +9361,6 @@ FATURAMENTO VD ES;39.36;39.36;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;BB T
 FATURAMENTO VD RJ;35.08;35.08;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;BB TUDO
 FATURAMENTO VD ES;61.5;61.5;8.25.57.47.69;Almofada Rolinho De Atividades Buba;BB TUDO
 FATURAMENTO VD RJ;65.83;65.83;8.25.57.47.69;Almofada Rolinho De Atividades Buba;BB TUDO
-FATURAMENTO VD RJ;18.63;18.63;8.25.57.50.07;Kit Escovas Mamadeiras, Bico e Canudo Azul Buba;BB TUDO
 FATURAMENTO VD RJ;39.8;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;BB TUDO
 FATURAMENTO VD ES;39.8;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;BB TUDO
 FATURAMENTO VD RJ;39.8;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro Buba;BB TUDO
@@ -9438,7 +9427,6 @@ FATURAMENTO VD RJ;14.76;14.76;8.25.69.13.00;Shampoo Infantil com Keratina sem Sa
 FATURAMENTO VD ES;20.57;20.57;8.25.69.16.00;Colônia infantil sem Álcool 120ml BioClub Baby;BB TUDO
 FATURAMENTO VD ES;16.8;16.8;8.25.69.17.00;Loção Hidratante Infantil Hidrata Neném 150ml BioClub Baby;BB TUDO
 FATURAMENTO VD ES;56.24;56.24;8.25.69.19.00;Kit Box Saudável - BioClub Baby;BB TUDO
-FATURAMENTO VD ES;56.24;56.24;8.25.69.19.00;Kit Box Saudável BioClub Baby;BB TUDO
 FATURAMENTO VD ES;23.98;23.98;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;BB TUDO
 FATURAMENTO VD ES;23.98;23.98;8.25.69.20.00;Brinquedos Limpinhos 500 ml BioClub Baby;BB TUDO
 FATURAMENTO VD ES;11.0;11.0;8.25.69.23.00;Gel Dental Infantil Melancia - Bioclub Baby;BB TUDO
@@ -9967,7 +9955,6 @@ FATURAMENTO VD RJ;134.71;134.71;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas B
 FATURAMENTO VD RJ;141.65;141.65;8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Buba Vermelha;BB TUDO
 FATURAMENTO VD RJ;141.65;141.65;8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;BB TUDO
 FATURAMENTO VD RJ;13.31;13.31;8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;BB TUDO
-FATURAMENTO VD RJ;30.09;30.09;8.30.57.12.69;Baby Ball Luz e Som Sortido Buba Colorido;BB TUDO
 FATURAMENTO VD RJ;9.1;9.1;8.30.57.13.69;Risque e Apague Buba Colorido;BB TUDO
 FATURAMENTO VD RJ;34.0;34.0;8.30.57.23.69;Atomic Ball - Buba;BB TUDO
 FATURAMENTO VD RJ;21.89;21.89;8.30.57.26.69;Bichinhos Para Banho Dino Tubo - Buba;BB TUDO
@@ -9985,7 +9972,6 @@ FATURAMENTO VD RJ;49.46;49.46;8.30.57.32.69;Bichinho Mola Zoo Unicórnio - Buba;
 FATURAMENTO VD RJ;49.46;49.46;8.30.57.32.69;Mola Buba Zoo Unicórnio - Buba;BB TUDO
 FATURAMENTO VD RJ;55.39;55.39;8.30.57.33.69;Dino Buba Zoo Atividades - Buba;BB TUDO
 FATURAMENTO VD RJ;55.39;55.39;8.30.57.33.69;Treme-Treme De Atividades Zoo Dino - Buba;BB TUDO
-FATURAMENTO VD RJ;55.39;55.39;8.30.57.34.69;Elefante Buba Zoo Atividades - Buba;BB TUDO
 FATURAMENTO VD RJ;55.39;55.39;8.30.57.34.69;Treme-Treme De Atividades Zoo Elefante - Buba;BB TUDO
 FATURAMENTO VD RJ;55.39;55.39;8.30.57.36.69;Panda Buba Zoo Atividades - Buba;BB TUDO
 FATURAMENTO VD RJ;55.39;55.39;8.30.57.36.69;Treme-Treme De Atividades Zoo Panda - Buba;BB TUDO
