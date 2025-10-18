@@ -696,7 +696,6 @@ FATURAMENTO VD ES;55.04;62.36;24.50.66.428.00;Vaso de Vidro com Borda Dourada 10
 FATURAMENTO VD ES;41.1;46.57;24.50.66.431.00;Vaso de Vidro com Borda Dourada Taj 13cm x 28,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;53.39;60.49;24.50.66.468.00;Vaso de Vidro Italy Âmbar 13cm x 10cm - Wolff;VITRINE
 FATURAMENTO VD ES;56.47;63.97;24.50.66.472.00;Vaso Murano Italy Dourado 13cm x 10cm - Wolff;VITRINE
-FATURAMENTO VD ES;69.38;78.6;24.50.66.478.00;Vaso Murano Italy Dourado 14cm x 13cm - Wolff;VITRINE
 FATURAMENTO VD ES;41.23;46.7;24.50.66.500.00;Vaso de Vidro com Borda Dourada Liz 9cm x 9cm x 22cm - Wolff;VITRINE
 FATURAMENTO VD ES;22.78;25.81;24.50.66.510.00;Vaso de Vidro e Fibra Natural 12,5cm x 22,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;16.87;19.12;24.50.66.511.00;Vaso de Vidro e Fibra Natural 10cm x 19,5cm - Wolff;VITRINE
@@ -878,7 +877,6 @@ FATURAMENTO VD ES;36.5;41.52;24.52.66.427.00;"Kit 4 Taças Cappuccino Vidro Fio 
 FATURAMENTO VD ES;21.49;24.34;24.52.66.428.00;Conjunto 4 Taças para Sobremesa de Vidro Butterfly - Wolff;VITRINE
 FATURAMENTO VD ES;15.93;18.12;24.52.66.43.00;Prato Wolff Pearl de Cristal Âmbar 20cm x 9cm;VITRINE
 FATURAMENTO VD ES;27.16;30.9;24.52.66.44.00;Prato Wolff Pearl de Cristal Incolor 20cm x 18cm;VITRINE
-FATURAMENTO VD ES;29.4;33.66;24.52.66.46.18;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Rosa 80ml;VITRINE
 FATURAMENTO VD ES;10.31;11.73;24.52.66.50.00;Açucareiro Wolff Pearl de Cristal Incolor 10cm x 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;10.81;12.3;24.52.66.51.00;Meleira Wolff Pearl de Cristal Incolor 10cm x 8cm x 7cm;VITRINE
 FATURAMENTO VD ES;22.08;25.11;24.52.66.52.00;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Incolor;VITRINE
@@ -2167,7 +2165,6 @@ FATURAMENTO BBTOTAL ES;34.0;34.0;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x
 FATURAMENTO VD RJ;54.79;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;38.7;38.7;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;BB TOTAL
 FATURAMENTO VD RJ;54.79;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Cosco Branco Estampado;VITRINE
-FATURAMENTO BBTOTAL ES;38.7;38.7;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Cosco Branco Estampado;BB TOTAL
 FATURAMENTO VD RJ;295.03;411.45;8.04.04.15.18;Berço Nanny Cosco Rosa Rajado;VITRINE
 FATURAMENTO VD RJ;295.03;411.45;8.04.04.15.18;Berço Portátil Nanny Rosa Rajado - Cosco;VITRINE
 FATURAMENTO VD RJ;295.03;411.45;8.04.04.16.07;Berço Nanny Cosco Azul Rajado;VITRINE
@@ -2371,7 +2368,6 @@ FATURAMENTO VD ES;164.04;193.24;8.05.28.09.10;Andador Infantil Torino Estrela Ci
 FATURAMENTO VD ES;164.04;193.24;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;VITRINE
 FATURAMENTO VD ES;167.5;197.32;8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;96.62;96.62;8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;BB TOTAL
-FATURAMENTO VD ES;167.5;197.32;8.05.28.10.18;Andador Torino Spring Galzerano Rosa;VITRINE
 FATURAMENTO VD RJ;186.76;257.34;8.05.33.02.07;Andador e Triciclo 5-in-1 Here I Grow Blue - Tiny Love;VITRINE
 FATURAMENTO VD RJ;186.76;257.34;8.05.33.02.07;Andador e Triciclo 5-in-1 Here I Grow Tiny Love Blue;VITRINE
 FATURAMENTO VD RJ;173.87;239.59;8.05.33.03.18;Andador e Triciclo 5-in-1 Here I Grow Pink - Tiny Love;VITRINE
@@ -5797,7 +5793,6 @@ FATURAMENTO VD RJ;30.94;33.87;8.25.58.25.07;Escova Mamadeiras e Bicos Azul – P
 FATURAMENTO BBTOTAL ES;14.76;16.94;8.25.58.25.07;Escova Mamadeiras e Bicos Azul – Philips Avent;BB TOTAL
 FATURAMENTO BBTOTAL ES;22.22;29.5;8.25.69.01.00;Água de Passar Perfumada 500 ml Bioclub Baby;BB TOTAL
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Passar Perfumada 500 ml Bioclub Baby;VITRINE
-FATURAMENTO VD RJ;19.53;24.45;8.25.69.01.00;Água de Passar Perfumada 500 ml Bioclub Baby;VITRINE
 FATURAMENTO BBTOTAL ES;22.22;29.5;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;BB TOTAL
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;VITRINE
 FATURAMENTO VD RJ;23.09;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;VITRINE
@@ -5830,7 +5825,6 @@ FULFILLMENT VISUAL IN;19.13;22.2;8.25.69.08.00;Lava Roupas Concentrado Detergent
 FATURAMENTO VD ES;19.13;22.2;8.25.69.08.00;Lava Roupas Concentrado Detergente Natural  - Bioclub Baby;VITRINE
 FATURAMENTO VD ES;15.25;17.48;8.25.69.09.00;Condicionador Infantil Hidrata Cabelinho - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;12.94;20.41;8.25.69.09.00;Condicionador Infantil Hidrata Cabelinho - Bioclub Baby;VISUAL IN
-FATURAMENTO BBTOTAL ES;7.37;8.73;8.25.69.09.00;Condicionador Infantil Hidrata Cabelinho - Bioclub Baby;BB TOTAL
 FATURAMENTO VD ES;24.02;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;24.02;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO BBTOTAL ES;11.52;13.65;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;BB TOTAL
@@ -6734,7 +6728,6 @@ FATURAMENTO BBTOTAL ES;10.87;10.87;8.30.57.26.69;Bichinhos Para Banho Dino Tubo 
 FATURAMENTO VD RJ;31.05;34.96;8.30.57.27.69;Livrinho De Atividades Jungle - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;15.22;17.48;8.30.57.27.69;Livrinho De Atividades Jungle - Buba;BB TOTAL
 FATURAMENTO VD RJ;43.46;49.46;8.30.57.28.69;Bichinho Mola Zoo Dino - Buba;VITRINE
-FATURAMENTO VD RJ;43.46;49.46;8.30.57.28.69;Mola Buba Zoo Dino - Buba;VITRINE
 FATURAMENTO VD RJ;43.48;49.46;8.30.57.29.69;Bichinho Mola Zoo Elefante - Buba;VITRINE
 FATURAMENTO VD RJ;43.48;49.46;8.30.57.29.69;Mola Buba Zoo Elefante - Buba;VITRINE
 FATURAMENTO VD RJ;45.22;51.44;8.30.57.30.69;Bichinho Mola Zoo Leão - Buba;VITRINE
@@ -7470,7 +7463,6 @@ FATURAMENTO VD RJ;399.51;399.51;8.05.23.01.11;Centro de Atividade Jumper Joyfull
 FATURAMENTO VD ES;193.24;193.24;8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;BB TUDO
 FATURAMENTO VD ES;193.24;193.24;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;BB TUDO
 FATURAMENTO VD ES;197.32;197.32;8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;BB TUDO
-FATURAMENTO VD ES;197.32;197.32;8.05.28.10.18;Andador Torino Spring Galzerano Rosa;BB TUDO
 FATURAMENTO VD RJ;257.34;257.34;8.05.33.02.07;Andador e Triciclo 5-in-1 Here I Grow Blue - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;257.34;257.34;8.05.33.02.07;Andador e Triciclo 5-in-1 Here I Grow Tiny Love Blue;BB TUDO
 FATURAMENTO VD RJ;239.59;239.59;8.05.33.03.18;Andador e Triciclo 5-in-1 Here I Grow Pink - Tiny Love;BB TUDO
@@ -9400,7 +9392,6 @@ FATURAMENTO VD ES;691.35;691.35;8.25.58.24.06;Esterilizador Elétrico 220V Branc
 FATURAMENTO VD RJ;435.45;435.45;8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;BB TUDO
 FATURAMENTO VD RJ;33.87;33.87;8.25.58.25.07;Escova Mamadeiras e Bicos Azul – Philips Avent;BB TUDO
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Passar Perfumada 500 ml Bioclub Baby;BB TUDO
-FATURAMENTO VD RJ;24.45;24.45;8.25.69.01.00;Água de Passar Perfumada 500 ml Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD RJ;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TUDO
@@ -9964,7 +9955,6 @@ FATURAMENTO VD RJ;21.89;21.89;8.30.57.26.69;Bichinhos Para Banho Dino Tubo - Bub
 FATURAMENTO VD RJ;21.89;21.89;8.30.57.26.69;Bichinhos Para Banho Dino Tubo 4 Unidades Coloridos - Buba;BB TUDO
 FATURAMENTO VD RJ;34.96;34.96;8.30.57.27.69;Livrinho De Atividades Jungle - Buba;BB TUDO
 FATURAMENTO VD RJ;49.46;49.46;8.30.57.28.69;Bichinho Mola Zoo Dino - Buba;BB TUDO
-FATURAMENTO VD RJ;49.46;49.46;8.30.57.28.69;Mola Buba Zoo Dino - Buba;BB TUDO
 FATURAMENTO VD RJ;49.46;49.46;8.30.57.29.69;Bichinho Mola Zoo Elefante - Buba;BB TUDO
 FATURAMENTO VD RJ;49.46;49.46;8.30.57.29.69;Mola Buba Zoo Elefante - Buba;BB TUDO
 FATURAMENTO VD RJ;51.44;51.44;8.30.57.30.69;Bichinho Mola Zoo Leão - Buba;BB TUDO
