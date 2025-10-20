@@ -110,10 +110,10 @@ FATURAMENTO VD ES;27.16;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta  Base 
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;27.16;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD ES;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;54.97;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
+FATURAMENTO VD ES;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD ES;54.97;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
@@ -538,7 +538,6 @@ FATURAMENTO VD ES;103.97;115.84;24.11.175.11.06;Persiana Premier Pvc 25Mm 140X16
 FATURAMENTO VD ES;103.97;115.84;24.11.175.12.57;Persiana Premier Pvc 25Mm 140X160 Bege;VITRINE
 FATURAMENTO VD ES;168.42;194.14;24.11.175.120.10;Persiana Bloom Corta Luz Cinza 140X160;VITRINE
 FATURAMENTO VD ES;198.69;229.04;24.11.175.127.06;Persiana Screen Rolo Solar 180X220 Branca;VITRINE
-FATURAMENTO VD ES;103.97;115.84;24.11.175.13.01;Persiana Premier Pvc 25Mm 140X160 Preta;VITRINE
 FATURAMENTO VD ES;78.0;89.91;24.11.175.130.06;Persiana Screen Rolo Solar 120X160 Branca;VITRINE
 FATURAMENTO VD ES;105.05;121.09;24.11.175.134.06;Persiana Screen Rolo Solar 160X160 Branca;VITRINE
 FATURAMENTO VD ES;118.81;132.37;24.11.175.15.06;Persiana Premier Pvc 25Mm 160X160 Branca;VITRINE
@@ -563,7 +562,6 @@ FATURAMENTO VD ES;47.08;52.45;24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Ch
 FATURAMENTO VD ES;84.48;94.12;24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;VITRINE
 FATURAMENTO VD ES;96.52;107.54;24.11.175.37.06;Persiana Off 25 Pvc 25Mm 160X130 Branca;VITRINE
 FATURAMENTO VD ES;97.55;108.69;24.11.175.39.01;Persiana Off 25 Pvc 25Mm 160X130 Preta;VITRINE
-FATURAMENTO VD ES;96.57;107.59;24.11.175.40.10;Persiana Off 25 Pvc 25Mm 160X130 Chumbo;VITRINE
 FATURAMENTO VD ES;98.68;113.76;24.11.175.42.00;Persiana Hanoy Rolo Bambu 120X160 Cedro;VITRINE
 FATURAMENTO VD ES;115.13;132.72;24.11.175.43.00;Persiana Hanoy Rolo Bambu 140X160 Cedro;VITRINE
 FATURAMENTO VD ES;131.58;151.68;24.11.175.44.00;Persiana Hanoy Rolo Bambu 160X160 Cedro;VITRINE
@@ -937,6 +935,7 @@ FATURAMENTO VD ES;10.14;11.64;24.53.163.35.00;Concha De Silicone Duplo Preta - O
 FATURAMENTO VD ES;10.14;11.64;24.53.163.36.00;Colher De Silicone Duplo Rosa - Oikos;VITRINE
 FATURAMENTO VD ES;11.29;12.96;24.53.163.41.00;Espátula Larga De Silicone Vermelho - Oikos;VITRINE
 FATURAMENTO VD ES;10.38;11.91;24.53.163.48.00;Colher De Silicone Com Cabo De Madeira - Oikos;VITRINE
+FATURAMENTO VD ES;9.73;11.17;24.53.163.49.00;Espátula Redonda De Silicone Com Cabo De Madeira - Oikos;VITRINE
 FATURAMENTO VD ES;11.8;13.55;24.53.163.51.00;Abridor De Latas Multiuso Azul - Oikos;VITRINE
 FATURAMENTO VD ES;11.8;13.55;24.53.163.52.00;Abridor De Latas Multiuso Preto - Oikos;VITRINE
 FATURAMENTO VD ES;11.79;13.55;24.53.163.53.00;Abridor De Latas Multiuso Vermelho - Oikos;VITRINE
@@ -1322,6 +1321,7 @@ FATURAMENTO VD ES;59.56;68.37;24.68.163.21.00;Cesto Étnico Tramado Com Alças 4
 FATURAMENTO VD ES;22.96;26.37;24.68.163.22.00;Cesto Duo Com Alças 27Cm De Seagrass - Oikos;VITRINE
 FATURAMENTO VD ES;22.58;25.91;24.68.163.23.00;Cesto Ripado De Bambu 22Cm - Oikos;VITRINE
 FATURAMENTO VD ES;43.55;50.0;24.68.163.31.00;Rack Organizador Extensível De Bambu - Oikos;VITRINE
+FATURAMENTO VD ES;28.4;32.59;24.68.174.02.00;Mop Esponja De Alta Absorção Limpeza Geral - Simplo;VITRINE
 FATURAMENTO VD ES;9.26;10.64;24.68.174.03.00;Refil Para Mop Esponja De Alta Absorção - Simplo;VITRINE
 FATURAMENTO VD ES;9.24;10.62;24.68.174.05.00;Refil De Microfibra Para Mop Giratório Quadrado - Simplo;VITRINE
 FATURAMENTO VD ES;27.0;30.99;24.68.174.09.00;Vassoura Emborrachada Com Rodo 2 Em 1 - Simplo;VITRINE
@@ -1345,7 +1345,7 @@ FATURAMENTO VD ES;61.34;70.41;24.69.163.20.00;Cesto De Seagrass Branco 39Cm Com 
 FATURAMENTO VD ES;24.58;25.61;24.69.163.26.00;Organizador Vertical Multiuso Com Divisórias De Bambu;VITRINE
 FATURAMENTO VD ES;14.67;16.84;24.69.163.27.00;Caixa Organizadora Canelada Transparente Com Tampa 5,5L Alta;VITRINE
 FATURAMENTO VD ES;24.77;28.44;24.69.163.29.00;Cesto Quadrado De Seagrass 30Cm - Oikos;VITRINE
-FATURAMENTO VD ES;15.84;18.18;24.69.163.31.00;Prateleira De Metal Meia Lua - Oikos;VITRINE
+FATURAMENTO VD ES;15.83;18.18;24.69.163.31.00;Prateleira De Metal Meia Lua - Oikos;VITRINE
 FATURAMENTO VD ES;25.57;29.35;24.69.163.34.00;Caixa Organizadora Canelada Transparente Com Tampa 11L Alta;VITRINE
 FATURAMENTO VD ES;32.06;36.8;24.69.163.38.00;Caixa Organizadora Canelada Transparente com Tampa 18L Alta;VITRINE
 FATURAMENTO VD ES;59.05;67.78;24.69.163.39.00;Caixa Organizadora De Seagrass 30Cm - Oikos;VITRINE
@@ -1357,13 +1357,13 @@ FATURAMENTO VD ES;18.85;21.64;24.69.163.50.00;Kit De 10 Cabides Infantis De Velu
 FATURAMENTO VD ES;90.52;103.89;24.69.163.53.00;Carrinho Organizador 3 Andares - Oikos;VITRINE
 FATURAMENTO VD ES;166.31;190.9;24.69.163.54.00;Gaveteiro Giratório Quadrado com Rodinhas - Oikos;VITRINE
 FATURAMENTO VD ES;7.88;9.04;24.69.163.55.00;Saco Para Máquina De Lavar Roupas 4 Divisórias - Oikos;VITRINE
-FATURAMENTO VD ES;91.08;104.53;24.69.163.70.00;Cesto Redondo 40Cm Com Alças Arcos Palha Rattan - Oikos;VITRINE
+FATURAMENTO VD ES;91.06;104.53;24.69.163.70.00;Cesto Redondo 40Cm Com Alças Arcos Palha Rattan - Oikos;VITRINE
 FATURAMENTO VD ES;94.01;107.91;24.69.163.71.00;Cesto Ondulado Com Alças 38Cm De Corda - Oikos;VITRINE
 FATURAMENTO VD ES;87.0;99.86;24.69.163.73.00;Cesto Com Tampa Cogumelo 28Cm De Corda - Oikos;VITRINE
 FATURAMENTO VD ES;12.7;14.57;24.69.163.76.00;Organizador Dobrável Com 6 Divisórias Quadradas Linho;VITRINE
 FATURAMENTO VD ES;20.5;23.52;24.69.163.78.00;Organizador Dobrável Linho - Oikos;VITRINE
 FATURAMENTO VD ES;5.97;6.85;24.69.163.79.00;Organizador Para Cabeceira - Oikos;VITRINE
-FATURAMENTO VD ES;142.05;163.07;24.69.163.80.00;Organizador Multiuso 4 Andares De Acácia - Oikos;VITRINE
+FATURAMENTO VD ES;142.08;163.07;24.69.163.80.00;Organizador Multiuso 4 Andares De Acácia - Oikos;VITRINE
 FATURAMENTO VD ES;30.14;34.59;24.69.163.85.00;Cesto 45L Telado Com Tampa E Alças De Plástico - Oikos;VITRINE
 FATURAMENTO VD ES;16.43;18.86;24.69.163.87.00;Cesto 15L Telado Com Tampa E Alçasde Plástico - Oikos;VITRINE
 FATURAMENTO VD ES;16.43;18.86;24.69.163.88.00;Cesto 15L Telado Com Tampa E Alças de Plástico Verde - Oikos;VITRINE
@@ -1988,10 +1988,10 @@ FATURAMENTO VD RJ;506.12;580.94;8.03.84.01.01;Bebê Conforto Artio Satin Black -
 FATURAMENTO VD RJ;293.12;408.79;8.04.01.01.01;Berço Compacto Mini Play Black - Safety 1st;VITRINE
 FATURAMENTO VD RJ;668.77;932.67;8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;VITRINE
 FATURAMENTO VD RJ;668.77;932.67;8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;VITRINE
-FATURAMENTO VD RJ;293.15;408.83;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;VITRINE
+FATURAMENTO VD RJ;293.12;408.79;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;VITRINE
 FULFILLMENT AMAZON;293.15;408.83;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;VITRINE
 FULFILLMENT MELI;293.86;409.78;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;VITRINE
-FATURAMENTO VD RJ;293.15;408.83;8.04.01.07.50;Berço Mini Play Safety 1st Pop Bege;VITRINE
+FATURAMENTO VD RJ;293.12;408.79;8.04.01.07.50;Berço Mini Play Safety 1st Pop Bege;VITRINE
 FULFILLMENT AMAZON;293.15;408.83;8.04.01.07.50;Berço Mini Play Safety 1st Pop Bege;VITRINE
 FULFILLMENT MELI;293.86;409.78;8.04.01.07.50;Berço Mini Play Safety 1st Pop Bege;VITRINE
 FATURAMENTO VD RJ;515.93;705.09;8.04.01.10.54;Berço Side by Side Safety 1st Brown;VITRINE
@@ -2511,12 +2511,12 @@ FULFILLMENT AMAZON;96.9;135.14;8.06.04.09.06;Cadeira de Alimentação Portátil 
 FATURAMENTO VD RJ;96.9;135.14;8.06.04.09.06;Cadeira de Refeição Portátil Smart Cosco Gelo;VITRINE
 FULFILLMENT MELI;96.9;135.14;8.06.04.09.06;Cadeira de Refeição Portátil Smart Cosco Gelo;VITRINE
 FULFILLMENT AMAZON;96.9;135.14;8.06.04.09.06;Cadeira de Refeição Portátil Smart Cosco Gelo;VITRINE
-FULFILLMENT MAGALU;115.41;160.69;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;VITRINE
 FATURAMENTO VD RJ;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;VITRINE
+FULFILLMENT MAGALU;115.41;160.69;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;VITRINE
 FULFILLMENT AMAZON;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;VITRINE
 FULFILLMENT MELI;123.98;172.82;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;VITRINE
-FULFILLMENT MAGALU;115.41;160.69;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
 FATURAMENTO VD RJ;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
+FULFILLMENT MAGALU;115.41;160.69;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
 FULFILLMENT AMAZON;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
 FULFILLMENT MELI;123.98;172.82;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
 FATURAMENTO VD RJ;428.5;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;VITRINE
@@ -6893,10 +6893,10 @@ FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta  Base E
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
-FATURAMENTO VD ES;64.72;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
+FATURAMENTO VD ES;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
-FATURAMENTO VD ES;64.72;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.24;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
@@ -7258,8 +7258,8 @@ FATURAMENTO VD RJ;580.94;580.94;8.03.84.01.01;Bebê Conforto Artio Satin Black -
 FATURAMENTO VD RJ;408.79;408.79;8.04.01.01.01;Berço Compacto Mini Play Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;932.67;932.67;8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;932.67;932.67;8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;408.83;408.83;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;408.83;408.83;8.04.01.07.50;Berço Mini Play Safety 1st Pop Bege;BB TUDO
+FATURAMENTO VD RJ;408.79;408.79;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;408.79;408.79;8.04.01.07.50;Berço Mini Play Safety 1st Pop Bege;BB TUDO
 FATURAMENTO VD RJ;835.72;835.72;8.04.01.11.27;Berço Portátil Side by Side Gray - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;835.72;835.72;8.04.01.11.27;Berço Side by Side Safety 1st Gray;BB TUDO
 FATURAMENTO VD RJ;408.79;408.79;8.04.01.12.108;Berço Compacto Mini Play Net Blue - Safety 1st;BB TUDO
