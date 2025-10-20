@@ -462,7 +462,6 @@ FATURAMENTO VD ES;24.09;27.4;24.10.159.384.00;Pote Hermético de Poliestireno My
 FATURAMENTO VD ES;2.64;3.0;24.10.159.386.00;Kit 4 Canudos Vidro Reutilizáveis c/Escova p/ Limpeza 20cm;VITRINE
 FATURAMENTO VD ES;4.14;4.71;24.10.159.387.69;Kit 4 Canudos Silicone Coloridos Reutilizáveis c/Escova 22cm;VITRINE
 FATURAMENTO VD ES;56.71;64.51;24.10.159.391.57;Panela de Indução 18cm Taupe com Revestimento Cerâmico;VITRINE
-FATURAMENTO VD ES;40.83;46.44;24.10.159.392.57;Frigideira de Indução 24cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;35.31;40.17;24.10.159.394.57;Tapioqueira de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;59.78;68.0;24.10.159.395.57;Frigideira Wok de Indução 28cm Taupe c/Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;71.18;80.97;24.10.159.396.57;Caçarola de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
@@ -560,7 +559,6 @@ FATURAMENTO VD ES;93.96;108.3;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 14
 FATURAMENTO VD ES;106.59;122.87;24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;VITRINE
 FATURAMENTO VD ES;102.24;114.17;24.11.175.181.00;Kit Varão Extensor 120 a 210cm Coroa Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.191.00;Kit Varão Extensor 160 a 300cm Esfera Cromada 25-28MM;VITRINE
-FATURAMENTO VD ES;124.97;139.54;24.11.175.192.00;Kit Varão Extensor 160 a 300cm Esfera Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;47.08;52.45;24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Chumbo;VITRINE
 FATURAMENTO VD ES;84.48;94.12;24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;VITRINE
 FATURAMENTO VD ES;96.52;107.54;24.11.175.37.06;Persiana Off 25 Pvc 25Mm 160X130 Branca;VITRINE
@@ -1325,9 +1323,7 @@ FATURAMENTO VD ES;22.96;26.37;24.68.163.22.00;Cesto Duo Com Alças 27Cm De Seagr
 FATURAMENTO VD ES;22.58;25.91;24.68.163.23.00;Cesto Ripado De Bambu 22Cm - Oikos;VITRINE
 FATURAMENTO VD ES;43.55;50.0;24.68.163.31.00;Rack Organizador Extensível De Bambu - Oikos;VITRINE
 FATURAMENTO VD ES;9.26;10.64;24.68.174.03.00;Refil Para Mop Esponja De Alta Absorção - Simplo;VITRINE
-FATURAMENTO VD ES;77.12;88.52;24.68.174.04.00;Mop Giratório Água Nova Com Balde E Esfregão - Simplo;VITRINE
 FATURAMENTO VD ES;9.24;10.62;24.68.174.05.00;Refil De Microfibra Para Mop Giratório Quadrado - Simplo;VITRINE
-FATURAMENTO VD ES;8.26;9.48;24.68.174.07.00;Refil De Chenille Para Mop Flat - Simplo;VITRINE
 FATURAMENTO VD ES;27.0;30.99;24.68.174.09.00;Vassoura Emborrachada Com Rodo 2 Em 1 - Simplo;VITRINE
 FATURAMENTO VD ES;19.58;22.48;24.68.174.11.00;Bacia Dobrável De Plástico 5 Litros - Simplo;VITRINE
 FATURAMENTO VD ES;12.74;14.63;24.68.174.14.00;Papa Bolinhas Elétrico – Simplo;VITRINE
@@ -3438,7 +3434,6 @@ FATURAMENTO BBTOTAL ES;209.39;209.39;8.09.03.92.10;Carrinho de Bebê Delta Cinza
 FULFILLMENT AMAZON;303.9;418.78;8.09.03.92.10;Carrinho de Bebê Delta Voyage Cinza Mescla;VITRINE
 FATURAMENTO VD RJ;303.9;418.78;8.09.03.92.10;Carrinho de Bebê Delta Voyage Cinza Mescla;VITRINE
 FULFILLMENT MELI;267.5;368.14;8.09.03.92.10;Carrinho de Bebê Delta Voyage Cinza Mescla;VITRINE
-FATURAMENTO BBTOTAL ES;209.39;209.39;8.09.03.92.10;Carrinho de Bebê Delta Voyage Cinza Mescla;BB TOTAL
 FATURAMENTO VD RJ;486.53;678.53;8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;VITRINE
 FULFILLMENT MELI;486.53;678.52;8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;VITRINE
 FULFILLMENT AMAZON;486.53;678.52;8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;VITRINE
@@ -3861,7 +3856,6 @@ FATURAMENTO BBTOTAL ES;936.52;1074.98;8.09.76.09.11;Carrinho de Bebê Finiti Pin
 FATURAMENTO VD RJ;1877.79;2149.95;8.09.76.09.11;Carrinho de Bebê Finiti Pine Verde - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;936.52;1074.98;8.09.76.09.11;Carrinho de Bebê Finiti Pine Verde Joie;BB TOTAL
 FATURAMENTO VD RJ;1877.79;2149.95;8.09.76.09.11;Carrinho de Bebê Finiti Pine Verde Joie;VITRINE
-FATURAMENTO VD RJ;952.44;1093.25;8.09.76.10.10;Carrinho de Bebê Gêmeos Aire Twin Cinza Dark Pewter Joie;VITRINE
 FATURAMENTO VD RJ;952.44;1093.25;8.09.76.10.10;Carrinho de Bebê Para Gêmeos Aire Twin Cinza Dark Pewter - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;557.13;557.13;8.09.76.10.10;Carrinho de Bebê Para Gêmeos Aire Twin Cinza Dark Pewter - Joie;BB TOTAL
 FULFILLMENT VISUAL IN;1037.79;1355.14;8.09.76.10.10;Carrinho de Bebê Para Gêmeos Aire Twin Cinza Dark Pewter - Joie;VISUAL IN
@@ -8255,7 +8249,6 @@ FATURAMENTO VD RJ;1782.64;1782.64;8.09.76.07.10;Carrinho de Bebê Parcel Oyster 
 FATURAMENTO VD RJ;1782.64;1782.64;8.09.76.07.10;Carrinho de Bebê Parcel Oyster Joie;BB TUDO
 FATURAMENTO VD RJ;2149.95;2149.95;8.09.76.09.11;Carrinho de Bebê Finiti Pine Verde - Joie;BB TUDO
 FATURAMENTO VD RJ;2149.95;2149.95;8.09.76.09.11;Carrinho de Bebê Finiti Pine Verde Joie;BB TUDO
-FATURAMENTO VD RJ;1093.25;1093.25;8.09.76.10.10;Carrinho de Bebê Gêmeos Aire Twin Cinza Dark Pewter Joie;BB TUDO
 FATURAMENTO VD RJ;1093.25;1093.25;8.09.76.10.10;Carrinho de Bebê Para Gêmeos Aire Twin Cinza Dark Pewter - Joie;BB TUDO
 FATURAMENTO VD RJ;736.29;736.29;8.09.76.12.01;Carrinho de Bebê Pact Preto e Cinza Ember Joie;BB TUDO
 FATURAMENTO VD RJ;2567.85;2567.85;8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;BB TUDO
