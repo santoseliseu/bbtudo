@@ -377,7 +377,7 @@ FATURAMENTO VD ES;13.06;14.99;24.10.159.134.00;Kit Petisqueiras de Cerâmica e B
 FATURAMENTO VD ES;17.89;20.34;24.10.159.139.00;Jarra Vidro Borossilicato com Tampa de Bambu Classic 620ml;VITRINE
 FATURAMENTO VD ES;6.16;7.0;24.10.159.146.00;Bowl de Vidro Coração Balls 13,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;6.16;7.0;24.10.159.15.00;Molheira de Cristal Coração 15,5cm;VITRINE
-FATURAMENTO VD ES;19.63;17.25;24.10.159.156.00;Porta Talheres de Metal Revestido em Plástico 20cm - Lyor;VITRINE
+FATURAMENTO VD ES;17.28;18.39;24.10.159.156.00;Porta Talheres de Metal Revestido em Plástico 20cm - Lyor;VITRINE
 FATURAMENTO VD ES;29.6;33.82;24.10.159.157.00;Conjunto Pilão e Socador de Mármore Marin 12cm x 6cm - Lyor;VITRINE
 FATURAMENTO VD ES;4.77;5.43;24.10.159.158.01;Mini Mixer Elétrico para Bebidas de Inox e Plástico Preto;VITRINE
 FATURAMENTO VD ES;48.25;55.14;24.10.159.159.00;Rolo para Massa de Mármore e Bambu Marin 44,5cm;VITRINE
@@ -3366,9 +3366,9 @@ FULFILLMENT AMAZON;353.08;486.54;8.09.03.113.01;Carrinho de Bebê Choice 0 a 15 
 FULFILLMENT MELI;353.08;486.54;8.09.03.113.01;Carrinho de Bebê Choice 0 a 15 Kg Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;353.08;486.54;8.09.03.113.01;Carrinho de Bebê Choice 0 a 15 Kg Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;512.75;715.07;8.09.03.114.10;Carrinho com Bebê Conforto Travel System Duo Choice Cinza Melange - Voyage;VITRINE
+FATURAMENTO VD RJ;521.74;727.61;8.09.03.115.01;Carrinho com Bebê Conforto Travel System Duo Choice Preto - Voyage;VITRINE
 FULFILLMENT MELI;521.74;727.61;8.09.03.115.01;Carrinho com Bebê Conforto Travel System Duo Choice Preto - Voyage;VITRINE
 FULFILLMENT AMAZON;521.74;727.61;8.09.03.115.01;Carrinho com Bebê Conforto Travel System Duo Choice Preto - Voyage;VITRINE
-FATURAMENTO VD RJ;521.74;727.61;8.09.03.115.01;Carrinho com Bebê Conforto Travel System Duo Choice Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;591.78;815.48;8.09.03.117.01;Carrinho de Bebê Prestige Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;591.78;815.48;8.09.03.118.01;Carrinho de Bebê Prestige Preto Terracota - Voyage;VITRINE
 FATURAMENTO VD RJ;591.78;815.48;8.09.03.119.10;Carrinho de Bebê Prestige Cinza Melange - Voyage;VITRINE
@@ -5747,7 +5747,6 @@ FATURAMENTO VD RJ;35.12;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseir
 FATURAMENTO BBTOTAL ES;15.53;17.82;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;BB TOTAL
 FATURAMENTO VD ES;35.12;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;VITRINE
 FATURAMENTO VD RJ;35.12;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro Buba;VITRINE
-FATURAMENTO BBTOTAL ES;15.53;17.82;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro Buba;BB TOTAL
 FATURAMENTO VD RJ;118.32;134.6;8.25.57.52.06;Lixeira Antiodor Para Fraldas Branca Buba;VITRINE
 FATURAMENTO BBTOTAL ES;75.07;75.07;8.25.57.52.06;Lixeira Antiodor Para Fraldas Branca Buba;BB TOTAL
 FATURAMENTO VD ES;13.03;14.95;8.25.57.53.00;Chupeta Comfort Tam.1 Noturna Kit Estrela - Buba;VITRINE
@@ -5868,7 +5867,6 @@ FULFILLMENT VISUAL IN;23.99;24.3;8.25.69.20.00;Brinquedos Limpinhos 500 ml - Bio
 FATURAMENTO BBTOTAL ES;14.67;14.67;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;BB TOTAL
 FATURAMENTO VISUAL IN SP;17.56;27.7;8.25.69.20.00;Brinquedos Limpinhos 500 ml BioClub Baby;VISUAL IN
 FATURAMENTO VD ES;20.92;23.98;8.25.69.20.00;Brinquedos Limpinhos 500 ml BioClub Baby;VITRINE
-FULFILLMENT VISUAL IN;23.99;24.3;8.25.69.20.00;Brinquedos Limpinhos 500 ml BioClub Baby;VISUAL IN
 FATURAMENTO VD ES;11.0;11.0;8.25.69.23.00;Gel Dental Infantil Melancia - Bioclub Baby;VITRINE
 FATURAMENTO BBTOTAL ES;4.63;5.49;8.25.69.23.00;Gel Dental Infantil Melancia - Bioclub Baby;BB TOTAL
 FATURAMENTO VD RJ;9.66;10.98;8.25.69.23.00;Gel Dental Infantil Melancia - Bioclub Baby;VITRINE
