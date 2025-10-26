@@ -807,7 +807,6 @@ FATURAMENTO VD ES;34.85;39.49;24.52.66.206.11;Garrafa Térmica Wolff Nórdica Ve
 FATURAMENTO VD ES;14.92;17.06;24.52.66.209.06;Leiteira Wolff Alto Relevo de Porcelana Branca 250ml;VITRINE
 FATURAMENTO VD ES;5.76;6.56;24.52.66.218.00;Manteigueira Wolff Pearl de Cristal 11cm x 7cm x 7cm;VITRINE
 FATURAMENTO VD ES;9.21;10.48;24.52.66.220.00;Manteigueira Wolff Pearl de Cristal Âmbar 14cm x 9cm x 8cm;VITRINE
-FATURAMENTO VD ES;17.17;19.53;24.52.66.221.00;Manteigueira Wolff Pearl de Cristal Âmbar 17 x 10,5 x 10cm;VITRINE
 FATURAMENTO VD ES;11.86;13.43;24.52.66.23.08;Açucareiro Wolff Pétala de Porcelana Vermelho 10,5cm x 8,5cm;VITRINE
 FATURAMENTO VD ES;19.47;22.15;24.52.66.265.00;Xícara de Café e Chá Wolff de Vidro Borossilicato 250ml;VITRINE
 FATURAMENTO VD ES;9.46;10.76;24.52.66.268.00;Xícara de Chá Wolff Pearl de Cristal 180ml;VITRINE
@@ -2117,7 +2116,6 @@ FATURAMENTO BBTOTAL ES;90.1;106.76;8.04.04.07.18;Berço Portátil Origin Rosa - 
 FATURAMENTO VD RJ;181.52;253.14;8.04.04.08.10;Berço Origin Cosco - Cinza;VITRINE
 FATURAMENTO VD RJ;181.52;253.14;8.04.04.08.10;Berço Portátil Origin Cinza - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;106.82;126.57;8.04.04.08.10;Berço Portátil Origin Cinza - Cosco;BB TOTAL
-FATURAMENTO VD RJ;181.52;253.14;8.04.04.09.07;Berço Origin Cosco - Azul;VITRINE
 FATURAMENTO VD RJ;181.52;253.14;8.04.04.09.07;Berço Portátil Origin Azul - Cosco;VITRINE
 FATURAMENTO VD RJ;425.69;593.67;8.04.04.10.10;Berço Co-bed Pluggy Cosco - Cinza Escuro;VITRINE
 FULFILLMENT MELI;425.69;593.67;8.04.04.10.10;Berço Co-bed Pluggy Cosco - Cinza Escuro;VITRINE
@@ -6150,7 +6148,6 @@ FATURAMENTO BBTOTAL ES;6.2;8.23;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam
 FATURAMENTO VD ES;14.33;16.45;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam;VITRINE
 FATURAMENTO VD RJ;14.33;14.92;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam;VITRINE
 FATURAMENTO VD RJ;12.2;14.0;8.25.86.09.18;Escova Dental Treinamento Baby's Brush Rosa 5m - Mam;VITRINE
-FATURAMENTO BBTOTAL ES;7.0;7.0;8.25.86.09.18;Escova Dental Treinamento Baby's Brush Rosa 5m - Mam;BB TOTAL
 FATURAMENTO VD RJ;12.2;14.0;8.25.86.09.18;Escova de Dente Infantil Baby's Brush 6+ meses Rosa - MAM;VITRINE
 FATURAMENTO BBTOTAL ES;7.0;7.0;8.25.86.09.18;Escova de Dente Infantil Baby's Brush 6+ meses Rosa - MAM;BB TOTAL
 FATURAMENTO VD ES;23.52;27.0;8.25.86.16.00;Chupeta Sayings 0-6m Original - Mam - Tiny Feet;VITRINE
@@ -7318,7 +7315,6 @@ FATURAMENTO VD RJ;253.14;253.14;8.04.04.07.18;Berço Origin Cosco Rosa;BB TUDO
 FATURAMENTO VD RJ;253.14;253.14;8.04.04.07.18;Berço Portátil Origin Rosa - Cosco;BB TUDO
 FATURAMENTO VD RJ;253.14;253.14;8.04.04.08.10;Berço Origin Cosco - Cinza;BB TUDO
 FATURAMENTO VD RJ;253.14;253.14;8.04.04.08.10;Berço Portátil Origin Cinza - Cosco;BB TUDO
-FATURAMENTO VD RJ;253.14;253.14;8.04.04.09.07;Berço Origin Cosco - Azul;BB TUDO
 FATURAMENTO VD RJ;253.14;253.14;8.04.04.09.07;Berço Portátil Origin Azul - Cosco;BB TUDO
 FATURAMENTO VD RJ;593.67;593.67;8.04.04.10.10;Berço Co-bed Pluggy Cosco - Cinza Escuro;BB TUDO
 FATURAMENTO VD RJ;593.67;593.67;8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;BB TUDO
