@@ -244,8 +244,8 @@ FATURAMENTO VD ES;100.48;118.36;21.14.50.59.00;Conjunto 2 Cadeiras com Braços E
 FATURAMENTO VD ES;101.67;119.77;21.14.50.61.00;Cadeira com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;100.48;118.37;21.14.50.62.00;Conjunto 2 Cadeiras com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.64.00;Cadeira Eames Com Braço Rosa  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
+FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
@@ -739,6 +739,7 @@ FATURAMENTO VD ES;5.83;6.63;24.51.159.18.00;Porta Cotonete Retangular com Tampa 
 FATURAMENTO VD ES;5.59;6.35;24.51.159.19.00;Porta Cotonete com Tampa de Bambu My Box 7cm;VITRINE
 FATURAMENTO VD ES;5.76;6.56;24.51.159.21.00;Porta Algodão com Tampa de Bambu My Box 7cm x 7cm x 18cm;VITRINE
 FATURAMENTO VD ES;4.86;5.53;24.51.159.22.00;Porta Algodão com Tampa de Bambu My Box 7cm x 7cm x 9cm;VITRINE
+FATURAMENTO VD ES;12.42;14.13;24.51.159.23.00;Pote Multiuso com Tampa de Bambu My Box 15cm x 9cm x 11,5cm;VITRINE
 FATURAMENTO VD ES;13.49;15.35;24.51.159.24.00;Caixa Organizadora com Tampa de Bambu My Box 23cm;VITRINE
 FATURAMENTO VD ES;22.88;26.26;24.51.159.25.00;Porta Jóias de Bambu com Espelho 25cm x 14cm x 3,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;18.53;21.08;24.51.159.26.06;Kit 2 Peças para Banheiro de Cerâmica Cube Branco - Lyor;VITRINE
@@ -978,6 +979,7 @@ FATURAMENTO VD ES;7.06;8.03;24.53.66.210.01;Galheteiro de Vidro e Metal Preto 16
 FATURAMENTO VD ES;41.59;47.31;24.53.66.211.10;Leiteira de Indução em Alumínio com Revestimento Cinza 14cm;VITRINE
 FATURAMENTO VD ES;56.82;64.63;24.53.66.214.01;Kit  Porta Temperos de Vidro com Suporte - 12Pçs;VITRINE
 FATURAMENTO VD ES;10.39;11.72;24.53.66.215.06;Colher Medidora Digital de Plástico Branca 23cm - Wolff;VITRINE
+FATURAMENTO VD ES;27.09;30.82;24.53.66.217.00;Moedor para Temperos de Acrilíco e Madeira 5,5cm x 21,5cm;VITRINE
 FATURAMENTO VD ES;37.13;42.24;24.53.66.220.00;Kit 5 Porta Temperos Vidro Borossilicato Tampa Bambu Wolff;VITRINE
 FATURAMENTO VD ES;16.77;19.08;24.53.66.35.06;Pote Wolff Vintage Flores de Cerâmica Branco 10cm x 8cm;VITRINE
 FATURAMENTO VD ES;60.65;69.0;24.53.66.37.00;Panela Wolff Revestimento Cerâmico Indução Granilite Cinza 20cm;VITRINE
@@ -4361,8 +4363,8 @@ FATURAMENTO VD ES;54.22;61.67;8.24.149.33.11;Conjunto Copo com Canudo + Tampa Sn
 FATURAMENTO VD RJ;54.22;61.67;8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;VITRINE
 FATURAMENTO VD ES;54.22;61.67;8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;VITRINE
 FATURAMENTO VD RJ;54.22;61.67;8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;VITRINE
-FATURAMENTO VD ES;116.69;132.75;8.24.149.36.57;Kit de Alimentação Silicone BLW Set 2 Bubble Beige - Minikoioi;VITRINE
 FATURAMENTO VD RJ;0.0;0.0;8.24.149.36.57;Kit de Alimentação Silicone BLW Set 2 Bubble Beige - Minikoioi;VITRINE
+FATURAMENTO VD ES;116.69;132.75;8.24.149.36.57;Kit de Alimentação Silicone BLW Set 2 Bubble Beige - Minikoioi;VITRINE
 FATURAMENTO VD ES;116.7;132.75;8.24.149.37.07;Kit de Alimentação Silicone BLW Set 2 Deep Blue - Minikoioi;VITRINE
 FATURAMENTO VD ES;116.69;132.75;8.24.149.38.16;Kit de Alimentação Silicone BLW Set 2 Mellow Yellow - Minikoioi;VITRINE
 FATURAMENTO VD ES;116.71;132.76;8.24.149.39.07;Kit de Alimentação Silicone BLW Set 2 Mineral Blue - Minikoioi;VITRINE
@@ -8548,8 +8550,8 @@ FATURAMENTO VD ES;61.67;61.67;8.24.149.33.11;Conjunto Copo com Canudo + Tampa Sn
 FATURAMENTO VD RJ;61.67;61.67;8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;BB TUDO
 FATURAMENTO VD ES;61.67;61.67;8.24.149.34.18;Conjunto Copo com Canudo + Tampa Snack Velvet Rose - Minikoioi;BB TUDO
 FATURAMENTO VD RJ;61.67;61.67;8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;BB TUDO
-FATURAMENTO VD ES;132.75;132.75;8.24.149.36.57;Kit de Alimentação Silicone BLW Set 2 Bubble Beige - Minikoioi;BB TUDO
 FATURAMENTO VD RJ;0.0;0.0;8.24.149.36.57;Kit de Alimentação Silicone BLW Set 2 Bubble Beige - Minikoioi;BB TUDO
+FATURAMENTO VD ES;132.75;132.75;8.24.149.36.57;Kit de Alimentação Silicone BLW Set 2 Bubble Beige - Minikoioi;BB TUDO
 FATURAMENTO VD ES;132.75;132.75;8.24.149.37.07;Kit de Alimentação Silicone BLW Set 2 Deep Blue - Minikoioi;BB TUDO
 FATURAMENTO VD ES;132.75;132.75;8.24.149.38.16;Kit de Alimentação Silicone BLW Set 2 Mellow Yellow - Minikoioi;BB TUDO
 FATURAMENTO VD ES;132.76;132.76;8.24.149.39.07;Kit de Alimentação Silicone BLW Set 2 Mineral Blue - Minikoioi;BB TUDO
