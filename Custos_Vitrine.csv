@@ -2830,6 +2830,7 @@ FATURAMENTO VD RJ;400.31;558.27;8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36
 FULFILLMENT MELI;400.31;558.27;8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;VITRINE
 FATURAMENTO VD RJ;597.14;832.77;8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;VITRINE
 FATURAMENTO VD RJ;597.14;832.77;8.07.23.22.10;Cadeirinha de Carro Mundi Isofix 360º Cinza - Infanti;VITRINE
+FATURAMENTO VD RJ;716.69;999.5;8.07.23.23.01;Cadeirinha de Carro Nonna 360º Preto Noturno - Infanti;VITRINE
 FATURAMENTO VD RJ;716.69;999.5;8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;VITRINE
 FATURAMENTO VD RJ;46.25;64.5;8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;VITRINE
 FATURAMENTO VD RJ;24.75;34.51;8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;VITRINE
@@ -5008,7 +5009,6 @@ FATURAMENTO VD RJ;26.48;37.41;8.25.01.21.07;Pulseira de segurança Watch Safety 
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;18.71;18.71;8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.22.18;Pulseira de segurança Unicorn Safety 1st - Rosa;VITRINE
-FATURAMENTO BBTOTAL ES;18.71;18.71;8.25.01.22.18;Pulseira de segurança Unicorn Safety 1st - Rosa;BB TOTAL
 FATURAMENTO VD RJ;24.2;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança para Gestantes Black - Safety 1st;VITRINE
 FATURAMENTO VD RJ;24.2;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança para Gestantes Safety 1st - Black;VITRINE
 FATURAMENTO VD RJ;55.52;76.46;8.25.01.24.06;Dispenser Automático para Álcool Gel 300 ml White - Safety 1st;VITRINE
@@ -7424,6 +7424,7 @@ FATURAMENTO VD RJ;587.65;587.65;8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36
 FATURAMENTO VD RJ;558.27;558.27;8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;BB TUDO
 FATURAMENTO VD RJ;832.77;832.77;8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;832.77;832.77;8.07.23.22.10;Cadeirinha de Carro Mundi Isofix 360º Cinza - Infanti;BB TUDO
+FATURAMENTO VD RJ;999.5;999.5;8.07.23.23.01;Cadeirinha de Carro Nonna 360º Preto Noturno - Infanti;BB TUDO
 FATURAMENTO VD RJ;999.5;999.5;8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;BB TUDO
 FATURAMENTO VD RJ;64.5;64.5;8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;BB TUDO
 FATURAMENTO VD RJ;34.51;34.51;8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;BB TUDO
