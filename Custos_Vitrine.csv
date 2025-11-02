@@ -2084,9 +2084,11 @@ FATURAMENTO VD RJ;326.03;454.67;8.04.03.22.07;Berço Luck Voyage - Azul Boreal;V
 FATURAMENTO VD RJ;326.03;454.67;8.04.03.22.07;Berço Portátil Luck Azul Boreal - Voyage;VITRINE
 FATURAMENTO VD RJ;314.97;439.26;8.04.03.23.18;Berço Luck  Voyage - Rosa Boreal;VITRINE
 FATURAMENTO VD RJ;314.97;439.26;8.04.03.23.18;Berço Portátil Luck Rosa Boreal - Voyage;VITRINE
+FATURAMENTO VISUAL IN SP;244.15;385.2;8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;VISUAL IN
 FATURAMENTO VD RJ;239.14;333.51;8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;VITRINE
 FULFILLMENT MELI;245.24;342.02;8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;VITRINE
 FULFILLMENT AMAZON;245.24;342.02;8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;VITRINE
+FATURAMENTO VISUAL IN SP;244.15;385.2;8.04.03.25.18;Berço Portátil Sleep Voyage - Rosa;VISUAL IN
 FATURAMENTO VD RJ;239.14;333.51;8.04.03.25.18;Berço Portátil Sleep Voyage - Rosa;VITRINE
 FULFILLMENT MELI;245.24;342.02;8.04.03.25.18;Berço Portátil Sleep Voyage - Rosa;VITRINE
 FULFILLMENT AMAZON;245.24;342.02;8.04.03.25.18;Berço Portátil Sleep Voyage - Rosa;VITRINE
@@ -2808,7 +2810,6 @@ FATURAMENTO VD RJ;462.69;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com
 FATURAMENTO VD RJ;462.69;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Grey Brave;VITRINE
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;116.41;116.41;8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;BB TOTAL
-FATURAMENTO VD RJ;644.98;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Infanti - Preto;VITRINE
 FATURAMENTO VD RJ;644.98;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;VITRINE
 FULFILLMENT AMAZON;644.98;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;VITRINE
 FULFILLMENT MAGALU;752.44;1049.34;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;VITRINE
@@ -4057,7 +4058,6 @@ FATURAMENTO VD RJ;90.35;124.5;8.11.33.05.18;Mala Infantil com Rodinha Safari Fla
 FATURAMENTO VD RJ;90.35;124.5;8.11.33.06.17;Mala Infantil com Rodinha Safari Jaguar - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;62.25;62.25;8.11.33.06.17;Mala Infantil com Rodinha Safari Jaguar - Tiny Love;BB TOTAL
 FATURAMENTO BBTOTAL ES;97.23;97.23;8.11.47.10.05;Mochila Maternidade Boca de Peixe Silver - KaBaby;BB TOTAL
-FATURAMENTO VD RJ;171.03;194.45;8.11.47.10.05;Mochila Maternidade Boca de Peixe Silver - KaBaby;VITRINE
 FATURAMENTO VD RJ;161.76;168.5;8.11.92.01.00;Mochila Escolar Zoo Borboleta - Skip Hop;VITRINE
 FATURAMENTO VD RJ;161.76;168.5;8.11.92.01.00;Mochila Escolar Zoo Borboleta Skip Hop;VITRINE
 FATURAMENTO VD RJ;174.28;191.37;8.11.92.02.00;Mochila Escolar Zoo Cachorro Pug - Skip Hop;VITRINE
@@ -5563,7 +5563,6 @@ FATURAMENTO VD ES;12.59;14.45;8.25.57.71.00;Kit 2 Chupetas Comfort Tamanho 2 Urs
 FATURAMENTO BBTOTAL ES;7.59;7.59;8.25.57.71.00;Kit 2 Chupetas Comfort Tamanho 2 Ursinho/Estrela Rosa - Buba;BB TOTAL
 FATURAMENTO VD ES;17.31;19.74;8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;9.87;9.87;8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;BB TOTAL
-FATURAMENTO VD RJ;18.94;19.73;8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;VITRINE
 FATURAMENTO VD ES;8.67;9.95;8.25.57.83.07;Chupeta Comfort Tamanho 2 Coala Azul - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;3.75;4.98;8.25.57.83.07;Chupeta Comfort Tamanho 2 Coala Azul - Buba;BB TOTAL
 FATURAMENTO VD ES;46.23;52.68;8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;VITRINE
@@ -5647,7 +5646,6 @@ FATURAMENTO VD ES;15.25;16.8;8.25.69.17.00;Loção Hidratante Infantil Hidrata N
 FULFILLMENT VISUAL IN;12.3;19.4;8.25.69.17.00;Loção Hidratante Infantil Hidrata Neném 150ml BioClub Baby;VISUAL IN
 FATURAMENTO VD ES;56.03;56.24;8.25.69.19.00;Kit Box Saudável - BioClub Baby;VITRINE
 FULFILLMENT VISUAL IN;41.17;64.95;8.25.69.19.00;Kit Box Saudável - BioClub Baby;VISUAL IN
-FATURAMENTO BBTOTAL ES;35.22;46.76;8.25.69.19.00;Kit Box Saudável - BioClub Baby;BB TOTAL
 FATURAMENTO VD ES;20.92;23.98;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;VITRINE
 FATURAMENTO VISUAL IN SP;17.56;27.7;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;VISUAL IN
 FULFILLMENT VISUAL IN;23.99;24.3;8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;VISUAL IN
@@ -5738,7 +5736,6 @@ FATURAMENTO BBTOTAL ES;48.52;48.52;8.25.75.02.00;Bebê Fofo Almofada de Apoio Ly
 FATURAMENTO BBTOTAL ES;55.02;65.19;8.25.75.03.01;Capa Protetora para Bebê Conforto Lycra Preta - D'Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;121.38;130.37;8.25.75.03.01;Capa Protetora para Bebê Conforto Lycra Preta - D'Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;55.02;65.19;8.25.75.03.01;Capa para Bebê Conforto Lycra Preto D'Bella for Baby;BB TOTAL
-FATURAMENTO VD RJ;121.38;130.37;8.25.75.03.01;Capa para Bebê Conforto Lycra Preto D'Bella for Baby;VITRINE
 FATURAMENTO VD RJ;38.69;39.21;8.25.75.04.10;Rosquinha de Amamentação Cinza D'Bella For Baby;VITRINE
 FATURAMENTO VD RJ;38.69;39.21;8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;VITRINE
 FULFILLMENT VISUAL IN;38.69;39.21;8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;VISUAL IN
@@ -7395,7 +7392,6 @@ FATURAMENTO VD RJ;629.56;629.56;8.07.23.15.01;Cadeirinha de Carro Holiday FX com
 FATURAMENTO VD RJ;645.27;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;BB TUDO
 FATURAMENTO VD RJ;645.27;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Grey Brave;BB TUDO
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;BB TUDO
-FATURAMENTO VD RJ;899.49;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Infanti - Preto;BB TUDO
 FATURAMENTO VD RJ;899.49;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;587.65;587.65;8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;558.27;558.27;8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;BB TUDO
@@ -8059,7 +8055,6 @@ FATURAMENTO VD RJ;69.5;69.5;8.11.33.03.17;Mochila Infantil Safari Jaguar - Tiny 
 FATURAMENTO VD RJ;124.5;124.5;8.11.33.04.11;Mala Infantil com Rodinha Safari Croco - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;124.5;124.5;8.11.33.05.18;Mala Infantil com Rodinha Safari Flamingo - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;124.5;124.5;8.11.33.06.17;Mala Infantil com Rodinha Safari Jaguar - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;194.45;194.45;8.11.47.10.05;Mochila Maternidade Boca de Peixe Silver - KaBaby;BB TUDO
 FATURAMENTO VD RJ;168.5;168.5;8.11.92.01.00;Mochila Escolar Zoo Borboleta - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;168.5;168.5;8.11.92.01.00;Mochila Escolar Zoo Borboleta Skip Hop;BB TUDO
 FATURAMENTO VD RJ;191.37;191.37;8.11.92.02.00;Mochila Escolar Zoo Cachorro Pug - Skip Hop;BB TUDO
@@ -9023,7 +9018,6 @@ FATURAMENTO VD ES;9.95;9.95;8.25.57.63.07;Chupeta Comfort Tamanho 1 Elefantinho 
 FATURAMENTO VD ES;9.95;9.95;8.25.57.64.18;Chupeta Comfort Tamanho 1 Elefantinho Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;14.45;14.45;8.25.57.71.00;Kit 2 Chupetas Comfort Tamanho 2 Ursinho/Estrela Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;19.74;19.74;8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;BB TUDO
-FATURAMENTO VD RJ;19.73;19.73;8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;9.95;9.95;8.25.57.83.07;Chupeta Comfort Tamanho 2 Coala Azul - Buba;BB TUDO
 FATURAMENTO VD ES;52.68;52.68;8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;BB TUDO
 FATURAMENTO VD RJ;65.75;65.75;8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;BB TUDO
@@ -9124,7 +9118,6 @@ FATURAMENTO VD RJ;97.08;97.08;8.25.75.01.10;Bebê Fofo Almofada de Apoio Lycra C
 FATURAMENTO VD RJ;97.03;97.03;8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;97.03;97.03;8.25.75.02.00;Bebê Fofo Almofada de Apoio Lycra Nude D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;130.37;130.37;8.25.75.03.01;Capa Protetora para Bebê Conforto Lycra Preta - D'Bella for Baby;BB TUDO
-FATURAMENTO VD RJ;130.37;130.37;8.25.75.03.01;Capa para Bebê Conforto Lycra Preto D'Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;39.21;39.21;8.25.75.04.10;Rosquinha de Amamentação Cinza D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;39.21;39.21;8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;87.24;87.24;8.25.75.05.00;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Nude - D´Bella for Baby;BB TUDO
