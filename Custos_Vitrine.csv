@@ -111,10 +111,10 @@ FATURAMENTO VD ES;27.16;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta  Base 
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;27.16;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD ES;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD ES;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD ES;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
@@ -480,6 +480,7 @@ FATURAMENTO VD ES;5.46;6.21;24.10.159.415.01;Tela de Alimentos de Metal Revestid
 FATURAMENTO VD ES;21.97;24.89;24.10.159.42.20;Garrafa Térmica de Aço Inox Bullet 500ml - Lyor;VITRINE
 FATURAMENTO VD ES;10.6;12.06;24.10.159.426.18;Bolsa Térmica de Neoprene com Alça Rosa 30cm - Lyor;VITRINE
 FATURAMENTO VD ES;8.97;10.2;24.10.159.427.11;Bolsa Térmica de Neoprene com Alça Verde 30cm - Lyor;VITRINE
+FATURAMENTO VD ES;6.78;7.71;24.10.159.428.10;Forma Redonda de Silicone para Air Fryer Cinza 19cm;VITRINE
 FATURAMENTO VD ES;7.54;8.56;24.10.159.429.08;Forma Redonda de Silicone para Air Fryer Vermelha 19cm;VITRINE
 FATURAMENTO VD ES;6.32;7.19;24.10.159.433.01;Tampa de Silicone para Panela Preta 27cm - Lyor;VITRINE
 FATURAMENTO VD ES;2.68;3.04;24.10.159.435.18;Pote Térmico Parede Dupla com Alça de Silicone e Tampa Rosa;VITRINE
@@ -596,8 +597,8 @@ FATURAMENTO VD ES;120.91;139.38;24.11.175.90.06;Persiana Zebra Rolo Dupla 160X16
 FATURAMENTO VD ES;122.2;140.85;24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;VITRINE
 FATURAMENTO VD ES;120.91;139.38;24.11.175.92.57;Persiana Zebra Rolo Dupla 160X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;120.91;139.38;24.11.175.93.57;Persiana Zebra Rolo Dupla 160X160 Caramelo;VITRINE
-FULFILLMENT VISUAL IN;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
 FATURAMENTO VD RJ;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
+FULFILLMENT VISUAL IN;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
 FULFILLMENT AMAZON;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FATURAMENTO VD ES;47.9;58.8;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FATURAMENTO VISUAL IN SP;22.46;33.74;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
@@ -1009,7 +1010,6 @@ FATURAMENTO VD ES;15.74;17.91;24.53.66.72.00;Porta Mantimentos de Vidro com Tamp
 FATURAMENTO VD ES;16.56;18.84;24.53.66.75.00;Porta Mantimentos de Vidro com Sisal e Tampa de Madeira 750ml - Wolff;VITRINE
 FATURAMENTO VD ES;66.24;75.35;24.53.66.90.00;Panela de Indução em Alumínio com Revestimento Cerâmico e Tampa de Vidro Granilite Preta 20cm;VITRINE
 FATURAMENTO VD ES;74.88;85.18;24.53.66.91.00;Panela de Indução em Alumínio com Revestimento Cerâmico e Tampa de Vidro Granilite Preta 24cm;VITRINE
-FATURAMENTO VD ES;33.61;38.08;24.54.159.06.10;Jogo 6 Taças de Água Diamond Cinza Metalizado 325ml - Lyor;VITRINE
 FATURAMENTO VD ES;28.62;32.43;24.54.159.17.00;6 Taças para Vinho Bico de Abacaxi de Vidro 265ml - Lyor;VITRINE
 FATURAMENTO VD ES;41.12;46.58;24.54.159.19.00;6 Taças para Água Bico de Abacaxi de Vidro Verde 325ml - Lyor;VITRINE
 FATURAMENTO VD RJ;41.12;46.58;24.54.159.19.00;6 Taças para Água Bico de Abacaxi de Vidro Verde 325ml - Lyor;VITRINE
@@ -1179,7 +1179,6 @@ FATURAMENTO VD ES;7.68;8.73;24.56.159.20.18;Prato Raso de Cerâmica Cronus Rosa 
 FATURAMENTO VD ES;6.22;7.08;24.56.159.23.00;Travessa de Cristal Diamante 25cm - Lyor;VITRINE
 FATURAMENTO VD ES;15.5;17.63;24.56.159.32.00;Travessa de Cristal Dragon 34cm - Lyor;VITRINE
 FATURAMENTO VD ES;7.46;8.49;24.56.159.41.06;Travessa Oval de Melamina Milão Branca 32cm - Lyor;VITRINE
-FATURAMENTO VD ES;3.57;4.07;24.56.159.44.01;Prato Retangular Melamina com Molheira Tóquio Preto 19cm;VITRINE
 FATURAMENTO VD ES;12.24;13.92;24.56.159.45.00;Prato para Bolo de Cristal Renaissance 18,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;3.01;3.42;24.56.159.46.00;Mini Prato de Cristal Prima 11cm - Lyor;VITRINE
 FATURAMENTO VD ES;10.82;12.3;24.56.159.49.00;Prato Raso de Cristal Coração 28cm - Lyor;VITRINE
@@ -3901,8 +3900,9 @@ FATURAMENTO VD RJ;2427.86;2761.88;8.09.76.47.07;Carrinho de Bebê Versatrax E Tr
 FULFILLMENT VISUAL IN;2232.8;2539.98;8.09.76.47.07;Carrinho de Bebê Versatrax E Travel System TRIO Azul Lagoon - Joie;VISUAL IN
 FATURAMENTO VISUAL IN SP;2212.95;2889.66;8.09.76.47.07;Carrinho de Bebê Versatrax E Travel System TRIO Azul Lagoon - Joie;VISUAL IN
 FATURAMENTO VD RJ;2427.86;2761.88;8.09.76.47.07;Carrinho de Bebê Versatrax E Travel System TRIO Azul Lagoon Joie;VITRINE
-FATURAMENTO VD RJ;3066.96;3488.9;8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray - Joie;VITRINE
+FATURAMENTO VD RJ;2954.66;3361.16;8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;1634.78;1634.78;8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray - Joie;BB TOTAL
+FATURAMENTO VD RJ;2954.66;3361.16;8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray Joie;VITRINE
 FATURAMENTO VD RJ;868.78;988.3;8.09.76.53.10;Carrinho de Bebê Pact Pro Cinza Pebble - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;472.99;472.99;8.09.76.53.10;Carrinho de Bebê Pact Pro Cinza Pebble - Joie;BB TOTAL
 FULFILLMENT VISUAL IN;852.65;1113.39;8.09.76.53.10;Carrinho de Bebê Pact Pro Cinza Pebble - Joie;VISUAL IN
@@ -4230,9 +4230,9 @@ FATURAMENTO VD RJ;575.04;599.0;8.13.33.08.00;Tapete e Ginásio de Atividades Gym
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Tiny Love Boho Chic;VITRINE
-FATURAMENTO VD RJ;130.29;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
+FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
 FULFILLMENT AMAZON;144.76;199.47;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
-FATURAMENTO VD RJ;130.29;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
+FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
 FATURAMENTO VD RJ;163.78;205.29;8.13.33.12.69;Tapete de Atividades Picnic Mat Tiny Love Treasure the Ocean;VITRINE
 FATURAMENTO VD RJ;163.78;205.29;8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;16.91;17.61;8.13.47.10.69;Tapete para Banheiro Peixinhos e Polvo Colorido - KaBaby;BB TOTAL
@@ -5308,13 +5308,13 @@ FATURAMENTO VD RJ;19.4;22.21;8.25.53.20.00;Chupeta Physio Forma Soft 16-36M Chic
 FATURAMENTO VD ES;16.07;18.45;8.25.53.20.00;Chupeta Physio Forma Soft 16-36M Chicco Rosa Claro;VITRINE
 FATURAMENTO VD RJ;5.61;6.4;8.25.53.22.00;Chupeta Physio Forma Soft 6-16M Azul - Chicco;VITRINE
 FATURAMENTO VD RJ;20.59;23.62;8.25.53.23.00;Chupeta Physio Forma Soft 16-36M Chicco Azul;VITRINE
+FATURAMENTO VD RJ;6.54;7.5;8.25.53.24.00;Prendedor De Chupeta Fashion Clip Chicco Rosa;VITRINE
 FATURAMENTO VD RJ;6.54;7.5;8.25.53.24.00;Prendedor De Chupeta Fashion Clip Rosa - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;3.75;3.75;8.25.53.24.00;Prendedor De Chupeta Fashion Clip Rosa - Chicco;BB TOTAL
 FATURAMENTO VD RJ;7.03;8.02;8.25.53.25.00;Prendedor De Chupeta Fashion Clip Azul - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;12.07;13.85;8.25.53.25.00;Prendedor De Chupeta Fashion Clip Azul - Chicco;BB TOTAL
 FATURAMENTO VD RJ;8.09;9.2;8.25.53.26.00;Prendedor De Chupeta Fashion Clip Branco - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;15.9;15.9;8.25.53.26.00;Prendedor De Chupeta Fashion Clip Branco - Chicco;BB TOTAL
-FATURAMENTO VD RJ;23.06;26.41;8.25.53.27.95;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Chicco Branco e Azul;VITRINE
 FATURAMENTO VD RJ;11.39;12.4;8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Branco e Rosa - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;15.07;17.29;8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Branco e Rosa - Chicco;BB TOTAL
 FATURAMENTO VD RJ;11.39;12.4;8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Chicco Branco e Rosa;VITRINE
@@ -5410,6 +5410,7 @@ FATURAMENTO BBTOTAL ES;2.73;3.14;8.25.57.02.00;Babador Com Bolso Pega Migalhas G
 FATURAMENTO VD RJ;6.03;6.28;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;VITRINE
 FATURAMENTO VD RJ;9.92;11.39;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;5.16;5.16;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;BB TOTAL
+FATURAMENTO VD RJ;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Buba;VITRINE
 FATURAMENTO VD RJ;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;VITRINE
 FATURAMENTO VD ES;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;VITRINE
 FATURAMENTO VD RJ;21.9;24.92;8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;VITRINE
@@ -5771,8 +5772,6 @@ FATURAMENTO VD RJ;95.38;97.03;8.25.75.02.00;Bebê Fofo Almofada de Apoio Lycra N
 FATURAMENTO BBTOTAL ES;48.52;48.52;8.25.75.02.00;Bebê Fofo Almofada de Apoio Lycra Nude D'Bella For Baby;BB TOTAL
 FATURAMENTO BBTOTAL ES;55.02;65.19;8.25.75.03.01;Capa Protetora para Bebê Conforto Lycra Preta - D'Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;121.38;130.37;8.25.75.03.01;Capa Protetora para Bebê Conforto Lycra Preta - D'Bella for Baby;VITRINE
-FATURAMENTO BBTOTAL ES;55.02;65.19;8.25.75.03.01;Capa para Bebê Conforto Lycra Preto D'Bella for Baby;BB TOTAL
-FATURAMENTO VD RJ;38.69;39.21;8.25.75.04.10;Rosquinha de Amamentação Cinza D'Bella For Baby;VITRINE
 FATURAMENTO VD RJ;38.69;39.21;8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;VITRINE
 FULFILLMENT VISUAL IN;38.69;39.21;8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;VISUAL IN
 FATURAMENTO BBTOTAL ES;19.61;19.61;8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;BB TOTAL
@@ -6408,7 +6407,6 @@ FATURAMENTO VD RJ;8.96;9.91;8.30.53.65.07;Mordedor Mocho Eco Chicco Coruja Azul;
 FATURAMENTO VD RJ;8.96;9.91;8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;VITRINE
 FATURAMENTO VD RJ;7.88;8.8;8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;VITRINE
 FATURAMENTO VD RJ;7.88;8.8;8.30.53.66.08;Mordedor Molly Eco Chicco Caracol Vermelho;VITRINE
-FATURAMENTO VD RJ;35.49;40.68;8.30.53.68.00;Arco de Cama Rainbow Sky Chicco Neutro;VITRINE
 FATURAMENTO VD RJ;35.49;40.68;8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;20.34;20.34;8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;BB TOTAL
 FATURAMENTO VD RJ;232.68;266.4;8.30.53.69.11;Bicicleta de Equilíbrio Balance Bike Eco+ Chicco Verde;VITRINE
@@ -6619,10 +6617,10 @@ FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta  Base E
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
-FATURAMENTO VD ES;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
-FATURAMENTO VD ES;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.24;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
@@ -7988,7 +7986,8 @@ FATURAMENTO VD RJ;2872.82;2872.82;8.09.76.46.01;Carrinho de Bebê Versatrax E Tr
 FATURAMENTO VD RJ;2872.82;2872.82;8.09.76.46.01;Carrinho de Bebê Versatrax E Travel System TRIO Preto Moon Light Joie;BB TUDO
 FATURAMENTO VD RJ;2761.88;2761.88;8.09.76.47.07;Carrinho de Bebê Versatrax E Travel System TRIO Azul Lagoon - Joie;BB TUDO
 FATURAMENTO VD RJ;2761.88;2761.88;8.09.76.47.07;Carrinho de Bebê Versatrax E Travel System TRIO Azul Lagoon Joie;BB TUDO
-FATURAMENTO VD RJ;3488.9;3488.9;8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray - Joie;BB TUDO
+FATURAMENTO VD RJ;3361.16;3361.16;8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray - Joie;BB TUDO
+FATURAMENTO VD RJ;3361.16;3361.16;8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray Joie;BB TUDO
 FATURAMENTO VD RJ;988.3;988.3;8.09.76.53.10;Carrinho de Bebê Pact Pro Cinza Pebble - Joie;BB TUDO
 FATURAMENTO VD RJ;3512.58;3512.58;8.09.76.59.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Carbon - Joie;BB TUDO
 FATURAMENTO VD RJ;3587.77;3587.77;8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;BB TUDO
@@ -8865,10 +8864,10 @@ FATURAMENTO VD RJ;22.21;22.21;8.25.53.20.00;Chupeta Physio Forma Soft 16-36M Chi
 FATURAMENTO VD ES;18.45;18.45;8.25.53.20.00;Chupeta Physio Forma Soft 16-36M Chicco Rosa Claro;BB TUDO
 FATURAMENTO VD RJ;6.4;6.4;8.25.53.22.00;Chupeta Physio Forma Soft 6-16M Azul - Chicco;BB TUDO
 FATURAMENTO VD RJ;23.62;23.62;8.25.53.23.00;Chupeta Physio Forma Soft 16-36M Chicco Azul;BB TUDO
+FATURAMENTO VD RJ;7.5;7.5;8.25.53.24.00;Prendedor De Chupeta Fashion Clip Chicco Rosa;BB TUDO
 FATURAMENTO VD RJ;7.5;7.5;8.25.53.24.00;Prendedor De Chupeta Fashion Clip Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;8.02;8.02;8.25.53.25.00;Prendedor De Chupeta Fashion Clip Azul - Chicco;BB TUDO
 FATURAMENTO VD RJ;9.2;9.2;8.25.53.26.00;Prendedor De Chupeta Fashion Clip Branco - Chicco;BB TUDO
-FATURAMENTO VD RJ;26.41;26.41;8.25.53.27.95;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Chicco Branco e Azul;BB TUDO
 FATURAMENTO VD RJ;12.4;12.4;8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Branco e Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;12.4;12.4;8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Chicco Branco e Rosa;BB TUDO
 FATURAMENTO VD RJ;11.52;11.52;8.25.53.29.114;Chupeta Physio Light 2 a 6 m Branco e Azul 2 Unidades - Chicco;BB TUDO
@@ -8934,6 +8933,7 @@ FATURAMENTO VD RJ;36.42;36.42;8.25.53.99.00;Shampoo e Sabonete Para Pele Delicad
 FATURAMENTO VD ES;7.36;7.36;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;BB TUDO
 FATURAMENTO VD RJ;6.28;6.28;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;BB TUDO
 FATURAMENTO VD RJ;11.39;11.39;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;BB TUDO
+FATURAMENTO VD RJ;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Buba;BB TUDO
 FATURAMENTO VD RJ;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;BB TUDO
 FATURAMENTO VD ES;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;BB TUDO
 FATURAMENTO VD RJ;24.92;24.92;8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;BB TUDO
@@ -9156,7 +9156,6 @@ FATURAMENTO VD RJ;97.08;97.08;8.25.75.01.10;Bebê Fofo Almofada de Apoio Lycra C
 FATURAMENTO VD RJ;97.03;97.03;8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;97.03;97.03;8.25.75.02.00;Bebê Fofo Almofada de Apoio Lycra Nude D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;130.37;130.37;8.25.75.03.01;Capa Protetora para Bebê Conforto Lycra Preta - D'Bella for Baby;BB TUDO
-FATURAMENTO VD RJ;39.21;39.21;8.25.75.04.10;Rosquinha de Amamentação Cinza D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;39.21;39.21;8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;87.24;87.24;8.25.75.05.00;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Nude - D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;87.24;87.24;8.25.75.05.00;Bebê Fofo Malha Nude D´Bella for Baby;BB TUDO
@@ -9570,7 +9569,6 @@ FATURAMENTO VD RJ;9.91;9.91;8.30.53.65.07;Mordedor Mocho Eco Chicco Coruja Azul;
 FATURAMENTO VD RJ;9.91;9.91;8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;BB TUDO
 FATURAMENTO VD RJ;8.8;8.8;8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;BB TUDO
 FATURAMENTO VD RJ;8.8;8.8;8.30.53.66.08;Mordedor Molly Eco Chicco Caracol Vermelho;BB TUDO
-FATURAMENTO VD RJ;40.68;40.68;8.30.53.68.00;Arco de Cama Rainbow Sky Chicco Neutro;BB TUDO
 FATURAMENTO VD RJ;40.68;40.68;8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;BB TUDO
 FATURAMENTO VD RJ;266.4;266.4;8.30.53.69.11;Bicicleta de Equilíbrio Balance Bike Eco+ Chicco Verde;BB TUDO
 FATURAMENTO VD RJ;43.01;43.01;8.30.53.71.11;Tartaruga Efeito Surpresa Chicco Verde;BB TUDO
