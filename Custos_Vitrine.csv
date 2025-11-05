@@ -2,6 +2,7 @@ Almoxarifado;Custo Líquido Atualizado;Custo Bruto Atualizado;SKU;Nome;Operaçã
 FATURAMENTO VD RJ;254.25;354.55;19.37.44.03.01;Cadeira de Escritório Giratória Willet Cosco Home - Preta;VITRINE
 FATURAMENTO VD RJ;177.69;247.8;19.37.44.11.06;Mesa de Escritório Smart Desk White - Cosco Home;VITRINE
 FATURAMENTO VD RJ;177.69;247.8;19.37.44.11.06;Mesa de Escritório Smart Desk White Cosco Home;VITRINE
+FATURAMENTO VD ES;163.81;187.92;21.14.175.10.06;Cadeira Giratoria Mocho Manicure Com Encosto Preta;VITRINE
 FATURAMENTO VD ES;163.81;187.92;21.14.175.11.01;Cadeira Giratoria Mocho Manicure Com Encosto Branca;VITRINE
 FATURAMENTO VD ES;132.3;151.78;21.14.175.14.01;Cadeira Giratória Escritório Arco Preta;VITRINE
 FATURAMENTO VD ES;156.6;179.66;21.14.175.15.06;Cadeira Giratória Escritório Arco Branca;VITRINE
@@ -9,6 +10,7 @@ FATURAMENTO VD ES;85.5;98.09;21.14.175.34.06;Cadeira Saarinen Wood Branca;VITRIN
 FATURAMENTO VD ES;85.5;98.09;21.14.175.37.57;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;171.0;196.18;21.14.175.38.57;Kit 2 Cadeiras Eames Leda Nude;VITRINE
 FATURAMENTO VD ES;170.1;195.14;21.14.175.45.01;Cadeira Eiffel Office Slim Preta;VITRINE
+FATURAMENTO VD ES;35.11;40.27;21.14.175.56.00;Carrinho Multiuso Affresco 4 Prateleiras Fumê;VITRINE
 FATURAMENTO VD RJ;79.88;91.27;21.14.46.03.07;Cadeira Allegra Azul;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1201.06;Cadeira Folha Abs Branca Base Cromada;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1202.01;Cadeira Folha Abs Preta Base Cromada;VITRINE
@@ -472,6 +474,7 @@ FATURAMENTO VD ES;10.6;12.06;24.10.159.399.07;Marmita Hermética com Talheres 85
 FATURAMENTO VD ES;10.91;12.42;24.10.159.400.10;Marmita Hermética com Talheres 850ml Cinza Plástico - Lyor;VITRINE
 FATURAMENTO VD ES;16.9;19.14;24.10.159.401.01;Tampa Universal para Panela com 22 a 26cm Preta Vidro - Lyor;VITRINE
 FATURAMENTO VD ES;3.48;3.96;24.10.159.402.10;Colher Medidora Ajustável 30ml Cinza Plástico - Lyor;VITRINE
+FATURAMENTO VD ES;1.77;2.02;24.10.159.407.10;Tapete com Divisória de Silicone para Air Fryer Cinza 18cm;VITRINE
 FATURAMENTO VD ES;5.07;5.78;24.10.159.409.18;Pote Hermético de Vidro com Tampa em Metal Rosé 80ml - Lyor;VITRINE
 FATURAMENTO VD ES;4.81;5.47;24.10.159.410.18;Pote Hermético de Vidro com Tampa em Metal Rosé 370ml - Lyor;VITRINE
 FATURAMENTO VD ES;5.62;6.4;24.10.159.413.06;Tela de Alimentos de Metal Revestida de Plástico Branca;VITRINE
@@ -567,7 +570,10 @@ FATURAMENTO VD ES;93.95;108.3;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 14
 FATURAMENTO VD ES;106.59;122.87;24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.191.00;Kit Varão Extensor 160 a 300cm Esfera Cromada 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.192.00;Kit Varão Extensor 160 a 300cm Esfera Ouro Velho 25-28MM;VITRINE
+FATURAMENTO VD ES;124.97;139.55;24.11.175.193.01;Kit Varão Extensor 160 a 300cm Cilindrica Preta 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.54;24.11.175.194.00;Kit Varão Extensor 160 a 300cm Cilindrica Ouro Velho 25-28MM;VITRINE
+FATURAMENTO VD ES;133.88;154.33;24.11.175.221.06;Persiana Screen Rolo Solar Branca 120X220;VITRINE
+FATURAMENTO VD ES;178.51;205.78;24.11.175.224.06;Persiana Screen Rolo Solar Branca 160X220;VITRINE
 FATURAMENTO VD RJ;48.63;66.07;24.11.175.24.57;Persiana Premier Pvc 25Mm 100X160 Caramelo;VITRINE
 FATURAMENTO VD ES;47.08;52.45;24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Chumbo;VITRINE
 FATURAMENTO VD RJ;37.24;50.59;24.11.175.29.06;Persiana Off 25 Pvc 25Mm 120X130 Branca;VITRINE
@@ -1066,6 +1072,7 @@ FATURAMENTO VD ES;22.08;25.11;24.54.66.259.00;Jarra de Vidro Borossilicato com T
 FATURAMENTO VD ES;10.41;11.84;24.54.66.295.00;Garrafa de Vidro com Cinta e Canudo Pure Rosa 500ml - Wolff;VITRINE
 FATURAMENTO VD ES;10.59;12.04;24.54.66.296.00;Garrafa de Vidro com Cinta e Canudo Pure Branca 500ml - Wolff;VITRINE
 FATURAMENTO VD ES;73.96;84.13;24.54.66.304.00;Jogo Jarra com 6 Copos de Cristal Palm Tree Handpaint;VITRINE
+FATURAMENTO VD ES;6.56;7.47;24.54.66.313.00;Abridor de Champanhe  em Liga de Zinco Antiderrapante 6,5cm;VITRINE
 FATURAMENTO VD ES;13.45;15.23;24.54.66.318.00;Taça para Vinho de Cristal Reserva 750ml - Wolff;VITRINE
 FATURAMENTO VD ES;10.37;11.75;24.54.66.319.00;Taça para Vinho de Cristal Reserva 740ml - Wolff;VITRINE
 FATURAMENTO VD ES;10.92;12.37;24.54.66.320.00;Taça para Vinho de Cristal Reserva 510ml - Wolff;VITRINE
@@ -1094,6 +1101,10 @@ FATURAMENTO VD ES;31.29;35.45;24.54.66.390.04;"Kit 2 Taças Coupe Vidro Borda Do
 
 ";VITRINE
 FATURAMENTO VD RJ;46.41;50.57;24.54.66.390.04;"Kit 2 Taças Coupe Vidro Borda Dourada Spike 200ml Wolff
+
+
+";VITRINE
+FATURAMENTO VD ES;45.96;52.07;24.54.66.393.00;"Kit 2 Taças Vinho Vidro Haste Âmbar Classic 720ml Wolff
 
 
 ";VITRINE
@@ -2611,9 +2622,8 @@ FATURAMENTO VD ES;147.63;173.91;8.06.39.07.01;Cadeira de Alimentação Poke Buri
 FATURAMENTO VD ES;147.63;173.91;8.06.39.07.01;Cadeira de Alimentação Poke Night Sky - Burigotto;VITRINE
 FATURAMENTO VD ES;147.63;173.91;8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;VITRINE
 FATURAMENTO BBTOTAL ES;76.09;90.15;8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;BB TOTAL
-FATURAMENTO BBTOTAL ES;69.59;69.59;8.06.39.11.10;Cadeira de Alimentação Kiwi Cinza - Burigotto;BB TOTAL
 FATURAMENTO VD ES;118.14;139.17;8.06.39.11.10;Cadeira de Alimentação Kiwi Cinza - Burigotto;VITRINE
-FATURAMENTO VD RJ;126.98;144.29;8.06.39.11.10;Cadeira de Alimentação Kiwi Cinza - Burigotto;VITRINE
+FATURAMENTO BBTOTAL ES;69.59;69.59;8.06.39.11.10;Cadeira de Alimentação Kiwi Cinza - Burigotto;BB TOTAL
 FATURAMENTO VD ES;118.14;139.17;8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;VITRINE
 FATURAMENTO BBTOTAL ES;56.34;74.79;8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;BB TOTAL
 FATURAMENTO VD ES;126.42;148.93;8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;VITRINE
@@ -5156,8 +5166,8 @@ FATURAMENTO VD RJ;105.4;113.95;8.25.105.09.17;Cesto Organizador Quadrado Tigre -
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.10.10;Cesto Organizador Quadrado Elefante - 3 Sprouts;VITRINE
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.11.16;Cesto Organizador Quadrado Leão - 3 Sprouts;VITRINE
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.12.10;Cesto Organizador Quadrado Lhama - 3 Sprouts;VITRINE
-FATURAMENTO VD ES;46.61;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
 FATURAMENTO VD RJ;46.62;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
+FATURAMENTO VD ES;46.61;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
 FATURAMENTO BBTOTAL ES;28.08;28.08;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TOTAL
 FATURAMENTO BBTOTAL ES;2.5;2.5;8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;BB TOTAL
 FATURAMENTO VD ES;4.36;5.0;8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;VITRINE
@@ -7302,7 +7312,6 @@ FATURAMENTO VD ES;173.91;173.91;8.06.39.07.01;Cadeira de Alimentação Poke Buri
 FATURAMENTO VD ES;173.91;173.91;8.06.39.07.01;Cadeira de Alimentação Poke Night Sky - Burigotto;BB TUDO
 FATURAMENTO VD ES;173.91;173.91;8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;BB TUDO
 FATURAMENTO VD ES;139.17;139.17;8.06.39.11.10;Cadeira de Alimentação Kiwi Cinza - Burigotto;BB TUDO
-FATURAMENTO VD RJ;144.29;144.29;8.06.39.11.10;Cadeira de Alimentação Kiwi Cinza - Burigotto;BB TUDO
 FATURAMENTO VD ES;139.17;139.17;8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;BB TUDO
 FATURAMENTO VD ES;148.93;148.93;8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;BB TUDO
 FATURAMENTO VD RJ;144.29;144.29;8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;BB TUDO
@@ -8764,8 +8773,8 @@ FATURAMENTO VD RJ;113.95;113.95;8.25.105.09.17;Cesto Organizador Quadrado Tigre 
 FATURAMENTO VD RJ;113.95;113.95;8.25.105.10.10;Cesto Organizador Quadrado Elefante - 3 Sprouts;BB TUDO
 FATURAMENTO VD RJ;113.95;113.95;8.25.105.11.16;Cesto Organizador Quadrado Leão - 3 Sprouts;BB TUDO
 FATURAMENTO VD RJ;113.95;113.95;8.25.105.12.10;Cesto Organizador Quadrado Lhama - 3 Sprouts;BB TUDO
-FATURAMENTO VD ES;52.07;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TUDO
 FATURAMENTO VD RJ;52.07;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TUDO
+FATURAMENTO VD ES;52.07;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TUDO
 FATURAMENTO VD ES;5.0;5.0;8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;BB TUDO
 FATURAMENTO VD ES;17.13;17.13;8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;BB TUDO
 FATURAMENTO VD RJ;17.17;17.17;8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;BB TUDO
