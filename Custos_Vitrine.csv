@@ -287,7 +287,7 @@ FATURAMENTO VD ES;67.49;79.5;21.14.50.806.00;Cadeira Eames Branco  Base Em Polip
 FATURAMENTO VD RJ;67.49;79.5;21.14.50.806.00;Cadeira Eames Branco  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.14.50.807.00;Conjunto Com 2 Cadeiras Eames Branco  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.808.00;Conjunto Com 4 Cadeiras Eames Branco  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;67.49;79.5;21.14.50.809.00;Cadeira Eames Preta  Base Em Polipropileno;VITRINE
+FATURAMENTO VD ES;67.48;79.49;21.14.50.809.00;Cadeira Eames Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;0.0;0.0;21.14.50.810.00;Conjunto Com 2 Cadeiras Eames Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;269.16;317.08;21.14.50.811.00;Conjunto Com 4 Cadeiras Eames Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.818.00;Cadeira Eames Azul Bic  Base Em Polipropileno;VITRINE
@@ -482,7 +482,7 @@ FATURAMENTO VD ES;21.97;24.89;24.10.159.42.20;Garrafa Térmica de Aço Inox Bull
 FATURAMENTO VD ES;10.6;12.06;24.10.159.426.18;Bolsa Térmica de Neoprene com Alça Rosa 30cm - Lyor;VITRINE
 FATURAMENTO VD ES;8.97;10.2;24.10.159.427.11;Bolsa Térmica de Neoprene com Alça Verde 30cm - Lyor;VITRINE
 FATURAMENTO VD ES;6.78;7.71;24.10.159.428.10;Forma Redonda de Silicone para Air Fryer Cinza 19cm;VITRINE
-FATURAMENTO VD ES;6.32;7.19;24.10.159.433.01;Tampa de Silicone para Panela Preta 27cm - Lyor;VITRINE
+FATURAMENTO VD ES;5.25;5.97;24.10.159.433.01;Tampa de Silicone para Panela Preta 27cm - Lyor;VITRINE
 FATURAMENTO VD ES;43.09;49.02;24.10.159.442.10;Frigideira de Indução c/ Revestimento Cerâmico Cinza;VITRINE
 FATURAMENTO VD ES;6.96;7.92;24.10.159.447.01;Forma Quadrada de Silicone para Air Fryer Preta 16cm;VITRINE
 FATURAMENTO VD ES;6.96;7.98;24.10.159.449.10;Porta Frios de Bambu e PP com Tampa de Poliestireno Cinza;VITRINE
@@ -806,7 +806,6 @@ FATURAMENTO VD ES;38.48;43.6;24.52.159.54.01;Garrafa Térmica de Plástico com T
 FATURAMENTO VD ES;11.13;12.67;24.52.159.55.00;Caneca Mixer de Aço Inox com Tampa 380ml;VITRINE
 FATURAMENTO VD ES;20.58;23.41;24.52.159.56.06;Caneca Mixer de Aço Inox com Tampa Branca 440ml;VITRINE
 FATURAMENTO VD ES;38.48;43.6;24.52.159.57.06;Garrafa Térmica de Plástico com Termômetro Tap Branca 1L;VITRINE
-FATURAMENTO VD ES;34.27;38.83;24.52.159.60.07;Garrafa Térmica de Aço Inox Explorer Azul 650ml;VITRINE
 FATURAMENTO VD ES;34.2;38.75;24.52.159.61.18;Garrafa Térmica de Aço Inox Explorer Rosa 650ml;VITRINE
 FATURAMENTO VD ES;34.27;38.83;24.52.159.62.11;Garrafa Térmica de Aço Inox Explorer Verde 650ml;VITRINE
 FATURAMENTO VD ES;32.67;37.01;24.52.159.67.10;Garrafa Térmica de Plástico Organic Cinza 1L;VITRINE
@@ -1122,7 +1121,7 @@ FATURAMENTO VD ES;39.01;44.2;24.54.66.69.11;Jogo de 6 Taças Wolff Brand de Vidr
 FATURAMENTO VD ES;48.35;54.78;24.54.66.70.08;Jogo de 6 Taças Wolff Brand de Vidro Vermelho 320ml;VITRINE
 FATURAMENTO VD ES;101.22;115.88;24.54.66.71.07;Jogo de 6 Taças Wolff Coral de Acrílico Azul 450ml;VITRINE
 FATURAMENTO VD ES;110.43;125.62;24.54.66.72.08;Jogo de 6 Taças Wolff Coral de Acrílico Vermelho 450ml;VITRINE
-FATURAMENTO VD ES;16.77;19.0;24.54.66.84.00;Jogo de 6 Taças Wolff Pearl de Cristal 8cm x 6cm;VITRINE
+FATURAMENTO VD ES;16.81;19.04;24.54.66.84.00;Jogo de 6 Taças Wolff Pearl de Cristal 8cm x 6cm;VITRINE
 FATURAMENTO VD ES;28.22;31.96;24.54.66.94.00;Caneca Térmica Wolff para Cerveja de Aço Inox 500ml;VITRINE
 FATURAMENTO VD ES;27.26;30.89;24.54.66.95.01;Caneca Térmica Wolff para Cerveja de Aço Inox Preta 500ml;VITRINE
 FATURAMENTO VD ES;4.31;4.9;24.55.159.08.01;Colher de Arroz de Silicone Preta 22cm - Lyor;VITRINE
