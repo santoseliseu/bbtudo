@@ -769,7 +769,6 @@ FATURAMENTO VD ES;26.5;30.42;24.51.163.02.11;Escova Sanitária De Silicone Com S
 FATURAMENTO VD ES;13.05;14.98;24.51.163.04.10;Saboneteira De Cerâmica Granulado Cinza - Oikos;VITRINE
 FATURAMENTO VD ES;6.39;7.32;24.51.163.06.11;Saboneteira De Cerâmica Listras Verde Sálvia - Oikos;VITRINE
 FATURAMENTO VD ES;11.26;12.93;24.51.163.07.11;Saboneteira De Resina Canelada Verde Laguna - Oikos;VITRINE
-FATURAMENTO VD ES;23.78;27.2;24.51.66.06.00;Jogo de 3 Peças para Banheiro Wolff Litt de Vidro Âmbar;VITRINE
 FATURAMENTO VD ES;24.08;27.27;24.51.66.08.00;Jogo de 3 Peças para Banheiro Wolff Litt Rainbow de Vidro;VITRINE
 FATURAMENTO VD ES;21.47;24.54;24.51.66.10.00;Jogo de 3 Peças para Banheiro Wolff Minsk de Vidro Âmbar;VITRINE
 FATURAMENTO VD ES;12.38;14.09;24.51.66.22.00;Porta Sabonete Líquido de Cerâmica Origami Preto 240ml - Wolff;VITRINE
@@ -1314,7 +1313,6 @@ FATURAMENTO VD ES;13.63;16.15;24.57.66.42.00;Jogo de 4 Anéis para Guardanapos W
 FATURAMENTO VD ES;12.82;14.58;24.57.66.431.06;Saladeira Wolff Bambu de Melamina Branco 25cm x 12 cm;VITRINE
 FATURAMENTO VD ES;11.38;12.95;24.57.66.448.00;Saladeira Wolff Pearl de Cristal 21cm x 18cm x 6cm;VITRINE
 FATURAMENTO VD ES;22.92;26.07;24.57.66.451.00;Saladeira Wolff Pearl de Cristal Incolor 21cm x 12cm;VITRINE
-FATURAMENTO VD ES;22.72;25.85;24.57.66.457.00;Souplast Wolff Pearl de Cristal Incolor 32 cm;VITRINE
 FATURAMENTO VD ES;22.72;25.85;24.57.66.457.00;Souplast Wolff Pearl de Cristal Transparente 32 cm;VITRINE
 FATURAMENTO VD ES;27.66;31.47;24.57.66.462.04;Sousplat Wolff de Cristal Dourada Agate 31cm;VITRINE
 FATURAMENTO VD ES;14.42;16.55;24.57.66.480.00;Sousplat Wolff de Sisal 32cm;VITRINE
@@ -4103,7 +4101,6 @@ FATURAMENTO VD RJ;112.46;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala - Skip 
 FATURAMENTO VD RJ;112.46;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala Skip Hop;VITRINE
 FATURAMENTO VD RJ;112.45;117.14;8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;58.7;67.39;8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;BB TOTAL
-FATURAMENTO VD RJ;112.45;117.14;8.11.92.12.00;Mochila Infantil Zoo Raposa Skip Hop;VITRINE
 FATURAMENTO VD RJ;383.9;399.9;8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris SkipHop;VITRINE
 FATURAMENTO VD RJ;179.52;194.32;8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;VITRINE
 FATURAMENTO BBTOTAL ES;78.2;89.76;8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;BB TOTAL
@@ -4215,7 +4212,6 @@ FATURAMENTO VD RJ;147.47;203.21;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess
 FULFILLMENT AMAZON;189.64;246.17;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;123.09;123.09;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;BB TOTAL
 FULFILLMENT MELI;163.87;225.79;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;VITRINE
-FATURAMENTO VD RJ;163.86;225.79;8.13.33.07.00;Tapete Gymini Sunny Day Tiny Love - Meadow Days;VITRINE
 FATURAMENTO VD RJ;163.86;225.79;8.13.33.07.00;Tapete e Ginásio de Atividades Gymini Sunny Day Meadow Days - Tiny Love;VITRINE
 FATURAMENTO VD RJ;575.04;599.0;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;VITRINE
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;BB TOTAL
@@ -4581,7 +4577,6 @@ FATURAMENTO VD ES;16.98;17.68;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranj
 FATURAMENTO VD RJ;17.54;19.03;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;28.65;32.89;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;BB TOTAL
 FATURAMENTO VD ES;17.49;18.32;8.24.53.41.11;Copo Training 6M+ Chicco Verde;VITRINE
-FATURAMENTO VD RJ;17.49;18.32;8.24.53.41.11;Copo Training 6M+ Chicco Verde;VITRINE
 FATURAMENTO VD ES;17.49;18.32;8.24.53.41.11;Copo de Treinamento 200ml 6M+ Verde - Chicco;VITRINE
 FATURAMENTO VD RJ;17.49;18.32;8.24.53.41.11;Copo de Treinamento 200ml 6M+ Verde - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;27.57;31.65;8.24.53.41.11;Copo de Treinamento 200ml 6M+ Verde - Chicco;BB TOTAL
@@ -4600,7 +4595,6 @@ FATURAMENTO VD RJ;16.31;17.48;8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Verd
 FATURAMENTO BBTOTAL ES;26.32;30.21;8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Verde - Chicco;BB TOTAL
 FATURAMENTO VD RJ;56.03;61.22;8.24.53.49.00;Copo Sport Cup 266ml Chicco 14m+ Roxo;VITRINE
 FATURAMENTO VD RJ;56.03;61.22;8.24.53.49.00;Copo com Canudo Sport Cup 266ml 14m+ Roxo - Chicco;VITRINE
-FATURAMENTO VD RJ;17.48;18.21;8.24.53.50.00;Copo Sport Cup 266ml Chicco 14m+ Azul;VITRINE
 FATURAMENTO VD RJ;17.48;18.21;8.24.53.50.00;Copo com Canudo Sport Cup 266ml 14m+ Azul - Chicco;VITRINE
 FATURAMENTO VD ES;17.48;18.21;8.24.53.50.00;Copo com Canudo Sport Cup 266ml 14m+ Azul - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;9.11;9.11;8.24.53.50.00;Copo com Canudo Sport Cup 266ml 14m+ Azul - Chicco;BB TOTAL
@@ -4696,7 +4690,6 @@ FATURAMENTO BBTOTAL ES;7.72;7.72;8.24.57.57.18;Garrafinha Dino Patinete Rosa - B
 FATURAMENTO VD ES;12.8;14.64;8.24.57.57.18;Garrafinha Dino Patinete Rosa - Buba;VITRINE
 FATURAMENTO VD RJ;12.81;13.34;8.24.57.57.18;Garrafinha Dino Patinete Rosa - Buba;VITRINE
 FATURAMENTO VD ES;15.81;16.47;8.24.57.61.00;Kit 3 Potinhos Animal Fun - Buba;VITRINE
-FATURAMENTO BBTOTAL ES;9.52;9.52;8.24.57.61.00;Kit 3 Potinhos Animal Fun - Buba;BB TOTAL
 FATURAMENTO VD ES;15.81;16.47;8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;VITRINE
 FATURAMENTO BBTOTAL ES;9.52;9.52;8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;BB TOTAL
 FATURAMENTO BBTOTAL ES;26.42;26.42;8.24.57.64.07;Pote Térmico com Colher Azul - Buba;BB TOTAL
@@ -4763,7 +4756,6 @@ FATURAMENTO VD ES;42.47;50.32;8.24.58.45.07;Kit 2 Mamadeiras Anti-Cólic 125ml e
 FATURAMENTO BBTOTAL ES;17.25;20.78;8.24.58.49.00;Dosador de Leite em Pó Azul - Philips Avent;BB TOTAL
 FATURAMENTO VD ES;39.9;41.56;8.24.58.49.00;Dosador de Leite em Pó Azul - Philips Avent;VITRINE
 FATURAMENTO BBTOTAL ES;17.25;20.78;8.24.58.49.00;Dosador de Leite em Pó Philips Avent Azul;BB TOTAL
-FATURAMENTO VD ES;39.9;41.56;8.24.58.49.00;Dosador de Leite em Pó Philips Avent Azul;VITRINE
 FATURAMENTO VD ES;48.2;57.11;8.24.58.50.03;Pack Duplo Mamadeira Anti-colic 260ml Transparente – Philips Avent;VITRINE
 FATURAMENTO VD ES;62.26;73.77;8.24.58.51.03;Pack Triplo Mamadeira Anti-colic Transparente 260ml  Philips Avent;VITRINE
 FATURAMENTO VD ES;62.26;73.77;8.24.58.51.03;Pack Triplo Mamadeira Anti-colic Transparente 260ml – Philips Avent;VITRINE
@@ -4910,7 +4902,6 @@ FATURAMENTO VD RJ;40.4;42.46;8.24.92.13.00;Garrafa Flip Zoo Borboleta Skip Hop;V
 FATURAMENTO BBTOTAL ES;19.84;22.77;8.24.92.13.00;Garrafa Flip Zoo Borboleta Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;40.4;42.46;8.24.92.13.00;Garrafa com Canudo Flip Zoo 384 ml Borboleta - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;19.84;22.77;8.24.92.13.00;Garrafa com Canudo Flip Zoo 384 ml Borboleta - Skip Hop;BB TOTAL
-FATURAMENTO VD RJ;35.36;37.95;8.24.92.15.00;Garrafa Flip Zoo Koala Skip Hop;VITRINE
 FATURAMENTO VD RJ;35.36;37.95;8.24.92.15.00;Garrafa com Canudo Flip Zoo 384 ml Koala - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;17.6;20.2;8.24.92.15.00;Garrafa com Canudo Flip Zoo 384 ml Koala - Skip Hop;BB TOTAL
 FATURAMENTO BBTOTAL ES;18.21;20.91;8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;BB TOTAL
@@ -4927,7 +4918,6 @@ FATURAMENTO VD RJ;112.79;121.34;8.24.92.54.00;Pote Térmico com Talher 325ml Zoo
 FATURAMENTO VD RJ;112.79;121.34;8.24.92.54.00;Pote Térmico com Talher Zoo Koala Skip Hop;VITRINE
 FATURAMENTO VD RJ;93.04;104.32;8.24.92.55.00;Pote Térmico com Talher 325ml Zoo Lhama - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;45.43;52.16;8.24.92.55.00;Pote Térmico com Talher 325ml Zoo Lhama - Skip Hop;BB TOTAL
-FATURAMENTO VD RJ;93.04;104.32;8.24.92.55.00;Pote Térmico com Talher Zoo Lhama Skip Hop;VITRINE
 FATURAMENTO VD RJ;88.43;97.04;8.24.92.57.00;Pote Térmico com Talher 325ml Zoo Unicórnio - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;46.5;53.39;8.24.92.57.00;Pote Térmico com Talher 325ml Zoo Unicórnio - Skip Hop;BB TOTAL
 FATURAMENTO BBTOTAL ES;36.98;42.45;8.24.92.61.00;Pote Térmico Inox Com Talher 350 ml Leão - 3 Sprouts;BB TOTAL
@@ -5842,7 +5832,6 @@ FULFILLMENT VISUAL IN;37.71;38.95;8.25.75.41.00;Rosquinhas de Amamentação Nude
 FATURAMENTO VD RJ;118.96;127.27;8.25.75.43.10;Capa Protetora para Bebê Conforto Lycra Cinza - D'Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;63.64;63.64;8.25.75.43.10;Capa Protetora para Bebê Conforto Lycra Cinza - D'Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;118.96;127.27;8.25.75.43.10;Capa Protetora para Bebê Confoto Lycra Cinza D´Bella for Baby;VITRINE
-FATURAMENTO BBTOTAL ES;63.64;63.64;8.25.75.43.10;Capa Protetora para Bebê Confoto Lycra Cinza D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;107.8;107.8;8.25.75.45.10;Capa Protetora Para Carrinho Universal Slim Lycra Cinza - D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;45.49;53.9;8.25.75.45.10;Capa Protetora Para Carrinho Universal Slim Lycra Cinza - D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;107.8;107.8;8.25.75.45.10;Capa Protetora para Carrinho Slim Lycra Cinza D´Bella for Baby;VITRINE
@@ -6401,7 +6390,6 @@ FATURAMENTO VD RJ;7.88;8.8;8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - C
 FATURAMENTO VD RJ;7.88;8.8;8.30.53.66.08;Mordedor Molly Eco Chicco Caracol Vermelho;VITRINE
 FATURAMENTO VD RJ;35.49;40.68;8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;20.34;20.34;8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;BB TOTAL
-FATURAMENTO VD RJ;232.68;266.4;8.30.53.69.11;Bicicleta de Equilíbrio Balance Bike Eco+ Chicco Verde;VITRINE
 FATURAMENTO VD RJ;37.42;43.01;8.30.53.71.11;Tartaruga Efeito Surpresa Chicco Verde;VITRINE
 FATURAMENTO VD RJ;37.42;43.01;8.30.53.71.11;Tartaruga Efeito Surpresa Verde - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;8.78;8.78;8.30.53.73.69;Brinquedo Eletrônico Para Banho Baleia Salpica Chicco Azul;BB TOTAL
@@ -6575,7 +6563,6 @@ FATURAMENTO VD RJ;399.0;399.0;8.60.85.50.00;Jogo de Lençol 400 Fios;VITRINE
 FATURAMENTO BBTOTAL ES;109.5;109.5;8.60.85.53.00;Ninho Redutor;BB TOTAL
 FATURAMENTO VD RJ;219.0;219.0;8.60.85.53.00;Ninho Redutor;VITRINE
 FATURAMENTO VD RJ;149.0;149.0;8.60.85.55.00;Manta Pompom Tricot;VITRINE
-FATURAMENTO VD RJ;159.0;159.0;8.60.85.56.00;Saco De Dormir Tricot / Inverno;VITRINE
 FATURAMENTO VD RJ;499.0;499.0;8.60.85.61.00;Kit Mini Berço;VITRINE
 FATURAMENTO VD RJ;135.22;149.0;8.60.85.64.00;Saco De Dormir Tricot /Toque;VITRINE
 FATURAMENTO VD RJ;98.92;109.0;8.60.85.65.00;Almofada Urso Tricot M - Loren Baby;VITRINE
@@ -8099,7 +8086,6 @@ FATURAMENTO VD RJ;145.74;145.74;8.11.92.06.00;Mochila Infantil Zoo Borboleta Ski
 FATURAMENTO VD RJ;117.14;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;117.14;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala Skip Hop;BB TUDO
 FATURAMENTO VD RJ;117.14;117.14;8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;BB TUDO
-FATURAMENTO VD RJ;117.14;117.14;8.11.92.12.00;Mochila Infantil Zoo Raposa Skip Hop;BB TUDO
 FATURAMENTO VD RJ;399.9;399.9;8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris SkipHop;BB TUDO
 FATURAMENTO VD RJ;194.32;194.32;8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;BB TUDO
 FATURAMENTO VD RJ;194.32;194.32;8.11.92.16.00;Mochila Infantil Spark Style Espaço SkipHop;BB TUDO
@@ -8162,7 +8148,6 @@ FATURAMENTO VD RJ;249.32;249.32;8.13.33.04.00;Tapete de Atividades Super Mat Tin
 FATURAMENTO VD RJ;197.63;197.63;8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;203.21;203.21;8.13.33.06.00;Tapete Deluxe Gymini Tiny Love - Tiny Princess Tales;BB TUDO
 FATURAMENTO VD RJ;203.21;203.21;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;225.79;225.79;8.13.33.07.00;Tapete Gymini Sunny Day Tiny Love - Meadow Days;BB TUDO
 FATURAMENTO VD RJ;225.79;225.79;8.13.33.07.00;Tapete e Ginásio de Atividades Gymini Sunny Day Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;599.0;599.0;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;BB TUDO
 FATURAMENTO VD RJ;599.0;599.0;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TUDO
@@ -8414,7 +8399,6 @@ FATURAMENTO VD RJ;19.03;19.03;8.24.53.40.00;Copo Training Cup 200 ml Chicco 6m+ 
 FATURAMENTO VD ES;17.68;17.68;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;BB TUDO
 FATURAMENTO VD RJ;19.03;19.03;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;BB TUDO
 FATURAMENTO VD ES;18.32;18.32;8.24.53.41.11;Copo Training 6M+ Chicco Verde;BB TUDO
-FATURAMENTO VD RJ;18.32;18.32;8.24.53.41.11;Copo Training 6M+ Chicco Verde;BB TUDO
 FATURAMENTO VD ES;18.32;18.32;8.24.53.41.11;Copo de Treinamento 200ml 6M+ Verde - Chicco;BB TUDO
 FATURAMENTO VD RJ;18.32;18.32;8.24.53.41.11;Copo de Treinamento 200ml 6M+ Verde - Chicco;BB TUDO
 FATURAMENTO VD RJ;17.5;17.5;8.24.53.43.113;Copo de Treinamento 200ml 6M+ Roxo - Chicco;BB TUDO
@@ -8428,7 +8412,6 @@ FATURAMENTO VD RJ;17.48;17.48;8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Chic
 FATURAMENTO VD RJ;17.48;17.48;8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Verde - Chicco;BB TUDO
 FATURAMENTO VD RJ;61.22;61.22;8.24.53.49.00;Copo Sport Cup 266ml Chicco 14m+ Roxo;BB TUDO
 FATURAMENTO VD RJ;61.22;61.22;8.24.53.49.00;Copo com Canudo Sport Cup 266ml 14m+ Roxo - Chicco;BB TUDO
-FATURAMENTO VD RJ;18.21;18.21;8.24.53.50.00;Copo Sport Cup 266ml Chicco 14m+ Azul;BB TUDO
 FATURAMENTO VD RJ;18.21;18.21;8.24.53.50.00;Copo com Canudo Sport Cup 266ml 14m+ Azul - Chicco;BB TUDO
 FATURAMENTO VD ES;18.21;18.21;8.24.53.50.00;Copo com Canudo Sport Cup 266ml 14m+ Azul - Chicco;BB TUDO
 FATURAMENTO VD RJ;31.03;31.03;8.24.53.53.18;Copo Térmico Infantil de Inox 237ml 18M+ Rosa - Chicco;BB TUDO
@@ -8530,7 +8513,6 @@ FATURAMENTO VD RJ;39.09;39.09;8.24.58.43.18;Dosador de Leite em Pó Rosa - Phili
 FATURAMENTO VD RJ;33.93;33.93;8.24.58.44.18;Escova para Mamadeiras e Bicos Rosa - Philips Avent;BB TUDO
 FATURAMENTO VD ES;50.32;50.32;8.24.58.45.07;Kit 2 Mamadeiras Anti-Cólic 125ml e 260ml Azul - Philips Avent;BB TUDO
 FATURAMENTO VD ES;41.56;41.56;8.24.58.49.00;Dosador de Leite em Pó Azul - Philips Avent;BB TUDO
-FATURAMENTO VD ES;41.56;41.56;8.24.58.49.00;Dosador de Leite em Pó Philips Avent Azul;BB TUDO
 FATURAMENTO VD ES;57.11;57.11;8.24.58.50.03;Pack Duplo Mamadeira Anti-colic 260ml Transparente – Philips Avent;BB TUDO
 FATURAMENTO VD ES;73.77;73.77;8.24.58.51.03;Pack Triplo Mamadeira Anti-colic Transparente 260ml  Philips Avent;BB TUDO
 FATURAMENTO VD ES;73.77;73.77;8.24.58.51.03;Pack Triplo Mamadeira Anti-colic Transparente 260ml – Philips Avent;BB TUDO
@@ -8612,7 +8594,6 @@ FATURAMENTO VD RJ;111.27;111.27;8.24.92.104.11;Garrafa Infantil Spark Style de A
 FATURAMENTO VD RJ;42.81;42.81;8.24.92.12.00;Garrafa com Canudo Flip Zoo 384 ml Baleia Narval - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;42.46;42.46;8.24.92.13.00;Garrafa Flip Zoo Borboleta Skip Hop;BB TUDO
 FATURAMENTO VD RJ;42.46;42.46;8.24.92.13.00;Garrafa com Canudo Flip Zoo 384 ml Borboleta - Skip Hop;BB TUDO
-FATURAMENTO VD RJ;37.95;37.95;8.24.92.15.00;Garrafa Flip Zoo Koala Skip Hop;BB TUDO
 FATURAMENTO VD RJ;37.95;37.95;8.24.92.15.00;Garrafa com Canudo Flip Zoo 384 ml Koala - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;41.81;41.81;8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;40.4;40.4;8.24.92.19.00;Garrafa Flip Zoo Unicórnio Skip Hop;BB TUDO
@@ -8623,7 +8604,6 @@ FATURAMENTO VD RJ;75.81;75.81;8.24.92.53.00;Pote Térmico com Talher 325ml Zoo F
 FATURAMENTO VD RJ;121.34;121.34;8.24.92.54.00;Pote Térmico com Talher 325ml Zoo Koala - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;121.34;121.34;8.24.92.54.00;Pote Térmico com Talher Zoo Koala Skip Hop;BB TUDO
 FATURAMENTO VD RJ;104.32;104.32;8.24.92.55.00;Pote Térmico com Talher 325ml Zoo Lhama - Skip Hop;BB TUDO
-FATURAMENTO VD RJ;104.32;104.32;8.24.92.55.00;Pote Térmico com Talher Zoo Lhama Skip Hop;BB TUDO
 FATURAMENTO VD RJ;97.04;97.04;8.24.92.57.00;Pote Térmico com Talher 325ml Zoo Unicórnio - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;84.89;84.89;8.24.92.61.00;Pote Térmico Inox Com Talher 350 ml Leão - 3 Sprouts;BB TUDO
 FATURAMENTO VD RJ;84.89;84.89;8.24.92.64.00;Pote Térmico Inox Com Talher 350 ml Urso - 3 Sprouts;BB TUDO
@@ -9566,7 +9546,6 @@ FATURAMENTO VD RJ;9.91;9.91;8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicc
 FATURAMENTO VD RJ;8.8;8.8;8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;BB TUDO
 FATURAMENTO VD RJ;8.8;8.8;8.30.53.66.08;Mordedor Molly Eco Chicco Caracol Vermelho;BB TUDO
 FATURAMENTO VD RJ;40.68;40.68;8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;BB TUDO
-FATURAMENTO VD RJ;266.4;266.4;8.30.53.69.11;Bicicleta de Equilíbrio Balance Bike Eco+ Chicco Verde;BB TUDO
 FATURAMENTO VD RJ;43.01;43.01;8.30.53.71.11;Tartaruga Efeito Surpresa Chicco Verde;BB TUDO
 FATURAMENTO VD RJ;43.01;43.01;8.30.53.71.11;Tartaruga Efeito Surpresa Verde - Chicco;BB TUDO
 FATURAMENTO VD RJ;17.55;17.55;8.30.53.73.69;Brinquedo Eletrônico Para Banho Baleia Salpica Chicco Azul;BB TUDO
