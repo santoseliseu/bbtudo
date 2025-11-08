@@ -346,7 +346,6 @@ FATURAMENTO VD ES;134.98;159.0;21.40.50.19.00;Banqueta Eames PP  Branca;VITRINE
 FATURAMENTO VD ES;269.96;318.0;21.40.50.20.00;Conjunto 2 Banquetas Eames  Branca;VITRINE
 FATURAMENTO VD ES;69.83;82.26;21.40.50.27.00;Banqueta Eames PP  Fendi;VITRINE
 FATURAMENTO VD ES;139.66;164.52;21.40.50.28.00;Conjunto 2 Banquetas Eames  Fendi;VITRINE
-FATURAMENTO VD RJ;178.71;203.08;21.40.50.28.00;Conjunto 2 Banquetas Eames  Fendi;VITRINE
 FATURAMENTO VD ES;72.15;83.36;21.40.50.33.00;Banqueta Eames PP  Preto;VITRINE
 FATURAMENTO VD ES;139.66;164.52;21.40.50.34.00;Conjunto 2 Banquetas Eames  Preto;VITRINE
 FATURAMENTO VD ES;102.48;120.73;21.40.50.47.00;Banqueta Eames PC  Transparente;VITRINE
@@ -684,6 +683,7 @@ FATURAMENTO VD ES;20.49;23.21;24.50.66.276.00;Vaso Wolff de Vidro 14cm x 20cm;VI
 FATURAMENTO VD ES;5.47;6.19;24.50.66.282.00;Vaso Wolff Flower de Vidro 6cm x 15cm;VITRINE
 FATURAMENTO VD ES;88.46;100.22;24.50.66.287.00;Vaso Wolff Murano Italy  19cm x 24cm;VITRINE
 FATURAMENTO VD ES;45.69;51.77;24.50.66.291.04;Vaso Wolff Murano Italy  Âmbar e Dourado 10cm x 11cm;VITRINE
+FATURAMENTO VD ES;44.92;50.88;24.50.66.308.18;Vaso Wolff Murano Italy  Rosa Claro 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;92.04;104.27;24.50.66.312.18;Vaso Wolff Murano Italy  Rosa Claro 19cm x 24cm;VITRINE
 FATURAMENTO VD ES;80.67;91.4;24.50.66.316.00;Vaso Wolff Murano Italy  Tiffany 18cm x 21cm;VITRINE
 FATURAMENTO VD ES;43.74;49.56;24.50.66.321.04;Vaso Wolff Murano Italy  Transparente e Dourado 10cm x 11cm;VITRINE
@@ -1007,7 +1007,6 @@ FATURAMENTO VD ES;41.73;47.28;24.54.159.23.00;Conjunto 6 Taças de Cristal Palm 
 FATURAMENTO VD ES;33.68;38.16;24.54.159.24.00;Jogo 2 Taças para Vinho de Cristal Balance L'Artisan 540ml;VITRINE
 FATURAMENTO VD ES;52.86;58.01;24.54.159.25.00;Jogo 2 Taças de Vinho Cristal Elegance L'Artisan 880ml;VITRINE
 FATURAMENTO VD RJ;57.6;62.76;24.54.159.25.00;Jogo 2 Taças de Vinho Cristal Elegance L'Artisan 880ml;VITRINE
-FATURAMENTO VD ES;27.72;31.4;24.54.159.26.01;Copo Térmico Parede Dupla com Termômetro Motion Preto 500ml;VITRINE
 FATURAMENTO VD ES;18.49;20.94;24.54.159.27.07;Copo Térmico parede Dupla com Termômetro Motion Azul 500ml;VITRINE
 FATURAMENTO VD ES;4.0;4.53;24.54.159.31.00;Copo de Cristal Deli Diamante 330ml - Lyor;VITRINE
 FATURAMENTO VD ES;3.69;4.18;24.54.159.32.00;Copo Alto de Cristal Deli Diamante 280ml - Lyor;VITRINE
@@ -1101,7 +1100,6 @@ FATURAMENTO VD ES;40.89;46.33;24.54.66.67.07;Jogo de 6 Taças Wolff Brand de Vid
 FATURAMENTO VD ES;39.34;44.56;24.54.66.68.18;Jogo de 6 Taças Wolff Brand de Vidro Rosa 345ml;VITRINE
 FATURAMENTO VD ES;39.01;44.2;24.54.66.69.11;Jogo de 6 Taças Wolff Brand de Vidro Verde 345ml;VITRINE
 FATURAMENTO VD ES;48.35;54.78;24.54.66.70.08;Jogo de 6 Taças Wolff Brand de Vidro Vermelho 320ml;VITRINE
-FATURAMENTO VD ES;101.22;115.88;24.54.66.71.07;Jogo de 6 Taças Wolff Coral de Acrílico Azul 450ml;VITRINE
 FATURAMENTO VD ES;110.43;125.62;24.54.66.72.08;Jogo de 6 Taças Wolff Coral de Acrílico Vermelho 450ml;VITRINE
 FATURAMENTO VD ES;16.81;19.04;24.54.66.84.00;Jogo de 6 Taças Wolff Pearl de Cristal 8cm x 6cm;VITRINE
 FATURAMENTO VD ES;28.22;31.96;24.54.66.94.00;Caneca Térmica Wolff para Cerveja de Aço Inox 500ml;VITRINE
@@ -1692,7 +1690,6 @@ FATURAMENTO BBTOTAL ES;119.03;119.03;8.01.74.09.10;Banheira Shower Grafite - Kid
 FATURAMENTO BBTOTAL ES;119.03;119.03;8.01.74.09.10;Banheira de Bebê Shower Grafite - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;201.84;238.05;8.01.74.09.10;Banheira de Bebê Shower Grafite - Kiddo;VITRINE
 FATURAMENTO VD RJ;250.69;295.66;8.01.74.10.18;Banheira Shower Rosa - Kiddo;VITRINE
-FATURAMENTO BBTOTAL ES;109.79;126.03;8.01.74.10.18;Banheira Shower Rosa - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;250.69;295.66;8.01.74.10.18;Banheira de Bebê Shower Rosa - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;109.79;126.03;8.01.74.10.18;Banheira de Bebê Shower Rosa - Kiddo;BB TOTAL
 FATURAMENTO BBTOTAL ES;119.03;119.03;8.01.74.11.10;Banheira Infantil Shower Cinza Kiddo;BB TOTAL
@@ -1761,7 +1758,6 @@ FATURAMENTO VD RJ;76.06;107.43;8.03.01.04.01;Almofada SafeComfort Safety 1st Pla
 FATURAMENTO BBTOTAL ES;45.51;53.93;8.03.01.04.01;Almofada SafeComfort Safety 1st Plaid Black;BB TOTAL
 FATURAMENTO VD RJ;75.82;107.08;8.03.01.05.18;Almofada Extra Para Carrinhos SafeComfort Pink Unicorn - Safety 1st;VITRINE
 FATURAMENTO VD RJ;75.82;107.08;8.03.01.05.18;Almofada SafeComfort Safety 1st - Pink Unicorn;VITRINE
-FATURAMENTO VD RJ;74.57;102.69;8.03.01.06.01;Almofada SafeComfort Safety 1st Space;VITRINE
 FATURAMENTO VD RJ;68.43;96.67;8.03.01.07.27;Almofada Redutora de Assento SafeNest Grey - Safety 1st;VITRINE
 FULFILLMENT AMAZON;68.43;96.67;8.03.01.07.27;Almofada Redutora de Assento SafeNest Grey - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;48.34;48.34;8.03.01.07.27;Almofada Redutora de Assento SafeNest Grey - Safety 1st;BB TOTAL
@@ -3837,7 +3833,6 @@ FATURAMENTO VISUAL IN SP;1037.79;1355.14;8.09.76.10.10;Carrinho de Bebê Para G�
 FATURAMENTO BBTOTAL ES;1283.93;1283.93;8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;BB TOTAL
 FATURAMENTO VD RJ;2286.13;2567.85;8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;VITRINE
 FULFILLMENT VISUAL IN;2286.13;2567.85;8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;VISUAL IN
-FATURAMENTO BBTOTAL ES;1283.93;1283.93;8.09.76.20.01;Carrinho de Bebê Versatrax E Travel System TRIO Preto Pavement Joie;BB TOTAL
 FATURAMENTO VD RJ;2210.33;2530.68;8.09.76.21.10;Carrinho de Bebê Versatrax E Travel System TRIO Gray Flanel Joie;VITRINE
 FATURAMENTO VD RJ;1568.39;1784.16;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;706.13;811.14;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;BB TOTAL
@@ -5834,7 +5829,6 @@ FATURAMENTO VD RJ;151.0;151.0;8.25.75.48.10;Capa Protetora Para Cadeira de Carro
 FATURAMENTO BBTOTAL ES;63.83;75.63;8.25.75.48.10;Capa Protetora Para Cadeira de Carro Lycra Cinza - D´Bella For Baby;BB TOTAL
 FATURAMENTO VD RJ;150.05;152.49;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;VITRINE
 FATURAMENTO BBTOTAL ES;76.25;76.25;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;BB TOTAL
-FATURAMENTO VD RJ;150.05;152.49;8.25.75.49.01;Capa Protetora para Cadeira de Carro Lycra Preto D´Bella for Baby;VITRINE
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra Preto D´Bella for Baby;VITRINE
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;48.5;48.5;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;BB TOTAL
@@ -9172,7 +9166,6 @@ FATURAMENTO VD RJ;107.8;107.8;8.25.75.46.01;Capa Protetora Para Carrinho Univers
 FATURAMENTO VD RJ;107.8;107.8;8.25.75.46.01;Capa Protetora para Carrinho Slim Lycra Preto D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;151.0;151.0;8.25.75.48.10;Capa Protetora Para Cadeira de Carro Lycra Cinza - D´Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;152.49;152.49;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;BB TUDO
-FATURAMENTO VD RJ;152.49;152.49;8.25.75.49.01;Capa Protetora para Cadeira de Carro Lycra Preto D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra Preto D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;87.0;87.0;8.25.75.51.10;Almofada Redutora Bebê Fofo Malha Cinza D´Bella for Baby;BB TUDO
