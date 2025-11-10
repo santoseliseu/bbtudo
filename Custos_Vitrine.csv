@@ -9,7 +9,6 @@ FATURAMENTO VD ES;85.5;98.09;21.14.175.34.06;Cadeira Saarinen Wood Branca;VITRIN
 FATURAMENTO VD ES;85.5;98.09;21.14.175.37.57;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;171.0;196.18;21.14.175.38.57;Kit 2 Cadeiras Eames Leda Nude;VITRINE
 FATURAMENTO VD ES;170.1;195.14;21.14.175.45.01;Cadeira Eiffel Office Slim Preta;VITRINE
-FATURAMENTO VD ES;35.1;40.27;21.14.175.57.00;Carrinho Multiuso Affresco 4 Prateleiras Transparente;VITRINE
 FATURAMENTO VD RJ;79.88;91.27;21.14.46.03.07;Cadeira Allegra Azul;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1201.06;Cadeira Folha Abs Branca Base Cromada;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1202.01;Cadeira Folha Abs Preta Base Cromada;VITRINE
@@ -1908,7 +1907,6 @@ FATURAMENTO VD RJ;53.96;61.39;8.03.57.04.69;Almofada de Atividades Amazônia - B
 FATURAMENTO BBTOTAL ES;28.69;28.69;8.03.57.04.69;Almofada de Atividades Amazônia - Buba;BB TOTAL
 FATURAMENTO VD RJ;245.64;293.68;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;VITRINE
 FATURAMENTO BBTOTAL ES;133.41;153.14;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;BB TOTAL
-FATURAMENTO VD RJ;245.64;293.68;8.03.68.01.01;Bebê Conforto Litet 0 a 13 kg Preto Liso;VITRINE
 FATURAMENTO VD RJ;238.65;297.56;8.03.68.03.06;Bebê Conforto Auto Candy Branco - Litet;VITRINE
 FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;VISUAL IN
 FATURAMENTO VD RJ;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;VITRINE
@@ -2198,8 +2196,6 @@ FATURAMENTO VD RJ;66.62;76.49;8.04.53.04.00;Grade Para Cama Infantil Chicco 95cm
 FATURAMENTO VD ES;62.2;64.8;8.04.53.04.00;Grade Para Cama Infantil Chicco 95cm Natural;VITRINE
 FATURAMENTO BBTOTAL ES;107.33;123.2;8.04.53.04.00;Grade Para Cama Infantil Chicco 95cm Natural;BB TOTAL
 FATURAMENTO VD RJ;274.18;315.04;8.04.53.05.00;Grade Para Cama Infantil Chicco 135cm Natural;VITRINE
-FATURAMENTO VD RJ;1041.27;1193.65;8.04.53.15.10;Berço Portátil Co-Sleeping Next2me Magic Chicco Cool Grey;VITRINE
-FATURAMENTO VD RJ;1041.27;1193.65;8.04.53.16.10;Berço Moisés Portátil Baby Hug 4 In 1 Air Stone Chicco Cinza;VITRINE
 FATURAMENTO BBTOTAL ES;524.31;601.83;8.04.53.17.10;Berço Next2Me Pop-Up Cinza Chicco;BB TOTAL
 FATURAMENTO VD RJ;1062.36;1203.66;8.04.53.17.10;Berço Next2Me Pop-Up Cinza Chicco;VITRINE
 FATURAMENTO VD RJ;230.12;259.02;8.04.53.18.01;Moisés Mysa Light Black Satin Chicco;VITRINE
@@ -2618,7 +2614,6 @@ FATURAMENTO VD RJ;283.91;319.51;8.06.76.01.06;Cadeirinha de Alimentação Mimzy 
 FATURAMENTO VISUAL IN SP;301.71;301.71;8.06.76.01.06;Cadeirinha de Alimentação Mimzy Snacker Alphabet - Joie;VISUAL IN
 FULFILLMENT VISUAL IN;301.71;301.71;8.06.76.01.06;Cadeirinha de Alimentação Mimzy Snacker Alphabet - Joie;VISUAL IN
 FATURAMENTO VD RJ;283.91;319.51;8.06.76.01.06;Cadeirinha de Alimentação Mimzy Snacker Alphabet Joie;VITRINE
-FATURAMENTO VISUAL IN SP;301.71;301.71;8.06.76.01.06;Cadeirinha de Alimentação Mimzy Snacker Alphabet Joie;VISUAL IN
 FATURAMENTO VD RJ;716.65;999.44;8.07.01.01.01;Cadeirinha para Carro Multifix Reserva 0 a 36kg Black - Safety1st;VITRINE
 FATURAMENTO VD RJ;222.69;310.56;8.07.01.02.01;Assento de Elevação Booster Highline Reserva Black - Safety 1st;VITRINE
 FATURAMENTO VD RJ;1051.19;1466.0;8.07.01.04.01;Cadeirinha para Carro Orbital 360 i-Size Black - Safety 1st;VITRINE
@@ -3298,7 +3293,6 @@ FULFILLMENT MELI;190.0;261.81;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing
 FATURAMENTO BBTOTAL ES;137.8;137.8;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;BB TOTAL
 FATURAMENTO VD RJ;189.99;261.81;8.09.03.109.18;Carrinho de Bebê Umbrella Wing Voyage Rosa;VITRINE
 FULFILLMENT MELI;190.0;261.81;8.09.03.109.18;Carrinho de Bebê Umbrella Wing Voyage Rosa;VITRINE
-FATURAMENTO BBTOTAL ES;137.8;137.8;8.09.03.109.18;Carrinho de Bebê Umbrella Wing Voyage Rosa;BB TOTAL
 FATURAMENTO VD RJ;292.51;403.08;8.09.03.110.18;Carrinho de Bebê Delta Rosa Mescla - Voyage;VITRINE
 FULFILLMENT AMAZON;292.51;403.08;8.09.03.110.18;Carrinho de Bebê Delta Rosa Mescla - Voyage;VITRINE
 FULFILLMENT MELI;588.01;668.19;8.09.03.110.18;Carrinho de Bebê Delta Rosa Mescla - Voyage;VITRINE
@@ -4077,7 +4071,6 @@ FATURAMENTO BBTOTAL ES;72.87;72.87;8.11.92.06.00;Mochila Infantil Zoo Borboleta 
 FATURAMENTO VD RJ;130.01;145.74;8.11.92.06.00;Mochila Infantil Zoo Borboleta Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;72.87;72.87;8.11.92.06.00;Mochila Infantil Zoo Borboleta Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;112.46;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala - Skip Hop;VITRINE
-FATURAMENTO VD RJ;112.46;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala Skip Hop;VITRINE
 FATURAMENTO VD RJ;112.45;117.14;8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;58.7;67.39;8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;383.9;399.9;8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris SkipHop;VITRINE
@@ -5410,7 +5403,6 @@ FATURAMENTO VD RJ;4.92;5.13;8.25.57.123.00;Porta-Chupeta Com Alca - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;2.57;2.57;8.25.57.123.00;Porta-Chupeta Com Alca - Buba;BB TOTAL
 FATURAMENTO VD RJ;4.92;5.13;8.25.57.123.00;Porta-Chupeta com Alça Transparente – Buba;VITRINE
 FATURAMENTO BBTOTAL ES;2.57;2.57;8.25.57.123.00;Porta-Chupeta com Alça Transparente – Buba;BB TOTAL
-FATURAMENTO VD RJ;19.1;21.92;8.25.57.124.00;Protetor Solar Retratil Com Ventosa - Buba;VITRINE
 FATURAMENTO VD RJ;19.1;21.92;8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;VITRINE
 FATURAMENTO VD ES;19.1;21.92;8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;8.1;9.3;8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;BB TOTAL
@@ -5875,7 +5867,6 @@ FATURAMENTO VD ES;97.0;97.0;8.25.75.81.10;Toalha de Banho Clássica Pequena com 
 FATURAMENTO VD RJ;54.72;62.0;8.25.81.01.00;Termômetro Infravermelho - Bioland;VITRINE
 FATURAMENTO BBTOTAL ES;30.98;30.98;8.25.81.01.00;Termômetro Infravermelho - Bioland;BB TOTAL
 FATURAMENTO VD RJ;54.72;62.0;8.25.81.01.00;Termômetro Infravermelho Bioland;VITRINE
-FATURAMENTO BBTOTAL ES;30.98;30.98;8.25.81.01.00;Termômetro Infravermelho Bioland;BB TOTAL
 FATURAMENTO VD RJ;18.93;20.74;8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;VITRINE
 FATURAMENTO BBTOTAL ES;10.37;10.37;8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;BB TOTAL
 FATURAMENTO VD RJ;18.93;20.74;8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores Clic Pac;VITRINE
@@ -6889,7 +6880,6 @@ FATURAMENTO VD RJ;57.38;57.38;8.03.57.01.69;Almofada De Atividades Colorida - Bu
 FATURAMENTO VD RJ;57.38;57.38;8.03.57.03.69;Almofada de Atividades Panda - Buba ;BB TUDO
 FATURAMENTO VD RJ;61.39;61.39;8.03.57.04.69;Almofada de Atividades Amazônia - Buba;BB TUDO
 FATURAMENTO VD RJ;293.68;293.68;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;BB TUDO
-FATURAMENTO VD RJ;293.68;293.68;8.03.68.01.01;Bebê Conforto Litet 0 a 13 kg Preto Liso;BB TUDO
 FATURAMENTO VD RJ;297.56;297.56;8.03.68.03.06;Bebê Conforto Auto Candy Branco - Litet;BB TUDO
 FATURAMENTO VD RJ;95.91;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;101.19;101.19;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
@@ -7033,7 +7023,6 @@ FATURAMENTO VD RJ;696.42;696.42;8.04.33.01.00;Berço 3 in 1 Here I Grow Tiny Lov
 FATURAMENTO VD RJ;76.49;76.49;8.04.53.04.00;Grade Para Cama Infantil Chicco 95cm Natural;BB TUDO
 FATURAMENTO VD ES;64.8;64.8;8.04.53.04.00;Grade Para Cama Infantil Chicco 95cm Natural;BB TUDO
 FATURAMENTO VD RJ;315.04;315.04;8.04.53.05.00;Grade Para Cama Infantil Chicco 135cm Natural;BB TUDO
-FATURAMENTO VD RJ;1193.65;1193.65;8.04.53.16.10;Berço Moisés Portátil Baby Hug 4 In 1 Air Stone Chicco Cinza;BB TUDO
 FATURAMENTO VD RJ;1203.66;1203.66;8.04.53.17.10;Berço Next2Me Pop-Up Cinza Chicco;BB TUDO
 FATURAMENTO VD RJ;259.02;259.02;8.04.53.18.01;Moisés Mysa Light Black Satin Chicco;BB TUDO
 FATURAMENTO VD RJ;259.02;259.02;8.04.53.18.01;Moisés para Carrinho Mysa Light Black Satin - Chicco;BB TUDO
@@ -8060,7 +8049,6 @@ FATURAMENTO VD RJ;124.11;124.11;8.11.92.05.00;Mochila Infantil Zoo Baleia Narval
 FATURAMENTO VD RJ;145.74;145.74;8.11.92.06.00;Mochila Infantil Zoo Borboleta - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;145.74;145.74;8.11.92.06.00;Mochila Infantil Zoo Borboleta Skip Hop;BB TUDO
 FATURAMENTO VD RJ;117.14;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala - Skip Hop;BB TUDO
-FATURAMENTO VD RJ;117.14;117.14;8.11.92.10.00;Mochila Infantil Zoo Koala Skip Hop;BB TUDO
 FATURAMENTO VD RJ;117.14;117.14;8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;399.9;399.9;8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris SkipHop;BB TUDO
 FATURAMENTO VD RJ;194.32;194.32;8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;BB TUDO
@@ -8910,7 +8898,6 @@ FATURAMENTO VD RJ;7.75;7.75;8.25.57.120.00;Meia Sapatilha Antiderrapante Tam. P 
 FATURAMENTO VD RJ;43.91;43.91;8.25.57.122.00;Bolsa Térmica de Sílica Carneirinho - Buba;BB TUDO
 FATURAMENTO VD RJ;5.13;5.13;8.25.57.123.00;Porta-Chupeta Com Alca - Buba;BB TUDO
 FATURAMENTO VD RJ;5.13;5.13;8.25.57.123.00;Porta-Chupeta com Alça Transparente – Buba;BB TUDO
-FATURAMENTO VD RJ;21.92;21.92;8.25.57.124.00;Protetor Solar Retratil Com Ventosa - Buba;BB TUDO
 FATURAMENTO VD RJ;21.92;21.92;8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;BB TUDO
 FATURAMENTO VD ES;21.92;21.92;8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;BB TUDO
 FATURAMENTO VD ES;14.78;14.78;8.25.57.128.00;Organizador De Banho Com Ventosa - Buba;BB TUDO
