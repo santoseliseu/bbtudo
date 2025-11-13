@@ -45,7 +45,6 @@ FATURAMENTO VD RJ;117.25;133.24;21.14.50.1051.00;Conjunto Com 2 Cadeiras Windsor
 FATURAMENTO VD ES;101.48;119.55;21.14.50.1051.00;Conjunto Com 2 Cadeiras Windsor Cinza Base Em Madeira;VITRINE
 FATURAMENTO VD ES;90.93;107.12;21.14.50.1052.00;Cadeira Windsor Fendi  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;185.81;218.89;21.14.50.1053.00;Conjunto Com 2 Cadeiras Windsor Fendi  Base Em Madeira;VITRINE
-FATURAMENTO VD RJ;101.48;119.55;21.14.50.1053.00;Conjunto Com 2 Cadeiras Windsor Fendi  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;50.74;59.77;21.14.50.1054.00;Cadeira Windsor Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;185.81;218.89;21.14.50.1055.00;Conjunto Com 2 Cadeiras Windsor Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;50.74;58.73;21.14.50.1056.00;Cadeira Windsor Rosa  Base Em Madeira;VITRINE
@@ -273,7 +272,6 @@ FATURAMENTO VD ES;88.93;104.76;21.14.50.730.00;Cadeira com Braços Eames Creme  
 FATURAMENTO VD ES;88.93;104.76;21.14.50.732.00;Cadeira com Braços Eames Preta  com Base Office Preta;VITRINE
 FATURAMENTO VD ES;177.86;209.51;21.14.50.733.00;Conjunto Com 2 Cadeiras Eames Office Com Braço Preta  Base Preta;VITRINE
 FATURAMENTO VD ES;88.93;104.76;21.14.50.734.00;CADEIRA EAMES ARM PP ROSA OFFICE PRETO;VITRINE
-FATURAMENTO VD ES;88.42;104.16;21.14.50.736.00;Cadeira com Braços Eames Amarela  com Base Office Preta;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.746.00;Cadeira Eames PP Azul Bic  Office Cromada;VITRINE
 FATURAMENTO VD ES;143.68;169.27;21.14.50.747.00;Conjunto Com 2 Cadeiras Eames Office Azul Bic  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;138.52;161.72;21.14.50.750.00;Cadeira Eames PP Branca  Office Cromada;VITRINE
@@ -1565,7 +1563,6 @@ FATURAMENTO BBTOTAL ES;112.63;112.63;8.01.01.13.10;Banheira de Bebê Smile Grey 
 FATURAMENTO VD RJ;159.4;225.19;8.01.01.13.10;Banheira de Bebê Smile Safety 1st Grey;VITRINE
 FULFILLMENT MELI;159.44;225.25;8.01.01.13.10;Banheira de Bebê Smile Safety 1st Grey;VITRINE
 FULFILLMENT AMAZON;159.44;225.25;8.01.01.13.10;Banheira de Bebê Smile Safety 1st Grey;VITRINE
-FATURAMENTO BBTOTAL ES;112.63;112.63;8.01.01.13.10;Banheira de Bebê Smile Safety 1st Grey;BB TOTAL
 FATURAMENTO VD RJ;159.04;224.69;8.01.01.14.11;Banheira de Bebê Smile Aqua Green - Safety 1st;VITRINE
 FULFILLMENT MAGALU;141.1;199.33;8.01.01.14.11;Banheira de Bebê Smile Aqua Green - Safety 1st;VITRINE
 FULFILLMENT MELI;159.44;225.25;8.01.01.14.11;Banheira de Bebê Smile Aqua Green - Safety 1st;VITRINE
@@ -2931,7 +2928,6 @@ FATURAMENTO BBTOTAL ES;157.32;157.32;8.07.54.07.01;Cadeirinha de Carro Atlantis 
 FATURAMENTO VD ES;120.86;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Baby 15kg a 36kg Preto;VITRINE
 FATURAMENTO VD RJ;120.87;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Baby 15kg a 36kg Preto;VITRINE
 FATURAMENTO VD ES;129.65;139.41;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;VITRINE
-FATURAMENTO VD RJ;117.75;146.81;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;VITRINE
 FATURAMENTO VD ES;8.84;10.03;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;5.33;5.33;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;BB TOTAL
 FATURAMENTO VD RJ;8.24;8.58;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;VITRINE
@@ -3024,7 +3020,6 @@ FATURAMENTO VD RJ;59.82;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Blac
 FATURAMENTO VD RJ;59.82;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Infanti Black;VITRINE
 FATURAMENTO VD RJ;66.48;93.89;8.08.23.02.07;Canguru I Love Travel Infanti Blue;VITRINE
 FATURAMENTO VD RJ;66.48;93.89;8.08.23.02.07;Canguru Infantil I Love Travel Blue - Infanti;VITRINE
-FATURAMENTO VD RJ;59.82;84.5;8.08.23.03.10;Canguru I Love Travel Infanti Gray;VITRINE
 FATURAMENTO VD RJ;59.82;84.5;8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;42.25;42.25;8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;BB TOTAL
 FATURAMENTO VD RJ;105.82;149.5;8.08.23.04.01;Canguru Close 5 em 1 Preto Infanti;VITRINE
@@ -3498,7 +3493,6 @@ FATURAMENTO VD RJ;301.1;414.7;8.09.04.109.57;Carrinho de Bebê Toffy Cosco Bege;
 FULFILLMENT MELI;303.9;418.78;8.09.04.109.57;Carrinho de Bebê Toffy Cosco Bege;VITRINE
 FULFILLMENT AMAZON;303.9;418.78;8.09.04.109.57;Carrinho de Bebê Toffy Cosco Bege;VITRINE
 FULFILLMENT MAGALU;268.43;368.67;8.09.04.109.57;Carrinho de Bebê Toffy Cosco Bege;VITRINE
-FATURAMENTO BBTOTAL ES;176.72;209.39;8.09.04.109.57;Carrinho de Bebê Toffy Cosco Bege;BB TOTAL
 FULFILLMENT AMAZON;303.9;418.78;8.09.04.110.01;Carrinho de Bebê Toffy Cosco Preto Absoluto;VITRINE
 FULFILLMENT MAGALU;259.5;356.08;8.09.04.110.01;Carrinho de Bebê Toffy Cosco Preto Absoluto;VITRINE
 FULFILLMENT MELI;303.9;418.78;8.09.04.110.01;Carrinho de Bebê Toffy Cosco Preto Absoluto;VITRINE
@@ -3915,7 +3909,6 @@ FULFILLMENT VISUAL IN;2001.92;2279.36;8.09.76.36.01;Carrinho de Bebê Combo Parc
 FATURAMENTO BBTOTAL ES;1139.68;1139.68;8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;BB TOTAL
 FATURAMENTO VD RJ;1998.24;2273.15;8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale Joie;VITRINE
 FULFILLMENT VISUAL IN;2001.92;2279.36;8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale Joie;VISUAL IN
-FATURAMENTO BBTOTAL ES;1139.68;1139.68;8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale Joie;BB TOTAL
 FATURAMENTO VD RJ;1916.47;2180.35;8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;VITRINE
 FULFILLMENT VISUAL IN;1652.7;1891.59;8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;VISUAL IN
 FATURAMENTO BBTOTAL ES;945.8;945.8;8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;BB TOTAL
@@ -4260,6 +4253,7 @@ FATURAMENTO VD RJ;147.47;203.21;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess
 FULFILLMENT AMAZON;189.64;246.17;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;123.09;123.09;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;BB TOTAL
 FULFILLMENT MELI;163.87;225.79;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;VITRINE
+FATURAMENTO VD RJ;163.86;225.79;8.13.33.07.00;Tapete Gymini Sunny Day Tiny Love - Meadow Days;VITRINE
 FATURAMENTO VD RJ;163.86;225.79;8.13.33.07.00;Tapete e Ginásio de Atividades Gymini Sunny Day Meadow Days - Tiny Love;VITRINE
 FATURAMENTO VD RJ;575.04;599.0;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;VITRINE
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;BB TOTAL
@@ -4423,7 +4417,6 @@ FATURAMENTO VD RJ;2.4;3.12;8.24.23.06.18;Copo Infantil 200 ml Infanti Rosa Escur
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.06.18;Copo Infantil 200 ml Rosa Escuro - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.32;1.56;8.24.23.06.18;Copo Infantil 200 ml Rosa Escuro - Infanti;BB TOTAL
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.07.08;Copo Infantil 200 ml Infanti Vermelho;VITRINE
-FATURAMENTO BBTOTAL ES;1.56;1.56;8.24.23.07.08;Copo Infantil 200 ml Infanti Vermelho;BB TOTAL
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.07.08;Copo Infantil 200 ml Vermelho - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.56;1.56;8.24.23.07.08;Copo Infantil 200 ml Vermelho - Infanti;BB TOTAL
 FATURAMENTO VD RJ;2.41;3.12;8.24.23.08.110;Copo Infantil 200 ml Bordô - Infanti;VITRINE
@@ -4444,10 +4437,8 @@ FATURAMENTO BBTOTAL ES;4.52;4.52;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Color
 FATURAMENTO VD RJ;6.93;9.03;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Infanti Colorido;VITRINE
 FATURAMENTO VD RJ;6.93;9.03;8.24.23.13.18;Kit 4 Copos Infantis 380 ml Infanti Rosa e Roxo;VITRINE
 FATURAMENTO VD RJ;6.93;9.03;8.24.23.13.18;Kit 4 Copos Infantis 380 ml Rosa e Roxo - Infanti;VITRINE
-FATURAMENTO VD RJ;2.55;3.5;8.24.23.14.02;Copo Infantil 380 ml Infanti Lilás;VITRINE
 FATURAMENTO VD RJ;2.55;3.5;8.24.23.14.02;Copo Infantil 380 ml Lilás - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;2.07;2.07;8.24.23.14.02;Copo Infantil 380 ml Lilás - Infanti;BB TOTAL
-FATURAMENTO BBTOTAL ES;2.06;2.06;8.24.23.15.18;Copo Infantil 380 ml Infanti Rosa Claro;BB TOTAL
 FATURAMENTO BBTOTAL ES;2.06;2.06;8.24.23.15.18;Copo Infantil 380 ml Rosa Claro - Infanti;BB TOTAL
 FATURAMENTO VD RJ;3.17;4.12;8.24.23.15.18;Copo Infantil 380 ml Rosa Claro - Infanti;VITRINE
 FATURAMENTO VD RJ;3.17;4.12;8.24.23.16.18;Copo Infantil 380 ml Infanti Rosa Escuro;VITRINE
@@ -4462,8 +4453,6 @@ FATURAMENTO VD RJ;2.55;3.5;8.24.23.21.07;Copo Infantil 380 ml Azul Claro - Infan
 FATURAMENTO VD RJ;2.55;3.5;8.24.23.21.07;Copo Infantil 380 ml Infanti Azul Claro;VITRINE
 FATURAMENTO VD RJ;11.72;15.26;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 ml Colorido - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;8.3;9.83;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 ml Colorido - Infanti;BB TOTAL
-FATURAMENTO VD RJ;11.72;15.26;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 ml Infanti Colorido;VITRINE
-FATURAMENTO VD RJ;11.71;15.26;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Infanti Rosa e Roxo;VITRINE
 FATURAMENTO VD RJ;11.71;15.26;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;7.63;7.63;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;BB TOTAL
 FATURAMENTO VD RJ;2.93;3.94;8.24.23.24.02;Prato Infantil Bowl 300 ml Lilás - Infanti;VITRINE
@@ -4683,7 +4672,6 @@ FATURAMENTO BBTOTAL ES;95.32;95.32;8.24.53.70.08;Cadeirinha de Alimentação Poc
 FATURAMENTO VD RJ;18.2;19.85;8.24.53.71.07;Mamadeira Step Up 250Ml Fluxo Médio (2M+) Azul - Chicco;VITRINE
 FATURAMENTO VD RJ;18.2;19.85;8.24.53.71.07;Mamadeira Step Up 250Ml Fluxo Médio (2M+) Azul Chicco;VITRINE
 FATURAMENTO VD RJ;18.2;19.87;8.24.53.72.18;Mamadeira Step Up 250Ml Fluxo Médio (0M+) Rosa Chicco;VITRINE
-FATURAMENTO BBTOTAL ES;29.9;34.33;8.24.53.72.18;Mamadeira Step Up 250Ml Fluxo Médio (0M+) Rosa Chicco;BB TOTAL
 FATURAMENTO VD RJ;126.5;138.86;8.24.53.73.00;Mamadeiras Step Up 150ml neutro + Step Up 250ml neutro + Step Up 300ml neutro Chicco;VITRINE
 FATURAMENTO VD RJ;68.8;74.41;8.24.53.74.07;Mamadeiras Step Up 150ml + Step Up 300ml Blue Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;32.42;37.21;8.24.53.74.07;Mamadeiras Step Up 150ml + Step Up 300ml Blue Chicco;BB TOTAL
@@ -5422,7 +5410,6 @@ FATURAMENTO VD RJ;14.92;17.7;8.25.53.90.18;Escova De Dentes Elétrica Chicco 3A+
 FATURAMENTO VD RJ;9.89;10.28;8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;VITRINE
 FATURAMENTO BBTOTAL ES;5.14;5.14;8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;BB TOTAL
 FATURAMENTO VD RJ;13.53;15.92;8.25.53.93.00;Protetor Solar SPF 50+ 75ml - Chicco;VITRINE
-FATURAMENTO VD RJ;13.53;15.92;8.25.53.93.00;Protetor Solar SPF 50+ 75ml Chicco;VITRINE
 FATURAMENTO VD RJ;5.23;5.61;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;8.45;9.7;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;BB TOTAL
 FATURAMENTO VD ES;25.73;26.8;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;VITRINE
@@ -5678,7 +5665,6 @@ FATURAMENTO BBTOTAL ES;13.91;13.91;8.25.69.02.00;Detergente Líquido para Mamade
 FATURAMENTO VD RJ;23.09;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;VITRINE
 FATURAMENTO VD ES;23.09;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;VITRINE
 FATURAMENTO VISUAL IN SP;23.39;23.39;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;VISUAL IN
-FULFILLMENT VISUAL IN;23.39;23.39;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;VISUAL IN
 FATURAMENTO VD ES;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO VISUAL IN SP;18.91;29.84;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VISUAL IN
@@ -5981,13 +5967,11 @@ FATURAMENTO VD RJ;307.64;330.38;8.25.92.06.10;Organizador de Acessórios com Led
 FATURAMENTO BBTOTAL ES;156.34;156.34;8.25.92.06.10;Organizador de Acessórios com Led Cinza - Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;301.18;330.16;8.25.92.07.18;Organizador de Acessórios com Led Rosa - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;165.08;165.08;8.25.92.07.18;Organizador de Acessórios com Led Rosa - Skip Hop;BB TOTAL
-FATURAMENTO VD RJ;301.18;330.16;8.25.92.07.18;Organizador de Acessórios de Bebê com Led Rosa Skip Hop;VITRINE
 FATURAMENTO VD RJ;93.97;104.95;8.25.92.09.00;Organizador para Carrinho de Bebê Chevron - Skip Hop;VITRINE
 FATURAMENTO VD RJ;93.97;104.95;8.25.92.09.00;Organizador para Carrinho de Bebê Chevron Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;55.32;55.32;8.25.92.11.01;Organizador para Carrinho de Bebê Preto - Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;106.2;110.63;8.25.92.11.01;Organizador para Carrinho de Bebê Preto - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;55.32;55.32;8.25.92.11.01;Organizador para Carrinho de Bebê Preto Skip Hop;BB TOTAL
-FATURAMENTO VD RJ;106.2;110.63;8.25.92.11.01;Organizador para Carrinho de Bebê Preto Skip Hop;VITRINE
 FATURAMENTO VD RJ;61.27;64.4;8.25.92.12.10;Porta Lenços Umedecidos Cinza Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;28.56;32.78;8.25.92.12.10;Porta Lenços Umedecidos Cinza Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;181.86;196.62;8.25.92.13.10;Trocador Portatil Chevron - Skip Hop;VITRINE
@@ -6097,7 +6081,6 @@ FATURAMENTO VD RJ;62.86;86.6;8.27.01.09.18;Troninho Kingdom Potty 3 in 1 Safety 
 FATURAMENTO VD RJ;39.12;53.9;8.27.03.01.07;Troninho Infantil Ploc Azul - Voyage;VITRINE
 FATURAMENTO VD RJ;40.02;54.84;8.27.03.02.10;Troninho Infantil Ploc Cinza - Voyage;VITRINE
 FATURAMENTO VD RJ;40.02;54.84;8.27.03.02.10;Troninho Ploc Voyage - Cinza;VITRINE
-FATURAMENTO BBTOTAL ES;23.94;28.37;8.27.03.02.10;Troninho Ploc Voyage - Cinza;BB TOTAL
 FATURAMENTO VD RJ;39.12;53.9;8.27.03.03.18;Troninho Infantil Ploc Rosa - Voyage;VITRINE
 FATURAMENTO VD RJ;39.12;53.9;8.27.03.03.18;Troninho Ploc Voyage - Rosa;VITRINE
 FATURAMENTO VD RJ;9.54;13.14;8.27.03.07.07;Troninho Infantil Start Azul - Voyage;VITRINE
@@ -6337,7 +6320,6 @@ FATURAMENTO BBTOTAL ES;19.17;19.17;8.30.33.43.00;Brinquedo Tiny Rolling Florence
 FATURAMENTO VD RJ;27.83;38.33;8.30.33.43.00;Brinquedo Tiny Rolling Florence - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;19.17;19.17;8.30.33.43.00;Brinquedo Tiny Rolling Tiny Love - Florence;BB TOTAL
 FATURAMENTO VD RJ;27.83;38.33;8.30.33.44.00;Brinquedo Tiny Rolling Leonardo - Tiny Love;VITRINE
-FATURAMENTO VD RJ;27.83;38.33;8.30.33.44.00;Brinquedo Tiny Rolling Tiny Love - Leonardo;VITRINE
 FATURAMENTO VD RJ;28.27;38.33;8.30.33.45.00;Brinquedo Tiny Rolling Tiny Love - Samuel;VITRINE
 FATURAMENTO VD RJ;135.23;176.71;8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;VITRINE
 FATURAMENTO BBTOTAL ES;80.81;80.81;8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;BB TOTAL
@@ -7490,7 +7472,6 @@ FATURAMENTO VD RJ;314.63;314.63;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti
 FATURAMENTO VD ES;142.38;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Baby 15kg a 36kg Preto;BB TUDO
 FATURAMENTO VD RJ;142.38;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Baby 15kg a 36kg Preto;BB TUDO
 FATURAMENTO VD ES;139.41;139.41;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;BB TUDO
-FATURAMENTO VD RJ;146.81;146.81;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;BB TUDO
 FATURAMENTO VD ES;10.03;10.03;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;BB TUDO
 FATURAMENTO VD RJ;8.58;8.58;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;BB TUDO
 FATURAMENTO VD RJ;767.78;767.78;8.07.68.02.10;Cadeirinha de Carro Smart 360º Isofix Cinza Litet;BB TUDO
@@ -7539,7 +7520,6 @@ FATURAMENTO VD RJ;84.5;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Black
 FATURAMENTO VD RJ;84.5;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Infanti Black;BB TUDO
 FATURAMENTO VD RJ;93.89;93.89;8.08.23.02.07;Canguru I Love Travel Infanti Blue;BB TUDO
 FATURAMENTO VD RJ;93.89;93.89;8.08.23.02.07;Canguru Infantil I Love Travel Blue - Infanti;BB TUDO
-FATURAMENTO VD RJ;84.5;84.5;8.08.23.03.10;Canguru I Love Travel Infanti Gray;BB TUDO
 FATURAMENTO VD RJ;84.5;84.5;8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;BB TUDO
 FATURAMENTO VD RJ;149.5;149.5;8.08.23.04.01;Canguru Close 5 em 1 Preto Infanti;BB TUDO
 FATURAMENTO VD RJ;399.5;399.5;8.08.30.01.01;Canguru Whizbang Aussie Black - Quinny;BB TUDO
@@ -8203,6 +8183,7 @@ FATURAMENTO VD RJ;249.32;249.32;8.13.33.04.00;Tapete de Atividades Super Mat Tin
 FATURAMENTO VD RJ;197.63;197.63;8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;203.21;203.21;8.13.33.06.00;Tapete Deluxe Gymini Tiny Love - Tiny Princess Tales;BB TUDO
 FATURAMENTO VD RJ;203.21;203.21;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;BB TUDO
+FATURAMENTO VD RJ;225.79;225.79;8.13.33.07.00;Tapete Gymini Sunny Day Tiny Love - Meadow Days;BB TUDO
 FATURAMENTO VD RJ;225.79;225.79;8.13.33.07.00;Tapete e Ginásio de Atividades Gymini Sunny Day Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;599.0;599.0;8.13.33.08.00;Tapete Gymini Kick & Play Tiny Love - Tiny Farm;BB TUDO
 FATURAMENTO VD RJ;599.0;599.0;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TUDO
@@ -8337,7 +8318,6 @@ FATURAMENTO VD RJ;9.03;9.03;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Colorido -
 FATURAMENTO VD RJ;9.03;9.03;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Infanti Colorido;BB TUDO
 FATURAMENTO VD RJ;9.03;9.03;8.24.23.13.18;Kit 4 Copos Infantis 380 ml Infanti Rosa e Roxo;BB TUDO
 FATURAMENTO VD RJ;9.03;9.03;8.24.23.13.18;Kit 4 Copos Infantis 380 ml Rosa e Roxo - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.5;3.5;8.24.23.14.02;Copo Infantil 380 ml Infanti Lilás;BB TUDO
 FATURAMENTO VD RJ;3.5;3.5;8.24.23.14.02;Copo Infantil 380 ml Lilás - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.15.18;Copo Infantil 380 ml Rosa Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.12;4.12;8.24.23.16.18;Copo Infantil 380 ml Infanti Rosa Escuro;BB TUDO
@@ -8350,8 +8330,6 @@ FATURAMENTO VD RJ;4.12;4.12;8.24.23.20.07;Copo Infantil 380 ml Infanti Azul Escu
 FATURAMENTO VD RJ;3.5;3.5;8.24.23.21.07;Copo Infantil 380 ml Azul Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.5;3.5;8.24.23.21.07;Copo Infantil 380 ml Infanti Azul Claro;BB TUDO
 FATURAMENTO VD RJ;15.26;15.26;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 ml Colorido - Infanti;BB TUDO
-FATURAMENTO VD RJ;15.26;15.26;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 ml Infanti Colorido;BB TUDO
-FATURAMENTO VD RJ;15.26;15.26;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Infanti Rosa e Roxo;BB TUDO
 FATURAMENTO VD RJ;15.26;15.26;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.94;3.94;8.24.23.24.02;Prato Infantil Bowl 300 ml Lilás - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.25.18;Prato Infantil Bowl 300 ml Rosa Claro - Infanti;BB TUDO
@@ -8954,7 +8932,6 @@ FATURAMENTO VD RJ;17.7;17.7;8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ 
 FATURAMENTO VD RJ;17.7;17.7;8.25.53.90.18;Escova De Dentes Elétrica Chicco 3A+ Sereia Rosa;BB TUDO
 FATURAMENTO VD RJ;10.28;10.28;8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;BB TUDO
 FATURAMENTO VD RJ;15.92;15.92;8.25.53.93.00;Protetor Solar SPF 50+ 75ml - Chicco;BB TUDO
-FATURAMENTO VD RJ;15.92;15.92;8.25.53.93.00;Protetor Solar SPF 50+ 75ml Chicco;BB TUDO
 FATURAMENTO VD RJ;5.61;5.61;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;BB TUDO
 FATURAMENTO VD ES;26.8;26.8;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;BB TUDO
 FATURAMENTO VD RJ;9.65;9.65;8.25.53.95.00;Sabonete Líquido Relaxante Para Pele Delicada 500ml Chicco;BB TUDO
@@ -9293,11 +9270,9 @@ FATURAMENTO VD RJ;124.73;124.73;8.25.92.02.06;Assento Redutor Infantil com Borra
 FATURAMENTO VD RJ;168.94;168.94;8.25.92.05.10;Banco Degrau Infantil 2 em 1 Skip Hop;BB TUDO
 FATURAMENTO VD RJ;330.38;330.38;8.25.92.06.10;Organizador de Acessórios com Led Cinza - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;330.16;330.16;8.25.92.07.18;Organizador de Acessórios com Led Rosa - Skip Hop;BB TUDO
-FATURAMENTO VD RJ;330.16;330.16;8.25.92.07.18;Organizador de Acessórios de Bebê com Led Rosa Skip Hop;BB TUDO
 FATURAMENTO VD RJ;104.95;104.95;8.25.92.09.00;Organizador para Carrinho de Bebê Chevron - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;104.95;104.95;8.25.92.09.00;Organizador para Carrinho de Bebê Chevron Skip Hop;BB TUDO
 FATURAMENTO VD RJ;110.63;110.63;8.25.92.11.01;Organizador para Carrinho de Bebê Preto - Skip Hop;BB TUDO
-FATURAMENTO VD RJ;110.63;110.63;8.25.92.11.01;Organizador para Carrinho de Bebê Preto Skip Hop;BB TUDO
 FATURAMENTO VD RJ;64.4;64.4;8.25.92.12.10;Porta Lenços Umedecidos Cinza Skip Hop;BB TUDO
 FATURAMENTO VD RJ;196.62;196.62;8.25.92.13.10;Trocador Portatil Chevron - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;299.9;299.9;8.25.92.16.00;Trocador Portátil Rosa Skip Hop;BB TUDO
@@ -9539,7 +9514,6 @@ FATURAMENTO VD RJ;99.75;99.75;8.30.33.40.00;Móbile Tummy Time Meadow Days - Tin
 FATURAMENTO VD RJ;105.0;105.0;8.30.33.41.00;Móbile Tummy Time Tiny Princess Tales - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;38.33;38.33;8.30.33.43.00;Brinquedo Tiny Rolling Florence - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;38.33;38.33;8.30.33.44.00;Brinquedo Tiny Rolling Leonardo - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;38.33;38.33;8.30.33.44.00;Brinquedo Tiny Rolling Tiny Love - Leonardo;BB TUDO
 FATURAMENTO VD RJ;38.33;38.33;8.30.33.45.00;Brinquedo Tiny Rolling Tiny Love - Samuel;BB TUDO
 FATURAMENTO VD RJ;176.71;176.71;8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;BB TUDO
 FATURAMENTO VD RJ;122.32;122.32;8.30.33.47.00;Arco Nature Stroll Musical Tiny Love Treasure the Ocean;BB TUDO
