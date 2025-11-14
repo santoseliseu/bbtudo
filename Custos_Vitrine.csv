@@ -3034,7 +3034,6 @@ FATURAMENTO VD RJ;70.11;99.04;8.08.04.03.10;Canguru Infantil Loop Até 9 kg Cinz
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.03.10;Canguru Loop Cosco - Cinza Claro;VITRINE
 FATURAMENTO VD RJ;59.82;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;VITRINE
 FATURAMENTO VD RJ;59.82;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Infanti Black;VITRINE
-FATURAMENTO VD RJ;66.48;93.89;8.08.23.02.07;Canguru I Love Travel Infanti Blue;VITRINE
 FATURAMENTO VD RJ;66.48;93.89;8.08.23.02.07;Canguru Infantil I Love Travel Blue - Infanti;VITRINE
 FATURAMENTO VD RJ;59.82;84.5;8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;42.25;42.25;8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;BB TOTAL
@@ -3133,7 +3132,6 @@ FATURAMENTO VD RJ;1509.22;2104.77;8.09.01.86.10;Carrinho com Bebê Conforto Trav
 FATURAMENTO BBTOTAL ES;888.19;1052.39;8.09.01.86.10;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Grey - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;1509.22;2104.77;8.09.01.86.10;Travel System Discover Trio Isofix Safety 1st Grey;VITRINE
 FATURAMENTO BBTOTAL ES;888.19;1052.39;8.09.01.86.10;Travel System Discover Trio Isofix Safety 1st Grey;BB TOTAL
-FULFILLMENT MELI;1808.05;2120.39;8.09.01.86.10;Travel System Discover Trio Isofix Safety 1st Grey;VITRINE
 FATURAMENTO VD RJ;772.08;1063.94;8.09.01.89.01;Carrinho de Bebê Mobi Full Black - Safety 1St;VITRINE
 FATURAMENTO BBTOTAL ES;774.38;774.38;8.09.01.94.27;Carrinho com Bebê Conforto Travel System Mobi Grey Denin Black - Safety 1St;BB TOTAL
 FATURAMENTO VD RJ;1110.53;1548.75;8.09.01.94.27;Carrinho com Bebê Conforto Travel System Mobi Grey Denin Black - Safety 1St;VITRINE
@@ -3229,7 +3227,6 @@ FATURAMENTO VD RJ;1116.06;1537.95;8.09.02.114.11;Carrinho de Bebê Leona² Essen
 FATURAMENTO BBTOTAL ES;491.07;581.86;8.09.02.114.11;Carrinho de Bebê Leona² Essential Green - Maxi-Cosi;BB TOTAL
 FULFILLMENT AMAZON;1116.06;1537.95;8.09.02.114.11;Carrinho de Bebê Leona² Maxi-Cosi Essential Green;VITRINE
 FATURAMENTO VD RJ;1116.06;1537.95;8.09.02.114.11;Carrinho de Bebê Leona² Maxi-Cosi Essential Green;VITRINE
-FATURAMENTO BBTOTAL ES;491.07;581.86;8.09.02.114.11;Carrinho de Bebê Leona² Maxi-Cosi Essential Green;BB TOTAL
 FATURAMENTO VD RJ;1389.64;1938.0;8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;969.0;969.0;8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;BB TOTAL
 FULFILLMENT MELI;1389.64;1938.0;8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;VITRINE
@@ -3337,7 +3334,6 @@ FATURAMENTO VD RJ;2169.11;2711.38;8.09.02.93.01;Travel System Gia XP Trio Isofix
 FATURAMENTO VD RJ;1030.9;1420.58;8.09.02.95.01;Carrinho de Bebê Anna³ Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;600.37;711.37;8.09.02.95.01;Carrinho de Bebê Anna³ Essential Black - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1030.9;1420.58;8.09.02.95.01;Carrinho de Bebê Anna³ Maxi-Cosi Essential Black;VITRINE
-FATURAMENTO BBTOTAL ES;600.37;711.37;8.09.02.95.01;Carrinho de Bebê Anna³ Maxi-Cosi Essential Black;BB TOTAL
 FULFILLMENT AMAZON;1171.92;1614.92;8.09.02.96.106;Carrinho de Bebê Anna³ Essential Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1302.13;1794.35;8.09.02.96.106;Carrinho de Bebê Anna³ Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1171.92;1614.92;8.09.02.96.106;Carrinho de Bebê Anna³ Essential Graphite - Maxi-Cosi;VITRINE
@@ -3790,8 +3786,8 @@ FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Du
 FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
-FATURAMENTO VD ES;758.58;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;650.38;1026.29;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VISUAL IN
+FATURAMENTO VD ES;758.58;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;650.64;1026.55;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;456.24;719.82;8.09.28.80.12;Carrinho de Bebê Travel System Milano Reversível II Creme e Rosa - Galzerano;VISUAL IN
 FATURAMENTO VD ES;539.39;631.98;8.09.28.80.12;Carrinho de Bebê Travel System Milano Reversível II Creme e Rosa - Galzerano;VITRINE
@@ -3841,8 +3837,6 @@ FATURAMENTO VD RJ;578.02;661.8;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone 
 FATURAMENTO VD RJ;1252.96;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Chicco Graphite;VITRINE
 FATURAMENTO VD RJ;1252.96;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Graphite - Chicco;VITRINE
 FATURAMENTO VD RJ;99.96;114.63;8.09.53.33.01;Adaptador para Cadeirinha de Carro Goody Plus Chicco;VITRINE
-FATURAMENTO VD RJ;155.98;177.25;8.09.53.36.00;Carrinho Echo com Bumper Bar Chicco Stone;VITRINE
-FATURAMENTO VD RJ;155.98;177.25;8.09.53.36.00;Carrinho de Bebê Echo com Bumper Bar Stone - Chicco;VITRINE
 FATURAMENTO VD RJ;808.86;928.75;8.09.53.37.00;Carrinho de Bebê Lite Way 4 Basic Chicco Hydra;VITRINE
 FATURAMENTO BBTOTAL ES;391.92;464.38;8.09.53.37.00;Carrinho de Bebê Lite Way 4 Basic Chicco Hydra;BB TOTAL
 FATURAMENTO VD RJ;722.66;827.39;8.09.53.41.01;Carrinho de Bebê Cheerio Chicco Jet Black;VITRINE
@@ -4208,7 +4202,6 @@ FATURAMENTO VD RJ;9.63;13.27;8.12.01.12.06;Trava para Maçaneta Safety 1st White
 FATURAMENTO VD RJ;9.63;13.27;8.12.01.12.06;Trava para Maçaneta White - Safety 1st;VITRINE
 FATURAMENTO VD ES;10.71;14.74;8.12.01.12.06;Trava para Maçaneta White - Safety 1st;VITRINE
 FATURAMENTO VD RJ;12.4;17.08;8.12.01.13.06;Trava para Vaso Sanitário Safety 1st White;VITRINE
-FATURAMENTO BBTOTAL ES;8.54;8.54;8.12.01.13.06;Trava para Vaso Sanitário Safety 1st White;BB TOTAL
 FATURAMENTO VD RJ;12.4;17.08;8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;8.54;8.54;8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;17.23;24.03;8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;VITRINE
@@ -5372,7 +5365,6 @@ FATURAMENTO BBTOTAL ES;11.63;13.34;8.25.53.35.00;Tesourinha Infantil com Proteto
 FATURAMENTO VD RJ;7.13;7.66;8.25.53.36.00;Tesourinha Infantil com Protetor Azul - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;3.83;3.83;8.25.53.36.00;Tesourinha Infantil com Protetor Azul - Chicco;BB TOTAL
 FATURAMENTO VD RJ;7.13;7.66;8.25.53.36.00;Tesourinha e Protetor Chicco Azul;VITRINE
-FATURAMENTO BBTOTAL ES;3.83;3.83;8.25.53.36.00;Tesourinha e Protetor Chicco Azul;BB TOTAL
 FATURAMENTO VD RJ;16.77;17.96;8.25.53.37.00;Escova e Pente de Cerdas Naturais Chicco Rosa;VITRINE
 FATURAMENTO VD RJ;16.77;17.96;8.25.53.37.00;Escova e Pente de Cerdas Naturais Rosa - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;8.99;8.99;8.25.53.37.00;Escova e Pente de Cerdas Naturais Rosa - Chicco;BB TOTAL
@@ -7536,7 +7528,6 @@ FATURAMENTO VD RJ;99.04;99.04;8.08.04.03.10;Canguru Infantil Loop Até 9 kg Cinz
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.03.10;Canguru Loop Cosco - Cinza Claro;BB TUDO
 FATURAMENTO VD RJ;84.5;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;BB TUDO
 FATURAMENTO VD RJ;84.5;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Infanti Black;BB TUDO
-FATURAMENTO VD RJ;93.89;93.89;8.08.23.02.07;Canguru I Love Travel Infanti Blue;BB TUDO
 FATURAMENTO VD RJ;93.89;93.89;8.08.23.02.07;Canguru Infantil I Love Travel Blue - Infanti;BB TUDO
 FATURAMENTO VD RJ;84.5;84.5;8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;BB TUDO
 FATURAMENTO VD RJ;149.5;149.5;8.08.23.04.01;Canguru Close 5 em 1 Preto Infanti;BB TUDO
@@ -7962,8 +7953,6 @@ FATURAMENTO VD RJ;661.8;661.8;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone P
 FATURAMENTO VD RJ;1434.55;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Chicco Graphite;BB TUDO
 FATURAMENTO VD RJ;1434.55;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Graphite - Chicco;BB TUDO
 FATURAMENTO VD RJ;114.63;114.63;8.09.53.33.01;Adaptador para Cadeirinha de Carro Goody Plus Chicco;BB TUDO
-FATURAMENTO VD RJ;177.25;177.25;8.09.53.36.00;Carrinho Echo com Bumper Bar Chicco Stone;BB TUDO
-FATURAMENTO VD RJ;177.25;177.25;8.09.53.36.00;Carrinho de Bebê Echo com Bumper Bar Stone - Chicco;BB TUDO
 FATURAMENTO VD RJ;928.75;928.75;8.09.53.37.00;Carrinho de Bebê Lite Way 4 Basic Chicco Hydra;BB TUDO
 FATURAMENTO VD RJ;827.39;827.39;8.09.53.41.01;Carrinho de Bebê Cheerio Chicco Jet Black;BB TUDO
 FATURAMENTO VD RJ;1544.94;1544.94;8.09.53.42.01;Carrinho de Bebê Goody Plus Chicco Preto Re Lux;BB TUDO
