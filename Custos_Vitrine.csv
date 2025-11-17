@@ -1919,7 +1919,6 @@ FATURAMENTO VD RJ;88.49;123.14;8.03.04.02.01;Base de Carro Wizz Cosco Preta;VITR
 FULFILLMENT MELI;133.74;172.15;8.03.04.02.01;Base de Carro Wizz Cosco Preta;VITRINE
 FATURAMENTO VD RJ;75.44;105.21;8.03.04.43.01;Base para Bebê Conforto Guardian Cosco - Preto;VITRINE
 FATURAMENTO VD RJ;198.24;276.45;8.03.04.47.07;Bebê Conforto Reverse 0 a 13 Kg Azul - Cosco;VITRINE
-FATURAMENTO VD RJ;198.24;276.45;8.03.04.47.07;Bebê Conforto Reverse Cosco 0 a 13 Kg Azul;VITRINE
 FATURAMENTO VD RJ;198.23;276.45;8.03.04.50.01;Bebê Conforto Reverse 0 a 13 Kg Preto Rajado - Cosco;VITRINE
 FATURAMENTO VD RJ;198.23;276.45;8.03.04.50.01;Bebê Conforto Reverse Cosco 0 a 13 Kg Preto Rajado;VITRINE
 FATURAMENTO VD RJ;198.24;276.45;8.03.04.51.18;Bebê Conforto Reverse 0 a 13 Kg Rosa - Cosco;VITRINE
@@ -2490,7 +2489,6 @@ FULFILLMENT MAGALU;720.68;966.57;8.06.02.01.80;Cadeira de Refeição Minla Maxi-
 FATURAMENTO VD RJ;727.75;1014.93;8.06.02.01.80;Cadeira de Refeição Minla Maxi-Cosi - Essential Graphite;VITRINE
 FULFILLMENT MELI;727.75;1014.93;8.06.02.01.80;Cadeira de Refeição Minla Maxi-Cosi - Essential Graphite;VITRINE
 FULFILLMENT AMAZON;727.75;1014.93;8.06.02.01.80;Cadeira de Refeição Minla Maxi-Cosi - Essential Graphite;VITRINE
-FATURAMENTO BBTOTAL ES;507.47;507.47;8.06.02.01.80;Cadeira de Refeição Minla Maxi-Cosi - Essential Graphite;BB TOTAL
 FATURAMENTO VD RJ;496.09;691.85;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MAGALU;495.14;680.67;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;542.02;755.91;8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;VITRINE
@@ -3301,7 +3299,6 @@ FATURAMENTO BBTOTAL ES;1319.18;1319.18;8.09.02.86.76;Carrinho com Bebê Conforto
 FATURAMENTO VD RJ;1548.76;1978.77;8.09.02.86.76;Travel System Lila CP² Trio Maxi-Cosi Essential Graphite Brown;VITRINE
 FATURAMENTO VD RJ;1781.65;2434.89;8.09.02.87.01;Carrinho com Bebê Conforto Travel System Eva Trio Isofix 360 Maxi-Cosi Essential Black;VITRINE
 FATURAMENTO VD RJ;1899.81;2649.5;8.09.02.88.01;Carrinho com Bebê Conforto Travel System Eva Trio Isofix 360 Essential Black Champagne - Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;1899.81;2649.5;8.09.02.88.01;Carrinho com Bebê Conforto Travel System Eva Trio Isofix 360 Maxi-Cosi Essential Black Champagne;VITRINE
 FATURAMENTO VD RJ;725.33;999.5;8.09.02.89.01;Carrinho de Bebê Gia XP Maxi-Cosi Midnight Black;VITRINE
 FATURAMENTO VD RJ;1075.21;1499.5;8.09.02.91.01;Carrinho com Bebê Conforto Travel System Gia XP Trio Midnight Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;632.78;749.75;8.09.02.91.01;Carrinho com Bebê Conforto Travel System Gia XP Trio Midnight Black - Maxi-Cosi;BB TOTAL
@@ -6881,7 +6878,6 @@ FATURAMENTO VD RJ;123.14;123.14;8.03.04.02.01;Base Para Bebê Conforto Wizz Pret
 FATURAMENTO VD RJ;123.14;123.14;8.03.04.02.01;Base de Carro Wizz Cosco Preta;BB TUDO
 FATURAMENTO VD RJ;105.21;105.21;8.03.04.43.01;Base para Bebê Conforto Guardian Cosco - Preto;BB TUDO
 FATURAMENTO VD RJ;276.45;276.45;8.03.04.47.07;Bebê Conforto Reverse 0 a 13 Kg Azul - Cosco;BB TUDO
-FATURAMENTO VD RJ;276.45;276.45;8.03.04.47.07;Bebê Conforto Reverse Cosco 0 a 13 Kg Azul;BB TUDO
 FATURAMENTO VD RJ;276.45;276.45;8.03.04.50.01;Bebê Conforto Reverse 0 a 13 Kg Preto Rajado - Cosco;BB TUDO
 FATURAMENTO VD RJ;276.45;276.45;8.03.04.50.01;Bebê Conforto Reverse Cosco 0 a 13 Kg Preto Rajado;BB TUDO
 FATURAMENTO VD RJ;276.45;276.45;8.03.04.51.18;Bebê Conforto Reverse 0 a 13 Kg Rosa - Cosco;BB TUDO
@@ -7645,7 +7641,6 @@ FATURAMENTO VD RJ;1649.5;1649.5;8.09.02.84.80;Travel System Eva Trio Essential G
 FATURAMENTO VD RJ;1978.77;1978.77;8.09.02.86.76;Carrinho com Bebê Conforto Travel System Lila CP² Trio Essential Graphite Brown - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1978.77;1978.77;8.09.02.86.76;Travel System Lila CP² Trio Maxi-Cosi Essential Graphite Brown;BB TUDO
 FATURAMENTO VD RJ;2649.5;2649.5;8.09.02.88.01;Carrinho com Bebê Conforto Travel System Eva Trio Isofix 360 Essential Black Champagne - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;2649.5;2649.5;8.09.02.88.01;Carrinho com Bebê Conforto Travel System Eva Trio Isofix 360 Maxi-Cosi Essential Black Champagne;BB TUDO
 FATURAMENTO VD RJ;999.5;999.5;8.09.02.89.01;Carrinho de Bebê Gia XP Maxi-Cosi Midnight Black;BB TUDO
 FATURAMENTO VD RJ;1499.5;1499.5;8.09.02.91.01;Carrinho com Bebê Conforto Travel System Gia XP Trio Midnight Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1499.5;1499.5;8.09.02.91.01;Travel System Gia XP Trio Maxi-Cosi Midnight Black;BB TUDO
