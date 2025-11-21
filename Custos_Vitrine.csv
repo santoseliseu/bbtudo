@@ -62,7 +62,7 @@ FATURAMENTO VD ES;67.49;79.5;21.14.50.1080.00;Cadeira Eames Terracota  Base Em P
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.1080.00;Cadeira Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;73.34;86.4;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;269.96;318.01;21.14.50.1082.00;Conjunto Com 4 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
+FATURAMENTO VD ES;269.95;318.01;21.14.50.1082.00;Conjunto Com 4 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;88.81;104.62;21.14.50.1083.00;Cadeira Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;100.49;118.37;21.14.50.1084.00;Conjunto Com 2 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;200.95;236.73;21.14.50.1085.00;Conjunto Com 4 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
@@ -471,6 +471,7 @@ FATURAMENTO VD ES;13.37;15.34;24.10.159.377.06;Marmita Hermética com Talheres d
 FATURAMENTO VD ES;1.93;2.22;24.10.159.378.06;Descanso de Tampas e Utensílios de Bambu e PP Off-White;VITRINE
 FATURAMENTO VD ES;5.36;6.56;24.10.159.379.01;Espremedor de Alho em Aço Inox com Amaciante de Carnes 11cm;VITRINE
 FATURAMENTO VD ES;7.31;8.31;24.10.159.38.01;Bolsa Térmica Neoprene para 2 Garrafas de Vinho Preta 36cm;VITRINE
+FATURAMENTO VD ES;7.22;8.21;24.10.159.380.06;Porta Ovos com Rolamento Automático em Plástico Branco;VITRINE
 FATURAMENTO VD ES;22.83;25.98;24.10.159.384.00;Pote Hermético de Poliestireno My Box 2,8L - Lyor;VITRINE
 FATURAMENTO VD ES;4.14;4.71;24.10.159.387.69;Kit 4 Canudos Silicone Coloridos Reutilizáveis c/Escova 22cm;VITRINE
 FATURAMENTO VD ES;27.35;31.11;24.10.159.390.00;Conjunto 3 Potes Herméticos com Tampa 1L/640ml/370ml Vidro;VITRINE
@@ -478,6 +479,7 @@ FATURAMENTO VD ES;54.75;62.29;24.10.159.391.57;Panela de Indução 18cm Taupe co
 FATURAMENTO VD ES;42.34;48.16;24.10.159.392.57;Frigideira de Indução 24cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;35.31;40.17;24.10.159.394.57;Tapioqueira de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;59.78;68.0;24.10.159.395.57;Frigideira Wok de Indução 28cm Taupe c/Revestimento Cerâmico;VITRINE
+FATURAMENTO VD ES;71.18;80.97;24.10.159.396.57;Caçarola de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;10.6;12.06;24.10.159.398.18;Marmita Hermética com Talheres 850ml Rosa Plástico - Lyor;VITRINE
 FATURAMENTO VD ES;10.6;12.06;24.10.159.399.07;Marmita Hermética com Talheres 850ml Azul Plástico - Lyor;VITRINE
 FATURAMENTO VD ES;15.36;17.4;24.10.159.401.01;Tampa Universal para Panela com 22 a 26cm Preta Vidro - Lyor;VITRINE
@@ -566,6 +568,7 @@ FATURAMENTO VD ES;192.57;221.98;24.11.175.121.10;Persiana Bloom Corta Luz Cinza 
 FATURAMENTO VD ES;198.69;229.04;24.11.175.127.06;Persiana Screen Rolo Solar 180X220 Branca;VITRINE
 FATURAMENTO VD ES;78.0;89.91;24.11.175.130.06;Persiana Screen Rolo Solar 120X160 Branca;VITRINE
 FATURAMENTO VD ES;105.05;121.09;24.11.175.134.06;Persiana Screen Rolo Solar 160X160 Branca;VITRINE
+FATURAMENTO VD ES;44.84;60.91;24.11.175.14.10;Persiana Premier Pvc 25Mm 140X160 Chumbo;VITRINE
 FATURAMENTO VD ES;118.81;132.37;24.11.175.15.06;Persiana Premier Pvc 25Mm 160X160 Branca;VITRINE
 FATURAMENTO VD ES;95.94;110.6;24.11.175.152.57;Persiana Soft Linho Rolo 140X160 Bege;VITRINE
 FATURAMENTO VD ES;94.45;108.88;24.11.175.154.57;Persiana Soft Linho Rolo 100X220 Bege;VITRINE
@@ -582,6 +585,7 @@ FATURAMENTO VD ES;79.95;92.16;24.11.175.171.57;Persiana Nouvel  Rolo Blackout 12
 FATURAMENTO VD ES;79.95;92.16;24.11.175.172.06;Persiana Nouvel  Rolo Blackout 120X160 Branca;VITRINE
 FATURAMENTO VD ES;93.95;108.3;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;VITRINE
 FATURAMENTO VD ES;106.59;122.87;24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;VITRINE
+FATURAMENTO VD ES;102.24;114.17;24.11.175.179.01;Kit Varão Extensor 120 a 210cm Coroa Preta 25-28MM;VITRINE
 FATURAMENTO VD ES;102.24;114.17;24.11.175.181.00;Kit Varão Extensor 120 a 210cm Coroa Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;102.25;114.18;24.11.175.187.00;Kit Varão Extensor 120 a 210cm Cilindrica Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.191.00;Kit Varão Extensor 160 a 300cm Esfera Cromada 25-28MM;VITRINE
@@ -616,8 +620,8 @@ FATURAMENTO VD ES;120.91;139.38;24.11.175.90.06;Persiana Zebra Rolo Dupla 160X16
 FATURAMENTO VD ES;122.2;140.85;24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;VITRINE
 FATURAMENTO VD ES;120.91;139.38;24.11.175.92.57;Persiana Zebra Rolo Dupla 160X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;120.91;139.38;24.11.175.93.57;Persiana Zebra Rolo Dupla 160X160 Caramelo;VITRINE
-FATURAMENTO VD RJ;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FULFILLMENT VISUAL IN;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
+FATURAMENTO VD RJ;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FULFILLMENT AMAZON;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FATURAMENTO VD ES;47.9;58.8;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FATURAMENTO VISUAL IN SP;22.46;33.74;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
@@ -643,8 +647,8 @@ FULFILLMENT AMAZON;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros
 FATURAMENTO VD RJ;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
 FULFILLMENT VISUAL IN;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VISUAL IN
 FATURAMENTO VD ES;33.69;41.35;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
-FATURAMENTO VD RJ;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FULFILLMENT VISUAL IN;54.06;76.56;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VISUAL IN
+FATURAMENTO VD RJ;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FULFILLMENT AMAZON;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FULFILLMENT MELI;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FATURAMENTO VD ES;56.79;69.72;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
@@ -764,6 +768,7 @@ FATURAMENTO VD ES;60.23;69.14;24.50.66.760.00;Conjunto 5 Cachepots de Fibra Natu
 FATURAMENTO VD ES;12.02;13.65;24.50.66.769.05;Porta-Retrato de Aço Friso Prata 10cm x 15cm - Wolff;VITRINE
 FATURAMENTO VD ES;12.08;13.72;24.50.66.772.05;Porta-Retrato de Aço Bambu Prata 10cm x 15cm - Wolff;VITRINE
 FATURAMENTO VD ES;13.92;15.84;24.50.66.776.06;Porta-Retrato Textura 10cm x 15cm Branco Mdf - Wolff;VITRINE
+FATURAMENTO VD ES;51.07;57.87;24.50.66.778.06;Luminária de Mesa Led 3 Tons Usb Leumina 9,5cm x 30cm Branca;VITRINE
 FATURAMENTO VD ES;14.9;17.02;24.50.66.780.00;Candelabro de Vidro para 3 Velas Allure 15x7x13cm - Wolff;VITRINE
 FATURAMENTO VD ES;96.51;109.34;24.50.66.783.00;Centro de Mesa de Vidro Shield 40cm x 9,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.30.00;Porta Retrato de Madeira e Vidro Pinus 10cm x 15cm - Woodart;VITRINE
@@ -1391,6 +1396,7 @@ FATURAMENTO VD ES;27.66;31.47;24.57.66.462.04;Sousplat Wolff de Cristal Dourada 
 FATURAMENTO VD ES;7.36;8.42;24.57.66.489.76;Sousplat Wolff Marrom de Plástico 33cm;VITRINE
 FATURAMENTO VD ES;39.41;44.84;24.57.66.493.00;Sousplat Wolff Pearl de Cristal 32cm;VITRINE
 FATURAMENTO VD ES;11.21;12.75;24.57.66.506.06;SousplatWolff Bambude Melamina Branco 33cm;VITRINE
+FATURAMENTO VD ES;15.17;17.42;24.57.66.53.06;Jogo de 2 Guardanapos Ponto Ajour Wolff Luxo de Algodão Branco 40cm;VITRINE
 FATURAMENTO VD ES;20.35;23.15;24.57.66.581.00;Tábua de Melamina com Estampa de Madeira 40,5cm x 30,5cm x 1cm - Wolff;VITRINE
 FATURAMENTO VD ES;15.25;17.5;24.57.66.604.00;Lugar Americano de Sisal Mandala Flor 32cm - Wolff;VITRINE
 FATURAMENTO VD ES;22.94;26.33;24.57.66.666.00;Conjunto 10 Peças Para Sushi De Bambu Okinawa;VITRINE
@@ -3047,7 +3053,7 @@ FATURAMENTO VD RJ;434.92;599.33;8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st
 FATURAMENTO BBTOTAL ES;252.91;299.67;8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;BB TOTAL
 FATURAMENTO VD RJ;434.93;599.33;8.09.01.06.10;Carrinho de Bebê Bytes Safety 1st - Grey Denin;VITRINE
 FATURAMENTO BBTOTAL ES;252.91;299.67;8.09.01.06.10;Carrinho de Bebê Bytes Safety 1st - Grey Denin;BB TOTAL
-FATURAMENTO VD RJ;543.9;749.5;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;VITRINE
+FATURAMENTO VD RJ;580.16;799.47;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;VITRINE
 FATURAMENTO VD RJ;543.9;749.5;8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;VITRINE
 FATURAMENTO VD RJ;1712.55;2388.34;8.09.01.09.01;Carrinho com Bebê Conforto Travel System Mobi+ Reserva Isofix Black - Safety 1st;VITRINE
 FATURAMENTO VD RJ;860.1;1199.51;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;VITRINE
@@ -3067,8 +3073,8 @@ FATURAMENTO VD RJ;1508.79;2063.97;8.09.01.104.01;Travel System Mobi + Safety1st 
 FATURAMENTO VD RJ;955.67;1332.78;8.09.01.11.10;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Grey Frost - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;666.39;666.39;8.09.01.11.10;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Grey Frost - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;1612.22;2221.66;8.09.01.12.01;Carrinho de Bebê Mobi Go Track & Field Estrelas - Safety 1st;VITRINE
-FATURAMENTO VD RJ;716.69;999.5;8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;VITRINE
-FATURAMENTO VD RJ;716.69;999.5;8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;VITRINE
+FATURAMENTO VD RJ;718.25;1001.68;8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;VITRINE
+FATURAMENTO VD RJ;722.59;1007.73;8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;VITRINE
 FATURAMENTO VD RJ;1723.38;2403.43;8.09.01.27.35;Travel System Mobi Safety 1st Black & White;VITRINE
 FATURAMENTO VD RJ;1110.53;1548.75;8.09.01.28.31;Travel System Mobi Safety 1st Full Black;VITRINE
 FULFILLMENT AMAZON;1723.38;2403.43;8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;VITRINE
@@ -3250,6 +3256,7 @@ FATURAMENTO VD RJ;1157.98;1614.92;8.09.02.133.01;Carrinho com Bebê Conforto Tra
 FATURAMENTO BBTOTAL ES;897.18;897.18;8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1157.98;1614.92;8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1147.45;1463.26;8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
+FATURAMENTO BBTOTAL ES;757.2;897.18;8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1157.98;1614.92;8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1358.28;1894.27;8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1358.28;1894.27;8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;VITRINE
@@ -3468,8 +3475,8 @@ FATURAMENTO VD RJ;386.82;533.03;8.09.04.101.01;Carrinho de Bebê Minny Cosco Pre
 FATURAMENTO VD RJ;386.82;533.03;8.09.04.101.01;Carrinho de Bebê Minny Preto Absoluto - Cosco;VITRINE
 FATURAMENTO VD RJ;386.82;533.03;8.09.04.102.10;Carrinho de Bebê Minny Cinza Mescla - Cosco;VITRINE
 FATURAMENTO VD RJ;386.82;533.03;8.09.04.102.10;Carrinho de Bebê Minny Cosco Cinza Mescla;VITRINE
-FATURAMENTO VD RJ;556.23;775.7;8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;VITRINE
-FATURAMENTO VD RJ;556.23;775.7;8.09.04.106.18;Travel System Reverse Cosco Rosa Rajado;VITRINE
+FATURAMENTO VD RJ;556.22;775.7;8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;VITRINE
+FATURAMENTO VD RJ;556.22;775.7;8.09.04.106.18;Travel System Reverse Cosco Rosa Rajado;VITRINE
 FATURAMENTO VD RJ;301.1;414.7;8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;VITRINE
 FULFILLMENT MELI;303.9;418.78;8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;VITRINE
 FULFILLMENT AMAZON;303.9;418.78;8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;VITRINE
@@ -7493,7 +7500,7 @@ FATURAMENTO VD RJ;1666.11;1666.11;8.09.01.03.01;Carrinho com Bebê Conforto Trav
 FATURAMENTO VD RJ;1666.11;1666.11;8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;599.33;599.33;8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;BB TUDO
 FATURAMENTO VD RJ;599.33;599.33;8.09.01.06.10;Carrinho de Bebê Bytes Safety 1st - Grey Denin;BB TUDO
-FATURAMENTO VD RJ;749.5;749.5;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;799.47;799.47;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;749.5;749.5;8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;2388.34;2388.34;8.09.01.09.01;Carrinho com Bebê Conforto Travel System Mobi+ Reserva Isofix Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;1199.51;1199.51;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;BB TUDO
@@ -7508,8 +7515,8 @@ FATURAMENTO VD RJ;1624.32;1624.32;8.09.01.103.27;Travel System Mobi Safety1st - 
 FATURAMENTO VD RJ;2063.97;2063.97;8.09.01.104.01;Travel System Mobi + Safety1st Black Copper;BB TUDO
 FATURAMENTO VD RJ;1332.78;1332.78;8.09.01.11.10;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Grey Frost - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;2221.66;2221.66;8.09.01.12.01;Carrinho de Bebê Mobi Go Track & Field Estrelas - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;999.5;999.5;8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;999.5;999.5;8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;1001.68;1001.68;8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;1007.73;1007.73;8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;2403.43;2403.43;8.09.01.27.35;Travel System Mobi Safety 1st Black & White;BB TUDO
 FATURAMENTO VD RJ;1548.75;1548.75;8.09.01.28.31;Travel System Mobi Safety 1st Full Black;BB TUDO
 FATURAMENTO VD RJ;2403.43;2403.43;8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;BB TUDO
