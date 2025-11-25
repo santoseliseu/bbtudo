@@ -368,7 +368,6 @@ FATURAMENTO VD RJ;80.53;92.0;21.48.46.1414.00;Base De Mesa Eames Metálica;VITRI
 FATURAMENTO VD RJ;134.42;153.58;21.49.46.383.76;Poltrona Butterfly Em Pu Marrom Base Metal Pintura Preta;VITRINE
 FATURAMENTO VD RJ;164.48;187.92;21.49.46.384.76;Poltrona Butterfly em Corino Caramelo Base Metal Pintura Preta;VITRINE
 FATURAMENTO VD RJ;400.21;544.76;21.64.136.01.01;Armário Alto 4 Níveis Stone Stillo Home - Preto;VITRINE
-FATURAMENTO VD RJ;224.72;313.4;21.64.136.02.01;Armário Multiuso 2 Níveis Stone Stillo Home - Preto;VITRINE
 FATURAMENTO VD ES;4.0;4.59;24.10.159.104.00;Manteigueira de Bambu com Espátula Verona 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;3.89;4.42;24.10.159.107.00;Garrafa para Azeite de Vidro com Tampa de Rolha 180ml Lyor;VITRINE
 FATURAMENTO VD ES;4.78;5.43;24.10.159.114.00;Pegador para Macarrão de Aço Inox Positano 28cm - Lyor;VITRINE
@@ -720,6 +719,8 @@ FATURAMENTO VD ES;44.92;50.88;24.50.66.308.18;Vaso Wolff Murano Italy  Rosa Clar
 FATURAMENTO VD ES;92.04;104.27;24.50.66.312.18;Vaso Wolff Murano Italy  Rosa Claro 19cm x 24cm;VITRINE
 FATURAMENTO VD ES;80.67;91.4;24.50.66.316.00;Vaso Wolff Murano Italy  Tiffany 18cm x 21cm;VITRINE
 FATURAMENTO VD ES;88.79;100.6;24.50.66.317.00;Vaso Wolff Murano Italy  Tiffany 19cm x 24cm;VITRINE
+FATURAMENTO VD ES;43.69;49.49;24.50.66.328.11;VASO DE VIDRO ITALY VERDE ESMERALDA E amarelo 10x11cm;VITRINE
+FATURAMENTO VD ES;43.69;49.49;24.50.66.328.11;Vaso Wolff Murano Italy  Verde Esmeralda e Dourado 11cm;VITRINE
 FATURAMENTO VD ES;5.17;5.87;24.50.66.330.00;Vaso Wolff Love Seed de Vidro 6cm x 15cm;VITRINE
 FATURAMENTO VD ES;7.97;9.03;24.50.66.333.00;Vaso Wolff Lys de Cristal 8cm x 15cm;VITRINE
 FATURAMENTO VD ES;11.49;13.02;24.50.66.334.00;Vaso Wolff Lys de Cristal Âmbar 6cm x 15cm;VITRINE
@@ -727,6 +728,7 @@ FATURAMENTO VD ES;6.44;7.31;24.50.66.336.00;Vaso Wolff Princess de Cristal 8cm x
 FATURAMENTO VD ES;11.16;12.64;24.50.66.339.00;Vaso Wolff Queen de Cristal Âmbar 6cm x 15cm;VITRINE
 FATURAMENTO VD ES;56.08;63.53;24.50.66.381.00;Bandeja Decorativa de Vidro com Pé Retangular 33cm x 20cm - Wolff;VITRINE
 FATURAMENTO VD ES;7.53;8.53;24.50.66.393.00;Vaso de Cristal Queen 6cm x 15cm - Wolff;VITRINE
+FATURAMENTO VD ES;44.01;49.86;24.50.66.398.00;Vaso Cristal Lys 16cm x 30cm - Wolff;VITRINE
 FATURAMENTO VD ES;10.64;12.06;24.50.66.403.00;Potiche Decorativo de Cristal com Pé Lys 11cm x 18cm - Wolff;VITRINE
 FATURAMENTO VD ES;83.66;94.79;24.50.66.413.00;Vaso Murano Italy Verde Esmeralda 18cm x 21cm - Wolff;VITRINE
 FATURAMENTO VD ES;43.74;49.56;24.50.66.414.00;Vaso Murano Italy Rosa Claro e Dourado 10cm x 11cm - Wolff;VITRINE
@@ -737,7 +739,7 @@ FATURAMENTO VD ES;53.39;60.49;24.50.66.468.00;Vaso de Vidro Italy Âmbar 13cm x 
 FATURAMENTO VD ES;56.47;63.97;24.50.66.472.00;Vaso Murano Italy Dourado 13cm x 10cm - Wolff;VITRINE
 FATURAMENTO VD ES;41.23;46.7;24.50.66.500.00;Vaso de Vidro com Borda Dourada Liz 9cm x 9cm x 22cm - Wolff;VITRINE
 FATURAMENTO VD ES;21.48;24.34;24.50.66.510.00;Vaso de Vidro e Fibra Natural 12,5cm x 22,5cm - Wolff;VITRINE
-FATURAMENTO VD ES;16.11;18.24;24.50.66.511.00;Vaso de Vidro e Fibra Natural 10cm x 19,5cm - Wolff;VITRINE
+FATURAMENTO VD ES;16.1;18.24;24.50.66.511.00;Vaso de Vidro e Fibra Natural 10cm x 19,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;14.73;16.69;24.50.66.512.00;Vaso de Vidro e Fibra Natural 10cm x 14cm - Wolff;VITRINE
 FATURAMENTO VD ES;11.75;13.31;24.50.66.514.00;Vaso de Vidro e Fibra Natural 8,5cm x 15,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;34.79;42.53;24.50.66.53.04;Bandeja Wolff Dourada de Metal 36cm x 20cm x 5cm;VITRINE
@@ -891,11 +893,11 @@ FATURAMENTO VD RJ;13.68;15.56;24.52.66.380.00;Caneca Parede Dupla De Vidro Boros
 FATURAMENTO VD ES;5.63;6.41;24.52.66.381.00;Conjunto 2 Canecas De Vidro Bubbles 220Ml;VITRINE
 FATURAMENTO VD ES;12.11;13.77;24.52.66.382.00;Conjunto 4 Taças Para Cappuccino De Vidro Classic 160Ml;VITRINE
 FATURAMENTO VD ES;9.41;10.7;24.52.66.384.00;Conjunto 4 Xícaras De Vidro Frankfurt 100Ml;VITRINE
-FATURAMENTO VD ES;11.8;13.42;24.52.66.385.00;Conjunto 4 Xícaras De Vidro Frankfurt 220Ml;VITRINE
+FATURAMENTO VD ES;11.79;13.42;24.52.66.385.00;Conjunto 4 Xícaras De Vidro Frankfurt 220Ml;VITRINE
 FATURAMENTO VD ES;38.68;43.82;24.52.66.386.06;Garrafa Térmica Carrossel Branca 1L - Wolff;VITRINE
 FATURAMENTO VD ES;31.85;36.09;24.52.66.389.01;Garrafa Térmica Carrossel Preta 1L - Wolff;VITRINE
 FATURAMENTO VD ES;11.62;13.16;24.52.66.390.06;Garrafa Térmica Essência Branca 300Ml;VITRINE
-FATURAMENTO VD ES;12.59;14.26;24.52.66.391.01;Garrafa Térmica Essência Preta 300Ml;VITRINE
+FATURAMENTO VD ES;12.6;14.27;24.52.66.391.01;Garrafa Térmica Essência Preta 300Ml;VITRINE
 FATURAMENTO VD ES;26.53;30.06;24.52.66.393.06;Garrafa Térmica Geometric Branca 1L - Wolff;VITRINE
 FATURAMENTO VD ES;62.63;70.96;24.52.66.395.76;Garrafa Térmica Marrom Com Tampa Dourada New Rattan 1L;VITRINE
 FATURAMENTO VD ES;25.05;28.38;24.52.66.396.06;Garrafa Térmica Matelassê Branca 1L;VITRINE
@@ -1043,11 +1045,7 @@ FATURAMENTO VD ES;35.94;40.89;24.53.66.220.00;Kit 5 Porta Temperos Vidro Borossi
 FATURAMENTO VD ES;16.77;19.08;24.53.66.35.06;Pote Wolff Vintage Flores de Cerâmica Branco 10cm x 8cm;VITRINE
 FATURAMENTO VD ES;60.66;69.01;24.53.66.37.00;Panela Wolff Revestimento Cerâmico Indução Granilite Cinza 20cm;VITRINE
 FATURAMENTO VD ES;65.46;74.17;24.53.66.41.00;Conjunto 6 Taças de Vinho Branco de Cristal Ecológico Gastro Colibri 350ml - Bohemia;VITRINE
-FATURAMENTO VD ES;5.08;5.79;24.53.66.46.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 210ml - Wolff;VITRINE
 FATURAMENTO VD ES;4.6;5.23;24.53.66.47.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 160ml - Wolff;VITRINE
-FATURAMENTO VD ES;4.33;4.93;24.53.66.48.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 120ml - Wolff;VITRINE
-FATURAMENTO VD ES;3.72;4.23;24.53.66.49.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 90ml - Wolff;VITRINE
-FATURAMENTO VD ES;3.39;3.86;24.53.66.50.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 60ml - Wolff;VITRINE
 FATURAMENTO VD ES;7.4;8.42;24.53.66.69.00;Pote de Vidro com Tampa Preta Colméia 13x13cm 1,3L;VITRINE
 FATURAMENTO VD ES;15.74;17.91;24.53.66.72.00;Porta Mantimentos de Vidro com Tampa em Madeira 1,9l - Wolff;VITRINE
 FATURAMENTO VD ES;16.56;18.84;24.53.66.75.00;Porta Mantimentos de Vidro com Sisal e Tampa de Madeira 750ml - Wolff;VITRINE
@@ -1179,7 +1177,7 @@ FATURAMENTO VD ES;6.82;7.73;24.54.66.421.00;Taça Para Água Com Fio De Ouro Gre
 FATURAMENTO VD ES;4.19;4.75;24.54.66.424.00;Copo Baixo Stella 300Ml Vidro;VITRINE
 FATURAMENTO VD ES;6.88;7.79;24.54.66.446.00;Taça Para Água Com Fio De Ouro Brand 320Ml Vidro;VITRINE
 FATURAMENTO VD ES;42.45;48.09;24.54.66.45.08;Jogo de 6 Taças de Água Wolff Greek Vermelho de Vidro 345ml;VITRINE
-FATURAMENTO VD ES;4.81;5.45;24.54.66.456.00;Copo Alto Para Drink Allure 425Ml Vidro;VITRINE
+FATURAMENTO VD ES;4.82;5.46;24.54.66.456.00;Copo Alto Para Drink Allure 425Ml Vidro;VITRINE
 FATURAMENTO VD ES;37.15;42.09;24.54.66.65.00;Jogo de 6 Taças Wolff Angel de Cristal Incolor 245ml;VITRINE
 FATURAMENTO VD ES;37.15;42.09;24.54.66.65.00;Jogo de 6 Taças Wolff Angel de Cristal Transparente 245ml;VITRINE
 FATURAMENTO VD ES;40.89;46.33;24.54.66.67.07;Jogo de 6 Taças Wolff Brand de Vidro Azul Escuro 345ml;VITRINE
@@ -1300,6 +1298,7 @@ FATURAMENTO VD ES;14.54;16.54;24.56.66.38.00;Prato Wolff Pearl de Cristal Incolo
 FATURAMENTO VD ES;14.54;16.54;24.56.66.38.00;Prato Wolff Pearl de Cristal Transparente 28 cm;VITRINE
 FATURAMENTO VD ES;7.09;8.06;24.56.66.384.00;Prato Wolff Pearl Rainbow de Cristal 20cm;VITRINE
 FATURAMENTO VD ES;6.59;7.49;24.56.66.388.06;Pratro para Sobremesa Wolff Bambu de Melamina Branco 22cm;VITRINE
+FATURAMENTO VD ES;17.05;19.4;24.56.66.404.00;Travessa Oval Wolff Pearl de Cristal Âmbar 30cm x 15cm x 2cm;VITRINE
 FATURAMENTO VD ES;21.33;24.26;24.56.66.41.04;Bowl Wolff Taj de Cristal Borda Dourada Incolor 19cm x 10cm;VITRINE
 FATURAMENTO VD ES;13.73;15.62;24.56.66.42.04;Bowl Wolff Taj de Cristal Borda Dourada Incolor 17cm x 8cm;VITRINE
 FATURAMENTO VD ES;48.29;54.71;24.56.66.423.06;Travessa Wolff Borboletas de Porcelana Branco 30 x 20 x 3cm;VITRINE
@@ -1512,7 +1511,6 @@ FATURAMENTO VD ES;52.56;59.8;24.70.159.01.06;Lixeira Quadrada de Metal Pedal Tam
 FATURAMENTO VD ES;34.87;39.67;24.70.159.02.06;Lixeira Redonda de Metal com Pedal Tampa em Bambu Branca 3L;VITRINE
 FATURAMENTO VD ES;34.87;39.67;24.70.159.03.01;Lixeira Redonda de Metal com Pedal Tampa em Bambu Preta 3L;VITRINE
 FATURAMENTO VD ES;44.04;50.09;24.70.159.04.06;Lixeira Redonda de Metal com Pedal Tampa em Bambu Branca 5L;VITRINE
-FATURAMENTO VD ES;40.61;46.2;24.70.159.05.01;Lixeira Redonda de Metal Pedal e Tampa em Bambu Preta 5L;VITRINE
 FATURAMENTO VD ES;27.4;31.45;24.70.159.15.57;Mop Giratório Cabo Extensível Aço Inox com Balde Plástico;VITRINE
 FATURAMENTO VD ES;29.71;34.1;24.71.159.01.00;Jogo 3 Cestos Retangulares de Bambu com Forro em Tecido;VITRINE
 FATURAMENTO VD ES;54.93;63.05;24.71.159.03.00;Cesto de Bambu com Tampa Natural 40cm x 30cm x 57cm;VITRINE
@@ -2260,7 +2258,6 @@ FULFILLMENT MELI;48.13;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4
 FATURAMENTO BBTOTAL ES;34.0;34.0;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;BB TOTAL
 FATURAMENTO VD RJ;48.13;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Cosco Branco Estampado;VITRINE
 FULFILLMENT AMAZON;48.13;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Cosco Branco Estampado;VITRINE
-FULFILLMENT MELI;48.13;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Cosco Branco Estampado;VITRINE
 FATURAMENTO VD RJ;54.79;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;38.7;38.7;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;BB TOTAL
 FATURAMENTO VD RJ;54.79;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Cosco Branco Estampado;VITRINE
@@ -2405,7 +2402,6 @@ FATURAMENTO VD RJ;271.39;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori E
 FULFILLMENT MAGALU;269.98;375.95;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;271.38;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;271.38;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;271.2;374.5;8.05.02.06.27;Cadeira de Dencanso Bouncer Kori Maxi-Cosi Essential Grey;VITRINE
 FATURAMENTO VD RJ;279.64;388.79;8.05.02.09.18;Cadeira de Dencanso Bouncer Kori Maxi-Cosi Essential Blush;VITRINE
 FATURAMENTO VD RJ;279.64;388.79;8.05.02.09.18;Cadeira de Descanso Bouncer Kori Essential Blush - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;194.4;194.4;8.05.02.09.18;Cadeira de Descanso Bouncer Kori Essential Blush - Maxi-Cosi;BB TOTAL
@@ -2538,8 +2534,6 @@ FATURAMENTO BBTOTAL ES;377.96;377.96;8.06.02.03.80;Cadeira de Alimentação Moa 
 FATURAMENTO VD RJ;496.09;691.85;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
 FULFILLMENT MAGALU;495.14;680.67;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
 FULFILLMENT AMAZON;542.02;755.91;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
-FULFILLMENT MELI;542.02;755.91;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;VITRINE
-FATURAMENTO BBTOTAL ES;377.96;377.96;8.06.02.03.80;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi - Beyond Graphite;BB TOTAL
 FATURAMENTO VD RJ;507.57;707.86;8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;532.84;743.09;8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;992.18;1127.48;8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;VITRINE
@@ -3313,7 +3307,6 @@ FATURAMENTO BBTOTAL ES;463.97;549.75;8.09.02.82.80;Carrinho de Bebê Eva Essenti
 FULFILLMENT AMAZON;1163.06;1622.01;8.09.02.83.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1153.03;1607.82;8.09.02.83.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1163.06;1622.01;8.09.02.83.01;Travel System Eva Essential Black Trio Maxi-Cosi;VITRINE
-FULFILLMENT MELI;1153.03;1607.82;8.09.02.83.01;Travel System Eva Essential Black Trio Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1531.88;2110.59;8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1531.88;2110.59;8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1531.61;2110.59;8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;VITRINE
@@ -3835,7 +3828,6 @@ FATURAMENTO VD RJ;78.62;87.93;8.09.47.13.01;Organizador de Assento de Carro Twis
 FATURAMENTO VD RJ;421.85;482.99;8.09.53.01.01;Carrinho de Bebê para Gêmeos Ohlalà Twin Black Night;VITRINE
 FATURAMENTO BBTOTAL ES;288.28;330.9;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone Preto - Chicco;BB TOTAL
 FATURAMENTO VD RJ;578.02;661.8;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone Preto - Chicco;VITRINE
-FATURAMENTO VD RJ;1252.96;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Chicco Graphite;VITRINE
 FATURAMENTO VD RJ;1252.96;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Graphite - Chicco;VITRINE
 FATURAMENTO VD RJ;99.96;114.63;8.09.53.33.01;Adaptador para Cadeirinha de Carro Goody Plus Chicco;VITRINE
 FATURAMENTO VD RJ;808.86;928.75;8.09.53.37.00;Carrinho de Bebê Lite Way 4 Basic Chicco Hydra;VITRINE
@@ -4270,7 +4262,6 @@ FATURAMENTO VD RJ;163.78;205.29;8.13.33.12.69;Tapete de Atividades Picnic Mat Tr
 FATURAMENTO BBTOTAL ES;16.91;17.61;8.13.47.10.69;Tapete para Banheiro Peixinhos e Polvo Colorido - KaBaby;BB TOTAL
 FATURAMENTO VD RJ;33.81;35.22;8.13.47.10.69;Tapete para Banheiro Peixinhos e Polvo Colorido - KaBaby;VITRINE
 FATURAMENTO VD RJ;53.37;59.88;8.13.53.02.69;Tapete Ginásio de Atividades 3 em 1 Colorido - Chicco;VITRINE
-FATURAMENTO VD RJ;53.37;59.88;8.13.53.02.69;Tapete de Atividades 3 em 1 Chicco Colorido;VITRINE
 FATURAMENTO VD RJ;142.43;147.82;8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;VITRINE
 FATURAMENTO BBTOTAL ES;70.95;73.91;8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;BB TOTAL
 FATURAMENTO VD RJ;107.12;121.86;8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;VITRINE
@@ -4612,7 +4603,6 @@ FATURAMENTO BBTOTAL ES;9.3;9.3;8.24.53.37.00;Copo de Transição 200ml Cup 4M+ R
 FATURAMENTO VD RJ;17.79;18.6;8.24.53.37.00;Copo de Transição Transition Cup 4M+ Chicco Rosa;VITRINE
 FATURAMENTO VD RJ;17.75;18.65;8.24.53.38.00;Copo de Transição 4m+ Chicco Azul;VITRINE
 FATURAMENTO BBTOTAL ES;28.04;32.19;8.24.53.38.00;Copo de Transição 4m+ Chicco Azul;BB TOTAL
-FATURAMENTO VD ES;16.98;17.68;8.24.53.40.00;Copo Training Cup 200 ml Chicco 6m+ Pato Laranja;VITRINE
 FATURAMENTO VD ES;16.98;17.68;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;VITRINE
 FATURAMENTO VD RJ;17.54;19.03;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;28.65;32.89;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;BB TOTAL
@@ -7109,7 +7099,6 @@ FATURAMENTO VD RJ;413.52;413.52;8.05.01.19.17;Andador Space Safety 1st Laranja;B
 FATURAMENTO VD RJ;378.47;378.47;8.05.02.05.80;Cadeira de Dencanso Bouncer Kori Essential Graphite - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;378.47;378.47;8.05.02.05.80;Cadeira de Dencanso Bouncer Kori Maxi-Cosi Essential Graphite;BB TUDO
 FATURAMENTO VD RJ;378.47;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;374.5;374.5;8.05.02.06.27;Cadeira de Dencanso Bouncer Kori Maxi-Cosi Essential Grey;BB TUDO
 FATURAMENTO VD RJ;388.79;388.79;8.05.02.09.18;Cadeira de Dencanso Bouncer Kori Maxi-Cosi Essential Blush;BB TUDO
 FATURAMENTO VD RJ;388.79;388.79;8.05.02.09.18;Cadeira de Descanso Bouncer Kori Essential Blush - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;757.42;757.42;8.05.02.10.10;Cadeira de Dencanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;BB TUDO
@@ -7902,7 +7891,6 @@ FATURAMENTO VD ES;685.07;685.07;8.09.39.29.57;Carrinho com Bebê Conforto Travel
 FATURAMENTO VD RJ;87.93;87.93;8.09.47.13.01;Organizador de Assento de Carro Twist-Twist KaBaby Cinza;BB TUDO
 FATURAMENTO VD RJ;482.99;482.99;8.09.53.01.01;Carrinho de Bebê para Gêmeos Ohlalà Twin Black Night;BB TUDO
 FATURAMENTO VD RJ;661.8;661.8;8.09.53.15.00;Carrinho de Bebê Trolley Me Stone Preto - Chicco;BB TUDO
-FATURAMENTO VD RJ;1434.55;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Chicco Graphite;BB TUDO
 FATURAMENTO VD RJ;1434.55;1434.55;8.09.53.30.10;Carrinho de Bebê Goody Plus Graphite - Chicco;BB TUDO
 FATURAMENTO VD RJ;114.63;114.63;8.09.53.33.01;Adaptador para Cadeirinha de Carro Goody Plus Chicco;BB TUDO
 FATURAMENTO VD RJ;928.75;928.75;8.09.53.37.00;Carrinho de Bebê Lite Way 4 Basic Chicco Hydra;BB TUDO
@@ -8145,7 +8133,6 @@ FATURAMENTO VD RJ;205.29;205.29;8.13.33.12.69;Tapete de Atividades Picnic Mat Ti
 FATURAMENTO VD RJ;205.29;205.29;8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;35.22;35.22;8.13.47.10.69;Tapete para Banheiro Peixinhos e Polvo Colorido - KaBaby;BB TUDO
 FATURAMENTO VD RJ;59.88;59.88;8.13.53.02.69;Tapete Ginásio de Atividades 3 em 1 Colorido - Chicco;BB TUDO
-FATURAMENTO VD RJ;59.88;59.88;8.13.53.02.69;Tapete de Atividades 3 em 1 Chicco Colorido;BB TUDO
 FATURAMENTO VD RJ;147.82;147.82;8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;BB TUDO
 FATURAMENTO VD RJ;121.86;121.86;8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;BB TUDO
 FATURAMENTO VD ES;121.87;121.87;8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;BB TUDO
@@ -8380,7 +8367,6 @@ FATURAMENTO VD RJ;9.49;9.49;8.24.53.33.00;Escova Para Mamadeira 3 Em 1 Chicco Br
 FATURAMENTO VD RJ;18.6;18.6;8.24.53.37.00;Copo de Transição 200ml Cup 4M+ Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;18.6;18.6;8.24.53.37.00;Copo de Transição Transition Cup 4M+ Chicco Rosa;BB TUDO
 FATURAMENTO VD RJ;18.65;18.65;8.24.53.38.00;Copo de Transição 4m+ Chicco Azul;BB TUDO
-FATURAMENTO VD ES;17.68;17.68;8.24.53.40.00;Copo Training Cup 200 ml Chicco 6m+ Pato Laranja;BB TUDO
 FATURAMENTO VD ES;17.68;17.68;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;BB TUDO
 FATURAMENTO VD RJ;19.03;19.03;8.24.53.40.00;Copo de Treinamento 200ml 6M+ Laranja - Chicco;BB TUDO
 FATURAMENTO VD RJ;18.32;18.32;8.24.53.41.11;Copo Training 6M+ Chicco Verde;BB TUDO
