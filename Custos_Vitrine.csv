@@ -254,8 +254,6 @@ FATURAMENTO VD RJ;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Off
 FATURAMENTO VD ES;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
-FATURAMENTO VD ES;159.36;189.66;21.14.50.667.00;Conjunto Com 2 Cadeiras Saarinen Office Nude  Base Em Aço Cromado;VITRINE
-FATURAMENTO VD RJ;159.36;189.66;21.14.50.667.00;Conjunto Com 2 Cadeiras Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
@@ -313,7 +311,6 @@ FATURAMENTO VD RJ;129.23;147.65;21.16.46.18.01;Mesa Lateral Vulcan Preta;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.01.00;Mesa Eames Tampo Redondo MDF 60cm Branco;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.01.00;Mesa Eames infantil e de centro 60cm Branca;VITRINE
 FATURAMENTO VD ES;49.49;57.77;21.16.50.02.00;Mesa Eames Tampo Redondo MDF 60cm Preta;VITRINE
-FATURAMENTO VD RJ;45.72;53.86;21.16.50.02.00;Mesa Eames Tampo Redondo MDF 60cm Preta;VITRINE
 FATURAMENTO VD ES;49.49;57.77;21.16.50.02.00;Mesa Eames infantil e de Centro Preta 60cm;VITRINE
 FATURAMENTO VD ES;109.02;128.42;21.16.50.03.00;Mesa Eames Tampo Redondo MDF 70cm Branco;VITRINE
 FATURAMENTO VD ES;124.51;126.23;21.16.50.05.00;Mesa Eames Tampo Redondo MDF 90cm Branco;VITRINE
@@ -1315,7 +1312,6 @@ FATURAMENTO VD ES;7.7;8.76;24.56.66.355.00;Prato Wolff Heart Pearl de Cristal 20
 FATURAMENTO VD ES;11.28;12.83;24.56.66.356.00;Prato Wolff Heart Pearl de Cristal 29cm x 25cm x 2cm;VITRINE
 FATURAMENTO VD ES;7.09;8.06;24.56.66.373.00;Prato Wolff Pearl de Cristal Ãmbar 20cm;VITRINE
 FATURAMENTO VD ES;23.69;26.94;24.56.66.376.04;Prato Wolff Pearl de Cristal Dourado 28cm;VITRINE
-FATURAMENTO VD ES;14.54;16.54;24.56.66.38.00;Prato Wolff Pearl de Cristal Incolor 28 cm;VITRINE
 FATURAMENTO VD ES;14.54;16.54;24.56.66.38.00;Prato Wolff Pearl de Cristal Transparente 28 cm;VITRINE
 FATURAMENTO VD ES;7.09;8.06;24.56.66.384.00;Prato Wolff Pearl Rainbow de Cristal 20cm;VITRINE
 FATURAMENTO VD ES;6.59;7.49;24.56.66.388.06;Pratro para Sobremesa Wolff Bambu de Melamina Branco 22cm;VITRINE
@@ -2045,7 +2041,6 @@ FATURAMENTO VD RJ;53.96;61.39;8.03.57.04.69;Almofada de Atividades Amazônia - B
 FATURAMENTO BBTOTAL ES;28.69;28.69;8.03.57.04.69;Almofada de Atividades Amazônia - Buba;BB TOTAL
 FATURAMENTO VD RJ;245.64;293.68;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;VITRINE
 FATURAMENTO BBTOTAL ES;133.41;153.14;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;BB TOTAL
-FATURAMENTO VD RJ;238.65;297.56;8.03.68.03.06;Bebê Conforto Auto Candy Branco - Litet;VITRINE
 FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;VISUAL IN
 FATURAMENTO VD RJ;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;VITRINE
 FATURAMENTO BBTOTAL ES;40.48;47.96;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;BB TOTAL
@@ -2992,13 +2987,9 @@ FATURAMENTO VD ES;129.65;139.41;8.07.54.11.68;Cadeirinha de Carro Triton II Tutt
 FATURAMENTO VD ES;8.84;10.03;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;5.33;5.33;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;BB TOTAL
 FATURAMENTO VD RJ;8.24;8.58;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;VITRINE
-FATURAMENTO VD RJ;615.77;767.78;8.07.68.02.10;Cadeirinha de Carro Smart 360º Isofix Cinza Litet;VITRINE
 FATURAMENTO BBTOTAL ES;129.52;148.67;8.07.68.03.76;Bebê Conforto Candy 0+ à 13Kg Caramelo Litet;BB TOTAL
 FATURAMENTO BBTOTAL ES;129.52;148.67;8.07.68.03.76;Bebê Conforto Candy Até 13Kg Caramelo - Litet;BB TOTAL
 FATURAMENTO VD RJ;238.46;297.33;8.07.68.03.76;Bebê Conforto Candy Até 13Kg Caramelo - Litet;VITRINE
-FATURAMENTO VD RJ;33.47;41.72;8.07.68.06.01;Assento de Elevação Booster Lift Preto 15 a 36 kg – Multikids Baby;VITRINE
-FATURAMENTO VD RJ;36.35;45.32;8.07.68.07.01;Assento de Elevação Booster Turbo Preto 15 a 36 kg - Multikids Baby;VITRINE
-FATURAMENTO VD RJ;525.18;654.82;8.07.68.08.10;Cadeirinha Para Carro 0-36 Kg Isofix All Stages Fix 2.0 Preta e Cinza - Litet;VITRINE
 FATURAMENTO BBTOTAL ES;267.1;306.59;8.07.74.03.01;Cadeirinha de Carro Active com ISOFIX Preto - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;1140.7;1302.21;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;VITRINE
 FATURAMENTO VISUAL IN SP;1194.54;1248.37;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;VISUAL IN
@@ -3507,7 +3498,6 @@ FATURAMENTO VD RJ;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - A
 FULFILLMENT AMAZON;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot Azul Geo - Voyage;VITRINE
 FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - Preto Geo;VITRINE
 FULFILLMENT MELI;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - Preto Geo;VITRINE
-FATURAMENTO VD RJ;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - Preto Geo;VITRINE
 FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot Preto Geo - Voyage;VITRINE
 FULFILLMENT MELI;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot Preto Geo - Voyage;VITRINE
 FATURAMENTO VD RJ;239.3;329.76;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Rosa Geo;VITRINE
@@ -5152,7 +5142,6 @@ FATURAMENTO BBTOTAL ES;248.92;248.92;8.25.02.36.06;Umidificador Breathe White - 
 FATURAMENTO VD RJ;285.13;372.41;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;VITRINE
 FULFILLMENT AMAZON;274.67;367.81;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;VITRINE
 FULFILLMENT VISUAL IN;322.88;422.37;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;VISUAL IN
-FULFILLMENT MELI;274.67;367.81;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;VITRINE
 FATURAMENTO VD RJ;285.13;372.41;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;274.67;367.81;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VITRINE
 FULFILLMENT VISUAL IN;322.88;422.37;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VISUAL IN
@@ -6327,12 +6316,10 @@ FATURAMENTO VD RJ;13.04;17.96;8.30.33.35.00;Brinquedo Teether Rattle Tiny Love -
 FATURAMENTO BBTOTAL ES;9.98;9.98;8.30.33.35.00;Brinquedo Teether Rattle Tiny Love - Leonardo;BB TOTAL
 FATURAMENTO VD RJ;63.36;87.31;8.30.33.37.00;Brinquedo Wonder Buddies Coco Chanel - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;46.77;46.77;8.30.33.37.00;Brinquedo Wonder Buddies Coco Chanel - Tiny Love;BB TOTAL
-FATURAMENTO VD RJ;63.36;87.31;8.30.33.37.00;Brinquedo Wonder Buddies Tiny Love - Coco;VITRINE
 FATURAMENTO VD RJ;63.36;87.31;8.30.33.38.00;Brinquedo Wonder Buddies Leonardo - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;43.66;43.66;8.30.33.38.00;Brinquedo Wonder Buddies Leonardo - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;61.1;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Thomas - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;44.44;44.44;8.30.33.39.00;Brinquedo Wonder Buddies Thomas - Tiny Love;BB TOTAL
-FATURAMENTO VD RJ;61.1;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Tiny Love - Thomas;VITRINE
 FATURAMENTO VD RJ;72.4;99.75;8.30.33.40.00;Móbile Tummy Time Meadow Days - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;34.58;39.7;8.30.33.40.00;Móbile Tummy Time Meadow Days - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;76.22;105.0;8.30.33.41.00;Móbile Tummy Time Tiny Princess Tales - Tiny Love;VITRINE
@@ -6961,7 +6948,6 @@ FATURAMENTO VD RJ;57.38;57.38;8.03.57.01.69;Almofada De Atividades Colorida - Bu
 FATURAMENTO VD RJ;57.38;57.38;8.03.57.03.69;Almofada de Atividades Panda - Buba ;BB TUDO
 FATURAMENTO VD RJ;61.39;61.39;8.03.57.04.69;Almofada de Atividades Amazônia - Buba;BB TUDO
 FATURAMENTO VD RJ;293.68;293.68;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;BB TUDO
-FATURAMENTO VD RJ;297.56;297.56;8.03.68.03.06;Bebê Conforto Auto Candy Branco - Litet;BB TUDO
 FATURAMENTO VD RJ;95.91;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;101.19;101.19;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
@@ -7490,11 +7476,7 @@ FATURAMENTO VD RJ;142.38;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Ba
 FATURAMENTO VD ES;139.41;139.41;8.07.54.11.68;Cadeirinha de Carro Triton II Tutti Baby 15kg a 36kg Preto e Cinza;BB TUDO
 FATURAMENTO VD ES;10.03;10.03;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;BB TUDO
 FATURAMENTO VD RJ;8.58;8.58;8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;BB TUDO
-FATURAMENTO VD RJ;767.78;767.78;8.07.68.02.10;Cadeirinha de Carro Smart 360º Isofix Cinza Litet;BB TUDO
 FATURAMENTO VD RJ;297.33;297.33;8.07.68.03.76;Bebê Conforto Candy Até 13Kg Caramelo - Litet;BB TUDO
-FATURAMENTO VD RJ;41.72;41.72;8.07.68.06.01;Assento de Elevação Booster Lift Preto 15 a 36 kg – Multikids Baby;BB TUDO
-FATURAMENTO VD RJ;45.32;45.32;8.07.68.07.01;Assento de Elevação Booster Turbo Preto 15 a 36 kg - Multikids Baby;BB TUDO
-FATURAMENTO VD RJ;654.82;654.82;8.07.68.08.10;Cadeirinha Para Carro 0-36 Kg Isofix All Stages Fix 2.0 Preta e Cinza - Litet;BB TUDO
 FATURAMENTO VD RJ;1302.21;1302.21;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;BB TUDO
 FATURAMENTO VD RJ;1302.21;1302.21;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;BB TUDO
 FATURAMENTO VD RJ;1327.14;1327.14;8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;BB TUDO
@@ -7739,7 +7721,6 @@ FATURAMENTO VD RJ;399.51;399.51;8.09.03.79.01;Carrinho de Bebê Luck Voyage - Pr
 FATURAMENTO VD RJ;399.52;399.52;8.09.03.80.18;Carrinho de Bebê Luck Rosa Boreal - Voyage;BB TUDO
 FATURAMENTO VD RJ;399.52;399.52;8.09.03.80.18;Carrinho de Bebê Luck Voyage - Rosa Boreal;BB TUDO
 FATURAMENTO VD RJ;333.46;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - Azul Geo;BB TUDO
-FATURAMENTO VD RJ;329.31;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - Preto Geo;BB TUDO
 FATURAMENTO VD RJ;329.76;329.76;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Rosa Geo;BB TUDO
 FATURAMENTO VD RJ;329.76;329.76;8.09.03.83.18;Carrinho de Bebê Spot Rosa Geo - Voyage;BB TUDO
 FATURAMENTO VD RJ;503.05;503.05;8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;BB TUDO
@@ -9496,10 +9477,8 @@ FATURAMENTO VD RJ;103.74;103.74;8.30.33.32.00;Arco Sunny Stroll Tiny Love - Magi
 FATURAMENTO VD RJ;17.96;17.96;8.30.33.35.00;Brinquedo Chocalho e MordedorTeether Rattle Leonardo - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;17.96;17.96;8.30.33.35.00;Brinquedo Teether Rattle Tiny Love - Leonardo;BB TUDO
 FATURAMENTO VD RJ;87.31;87.31;8.30.33.37.00;Brinquedo Wonder Buddies Coco Chanel - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;87.31;87.31;8.30.33.37.00;Brinquedo Wonder Buddies Tiny Love - Coco;BB TUDO
 FATURAMENTO VD RJ;87.31;87.31;8.30.33.38.00;Brinquedo Wonder Buddies Leonardo - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;84.19;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Thomas - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;84.19;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Tiny Love - Thomas;BB TUDO
 FATURAMENTO VD RJ;99.75;99.75;8.30.33.40.00;Móbile Tummy Time Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;105.0;105.0;8.30.33.41.00;Móbile Tummy Time Tiny Princess Tales - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;38.33;38.33;8.30.33.43.00;Brinquedo Tiny Rolling Florence - Tiny Love;BB TUDO
