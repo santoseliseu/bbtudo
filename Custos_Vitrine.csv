@@ -976,7 +976,6 @@ FATURAMENTO VD ES;44.17;50.7;24.53.163.124.00;Porta Facas De Acácia 14Cm - Oiko
 FATURAMENTO VD ES;83.85;96.24;24.53.163.125.00;Bowl De Bambu Circular Fundo 28Cm - Oikos;VITRINE
 FATURAMENTO VD ES;44.67;51.28;24.53.163.137.00;Porta Talheres De Bambu Com Alça - Oikos;VITRINE
 FATURAMENTO VD ES;8.58;9.85;24.53.163.138.00;Pote de Mantimento 110Ml de Vidro em Bambu Redondo Flat;VITRINE
-FATURAMENTO VD ES;13.31;15.28;24.53.163.143.00;Pote de mantimento Circular em Vidro e Bambu 600ml;VITRINE
 FATURAMENTO VD ES;12.16;13.96;24.53.163.145.00;Pote de mantimento Circular em Vidro e Bambu 500ml;VITRINE
 FATURAMENTO VD ES;22.1;25.37;24.53.163.146.00;Pote de mantimento Circular em Vidro e Bambu 1600ml;VITRINE
 FATURAMENTO VD ES;24.18;27.76;24.53.163.147.00;Pote de mantimento Circular em Vidro e Bambu 2000ml;VITRINE
@@ -1092,7 +1091,6 @@ FATURAMENTO VD ES;41.73;47.28;24.54.159.23.00;Conjunto 6 Taças de Cristal Palm 
 FATURAMENTO VD ES;33.68;38.16;24.54.159.24.00;Jogo 2 Taças para Vinho de Cristal Balance L'Artisan 540ml;VITRINE
 FATURAMENTO VD ES;52.86;58.01;24.54.159.25.00;Jogo 2 Taças de Vinho Cristal Elegance L'Artisan 880ml;VITRINE
 FATURAMENTO VD RJ;57.6;62.76;24.54.159.25.00;Jogo 2 Taças de Vinho Cristal Elegance L'Artisan 880ml;VITRINE
-FATURAMENTO VD ES;27.72;31.4;24.54.159.26.01;Copo Térmico Parede Dupla com Termômetro Motion Preto 500ml;VITRINE
 FATURAMENTO VD ES;18.49;20.94;24.54.159.27.07;Copo Térmico parede Dupla com Termômetro Motion Azul 500ml;VITRINE
 FATURAMENTO VD ES;4.16;4.71;24.54.159.31.00;Copo de Cristal Deli Diamante 330ml - Lyor;VITRINE
 FATURAMENTO VD ES;3.83;4.34;24.54.159.32.00;Copo Alto de Cristal Deli Diamante 280ml - Lyor;VITRINE
@@ -3306,6 +3304,7 @@ FATURAMENTO VD RJ;1116.08;1537.95;8.09.02.128.10;Carrinho de Bebê Leona² Selec
 FATURAMENTO BBTOTAL ES;649.0;768.98;8.09.02.128.10;Carrinho de Bebê Leona² Select Grey - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1389.64;1938.0;8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;870.48;1199.53;8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;VITRINE
+FATURAMENTO BBTOTAL ES;621.98;621.98;8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;770.01;1061.08;8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black -  Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;589.49;589.49;8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black -  Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;770.01;1061.08;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
@@ -3313,10 +3312,12 @@ FATURAMENTO BBTOTAL ES;498.51;590.67;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 
 FATURAMENTO VD ES;851.67;1172.57;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;770.01;1061.08;8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;776.85;1070.51;8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;VITRINE
+FATURAMENTO BBTOTAL ES;589.49;589.49;8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1157.98;1614.92;8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;897.18;897.18;8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1157.97;1614.92;8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1147.45;1463.26;8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
+FATURAMENTO BBTOTAL ES;757.2;897.18;8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1157.97;1614.92;8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1358.28;1894.27;8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1358.28;1894.27;8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;VITRINE
