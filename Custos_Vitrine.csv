@@ -164,7 +164,7 @@ FATURAMENTO VD ES;264.7;311.82;21.14.50.270.00;Conjunto Com 2 Cadeiras Eames Eif
 FATURAMENTO VD ES;132.35;155.91;21.14.50.271.00;Cadeira Eames Eiffel Transparente  Base Preta;VITRINE
 FATURAMENTO VD RJ;132.35;155.91;21.14.50.271.00;Cadeira Eames Eiffel Transparente  Base Preta;VITRINE
 FATURAMENTO VD ES;268.81;311.82;21.14.50.272.00;Conjunto Com 2 Cadeiras Eames Eiffel Transparente  Base Preta;VITRINE
-FATURAMENTO VD ES;57.85;68.14;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
+FATURAMENTO VD ES;21.69;25.55;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
 FATURAMENTO VD RJ;50.91;60.43;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
 FATURAMENTO VD ES;115.7;136.28;21.14.50.29.00;Conjunto 2 Cadeiras Eames  Fendi;VITRINE
 FATURAMENTO VD ES;111.54;131.4;21.14.50.299.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Preta  Base Aço Cromado;VITRINE
@@ -691,8 +691,8 @@ FULFILLMENT VISUAL IN;53.29;78.44;24.25.49.08.06;Lixeira Redonda com Pedal 12 li
 FATURAMENTO VD RJ;55.87;65.52;24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca Mollie;VITRINE
 FULFILLMENT MELI;55.87;65.52;24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca Mollie;VITRINE
 FATURAMENTO VD ES;58.05;71.27;24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca Mollie;VITRINE
-FULFILLMENT VISUAL IN;19.6;28.84;24.25.49.09.00;Lixeira Inox com Pedal 5 litros Mollie;VISUAL IN
 FATURAMENTO VD RJ;20.17;22.44;24.25.49.09.00;Lixeira Inox com Pedal 5 litros Mollie;VITRINE
+FULFILLMENT VISUAL IN;19.6;28.84;24.25.49.09.00;Lixeira Inox com Pedal 5 litros Mollie;VISUAL IN
 FULFILLMENT AMAZON;20.17;22.44;24.25.49.09.00;Lixeira Inox com Pedal 5 litros Mollie;VITRINE
 FULFILLMENT VISUAL IN;51.75;57.56;24.25.49.10.00;Lixeira Inox com Pedal 20 litros Mollie;VISUAL IN
 FULFILLMENT AMAZON;51.75;57.56;24.25.49.10.00;Lixeira Inox com Pedal 20 litros Mollie;VITRINE
@@ -1403,7 +1403,7 @@ FATURAMENTO VD ES;12.43;14.14;24.56.66.68.00;Jogo de 2 Bowls Wolff Pearl de Cris
 FATURAMENTO VD ES;10.55;12.0;24.56.66.86.00;Jogo de 2 Bowls Wolff Pearl de Cristal 15cm x 13cm x 5cm;VITRINE
 FATURAMENTO VD ES;13.83;15.84;24.56.66.90.08;Jogo de 2 Bowls Wolff Retrô de Cerâmica Vermelho 10cm x 4,5cm;VITRINE
 FATURAMENTO VD ES;3.73;4.24;24.57.159.02.10;Colher para Servir de Silicone Cinza 27cm - Lyor;VITRINE
-FATURAMENTO VD ES;4.96;5.64;24.57.159.03.04;Colher para Servir de Aço Inox Positano Dourada 26cm- Lyor;VITRINE
+FATURAMENTO VD ES;4.95;5.64;24.57.159.03.04;Colher para Servir de Aço Inox Positano Dourada 26cm- Lyor;VITRINE
 FATURAMENTO VD ES;16.82;19.13;24.57.159.05.01;Bandeja de Metal com Espelho Barcelona Preta 21cm - Lyor;VITRINE
 FATURAMENTO VD ES;49.24;56.01;24.57.159.06.04;Faqueiro 24 Peças de Aço Inox Positano Dourado;VITRINE
 FATURAMENTO VD ES;62.08;70.62;24.57.159.07.00;Faqueiro 24 Pçs Aço Inox e Cabo Estampa de Madeira Organic;VITRINE
@@ -1561,7 +1561,7 @@ FATURAMENTO VD ES;12.41;14.24;24.68.174.49.00;Mini Varal Com 16 Prendedores De P
 FATURAMENTO VD ES;28.57;32.8;24.69.163.03.00;Kit 3 Organizadores Dobráveis De Peva - Oikos;VITRINE
 FATURAMENTO VD ES;17.92;20.57;24.69.163.04.00;Caixa Organizadora Com Tampa De Bambu 24x10 - Oikos;VITRINE
 FATURAMENTO VD ES;38.52;44.21;24.69.163.06.00;Caixa Organizadora Com Tampa De Bambu 35x14 - Oikos;VITRINE
-FATURAMENTO VD ES;42.68;49.0;24.69.163.08.00;Caixa Organizadora Com Tampa De Bambu 35x22 - Oikos;VITRINE
+FATURAMENTO VD ES;42.7;49.0;24.69.163.08.00;Caixa Organizadora Com Tampa De Bambu 35x22 - Oikos;VITRINE
 FATURAMENTO VD ES;85.91;98.62;24.69.163.10.00;Prateleira de Madeira e Palhinha 2 Andares - Oikos;VITRINE
 FATURAMENTO VD ES;18.72;21.49;24.69.163.12.00;Cesto Retangular De Bambu Com Forro 29Cm - Oikos;VITRINE
 FATURAMENTO VD ES;22.43;25.75;24.69.163.13.00;Cesto Retangular De Bambu Com Forro 33Cm - Oikos;VITRINE
@@ -1591,7 +1591,7 @@ FATURAMENTO VD ES;12.7;14.57;24.69.163.76.00;Organizador Dobrável Com 6 Divisó
 FATURAMENTO VD ES;20.49;23.52;24.69.163.78.00;Organizador Dobrável Linho - Oikos;VITRINE
 FATURAMENTO VD ES;5.97;6.85;24.69.163.79.00;Organizador Para Cabeceira - Oikos;VITRINE
 FATURAMENTO VD ES;142.06;163.07;24.69.163.80.00;Organizador Multiuso 4 Andares De Acácia - Oikos;VITRINE
-FATURAMENTO VD ES;30.14;34.59;24.69.163.85.00;Cesto 45L Telado Com Tampa E Alças De Plástico - Oikos;VITRINE
+FATURAMENTO VD ES;30.13;34.59;24.69.163.85.00;Cesto 45L Telado Com Tampa E Alças De Plástico - Oikos;VITRINE
 FATURAMENTO VD ES;16.42;18.86;24.69.163.87.00;Cesto 15L Telado Com Tampa E Alçasde Plástico - Oikos;VITRINE
 FATURAMENTO VD ES;16.43;18.86;24.69.163.88.00;Cesto 15L Telado Com Tampa E Alças de Plástico Verde - Oikos;VITRINE
 FATURAMENTO VD ES;52.56;59.8;24.70.159.01.06;Lixeira Quadrada de Metal Pedal Tampa em Bambu Branca 5L;VITRINE
@@ -1840,8 +1840,8 @@ FATURAMENTO BBTOTAL ES;299.0;299.0;8.01.39.09.18;Banheira de Bebê Ofuro Opla Ro
 FATURAMENTO VD ES;105.52;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;VITRINE
 FATURAMENTO VD RJ;105.52;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;VITRINE
 FATURAMENTO BBTOTAL ES;62.52;62.52;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;BB TOTAL
-FATURAMENTO VD RJ;245.2;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;VITRINE
 FATURAMENTO VD ES;245.19;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;VITRINE
+FATURAMENTO VD RJ;245.2;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;VITRINE
 FATURAMENTO VD ES;236.89;280.69;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;VITRINE
 FULFILLMENT VISUAL IN;236.89;280.69;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;VISUAL IN
 FATURAMENTO VISUAL IN SP;205.48;324.2;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;VISUAL IN
@@ -2544,10 +2544,10 @@ FATURAMENTO VD RJ;151.44;211.18;8.05.04.04.17;Andador Infantil Follow Laranja Co
 FATURAMENTO VD RJ;95.98;133.85;8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;VITRINE
 FATURAMENTO VD RJ;95.98;133.85;8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;VITRINE
 FATURAMENTO VD RJ;286.47;399.51;8.05.23.01.11;Centro de Atividade Jumper Joyfull Infanti Verde;VITRINE
-FATURAMENTO VD RJ;176.27;207.66;8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;VITRINE
 FATURAMENTO VD ES;176.27;207.66;8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;VITRINE
-FATURAMENTO VD RJ;176.27;207.66;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;VITRINE
+FATURAMENTO VD RJ;176.27;207.66;8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;VITRINE
 FATURAMENTO VD ES;176.27;207.66;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;VITRINE
+FATURAMENTO VD RJ;176.27;207.66;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;VITRINE
 FATURAMENTO VD ES;167.5;197.32;8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;96.62;96.62;8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;BB TOTAL
 FATURAMENTO VD RJ;186.76;257.34;8.05.33.02.07;Andador e Triciclo 5-in-1 Here I Grow Blue - Tiny Love;VITRINE
@@ -4564,6 +4564,7 @@ FATURAMENTO VD RJ;3.36;4.38;8.24.23.26.18;Prato Infantil Bowl 300 ml Rosa Escuro
 FATURAMENTO VD RJ;2.92;3.94;8.24.23.27.08;Prato Infantil Bowl 300 ml Vermelho - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;2.19;2.19;8.24.23.27.08;Prato Infantil Bowl 300 ml Vermelho - Infanti;BB TOTAL
 FATURAMENTO VD RJ;3.36;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Bordô - Infanti;VITRINE
+FATURAMENTO VD RJ;3.36;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Infanti Bordô;VITRINE
 FATURAMENTO VD RJ;2.92;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.62;1.92;8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;BB TOTAL
 FATURAMENTO VD RJ;2.92;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Infanti Amarelo;VITRINE
@@ -6841,8 +6842,8 @@ FATURAMENTO VD ES;133.83;133.83;8.01.39.08.06;Banheira de Bebê Ofuro Opla Polar
 FATURAMENTO VD ES;133.03;133.03;8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;BB TUDO
 FATURAMENTO VD ES;125.03;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;BB TUDO
 FATURAMENTO VD RJ;125.03;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;BB TUDO
-FATURAMENTO VD RJ;268.62;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;BB TUDO
 FATURAMENTO VD ES;268.62;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;BB TUDO
+FATURAMENTO VD RJ;268.62;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;BB TUDO
 FATURAMENTO VD ES;280.69;280.69;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;BB TUDO
 FATURAMENTO VD RJ;475.0;475.0;8.01.47.03.10;Banheira Ofurô Adulto e Infantil Dobrável 180 Litros Cinza - KaBaby;BB TUDO
 FATURAMENTO VD RJ;108.0;108.0;8.01.53.07.07;Banheira de Bebê Bubble Land Teddy Bear Azul - Chicco;BB TUDO
@@ -7241,10 +7242,10 @@ FATURAMENTO VD RJ;211.18;211.18;8.05.04.04.17;Andador Infantil Follow Laranja Co
 FATURAMENTO VD RJ;133.85;133.85;8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;BB TUDO
 FATURAMENTO VD RJ;133.85;133.85;8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;BB TUDO
 FATURAMENTO VD RJ;399.51;399.51;8.05.23.01.11;Centro de Atividade Jumper Joyfull Infanti Verde;BB TUDO
-FATURAMENTO VD RJ;207.66;207.66;8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;BB TUDO
 FATURAMENTO VD ES;207.66;207.66;8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;BB TUDO
-FATURAMENTO VD RJ;207.66;207.66;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;BB TUDO
+FATURAMENTO VD RJ;207.66;207.66;8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;BB TUDO
 FATURAMENTO VD ES;207.66;207.66;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;BB TUDO
+FATURAMENTO VD RJ;207.66;207.66;8.05.28.09.10;Andador Torino Estrela Galzerano Cinza;BB TUDO
 FATURAMENTO VD ES;197.32;197.32;8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;BB TUDO
 FATURAMENTO VD RJ;257.34;257.34;8.05.33.02.07;Andador e Triciclo 5-in-1 Here I Grow Blue - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;239.59;239.59;8.05.33.03.18;Andador e Triciclo 5-in-1 Here I Grow Pink - Tiny Love;BB TUDO
@@ -8400,6 +8401,7 @@ FATURAMENTO VD RJ;4.38;4.38;8.24.23.25.18;Prato Infantil Bowl 300 ml Rosa Claro 
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.26.18;Prato Infantil Bowl 300 ml Rosa Escuro - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.94;3.94;8.24.23.27.08;Prato Infantil Bowl 300 ml Vermelho - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Bordô - Infanti;BB TUDO
+FATURAMENTO VD RJ;4.38;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Infanti Bordô;BB TUDO
 FATURAMENTO VD RJ;3.94;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.94;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Infanti Amarelo;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.30.07;Prato Infantil Bowl 300 ml Azul Escuro - Infanti;BB TUDO
