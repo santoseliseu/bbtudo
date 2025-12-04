@@ -155,7 +155,6 @@ FATURAMENTO VD ES;92.44;108.89;21.14.50.1379.10;Conjunto de 2 Cadeiras  Allegra 
 FATURAMENTO VD ES;184.86;217.77;21.14.50.1380.10;Conjunto de 4 Cadeiras Allegra Berrini  Cinza Brasão;VITRINE
 FATURAMENTO VD RJ;99.58;118.52;21.14.50.14.00;Conjunto 2 cadeiras Eames  Branca;VITRINE
 FATURAMENTO VD ES;199.16;237.04;21.14.50.15.00;Conjunto 4 Cadeiras Eames  Branca;VITRINE
-FATURAMENTO VD RJ;190.85;214.75;21.14.50.15.00;Conjunto 4 Cadeiras Eames  Branca;VITRINE
 FATURAMENTO VD ES;132.35;155.91;21.14.50.269.00;Cadeira Eames Eiffel Transparente  Base Aço Cromado;VITRINE
 FATURAMENTO VD RJ;132.35;155.91;21.14.50.269.00;Cadeira Eames Eiffel Transparente  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;264.7;311.82;21.14.50.270.00;Conjunto Com 2 Cadeiras Eames Eiffel Transparente  Base Aço Cromado;VITRINE
@@ -544,6 +543,7 @@ FATURAMENTO VD ES;16.16;18.54;24.11.159.119.00;Conjunto 3 Cestas Ovais de Fibra 
 FATURAMENTO VD ES;19.39;22.26;24.11.159.120.00;Cj 3 Cestos Redondos Trabalhados de Fibra Bege Palm;VITRINE
 FATURAMENTO VD ES;13.22;14.98;24.11.159.121.04;Espelho Orgânico com Borda de Metal Dourado 23cm x 35cm;VITRINE
 FATURAMENTO VD ES;13.98;15.78;24.11.159.125.06;Potiche de Cerâmica Heart Branco 10cm x 10cm x 12cm - Lyor;VITRINE
+FATURAMENTO VD ES;13.08;14.76;24.11.159.19.18;Coração Decorativo de Cerâmica Heart Rosa 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;9.04;10.28;24.11.159.20.00;Cesta Redonda de Rattan Plástico 21cm;VITRINE
 FATURAMENTO VD ES;3.38;3.82;24.11.159.28.00;Cachepot de Cristal Diamante 7,2cm - Lyor;VITRINE
 FATURAMENTO VD ES;73.53;83.31;24.11.159.32.00;Centro de Mesa de Cristal Deli Diamond 32,2cm - Lyor;VITRINE
@@ -733,6 +733,7 @@ FATURAMENTO VD ES;70.35;79.71;24.50.66.155.00;Centro de Mesa Wolff Queen de Cris
 FATURAMENTO VD ES;60.17;67.91;24.50.66.180.06;Figura Boneca Wolff de Resina Balões Branco 7cm x 7cm x 30cm;VITRINE
 FATURAMENTO VD ES;53.24;60.32;24.50.66.201.00;Lupa Decorativa Wolff de Metal e Madeira 20cm x 7cm x 2cm;VITRINE
 FATURAMENTO VD ES;20.94;23.79;24.50.66.210.05;PORTA-RETRATO AÇO BAMBU PRATEADO 20x25cm;VITRINE
+FATURAMENTO VD ES;20.94;23.79;24.50.66.210.05;Porta-Retrato Wolff Bambu de Aço Prata 20cm x 25cm;VITRINE
 FATURAMENTO VD ES;22.24;25.26;24.50.66.212.05;PORTA-RETRATO AÇO CHESS PRATEADO 20x25cm;VITRINE
 FATURAMENTO VD ES;9.89;11.24;24.50.66.213.05;PORTA-RETRATO AÇO CHESS PRATEADO 13x18cm;VITRINE
 FATURAMENTO VD ES;26.75;30.38;24.50.66.218.05;PORTA-RETRATO AÇO PRATEADO 20x25cm;VITRINE
@@ -1812,6 +1813,7 @@ FATURAMENTO VD RJ;107.26;123.12;8.01.28.32.10;Banheira de Bebê Plástica Koa Br
 FATURAMENTO BBTOTAL ES;64.62;64.62;8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;BB TOTAL
 FATURAMENTO VD ES;117.62;139.37;8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;VITRINE
 FATURAMENTO VD RJ;117.63;139.37;8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;VITRINE
+FATURAMENTO VD RJ;42.97;50.91;8.01.28.34.18;Banheira de Bebê Plástica Rose - Galzerano;VITRINE
 FATURAMENTO VD ES;42.97;50.91;8.01.28.34.18;Banheira de Bebê Plástica Rose - Galzerano;VITRINE
 FATURAMENTO VD ES;236.89;280.69;8.01.39.02.06;Banheira de Bebê Millenia+ Burigotto Branca;VITRINE
 FULFILLMENT VISUAL IN;236.89;280.69;8.01.39.02.06;Banheira de Bebê Millenia+ Burigotto Branca;VISUAL IN
@@ -6817,6 +6819,7 @@ FATURAMENTO VD ES;123.12;123.12;8.01.28.32.10;Banheira de Bebê Plástica Koa Br
 FATURAMENTO VD RJ;123.12;123.12;8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;BB TUDO
 FATURAMENTO VD ES;139.37;139.37;8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;BB TUDO
 FATURAMENTO VD RJ;139.37;139.37;8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;BB TUDO
+FATURAMENTO VD RJ;50.91;50.91;8.01.28.34.18;Banheira de Bebê Plástica Rose - Galzerano;BB TUDO
 FATURAMENTO VD ES;50.91;50.91;8.01.28.34.18;Banheira de Bebê Plástica Rose - Galzerano;BB TUDO
 FATURAMENTO VD ES;280.69;280.69;8.01.39.02.06;Banheira de Bebê Millenia+ Burigotto Branca;BB TUDO
 FATURAMENTO VD ES;280.69;280.69;8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;BB TUDO
