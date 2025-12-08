@@ -182,7 +182,6 @@ FATURAMENTO VD ES;111.55;131.4;21.14.50.331.00;Conjunto Com 2 Cadeiras Eames Com
 FATURAMENTO VD RJ;49.79;59.26;21.14.50.34.00;Cadeira Eames  Preto;VITRINE
 FATURAMENTO VD ES;49.79;59.26;21.14.50.34.00;Cadeira Eames  Preto;VITRINE
 FATURAMENTO VD ES;51.03;59.17;21.14.50.348.00;Cadeira Eames Eiffel Preta  Base Preta;VITRINE
-FATURAMENTO VD RJ;50.02;59.12;21.14.50.348.00;Cadeira Eames Eiffel Preta  Base Preta;VITRINE
 FATURAMENTO VD RJ;99.58;118.52;21.14.50.35.00;Conjunto 2 Cadeiras Eames  Preto;VITRINE
 FATURAMENTO VD RJ;199.16;237.04;21.14.50.36.00;Conjunto 4 Cadeiras Eames  Preto;VITRINE
 FATURAMENTO VD ES;51.25;60.37;21.14.50.364.00;Cadeira Eames Eiffel Rosa  Base Aço Cromado;VITRINE
@@ -2729,7 +2728,6 @@ FATURAMENTO VD RJ;487.12;674.0;8.06.23.09.07;Cadeira de Alimentação Pepper 0 m
 FATURAMENTO VD RJ;487.12;674.0;8.06.23.09.07;Cadeira de Alimentação Pepper Infanti Grey Lush;VITRINE
 FATURAMENTO VD RJ;125.13;174.5;8.06.23.10.01;Cadeira de Alimentação Portátil Toast Infanti Black Lush;VITRINE
 FULFILLMENT AMAZON;125.13;174.5;8.06.23.10.01;Cadeira de Alimentação Portátil Toast Infanti Black Lush;VITRINE
-FULFILLMENT MELI;250.27;284.4;8.06.23.10.01;Cadeira de Alimentação Portátil Toast Infanti Black Lush;VITRINE
 FATURAMENTO VD RJ;125.13;174.5;8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;VITRINE
 FULFILLMENT AMAZON;125.13;174.5;8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;VITRINE
 FATURAMENTO VD RJ;125.13;174.5;8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;VITRINE
@@ -3370,8 +3368,6 @@ FATURAMENTO VD RJ;797.88;1099.5;8.09.02.82.80;Carrinho de Bebê Eva Essential Gr
 FATURAMENTO BBTOTAL ES;463.97;549.75;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite - Maxi-Cosi;BB TOTAL
 FULFILLMENT MELI;772.42;1063.89;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;797.88;1099.5;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;797.88;1099.5;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite Maxi-Cosi;VITRINE
-FATURAMENTO BBTOTAL ES;463.97;549.75;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite Maxi-Cosi;BB TOTAL
 FULFILLMENT AMAZON;1163.06;1622.01;8.09.02.83.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1153.03;1607.82;8.09.02.83.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1163.06;1622.01;8.09.02.83.01;Travel System Eva Essential Black Trio Maxi-Cosi;VITRINE
@@ -4222,7 +4218,6 @@ FATURAMENTO BBTOTAL ES;58.7;67.39;8.11.92.12.00;Mochila Infantil Zoo Raposa - Sk
 FATURAMENTO VD RJ;179.52;194.32;8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;VITRINE
 FATURAMENTO BBTOTAL ES;78.2;89.76;8.11.92.16.00;Mochila Infantil Spark Style Espaço - SkipHop;BB TOTAL
 FATURAMENTO VD RJ;179.52;194.32;8.11.92.16.00;Mochila Infantil Spark Style Espaço SkipHop;VITRINE
-FATURAMENTO BBTOTAL ES;78.2;89.76;8.11.92.16.00;Mochila Infantil Spark Style Espaço SkipHop;BB TOTAL
 FATURAMENTO BBTOTAL ES;65.2;74.84;8.11.92.20.00;Mochila Infantil Zoo Dino - Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;134.41;149.68;8.11.92.20.00;Mochila Infantil Zoo Dino - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;506.82;581.76;8.11.93.01.07;Mala de Viagem Jet Kids Bedbox Blue Stokke;BB TOTAL
@@ -5980,7 +5975,6 @@ FATURAMENTO BBTOTAL ES;10.37;10.37;8.25.83.01.00;Bolsa Térmica em Gel para Cól
 FATURAMENTO VD RJ;34.8;37.14;8.25.85.01.00;Coletor Manual de Leite Materno - Loren Baby;VITRINE
 FATURAMENTO BBTOTAL ES;18.57;18.57;8.25.85.01.00;Coletor Manual de Leite Materno - Loren Baby;BB TOTAL
 FATURAMENTO VD RJ;34.8;37.14;8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;VITRINE
-FATURAMENTO BBTOTAL ES;18.57;18.57;8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;BB TOTAL
 FATURAMENTO BBTOTAL ES;230.16;264.19;8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;BB TOTAL
 FATURAMENTO VD RJ;469.99;528.38;8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;VITRINE
 FATURAMENTO VD RJ;669.47;748.11;8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;VITRINE
@@ -7693,7 +7687,6 @@ FATURAMENTO VD RJ;1947.98;1947.98;8.09.02.72.01;Carrinho de Bebê Lila CP² Maxi
 FATURAMENTO VD RJ;2638.36;2638.36;8.09.02.74.01;Carrinho com Bebê Conforto Travel System Lila CP² Trio Essential Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;2638.36;2638.36;8.09.02.74.01;Travel System Lila CP² Trio Maxi-Cosi - Essential Black;BB TUDO
 FATURAMENTO VD RJ;1099.5;1099.5;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;1099.5;1099.5;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;2110.59;2110.59;8.09.02.83.76;Carrinho de Bebê Lila CP² Essential Graphite Brown - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1978.77;1978.77;8.09.02.86.76;Carrinho com Bebê Conforto Travel System Lila CP² Trio Essential Graphite Brown - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1978.77;1978.77;8.09.02.86.76;Travel System Lila CP² Trio Maxi-Cosi Essential Graphite Brown;BB TUDO
