@@ -1083,7 +1083,7 @@ FATURAMENTO VD ES;16.77;19.08;24.53.66.35.06;Pote Wolff Vintage Flores de Cerâm
 FATURAMENTO VD ES;60.65;69.0;24.53.66.37.00;Panela Wolff Revestimento Cerâmico Indução Granilite Cinza 20cm;VITRINE
 FATURAMENTO VD ES;69.71;78.98;24.53.66.41.00;Conjunto 6 Taças de Vinho Branco de Cristal Ecológico Gastro Colibri 350ml - Bohemia;VITRINE
 FATURAMENTO VD ES;5.07;5.78;24.53.66.46.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 210ml - Wolff;VITRINE
-FATURAMENTO VD ES;4.6;5.23;24.53.66.47.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 160ml - Wolff;VITRINE
+FATURAMENTO VD ES;4.59;5.23;24.53.66.47.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 160ml - Wolff;VITRINE
 FATURAMENTO VD ES;4.28;4.86;24.53.66.48.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 120ml - Wolff;VITRINE
 FATURAMENTO VD ES;3.7;4.21;24.53.66.49.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 90ml - Wolff;VITRINE
 FATURAMENTO VD ES;3.4;3.86;24.53.66.50.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 60ml - Wolff;VITRINE
@@ -1221,7 +1221,8 @@ FATURAMENTO VD ES;6.82;7.73;24.54.66.421.00;Taça Para Água Com Fio De Ouro Gre
 FATURAMENTO VD ES;6.88;7.79;24.54.66.428.00;Taça Para Água Brand 320ml Âmbar Metalizado Vidro;VITRINE
 FATURAMENTO VD ES;6.64;7.52;24.54.66.437.00;Taça Para Água Com Fio De Ouro Roman 345Ml Vidro;VITRINE
 FATURAMENTO VD ES;42.45;48.09;24.54.66.45.08;Jogo de 6 Taças de Água Wolff Greek Vermelho de Vidro 345ml;VITRINE
-FATURAMENTO VD ES;4.82;5.45;24.54.66.456.00;Copo Alto Para Drink Allure 425Ml Vidro;VITRINE
+FATURAMENTO VD ES;4.81;5.46;24.54.66.456.00;Copo Alto Para Drink Allure 425Ml Vidro;VITRINE
+FATURAMENTO VD ES;34.2;38.75;24.54.66.57.00;Jogo de 6 Taças para Água Wolff Roman de Vidro 345ml;VITRINE
 FATURAMENTO VD ES;37.15;42.09;24.54.66.65.00;Jogo de 6 Taças Wolff Angel de Cristal Transparente 245ml;VITRINE
 FATURAMENTO VD ES;40.89;46.33;24.54.66.67.07;Jogo de 6 Taças Wolff Brand de Vidro Azul Escuro 345ml;VITRINE
 FATURAMENTO VD ES;32.43;36.74;24.54.66.68.18;Jogo de 6 Taças Wolff Brand de Vidro Rosa 345ml;VITRINE
@@ -1313,6 +1314,7 @@ FATURAMENTO VD ES;15.37;17.49;24.56.159.57.00;Prato Raso de Cristal Coração Â
 FATURAMENTO VD ES;3.33;3.78;24.56.159.81.06;Prato Raso de Melamina Basic Branco 25,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;5.65;6.4;24.56.159.92.00;Folha Decorativa de Cristal Leaf 19,8cm - Lyor;VITRINE
 FATURAMENTO VD ES;8.58;9.77;24.56.159.96.00;Prato para Sobremesa Cristal Coração Âmbar Metalizado 20cm;VITRINE
+FATURAMENTO VD ES;5.71;6.47;24.56.159.99.00;Taça para Água de Cristal Palm 240ml - Lyor;VITRINE
 FATURAMENTO VD ES;21.59;24.46;24.56.66.10.00;Jogo de 2 Pratos para Sobremesa Wolff Pétala de Porcelana Bege Jogo de0cm;VITRINE
 FATURAMENTO VD ES;25.13;28.47;24.56.66.154.06;Jogo de 4 Pratos Wolff Heart  Beads de Porcelana Branco 17cm x 15cm x 2cm;VITRINE
 FATURAMENTO VD ES;9.08;10.29;24.56.66.155.00;Jogo de 4 Pratos Wolff Heart  Beads de Porcelana Rose 12cm x 10cm x 1cm;VITRINE
@@ -1742,13 +1744,13 @@ FATURAMENTO VD ES;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Galzeran
 FATURAMENTO VD RJ;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Galzerano Branca;VITRINE
 FATURAMENTO VD ES;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Sem Suporte Branca - Galzerano;VITRINE
 FATURAMENTO VD RJ;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Sem Suporte Branca - Galzerano;VITRINE
-FULFILLMENT VISUAL IN;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VISUAL IN
 FATURAMENTO VD ES;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VITRINE
+FULFILLMENT VISUAL IN;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;116.88;137.06;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VITRINE
 FULFILLMENT MAGALU;115.1;130.8;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;70.41;70.41;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;BB TOTAL
-FULFILLMENT VISUAL IN;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VISUAL IN
 FATURAMENTO VD ES;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VITRINE
+FULFILLMENT VISUAL IN;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VISUAL IN
 FATURAMENTO VD RJ;116.88;137.06;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VITRINE
 FULFILLMENT MAGALU;115.1;130.8;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VITRINE
 FATURAMENTO VD ES;26.06;30.88;8.01.28.16.06;Redutor de Banheira de Bebê Plastica Galzerano Branco;VITRINE
@@ -1814,8 +1816,8 @@ FATURAMENTO BBTOTAL ES;299.0;299.0;8.01.39.09.18;Banheira de Bebê Ofuro Opla Ro
 FATURAMENTO VD ES;105.52;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;VITRINE
 FATURAMENTO VD RJ;105.52;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;VITRINE
 FATURAMENTO BBTOTAL ES;62.52;62.52;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;BB TOTAL
-FATURAMENTO VD RJ;245.2;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;VITRINE
 FATURAMENTO VD ES;245.19;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;VITRINE
+FATURAMENTO VD RJ;245.2;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;VITRINE
 FATURAMENTO VD ES;236.89;280.69;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;VITRINE
 FULFILLMENT VISUAL IN;236.89;280.69;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;VISUAL IN
 FATURAMENTO VISUAL IN SP;205.48;324.2;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;VISUAL IN
@@ -2094,10 +2096,11 @@ FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho -
 FATURAMENTO VD RJ;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;VITRINE
 FATURAMENTO BBTOTAL ES;40.48;47.96;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;BB TOTAL
 FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.03.18;Almofada De Banho Rosa - Baby Pil;VISUAL IN
+FATURAMENTO VD ES;86.85;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VITRINE
 FATURAMENTO VD RJ;85.33;101.19;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;85.33;101.19;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VISUAL IN
 FATURAMENTO BBTOTAL ES;41.5;49.16;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TOTAL
-FATURAMENTO VD ES;86.85;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VITRINE
+FATURAMENTO VD ES;86.85;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;VITRINE
 FATURAMENTO VD RJ;85.33;101.19;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;VITRINE
 FATURAMENTO VD RJ;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VISUAL IN
@@ -3832,8 +3835,8 @@ FATURAMENTO VD RJ;582.88;723.86;8.09.28.69.00;Carrinho Olympus Galzerano Chocola
 FATURAMENTO VD RJ;582.88;723.86;8.09.28.69.00;Carrinho de Bebê Olympus Chocolate - Galzerano;VITRINE
 FATURAMENTO VD RJ;582.88;723.86;8.09.28.70.10;Carrinho Olympus Galzerano Cinza;VITRINE
 FATURAMENTO VD RJ;582.88;723.86;8.09.28.70.10;Carrinho de Bebê Olympus Cinza - Galzerano;VITRINE
-FULFILLMENT VISUAL IN;451.77;712.78;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;VISUAL IN
 FATURAMENTO VD ES;557.95;653.72;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;VITRINE
+FULFILLMENT VISUAL IN;451.77;712.78;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;VISUAL IN
 FATURAMENTO BBTOTAL ES;318.79;318.79;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;BB TOTAL
 FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VISUAL IN
@@ -5219,7 +5222,7 @@ FATURAMENTO VD RJ;105.4;113.95;8.25.105.09.17;Cesto Organizador Quadrado Tigre -
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.10.10;Cesto Organizador Quadrado Elefante - 3 Sprouts;VITRINE
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.11.16;Cesto Organizador Quadrado Leão - 3 Sprouts;VITRINE
 FATURAMENTO VD RJ;105.4;113.95;8.25.105.12.10;Cesto Organizador Quadrado Lhama - 3 Sprouts;VITRINE
-FATURAMENTO VD RJ;46.62;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
+FATURAMENTO VD RJ;46.61;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
 FATURAMENTO VD ES;46.61;52.07;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;VITRINE
 FATURAMENTO BBTOTAL ES;28.08;28.08;8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;BB TOTAL
 FATURAMENTO BBTOTAL ES;2.5;2.5;8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;BB TOTAL
@@ -5478,7 +5481,6 @@ FATURAMENTO VD ES;40.96;46.59;8.25.57.108.18;Kit Cuidados com o Bebê Com Estojo
 FATURAMENTO BBTOTAL ES;21.77;21.77;8.25.57.108.18;Kit Cuidados com o Bebê Com Estojo 9 Itens Rosa - Buba;BB TOTAL
 FATURAMENTO VD ES;40.31;45.87;8.25.57.109.11;Kit Cuidados Com Estojo Verde - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;18.5;18.5;8.25.57.109.11;Kit Cuidados Com Estojo Verde - Buba;BB TOTAL
-FATURAMENTO VD RJ;35.52;37.0;8.25.57.109.11;Kit Cuidados Com Estojo Verde - Buba;VITRINE
 FATURAMENTO VD ES;40.31;45.87;8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;18.5;18.5;8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;BB TOTAL
 FATURAMENTO VD RJ;35.52;37.0;8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;VITRINE
@@ -6799,8 +6801,8 @@ FATURAMENTO VD ES;133.83;133.83;8.01.39.08.06;Banheira de Bebê Ofuro Opla Polar
 FATURAMENTO VD ES;133.03;133.03;8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;BB TUDO
 FATURAMENTO VD ES;125.03;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;BB TUDO
 FATURAMENTO VD RJ;125.03;125.03;8.01.39.10.07;Banheira de Bebê Ofuro Opla Baby Blue - Burigotto;BB TUDO
-FATURAMENTO VD RJ;268.62;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;BB TUDO
 FATURAMENTO VD ES;268.62;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;BB TUDO
+FATURAMENTO VD RJ;268.62;268.62;8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;BB TUDO
 FATURAMENTO VD ES;280.69;280.69;8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;BB TUDO
 FATURAMENTO VD RJ;475.0;475.0;8.01.47.03.10;Banheira Ofurô Adulto e Infantil Dobrável 180 Litros Cinza - KaBaby;BB TUDO
 FATURAMENTO VD RJ;108.0;108.0;8.01.53.07.07;Banheira de Bebê Bubble Land Teddy Bear Azul - Chicco;BB TUDO
@@ -6973,8 +6975,9 @@ FATURAMENTO VD RJ;61.39;61.39;8.03.57.03.69;Almofada de Atividades Panda - Buba�
 FATURAMENTO VD RJ;61.39;61.39;8.03.57.04.69;Almofada de Atividades Amazônia - Buba;BB TUDO
 FATURAMENTO VD RJ;293.68;293.68;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;BB TUDO
 FATURAMENTO VD RJ;95.91;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;BB TUDO
-FATURAMENTO VD RJ;101.19;101.19;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
+FATURAMENTO VD RJ;101.19;101.19;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
+FATURAMENTO VD ES;97.2;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;BB TUDO
 FATURAMENTO VD RJ;101.19;101.19;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.69;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
@@ -8961,7 +8964,6 @@ FATURAMENTO VD RJ;23.83;23.83;8.25.57.105.00;Capa Protetora Solar Para Janela Tr
 FATURAMENTO VD ES;43.53;43.53;8.25.57.107.07;Kit Cuidados com o Bebê Com Estojo 9 Itens Azul - Buba;BB TUDO
 FATURAMENTO VD ES;46.59;46.59;8.25.57.108.18;Kit Cuidados com o Bebê Com Estojo 9 Itens Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;45.87;45.87;8.25.57.109.11;Kit Cuidados Com Estojo Verde - Buba;BB TUDO
-FATURAMENTO VD RJ;37.0;37.0;8.25.57.109.11;Kit Cuidados Com Estojo Verde - Buba;BB TUDO
 FATURAMENTO VD ES;45.87;45.87;8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;BB TUDO
 FATURAMENTO VD RJ;37.0;37.0;8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;BB TUDO
 FATURAMENTO VD RJ;18.99;18.99;8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;BB TUDO
