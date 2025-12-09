@@ -535,6 +535,7 @@ FATURAMENTO VD ES;73.53;83.31;24.11.159.32.00;Centro de Mesa de Cristal Deli Dia
 FATURAMENTO VD ES;23.41;26.52;24.11.159.33.00;Centro de Mesa de Cristal com Pé Deli Diamond 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;12.92;14.7;24.11.159.36.00;Cesta Oval de Plástico com Forro em Tecido 27cm;VITRINE
 FATURAMENTO VD ES;10.41;11.84;24.11.159.39.00;Cesta Oval de plástico com Forro em Tecido 24cm;VITRINE
+FATURAMENTO VD ES;29.2;33.09;24.11.159.47.00;Potiche Cristal com Pé Diamond Âmbar Metalizado 15cm Lyor;VITRINE
 FATURAMENTO VD ES;31.78;36.02;24.11.159.49.00;Potiche Cristal com Pé Diamond Âmbar Metalizado 15cm Lyor;VITRINE
 FATURAMENTO VD ES;5.97;6.76;24.11.159.51.00;Potiche de Cristal Carrossel 10,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;12.43;14.27;24.11.159.69.01;Ventilador Repelente de Mesa de Plástico Preto 26cm x 9cm;VITRINE
@@ -1214,6 +1215,7 @@ FATURAMENTO VD ES;45.96;52.07;24.54.66.393.00;"Kit 2 Taças Vinho Vidro Haste Â
 ";VITRINE
 FATURAMENTO VD ES;19.72;22.34;24.54.66.395.00;Conjunto 2 Taças para Vinho de Vidro Lotus 350ml - Wolff;VITRINE
 FATURAMENTO VD ES;6.56;7.43;24.54.66.398.00;Copo Alto Palm Tree Handpaint 360Ml Cristal;VITRINE
+FATURAMENTO VD ES;6.34;7.21;24.54.66.406.00;Taça De Sobremesa Angel 260ml Cristal;VITRINE
 FATURAMENTO VD ES;5.32;6.03;24.54.66.414.00;Copo Alto Para Drink Stella Vidro 360Ml;VITRINE
 FATURAMENTO VD ES;36.03;40.82;24.54.66.42.00;Jogo de 6 Taças de Água Wolff Greek Rainbow de Vidro 345ml;VITRINE
 FATURAMENTO VD ES;6.82;7.73;24.54.66.421.00;Taça Para Água Com Fio De Ouro Greek 320Ml Vidro;VITRINE
@@ -1481,6 +1483,7 @@ FATURAMENTO VD ES;20.35;23.15;24.57.66.581.00;Tábua de Melamina com Estampa de 
 FATURAMENTO VD ES;26.85;30.54;24.57.66.599.00;Sousplat de Cristal com Borda Dourada Linen 33cm - Wolff;VITRINE
 FATURAMENTO VD ES;15.25;17.5;24.57.66.604.00;Lugar Americano de Sisal Mandala Flor 32cm - Wolff;VITRINE
 FATURAMENTO VD ES;5.96;6.78;24.57.66.607.00;Lugar Americano de Poliéster Babado Dourado 38cm - Wolff;VITRINE
+FATURAMENTO VD ES;5.96;6.78;24.57.66.610.00;Lugar Americano de Poliéster Babado Prateado 38cm - Wolff;VITRINE
 FATURAMENTO VD ES;15.7;18.02;24.57.66.64.08;Jogo de 2 Guardanapos Wolff de Algodão Vermelho 40cm;VITRINE
 FATURAMENTO VD ES;21.02;24.12;24.57.66.667.00;Conjunto 4 Peças Para Queijo Com Tábua Ladrilho;VITRINE
 FATURAMENTO VD ES;50.61;58.09;24.57.66.668.00;Conjunto 6 Peças Queijo De Bambu Com Tábua Ladrilho 23Cm;VITRINE
@@ -1749,14 +1752,14 @@ FATURAMENTO VD ES;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Galzeran
 FATURAMENTO VD RJ;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Galzerano Branca;VITRINE
 FATURAMENTO VD ES;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Sem Suporte Branca - Galzerano;VITRINE
 FATURAMENTO VD RJ;45.79;54.25;8.01.28.10.06;Banheira de Bebê Plástica Sem Suporte Branca - Galzerano;VITRINE
+FATURAMENTO VD RJ;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VITRINE
 FATURAMENTO VD ES;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VISUAL IN
-FATURAMENTO VD RJ;116.88;137.06;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VITRINE
 FULFILLMENT MAGALU;115.1;130.8;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;70.41;70.41;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;BB TOTAL
+FATURAMENTO VD RJ;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VITRINE
 FATURAMENTO VD ES;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VITRINE
 FULFILLMENT VISUAL IN;116.88;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VISUAL IN
-FATURAMENTO VD RJ;116.88;137.06;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VITRINE
 FULFILLMENT MAGALU;115.1;130.8;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;VITRINE
 FATURAMENTO VD ES;26.06;30.88;8.01.28.16.06;Redutor de Banheira de Bebê Plastica Galzerano Branco;VITRINE
 FATURAMENTO VD RJ;26.06;30.88;8.01.28.16.06;Redutor de Banheira de Bebê Plastica Galzerano Branco;VITRINE
@@ -2988,6 +2991,7 @@ FULFILLMENT MELI;644.98;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 36
 FATURAMENTO BBTOTAL ES;449.75;449.75;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;BB TOTAL
 FATURAMENTO VD RJ;421.37;587.65;8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;VITRINE
 FULFILLMENT MELI;421.37;587.65;8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;VITRINE
+FATURAMENTO BBTOTAL ES;293.83;293.83;8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;BB TOTAL
 FATURAMENTO VD RJ;400.31;558.27;8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;VITRINE
 FULFILLMENT MELI;400.31;558.27;8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;VITRINE
 FATURAMENTO VD RJ;517.47;721.67;8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;VITRINE
@@ -6779,10 +6783,10 @@ FATURAMENTO VD ES;54.25;54.25;8.01.28.10.06;Banheira de Bebê Plástica Galzeran
 FATURAMENTO VD RJ;54.25;54.25;8.01.28.10.06;Banheira de Bebê Plástica Galzerano Branca;BB TUDO
 FATURAMENTO VD ES;54.25;54.25;8.01.28.10.06;Banheira de Bebê Plástica Sem Suporte Branca - Galzerano;BB TUDO
 FATURAMENTO VD RJ;54.25;54.25;8.01.28.10.06;Banheira de Bebê Plástica Sem Suporte Branca - Galzerano;BB TUDO
+FATURAMENTO VD RJ;138.48;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;BB TUDO
 FATURAMENTO VD ES;138.48;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;BB TUDO
-FATURAMENTO VD RJ;137.06;137.06;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;BB TUDO
+FATURAMENTO VD RJ;138.48;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;BB TUDO
 FATURAMENTO VD ES;138.48;138.48;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;BB TUDO
-FATURAMENTO VD RJ;137.06;137.06;8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Galzerano Branca;BB TUDO
 FATURAMENTO VD ES;30.88;30.88;8.01.28.16.06;Redutor de Banheira de Bebê Plastica Galzerano Branco;BB TUDO
 FATURAMENTO VD RJ;30.88;30.88;8.01.28.16.06;Redutor de Banheira de Bebê Plastica Galzerano Branco;BB TUDO
 FATURAMENTO VD ES;30.88;30.88;8.01.28.16.06;Redutor de Banheira de Bebê Plásstica Branco - Galzerano;BB TUDO
