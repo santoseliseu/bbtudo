@@ -96,7 +96,6 @@ FATURAMENTO VD RJ;47.11;53.53;21.14.50.1157.00;Cadeira Kaila Dsw Preto  Base Mad
 FATURAMENTO VD ES;38.68;45.57;21.14.50.1157.00;Cadeira Kaila Dsw Preto  Base Madeira;VITRINE
 FATURAMENTO VD ES;38.69;45.57;21.14.50.1158.00;Cadeira Kaila Dsw Branco  Base Madeira;VITRINE
 FATURAMENTO VD ES;38.69;45.57;21.14.50.1159.00;Cadeira Kaila Dsw Fendi  Base Madeira;VITRINE
-FATURAMENTO VD ES;38.68;45.57;21.14.50.1160.00;Cadeira Kaila Dsw Konkret  Base Madeira;VITRINE
 FATURAMENTO VD ES;0.01;0.01;21.14.50.1167.57;Conjunto Com 4 Cadeiras Windsor Creme  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;36.67;43.2;21.14.50.1171.10;Cadeira Eames Konkret  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;35.06;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro  Base Em Madeira;VITRINE
@@ -168,7 +167,6 @@ FATURAMENTO VD ES;269.95;318.01;21.14.50.30.00;Conjunto 4 Cadeiras Eames  Fendi;
 FATURAMENTO VD RJ;203.64;241.72;21.14.50.30.00;Conjunto 4 Cadeiras Eames  Fendi;VITRINE
 FATURAMENTO VD ES;113.07;133.19;21.14.50.300.00;Cadeira Eames Com Braço Eiffel Preta  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;56.27;65.96;21.14.50.301.00;Cadeira Eames Com Braço Eiffel Preta  Base Preta;VITRINE
-FATURAMENTO VD RJ;66.2;75.22;21.14.50.301.00;Cadeira Eames Com Braço Eiffel Preta  Base Preta;VITRINE
 FATURAMENTO VD ES;112.29;131.79;21.14.50.302.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Preta  Base Preta;VITRINE
 FATURAMENTO VD ES;55.77;65.7;21.14.50.305.00;Cadeira Eames Com Braço Eiffel Branco  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;194.62;229.26;21.14.50.306.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Branco  Base Aço Cromado;VITRINE
@@ -704,7 +702,6 @@ FATURAMENTO VD ES;65.58;74.3;24.50.66.140.00;Centro de Mesa Wolff Italy de Vidro
 FATURAMENTO VD ES;60.17;67.91;24.50.66.180.06;Figura Boneca Wolff de Resina Balões Branco 7cm x 7cm x 30cm;VITRINE
 FATURAMENTO VD ES;53.24;60.32;24.50.66.201.00;Lupa Decorativa Wolff de Metal e Madeira 20cm x 7cm x 2cm;VITRINE
 FATURAMENTO VD ES;20.73;23.55;24.50.66.210.05;PORTA-RETRATO AÇO BAMBU PRATEADO 20x25cm;VITRINE
-FATURAMENTO VD ES;20.73;23.55;24.50.66.210.05;Porta-Retrato Wolff Bambu de Aço Prata 20cm x 25cm;VITRINE
 FATURAMENTO VD ES;22.24;25.26;24.50.66.212.05;PORTA-RETRATO AÇO CHESS PRATEADO 20x25cm;VITRINE
 FATURAMENTO VD ES;9.9;11.24;24.50.66.213.05;PORTA-RETRATO AÇO CHESS PRATEADO 13x18cm;VITRINE
 FATURAMENTO VD ES;26.75;30.38;24.50.66.218.05;PORTA-RETRATO AÇO PRATEADO 20x25cm;VITRINE
@@ -828,6 +825,7 @@ FATURAMENTO VD ES;16.11;18.24;24.52.159.127.06;Caneca Super White com Tampa e Fi
 FATURAMENTO VD ES;5.33;6.07;24.52.159.13.00;Caneca de Vidro Borossilicato Love 280ml;VITRINE
 FATURAMENTO VD ES;12.6;14.34;24.52.159.133.07;Cj 2 Canecas de Vidro Borossilicato com Alça Azul 270ml;VITRINE
 FATURAMENTO VD RJ;11.0;12.02;24.52.159.138.00;Conjunto 6 Canecas de Vidro Vintage 95ml - Lyor;VITRINE
+FATURAMENTO VD ES;3.95;4.5;24.52.159.20.00;Caneca de Vidro Borossilicato Love 125ml - Lyor;VITRINE
 FATURAMENTO VD ES;6.88;7.79;24.52.159.21.00;Caneca de Porcelana Creamy Milk Branca e Preta 260ml - Lyor;VITRINE
 FATURAMENTO VD ES;34.57;39.32;24.52.159.27.00;Chaleira de Vidro Borossilicato Classic 600ml - Lyor;VITRINE
 FATURAMENTO VD ES;17.68;20.12;24.52.159.28.00;Chaleira de Vidro Borossilicato 550ml - Lyor;VITRINE
@@ -880,7 +878,6 @@ FATURAMENTO VD ES;19.47;22.06;24.52.66.200.01;Garrafa Térmica Wolff de Aço Ino
 FATURAMENTO VD ES;34.85;39.49;24.52.66.206.11;Garrafa Térmica Wolff Nórdica Verde de Plástico 1L;VITRINE
 FATURAMENTO VD ES;5.77;6.56;24.52.66.218.00;Manteigueira Wolff Pearl de Cristal 11cm x 7cm x 7cm;VITRINE
 FATURAMENTO VD ES;9.21;10.48;24.52.66.220.00;Manteigueira Wolff Pearl de Cristal Âmbar 14cm x 9cm x 8cm;VITRINE
-FATURAMENTO VD ES;11.86;13.43;24.52.66.23.08;Açucareiro Wolff Pétala de Porcelana Vermelho 10,5cm x 8,5cm;VITRINE
 FATURAMENTO VD ES;19.47;22.15;24.52.66.265.00;Xícara de Café e Chá Wolff de Vidro Borossilicato 250ml;VITRINE
 FATURAMENTO VD ES;9.46;10.76;24.52.66.268.00;Xícara de Chá Wolff Pearl de Cristal 180ml;VITRINE
 FATURAMENTO VD ES;38.33;43.61;24.52.66.281.00;Conjunto 6 Xícaras de Chá de Vidro com Pires Pétala 220ml - Wolff;VITRINE
@@ -1201,7 +1198,6 @@ FATURAMENTO VD ES;6.56;7.43;24.54.66.398.00;Copo Alto Palm Tree Handpaint 360Ml 
 FATURAMENTO VD ES;5.32;6.02;24.54.66.414.00;Copo Alto Para Drink Stella Vidro 360Ml;VITRINE
 FATURAMENTO VD ES;36.03;40.82;24.54.66.42.00;Jogo de 6 Taças de Água Wolff Greek Rainbow de Vidro 345ml;VITRINE
 FATURAMENTO VD ES;6.82;7.73;24.54.66.421.00;Taça Para Água Com Fio De Ouro Greek 320Ml Vidro;VITRINE
-FATURAMENTO VD ES;6.64;7.52;24.54.66.437.00;Taça Para Água Com Fio De Ouro Roman 345Ml Vidro;VITRINE
 FATURAMENTO VD ES;42.45;48.09;24.54.66.45.08;Jogo de 6 Taças de Água Wolff Greek Vermelho de Vidro 345ml;VITRINE
 FATURAMENTO VD ES;4.82;5.46;24.54.66.456.00;Copo Alto Para Drink Allure 425Ml Vidro;VITRINE
 FATURAMENTO VD ES;6.56;7.43;24.54.66.470.08;Taça Para Água Roman 345Ml Vermelha Vidro;VITRINE
@@ -1320,7 +1316,7 @@ FATURAMENTO VD ES;16.71;19.01;24.56.66.293.00;Prato para Servir Wolff Taj de Cri
 FATURAMENTO VD ES;13.29;15.06;24.56.66.309.00;Prato para Sobremesa Wolff Fancy de Porcelana Rose 20cm;VITRINE
 FATURAMENTO VD ES;8.93;10.19;24.56.66.321.06;Prato Raso Wolff Bambu de Melamina Branco 27cm;VITRINE
 FATURAMENTO VD ES;19.51;22.19;24.56.66.327.04;Prato Raso Wolff de Cristal Dourado Agate 26cm;VITRINE
-FATURAMENTO VD ES;12.14;13.82;24.56.66.33.00;Travessa Wolff Pearl de Cristal 30cm x 13cm x 3cm;VITRINE
+FATURAMENTO VD ES;11.8;13.43;24.56.66.33.00;Travessa Wolff Pearl de Cristal 30cm x 13cm x 3cm;VITRINE
 FATURAMENTO VD ES;8.59;9.84;24.56.66.338.06;Prato Raso Wolff Pal Tree de Melamina Branco 27cm;VITRINE
 FATURAMENTO VD ES;8.01;9.17;24.56.66.339.06;Prato Raso Wolff Pássaros de Melamina Branco 27cm;VITRINE
 FATURAMENTO VD ES;12.63;14.37;24.56.66.34.00;Jogo de 4 Bowls Wolff Pearl de Cristal Incolor;VITRINE
@@ -1603,8 +1599,8 @@ FULFILLMENT MAGALU;341.24;387.77;6.28.60.15.11;Bicicleta com Rodinhas Aro 16 Ant
 FATURAMENTO VD RJ;341.24;387.77;6.28.60.15.11;Bicicleta com Rodinhas Aro 16 Antonella ABS 5 anos até 30 kg Verde - Nathor;VITRINE
 FATURAMENTO BBTOTAL ES;189.19;189.19;6.28.60.20.07;Bicicleta Aro 16 Apollo 2 Nathor Azul;BB TOTAL
 FATURAMENTO BBTOTAL ES;189.19;189.19;6.28.60.20.07;Bicicleta com Rodinhas Aro 16 Apollo 2 até 30 kg Azul - Nathor;BB TOTAL
-FATURAMENTO VD RJ;462.82;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;VITRINE
 FATURAMENTO VD ES;462.83;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;VITRINE
+FATURAMENTO VD RJ;462.82;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;VITRINE
 FULFILLMENT VISUAL IN;863.9;1081.77;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;VISUAL IN
 FATURAMENTO BBTOTAL ES;257.57;257.57;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;BB TOTAL
 FATURAMENTO VD RJ;120.83;141.57;6.28.60.24.113;Bicicleta Infantil Balance Cecizinha Roxo - Nathor;VITRINE
@@ -2883,7 +2879,6 @@ FATURAMENTO VD RJ;425.69;593.67;8.07.04.39.10;Cadeirinha de Carro Progress 0 a 3
 FULFILLMENT MELI;398.12;555.22;8.07.04.40.01;Cadeirinha Progress 0 a 36kg Cosco Preto;VITRINE
 FATURAMENTO VD RJ;398.12;555.22;8.07.04.40.01;Cadeirinha Progress 0 a 36kg Cosco Preto;VITRINE
 FULFILLMENT AMAZON;425.69;593.67;8.07.04.40.01;Cadeirinha Progress 0 a 36kg Cosco Preto;VITRINE
-FULFILLMENT MAGALU;360.86;502.08;8.07.04.40.01;Cadeirinha Progress 0 a 36kg Cosco Preto;VITRINE
 FULFILLMENT MELI;398.12;555.22;8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;VITRINE
 FATURAMENTO VD RJ;398.12;555.22;8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;VITRINE
 FULFILLMENT AMAZON;425.69;593.67;8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;VITRINE
@@ -2935,7 +2930,6 @@ FATURAMENTO VD RJ;160.98;224.5;8.07.23.01.18;Assento de Elevação Booster Starf
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;VITRINE
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Infanti Verde Gamer;VITRINE
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;VITRINE
-FATURAMENTO VD RJ;446.33;610.56;8.07.23.04.01;Cadeirinha Vita Infanti - Black Strong;VITRINE
 FATURAMENTO VD RJ;446.33;610.56;8.07.23.04.01;Cadeirinha de Carro Vita 0 a 36kg Black Strong - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;257.65;305.28;8.07.23.04.01;Cadeirinha de Carro Vita 0 a 36kg Black Strong - Infanti;BB TOTAL
 FATURAMENTO VD RJ;437.8;610.56;8.07.23.05.27;Cadeirinha Vita Infanti - Grey Fuzz;VITRINE
@@ -2999,7 +2993,6 @@ FATURAMENTO BBTOTAL ES;449.07;449.07;8.07.53.16.01;Bebê Conforto Kory Air Plus 
 FATURAMENTO VD RJ;783.49;898.14;8.07.53.16.01;Bebê Conforto Kory Air Plus i-Size Black Air - Chicco;VITRINE
 FATURAMENTO VD RJ;194.35;220.85;8.07.54.03.77;Cadeirinha de Carro Versati 15 a 36 kg Gelo - Tutti Baby;VITRINE
 FATURAMENTO BBTOTAL ES;82.02;97.18;8.07.54.03.77;Cadeirinha de Carro Versati 15 a 36 kg Gelo - Tutti Baby;BB TOTAL
-FATURAMENTO VD RJ;194.35;220.85;8.07.54.03.77;Cadeirinha de Carro Versati Tutti Baby 15 a 36 kg Gelo;VITRINE
 FATURAMENTO VD RJ;52.74;65.75;8.07.54.05.01;Assento Triton Tutti Baby Preto e Cinza;VITRINE
 FATURAMENTO VD RJ;276.87;314.63;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;VITRINE
 FATURAMENTO BBTOTAL ES;157.32;157.32;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;BB TOTAL
@@ -3125,7 +3118,7 @@ FATURAMENTO BBTOTAL ES;252.91;299.67;8.09.01.06.10;Carrinho de Bebê Bytes Safet
 FATURAMENTO VD RJ;580.16;799.47;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;VITRINE
 FATURAMENTO VD RJ;543.9;749.5;8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;VITRINE
 FATURAMENTO VD RJ;1712.55;2388.34;8.09.01.09.01;Carrinho com Bebê Conforto Travel System Mobi+ Reserva Isofix Black - Safety 1st;VITRINE
-FATURAMENTO VD RJ;955.67;1332.78;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;VITRINE
+FATURAMENTO VD RJ;862.13;1202.33;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;666.39;666.39;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;1254.9;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;VITRINE
 FATURAMENTO VD RJ;1254.9;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Safety 1St - Black & Silver;VITRINE
@@ -3154,7 +3147,6 @@ FATURAMENTO VD RJ;1110.53;1548.75;8.09.01.28.31;Travel System Mobi Safety 1st Fu
 FULFILLMENT AMAZON;1723.38;2403.43;8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;VITRINE
 FATURAMENTO VD RJ;1723.38;2403.43;8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;VITRINE
 FULFILLMENT AMAZON;1723.38;2403.43;8.09.01.36.58;Travel System Mobi Safety 1st Grey Denim Silver;VITRINE
-FATURAMENTO VD RJ;1723.38;2403.43;8.09.01.36.58;Travel System Mobi Safety 1st Grey Denim Silver;VITRINE
 FATURAMENTO VD RJ;1110.53;1548.75;8.09.01.45.83;Travel System Mobi Safety1st Black & Silver;VITRINE
 FATURAMENTO VD RJ;8.12;11.18;8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;5.95;5.95;8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;BB TOTAL
@@ -3765,7 +3757,6 @@ FULFILLMENT MAGALU;362.44;499.44;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - 
 FULFILLMENT MELI;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;VITRINE
 FULFILLMENT AMAZON;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;VITRINE
 FATURAMENTO VD RJ;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza Infanti;VITRINE
-FULFILLMENT MAGALU;362.44;499.44;8.09.23.63.10;Carrinho de Bebê Breeze Cinza Infanti;VITRINE
 FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto - Infanti;VITRINE
 FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;398.46;398.46;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;BB TOTAL
@@ -3807,6 +3798,7 @@ FATURAMENTO VD RJ;309.13;381.23;8.09.24.01.01;Carrinho de Bebê Flick Preto - Mu
 FULFILLMENT MAGALU;309.13;381.23;8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;VITRINE
 FULFILLMENT VISUAL IN;374.42;438.69;8.09.28.67.18;Carrinho Milano Reversível II Cappuccino e Rosa - Galzerano;VISUAL IN
 FATURAMENTO VD ES;374.42;438.68;8.09.28.67.18;Carrinho Milano Reversível II Cappuccino e Rosa - Galzerano;VITRINE
+FATURAMENTO VD ES;420.73;476.01;8.09.28.68.01;Carrinho Milano Reversível II Galzerano Preto e Cobre;VITRINE
 FATURAMENTO VD ES;420.73;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;348.47;549.79;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;434.5;544.07;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
@@ -4772,6 +4764,7 @@ FATURAMENTO VD RJ;24.01;25.01;8.24.57.55.00;Garrafinha De AlumÍnio Animal Fun G
 FATURAMENTO BBTOTAL ES;7.72;7.72;8.24.57.57.18;Garrafinha Dino Patinete Rosa - Buba;BB TOTAL
 FATURAMENTO VD ES;12.8;14.64;8.24.57.57.18;Garrafinha Dino Patinete Rosa - Buba;VITRINE
 FATURAMENTO VD RJ;12.81;13.34;8.24.57.57.18;Garrafinha Dino Patinete Rosa - Buba;VITRINE
+FATURAMENTO VD ES;15.81;16.47;8.24.57.61.00;Kit 3 Potinhos Animal Fun - Buba;VITRINE
 FATURAMENTO VD ES;15.81;16.47;8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;VITRINE
 FATURAMENTO BBTOTAL ES;9.52;9.52;8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;BB TOTAL
 FATURAMENTO BBTOTAL ES;26.42;26.42;8.24.57.64.07;Pote Térmico com Colher Azul - Buba;BB TOTAL
@@ -4851,8 +4844,9 @@ FATURAMENTO VD ES;70.67;83.74;8.24.58.55.18;Pack Triplo Mamadeira Anti-colic Ros
 FATURAMENTO BBTOTAL ES;42.58;42.58;8.24.58.55.18;Pack Triplo Mamadeira Anti-colic Rosa 125ml, 260ml 330ml – Philips Avent;BB TOTAL
 FATURAMENTO VD ES;70.67;83.74;8.24.58.56.07;Pack Triplo Mamadeira Anti-colic Azul 125ml, 260ml 330ml  Philips Avent;VITRINE
 FATURAMENTO VD ES;70.67;83.74;8.24.58.56.07;Pack Triplo Mamadeira Anti-colic Azul 125ml, 260ml 330ml – Philips Avent;VITRINE
-FATURAMENTO BBTOTAL ES;10.0;10.0;8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;BB TOTAL
 FATURAMENTO VD ES;17.42;20.0;8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;VITRINE
+FATURAMENTO BBTOTAL ES;10.0;10.0;8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;BB TOTAL
+FATURAMENTO VD ES;17.42;20.0;8.24.70.01.18;Copo com Alças e Bico em Silicone Rosa - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;10.0;10.0;8.24.70.01.18;Copo com Alças e Bico em Silicone Rosa - Clingo;BB TOTAL
 FATURAMENTO BBTOTAL ES;2.48;2.48;8.24.70.04.18;Colher Silicone Ponta Dupla Colors Rosa - Clingo;BB TOTAL
 FATURAMENTO BBTOTAL ES;2.48;2.48;8.24.70.04.18;Colher de Silicone Multi Ponta Dupla Rosa – Clingo;BB TOTAL
@@ -6699,8 +6693,8 @@ FATURAMENTO VD RJ;140.03;140.03;6.28.60.09.114;Bicicleta Infantil com Rodinhas V
 FATURAMENTO VD ES;140.03;140.03;6.28.60.10.114;Bicicleta Infantil com Rodinhas Flower Aro 12'' até 21kg Rosa e Lilás - Nathor;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.14.72;Bicicleta Infantil Charm Aro 12'' até 21 kg Azul e Rosa - Nathor;BB TUDO
 FATURAMENTO VD RJ;387.77;387.77;6.28.60.15.11;Bicicleta com Rodinhas Aro 16 Antonella ABS 5 anos até 30 kg Verde - Nathor;BB TUDO
-FATURAMENTO VD RJ;541.41;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;BB TUDO
 FATURAMENTO VD ES;541.41;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;BB TUDO
+FATURAMENTO VD RJ;541.41;541.41;6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;BB TUDO
 FATURAMENTO VD RJ;141.57;141.57;6.28.60.24.113;Bicicleta Infantil Balance Cecizinha Roxo - Nathor;BB TUDO
 FATURAMENTO VD ES;141.57;141.57;6.28.60.24.113;Bicicleta Infantil Balance Cecizinha Roxo - Nathor;BB TUDO
 FATURAMENTO VD ES;141.57;141.57;6.28.60.25.08;Bicicleta Infantil Balance Caloi 02 Vermelho - Nathor;BB TUDO
@@ -7460,7 +7454,6 @@ FATURAMENTO VD RJ;224.5;224.5;8.07.23.01.18;Assento de Elevação Booster Starfi
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;BB TUDO
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Infanti Verde Gamer;BB TUDO
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;BB TUDO
-FATURAMENTO VD RJ;610.56;610.56;8.07.23.04.01;Cadeirinha Vita Infanti - Black Strong;BB TUDO
 FATURAMENTO VD RJ;610.56;610.56;8.07.23.04.01;Cadeirinha de Carro Vita 0 a 36kg Black Strong - Infanti;BB TUDO
 FATURAMENTO VD RJ;610.56;610.56;8.07.23.05.27;Cadeirinha Vita Infanti - Grey Fuzz;BB TUDO
 FATURAMENTO VD RJ;610.56;610.56;8.07.23.05.27;Cadeirinha de Carro Vita 0 a 36kg Grey Fuzz - Infanti;BB TUDO
@@ -7500,7 +7493,6 @@ FATURAMENTO VD RJ;398.95;398.95;8.07.53.13.01;Assento de Elevação Gofit Plus I
 FATURAMENTO VD RJ;947.04;947.04;8.07.53.14.01;Cadeirinha de Carro Unico Plus Air Black Chicco;BB TUDO
 FATURAMENTO VD RJ;898.14;898.14;8.07.53.16.01;Bebê Conforto Kory Air Plus i-Size Black Air - Chicco;BB TUDO
 FATURAMENTO VD RJ;220.85;220.85;8.07.54.03.77;Cadeirinha de Carro Versati 15 a 36 kg Gelo - Tutti Baby;BB TUDO
-FATURAMENTO VD RJ;220.85;220.85;8.07.54.03.77;Cadeirinha de Carro Versati Tutti Baby 15 a 36 kg Gelo;BB TUDO
 FATURAMENTO VD RJ;65.75;65.75;8.07.54.05.01;Assento Triton Tutti Baby Preto e Cinza;BB TUDO
 FATURAMENTO VD RJ;314.63;314.63;8.07.54.07.01;Cadeirinha de Carro Atlantis Tutti Baby 9 a 25 kg Preto e Cinza;BB TUDO
 FATURAMENTO VD ES;142.38;142.38;8.07.54.10.01;Cadeirinha de Carro Delta Tutti Baby 15kg a 36kg Preto;BB TUDO
@@ -7571,7 +7563,7 @@ FATURAMENTO VD RJ;599.33;599.33;8.09.01.06.10;Carrinho de Bebê Bytes Safety 1st
 FATURAMENTO VD RJ;799.47;799.47;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;749.5;749.5;8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;2388.34;2388.34;8.09.01.09.01;Carrinho com Bebê Conforto Travel System Mobi+ Reserva Isofix Black - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;1332.78;1332.78;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;1202.33;1202.33;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;1750.09;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;BB TUDO
 FATURAMENTO VD RJ;1750.09;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Safety 1St - Black & Silver;BB TUDO
 FATURAMENTO VD RJ;1750.09;1750.09;8.09.01.101.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;BB TUDO
@@ -7593,7 +7585,6 @@ FATURAMENTO VD RJ;1827.55;1827.55;8.09.01.22.10;Carrinho com Bebê Conforto Trav
 FATURAMENTO VD RJ;2403.43;2403.43;8.09.01.27.35;Travel System Mobi Safety 1st Black & White;BB TUDO
 FATURAMENTO VD RJ;1548.75;1548.75;8.09.01.28.31;Travel System Mobi Safety 1st Full Black;BB TUDO
 FATURAMENTO VD RJ;2403.43;2403.43;8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;BB TUDO
-FATURAMENTO VD RJ;2403.43;2403.43;8.09.01.36.58;Travel System Mobi Safety 1st Grey Denim Silver;BB TUDO
 FATURAMENTO VD RJ;1548.75;1548.75;8.09.01.45.83;Travel System Mobi Safety1st Black & Silver;BB TUDO
 FATURAMENTO VD RJ;11.18;11.18;8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;11.18;11.18;8.09.01.54.01;Gancho Duplo Safety 1st Black;BB TUDO
@@ -7930,6 +7921,7 @@ FATURAMENTO VD RJ;599.5;599.5;8.09.23.95.01;Carrinho com Bebê Conforto Travel S
 FATURAMENTO VD RJ;379.5;379.5;8.09.23.96.01;Carrinho de Bebê Trino Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;381.23;381.23;8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;BB TUDO
 FATURAMENTO VD ES;438.68;438.68;8.09.28.67.18;Carrinho Milano Reversível II Cappuccino e Rosa - Galzerano;BB TUDO
+FATURAMENTO VD ES;476.01;476.01;8.09.28.68.01;Carrinho Milano Reversível II Galzerano Preto e Cobre;BB TUDO
 FATURAMENTO VD ES;476.01;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;476.01;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;723.86;723.86;8.09.28.69.00;Carrinho Olympus Galzerano Chocolate;BB TUDO
@@ -8530,6 +8522,7 @@ FATURAMENTO VD ES;18.14;18.14;8.24.57.54.00;Copo Infantil Parede Dupla com Canud
 FATURAMENTO VD RJ;25.01;25.01;8.24.57.55.00;Garrafinha De AlumÍnio Animal Fun Girafa - Buba;BB TUDO
 FATURAMENTO VD ES;14.64;14.64;8.24.57.57.18;Garrafinha Dino Patinete Rosa - Buba;BB TUDO
 FATURAMENTO VD RJ;13.34;13.34;8.24.57.57.18;Garrafinha Dino Patinete Rosa - Buba;BB TUDO
+FATURAMENTO VD ES;16.47;16.47;8.24.57.61.00;Kit 3 Potinhos Animal Fun - Buba;BB TUDO
 FATURAMENTO VD ES;16.47;16.47;8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;BB TUDO
 FATURAMENTO VD RJ;26.42;26.42;8.24.57.64.07;Pote Térmico com Colher Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;52.84;52.84;8.24.57.65.18;Pote Térmico com Colher Rosa - Buba;BB TUDO
@@ -8585,6 +8578,7 @@ FATURAMENTO VD ES;83.74;83.74;8.24.58.55.18;Pack Triplo Mamadeira Anti-colic Ros
 FATURAMENTO VD ES;83.74;83.74;8.24.58.56.07;Pack Triplo Mamadeira Anti-colic Azul 125ml, 260ml 330ml  Philips Avent;BB TUDO
 FATURAMENTO VD ES;83.74;83.74;8.24.58.56.07;Pack Triplo Mamadeira Anti-colic Azul 125ml, 260ml 330ml – Philips Avent;BB TUDO
 FATURAMENTO VD ES;20.0;20.0;8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;BB TUDO
+FATURAMENTO VD ES;20.0;20.0;8.24.70.01.18;Copo com Alças e Bico em Silicone Rosa - Clingo;BB TUDO
 FATURAMENTO VD ES;4.95;4.95;8.24.70.04.18;Colher de Silicone Multi Ponta Dupla Rosa – Clingo;BB TUDO
 FATURAMENTO VD ES;4.49;4.49;8.24.70.06.18;Colher de Silicone Ergonômica Termosensível Rosa - Clingo;BB TUDO
 FATURAMENTO VD ES;35.16;35.16;8.24.70.07.00;Cortina Retrátil Luxo Para Carro Extra Grande Clingo;BB TUDO
