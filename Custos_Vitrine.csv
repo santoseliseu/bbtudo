@@ -78,7 +78,6 @@ FATURAMENTO VD ES;101.67;119.77;21.14.50.1083.00;Cadeira Eames Com Braço Terrac
 FATURAMENTO VD ES;100.49;118.37;21.14.50.1084.00;Conjunto Com 2 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;200.95;236.73;21.14.50.1085.00;Conjunto Com 4 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;59.28;69.84;21.14.50.109.00;Cadeira Saarinen  Preto;VITRINE
-FATURAMENTO VD ES;118.57;139.68;21.14.50.110.00;Conjunto Com 2 Cadeiras Saarinen Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;36.68;39.44;21.14.50.1127.00;Cadeira Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.1127.00;Cadeira Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;73.35;86.4;21.14.50.1128.00;Conjunto Com 2 Cadeiras Eames Musgo  Base Em Polipropileno;VITRINE
@@ -301,7 +300,6 @@ FATURAMENTO VD ES;61.76;62.02;21.14.50.962.00;Cadeira Saarinen Preta  Base Em Po
 FATURAMENTO VD ES;123.52;124.04;21.14.50.963.00;Conjunto Com 2 Cadeiras Saarinen Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;247.04;248.08;21.14.50.964.00;Conjunto Com 4 Cadeiras Saarinen Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;118.58;127.5;21.14.50.966.00;Conjunto Com 2 Cadeiras Saarinen Branca  Base Em Polipropileno;VITRINE
-FATURAMENTO VD RJ;118.57;139.68;21.14.50.966.00;Conjunto Com 2 Cadeiras Saarinen Branca  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;59.29;69.84;21.14.50.989.00;CADEIRA SAARINEN PP BRANCA DSW-INJ BRANCA CROMADO;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.16.46.18.01;Mesa Lateral Vulcan Preta;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.01.00;Mesa Eames Tampo Redondo MDF 60cm Branco;VITRINE
@@ -347,8 +345,6 @@ FATURAMENTO VD ES;102.48;120.73;21.40.50.47.00;Banqueta Eames PC  Transparente;V
 FATURAMENTO VD ES;204.97;241.46;21.40.50.48.00;Conjunto 2 Banquetas Eames  Transparente;VITRINE
 FATURAMENTO VD ES;141.69;164.09;21.40.50.53.00;Banqueta Web  Fendi;VITRINE
 FATURAMENTO VD ES;205.51;228.53;21.40.50.54.00;Conjunto 2 Banquetas Web  Fendi;VITRINE
-FATURAMENTO VD RJ;189.91;215.81;21.40.50.54.00;Conjunto 2 Banquetas Web  Fendi;VITRINE
-FATURAMENTO VD ES;83.4;98.24;21.40.50.55.00;Banqueta Web  Branca;VITRINE
 FATURAMENTO VD ES;166.79;196.48;21.40.50.56.00;Conjunto 2 Banquetas Web  Branca;VITRINE
 FATURAMENTO VD ES;163.02;192.04;21.40.50.57.00;Banqueta Web  Preto;VITRINE
 FATURAMENTO VD ES;326.05;384.09;21.40.50.58.00;Conjunto 2 Banquetas Web  Preto;VITRINE
@@ -3817,10 +3813,10 @@ FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reve
 FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
-FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
-FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
+FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
+FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD RJ;758.58;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VITRINE
@@ -4137,6 +4133,7 @@ FULFILLMENT VISUAL IN;121.35;151.95;8.11.160.30.07;Bolsa de Passeio Xadrez Bola 
 FATURAMENTO BBTOTAL ES;64.12;75.98;8.11.160.30.07;Bolsa de Passeio Xadrez Bola - MaiT;BB TOTAL
 FATURAMENTO VD RJ;54.96;68.83;8.11.160.31.07;Necessaire Xadrez Bola - MaiT;VITRINE
 FULFILLMENT VISUAL IN;54.97;68.83;8.11.160.31.07;Necessaire Xadrez Bola - MaiT;VISUAL IN
+FATURAMENTO VD RJ;108.45;135.8;8.11.160.32.07;Mini Bolsa de Costas com Pochete Xadrez Bola - MaiT;VITRINE
 FATURAMENTO VD RJ;108.45;135.8;8.11.160.32.07;Mini Mochila com Pochete Xadrez Bola - MaiT;VITRINE
 FULFILLMENT VISUAL IN;108.45;135.8;8.11.160.32.07;Mini Mochila com Pochete Xadrez Bola - MaiT;VISUAL IN
 FATURAMENTO VD RJ;105.42;132.0;8.11.160.33.07;Bolsa de Passeio Dino Marinho - MaiT;VITRINE
@@ -6006,15 +6003,15 @@ FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.63.18;Macacão Magnético Listra Ros
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.63.18;Macacão Magnético Listra Rosa com girafinhas - Recém nascido;VITRINE
 FATURAMENTO VD RJ;52.35;64.5;8.26.138.64.18;Macacão Magnético Listra Rosa com girafinhas - 3 meses;VITRINE
 FATURAMENTO BBTOTAL ES;32.25;32.25;8.26.138.64.18;Macacão Magnético Listra Rosa com girafinhas - 3 meses;BB TOTAL
-FATURAMENTO BBTOTAL ES;34.13;34.13;8.26.138.68.18;Macacão Magnético Listra Rosa com girafinhas - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;68.25;8.26.138.68.18;Macacão Magnético Listra Rosa com girafinhas - 18 meses (1 a 2 anos);VITRINE
+FATURAMENTO BBTOTAL ES;34.13;34.13;8.26.138.68.18;Macacão Magnético Listra Rosa com girafinhas - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO BBTOTAL ES;29.33;34.75;8.26.138.70.16;Macacão Magnético Amarelo com girafa lateral branca - Recém nascido;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.71.16;Macacão Magnético Amarelo com girafa lateral branca - 3 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.71.16;Macacão Magnético Amarelo com girafa lateral branca - 3 meses;BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.73.16;Macacão Magnético Amarelo com girafa lateral branca - 9 meses;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.73.16;Macacão Magnético Amarelo com girafa lateral branca - 9 meses;BB TOTAL
-FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.75.16;Macacão Magnético Amarelo com girafa lateral branca - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.75.16;Macacão Magnético Amarelo com girafa lateral branca - 18 meses (1 a 2 anos);VITRINE
+FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.75.16;Macacão Magnético Amarelo com girafa lateral branca - 18 meses (1 a 2 anos);BB TOTAL
 FATURAMENTO VD RJ;52.35;69.5;8.26.138.77.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - Recém nascido;VITRINE
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.77.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - Recém nascido;BB TOTAL
 FATURAMENTO BBTOTAL ES;34.75;34.75;8.26.138.78.11;Macacão Magnético Gravidicas - Menta com estampa sunshine - 3 meses;BB TOTAL
@@ -8038,6 +8035,7 @@ FATURAMENTO VD RJ;141.76;141.76;8.11.160.29.02;Mini Bolsa de Costas com Pochete 
 FATURAMENTO VD RJ;141.76;141.76;8.11.160.29.02;Mini Mochila com Pochete Xadrez Borboleta - MaiT;BB TUDO
 FATURAMENTO VD RJ;151.95;151.95;8.11.160.30.07;Bolsa de Passeio Xadrez Bola - MaiT;BB TUDO
 FATURAMENTO VD RJ;68.83;68.83;8.11.160.31.07;Necessaire Xadrez Bola - MaiT;BB TUDO
+FATURAMENTO VD RJ;135.8;135.8;8.11.160.32.07;Mini Bolsa de Costas com Pochete Xadrez Bola - MaiT;BB TUDO
 FATURAMENTO VD RJ;135.8;135.8;8.11.160.32.07;Mini Mochila com Pochete Xadrez Bola - MaiT;BB TUDO
 FATURAMENTO VD RJ;132.0;132.0;8.11.160.33.07;Bolsa de Passeio Dino Marinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;60.56;60.56;8.11.160.34.07;Necessaire Dino Marinho - MaiT;BB TUDO
