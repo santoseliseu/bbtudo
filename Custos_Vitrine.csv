@@ -469,6 +469,7 @@ FATURAMENTO VD ES;50.51;57.46;24.10.159.391.57;Panela de Indução 18cm Taupe co
 FATURAMENTO VD ES;39.06;44.43;24.10.159.392.57;Frigideira de Indução 24cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;33.82;38.46;24.10.159.394.57;Tapioqueira de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;73.82;83.98;24.10.159.396.57;Caçarola de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
+FATURAMENTO VD ES;11.04;12.56;24.10.159.399.07;Marmita Hermética com Talheres 850ml Azul Plástico - Lyor;VITRINE
 FATURAMENTO VD ES;10.66;12.13;24.10.159.400.10;Marmita Hermética com Talheres 850ml Cinza Plástico - Lyor;VITRINE
 FATURAMENTO VD ES;15.36;17.4;24.10.159.401.01;Tampa Universal para Panela com 22 a 26cm Preta Vidro - Lyor;VITRINE
 FATURAMENTO VD ES;27.42;31.18;24.10.159.404.06;Conjunto 3 Potes Herméticos com Cesto Escorredor Branco;VITRINE
@@ -519,7 +520,6 @@ FATURAMENTO VD ES;16.16;18.54;24.11.159.119.00;Conjunto 3 Cestas Ovais de Fibra 
 FATURAMENTO VD ES;19.39;22.26;24.11.159.120.00;Cj 3 Cestos Redondos Trabalhados de Fibra Bege Palm;VITRINE
 FATURAMENTO VD ES;13.22;14.98;24.11.159.121.04;Espelho Orgânico com Borda de Metal Dourado 23cm x 35cm;VITRINE
 FATURAMENTO VD ES;13.98;15.78;24.11.159.125.06;Potiche de Cerâmica Heart Branco 10cm x 10cm x 12cm - Lyor;VITRINE
-FATURAMENTO VD ES;40.2;45.81;24.11.159.128.10;Tapete para Banheiro 60x39cm Marmorizado Diatomita;VITRINE
 FATURAMENTO VD ES;13.08;14.76;24.11.159.19.18;Coração Decorativo de Cerâmica Heart Rosa 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;9.04;10.28;24.11.159.20.00;Cesta Redonda de Rattan Plástico 21cm;VITRINE
 FATURAMENTO VD ES;23.41;26.52;24.11.159.33.00;Centro de Mesa de Cristal com Pé Deli Diamond 18cm - Lyor;VITRINE
@@ -585,7 +585,6 @@ FATURAMENTO VD ES;79.95;92.16;24.11.175.172.06;Persiana Nouvel  Rolo Blackout 12
 FATURAMENTO VD ES;93.96;108.3;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;VITRINE
 FATURAMENTO VD ES;106.59;122.87;24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;VITRINE
 FATURAMENTO VD ES;102.24;114.17;24.11.175.181.00;Kit Varão Extensor 120 a 210cm Coroa Ouro Velho 25-28MM;VITRINE
-FATURAMENTO VD ES;102.25;114.18;24.11.175.187.00;Kit Varão Extensor 120 a 210cm Cilindrica Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.190.00;Kit Varão Extensor 160 a 300cm Coroa Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.191.00;Kit Varão Extensor 160 a 300cm Esfera Cromada 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.54;24.11.175.192.00;Kit Varão Extensor 160 a 300cm Esfera Ouro Velho 25-28MM;VITRINE
@@ -841,7 +840,7 @@ FATURAMENTO VD ES;24.78;28.19;24.52.159.33.00;Chaleira de Vidro Borossilicato Cl
 FATURAMENTO VD ES;11.62;13.16;24.52.159.47.00;Xícara de Chá de Porcelana com Pires Clean 220ml - Lyor;VITRINE
 FATURAMENTO VD ES;8.46;9.63;24.52.159.49.00;Xícara de Chá de Cristal com Pires Coração 170ml - Lyor;VITRINE
 FATURAMENTO VD ES;18.82;21.41;24.52.159.53.00;Chaleira de Vidro Borossilicato 750ml;VITRINE
-FATURAMENTO VD ES;35.5;40.22;24.52.159.54.01;Garrafa Térmica de Plástico com Termômetro Tap Preta 1L;VITRINE
+FATURAMENTO VD ES;38.49;43.6;24.52.159.54.01;Garrafa Térmica de Plástico com Termômetro Tap Preta 1L;VITRINE
 FATURAMENTO VD ES;11.13;12.67;24.52.159.55.00;Caneca Mixer de Aço Inox com Tampa 380ml;VITRINE
 FATURAMENTO VD ES;20.58;23.41;24.52.159.56.06;Caneca Mixer de Aço Inox com Tampa Branca 440ml;VITRINE
 FATURAMENTO VD ES;38.48;43.6;24.52.159.57.06;Garrafa Térmica de Plástico com Termômetro Tap Branca 1L;VITRINE
@@ -879,7 +878,7 @@ FATURAMENTO VD ES;10.62;12.08;24.52.66.187.18;Caneca Wolff Love de Cerâmica Pre
 FATURAMENTO VD ES;8.31;9.45;24.52.66.188.18;Caneca Wolff Love de Cerâmica Preto Matt Rosa 350ml;VITRINE
 FATURAMENTO VD ES;27.86;31.68;24.52.66.194.04;Chaleira com Difusor Wolff Dourado de Borossilicato 600ml;VITRINE
 FATURAMENTO VD ES;15.74;17.91;24.52.66.195.00;Chaleira Wolff de Vidro Borossilicato 600ml;VITRINE
-FATURAMENTO VD ES;19.4;21.98;24.52.66.199.00;Garrafa Térmica Wolff de Aço Inox 500ml;VITRINE
+FATURAMENTO VD ES;19.41;21.99;24.52.66.199.00;Garrafa Térmica Wolff de Aço Inox 500ml;VITRINE
 FATURAMENTO VD ES;19.47;22.06;24.52.66.200.01;Garrafa Térmica Wolff de Aço Inox Preta 500ml;VITRINE
 FATURAMENTO VD ES;34.85;39.49;24.52.66.206.11;Garrafa Térmica Wolff Nórdica Verde de Plástico 1L;VITRINE
 FATURAMENTO VD ES;5.77;6.56;24.52.66.218.00;Manteigueira Wolff Pearl de Cristal 11cm x 7cm x 7cm;VITRINE
@@ -1056,7 +1055,7 @@ FATURAMENTO VD ES;17.96;20.43;24.53.66.138.00;Galheteiro 2 Em 1 De Vidro Pincel 
 FATURAMENTO VD ES;7.02;7.99;24.53.66.139.01;Garrafa Para Azeite De Vidro Preta Essência 500Ml;VITRINE
 FATURAMENTO VD ES;17.01;19.44;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
 FATURAMENTO VD ES;17.18;19.55;24.53.66.140.00;Porta Mantimento De Vidro Com Tampa De Acácia 1,250L;VITRINE
-FATURAMENTO VD ES;14.61;16.62;24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;VITRINE
+FATURAMENTO VD ES;15.24;17.34;24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;VITRINE
 FATURAMENTO VD ES;14.52;16.51;24.53.66.148.00;Porta Mantimento De Vidro Com Tampa De Acácia Classic 1,4L;VITRINE
 FATURAMENTO VD ES;13.62;15.48;24.53.66.149.00;Porta Mantimento De Vidro Com Tampa De Acácia Classic 1L;VITRINE
 FATURAMENTO VD ES;11.67;13.28;24.53.66.150.00;Porta Mantimento De Vidro Com Tampa De Acácia Classic 640Ml;VITRINE
@@ -5797,7 +5796,6 @@ FATURAMENTO VD RJ;95.69;98.71;8.25.75.35.00;Toalha de Banho Pequena com fralda s
 FULFILLMENT VISUAL IN;95.11;100.69;8.25.75.36.18;Toalha de Banho Pequena com Fralda Solta 0 a 2 anos Estampado Poá Rosa - D´Bella for Baby;VISUAL IN
 FATURAMENTO VD RJ;95.11;100.69;8.25.75.36.18;Toalha de Banho Pequena com Fralda Solta 0 a 2 anos Estampado Poá Rosa - D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;42.5;50.35;8.25.75.36.18;Toalha de Banho Pequena com Fralda Solta 0 a 2 anos Estampado Poá Rosa - D´Bella for Baby;BB TOTAL
-FATURAMENTO VD RJ;23.42;24.5;8.25.75.37.00;Toalha Fralda 1 peça D´Bella for Baby;VITRINE
 FULFILLMENT VISUAL IN;37.6;38.92;8.25.75.38.00;Saco Maternidade 3 peças - D´Bella for Baby;VISUAL IN
 FATURAMENTO BBTOTAL ES;19.46;19.46;8.25.75.38.00;Saco Maternidade 3 peças - D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;37.6;38.92;8.25.75.38.00;Saco Maternidade 3 peças - D´Bella for Baby;VITRINE
@@ -5822,7 +5820,6 @@ FATURAMENTO VD RJ;107.8;107.8;8.25.75.46.01;Capa Protetora Para Carrinho Univers
 FATURAMENTO BBTOTAL ES;53.9;53.9;8.25.75.46.01;Capa Protetora Para Carrinho Universal Slim Lycra Preto - D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;107.8;107.8;8.25.75.46.01;Capa Protetora para Carrinho Slim Lycra Preto D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;53.9;53.9;8.25.75.46.01;Capa Protetora para Carrinho Slim Lycra Preto D´Bella for Baby;BB TOTAL
-FATURAMENTO BBTOTAL ES;66.41;78.69;8.25.75.47.00;Capa Protetora Para Cadeira de Carro Lycra Nude - D´Bella For Baby;BB TOTAL
 FATURAMENTO VD RJ;151.0;151.0;8.25.75.48.10;Capa Protetora Para Cadeira de Carro Lycra Cinza - D´Bella For Baby;VITRINE
 FATURAMENTO BBTOTAL ES;63.83;75.63;8.25.75.48.10;Capa Protetora Para Cadeira de Carro Lycra Cinza - D´Bella For Baby;BB TOTAL
 FATURAMENTO VD RJ;150.05;152.49;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;VITRINE
@@ -9087,7 +9084,6 @@ FATURAMENTO VD RJ;101.41;101.41;8.25.75.34.10;Toalha de Banho Pequena com Fralda
 FATURAMENTO VD RJ;98.71;98.71;8.25.75.35.00;Toalha de Banho Pequena com Fralda Solta 0 a 2 anos Estampado Listrado Azul - D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;98.71;98.71;8.25.75.35.00;Toalha de Banho Pequena com fralda solta 0 a 2 anos Estampado Listrado D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;100.69;100.69;8.25.75.36.18;Toalha de Banho Pequena com Fralda Solta 0 a 2 anos Estampado Poá Rosa - D´Bella for Baby;BB TUDO
-FATURAMENTO VD RJ;24.5;24.5;8.25.75.37.00;Toalha Fralda 1 peça D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;38.92;38.92;8.25.75.38.00;Saco Maternidade 3 peças - D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;39.82;39.82;8.25.75.39.18;Rosquinhas de Amamentação Rosa - D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;39.03;39.03;8.25.75.40.18;Rosquinha Amamentação Rosê D´Bella for Baby;BB TUDO
