@@ -1861,7 +1861,6 @@ FATURAMENTO VD RJ;201.84;238.05;8.01.74.11.10;Banheira de Bebê Shower Cinza - K
 FATURAMENTO BBTOTAL ES;129.07;148.16;8.01.74.12.07;Banheira de Bebê Slim Plus Azul - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;236.64;296.31;8.01.74.12.07;Banheira de Bebê Slim Plus Azul - Kiddo;VITRINE
 FATURAMENTO VD RJ;250.69;295.66;8.01.74.14.07;Banheira Shower Azul - Kiddo;VITRINE
-FATURAMENTO BBTOTAL ES;87.18;100.06;8.01.74.14.07;Banheira Shower Azul - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;250.69;295.66;8.01.74.14.07;Banheira de Bebê Shower Azul - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;87.18;100.06;8.01.74.14.07;Banheira de Bebê Shower Azul - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;174.78;188.96;8.01.74.15.07;Banheira Infantil Dobrável Flex com Apoio de Banho Azul - Kiddo;VITRINE
@@ -5210,21 +5209,11 @@ FATURAMENTO VD RJ;26.42;28.48;8.25.53.04.00;Recipiente Para Leite Materno 150ml 
 FATURAMENTO BBTOTAL ES;14.24;14.24;8.25.53.04.00;Recipiente Para Leite Materno 150ml WellBeing Chicco 4 Peças;BB TOTAL
 FATURAMENTO BBTOTAL ES;8.99;10.31;8.25.53.06.00;Chupeta Physio Soft Chicco 6-12M Transparente;BB TOTAL
 FATURAMENTO VD RJ;18.05;20.62;8.25.53.06.00;Chupeta Physio Soft Chicco 6-12M Transparente;VITRINE
-FATURAMENTO VD RJ;16.87;18.76;8.25.53.100.00;Creme Corporal Baby Moments 500ml Pele Delicada - Chicco;VITRINE
-FATURAMENTO BBTOTAL ES;28.24;32.41;8.25.53.100.00;Creme Corporal Baby Moments 500ml Pele Delicada - Chicco;BB TOTAL
-FATURAMENTO VD RJ;16.87;18.76;8.25.53.100.00;Creme Corporal Baby Moments 500ml Pele Delicada Chicco;VITRINE
-FATURAMENTO VD RJ;8.28;9.03;8.25.53.101.00;Creme Corporal Baby Moments 200ml Pele Delicada - Chicco;VITRINE
-FATURAMENTO BBTOTAL ES;13.6;15.61;8.25.53.101.00;Creme Corporal Baby Moments 200ml Pele Delicada - Chicco;BB TOTAL
-FATURAMENTO VD RJ;8.28;9.03;8.25.53.101.00;Creme Corporal Baby Moments 200ml Pele Delicada Chicco;VITRINE
-FATURAMENTO BBTOTAL ES;13.6;15.61;8.25.53.101.00;Creme Corporal Baby Moments 200ml Pele Delicada Chicco;BB TOTAL
-FATURAMENTO VD RJ;15.95;16.61;8.25.53.103.00;Creme Contra Assaduras Baby Moments 100ml Pele Delicada Chicco;VITRINE
 FATURAMENTO VD RJ;48.47;54.9;8.25.53.106.00;Kit de 3 packs de Lenços Umedecidos com Tampa Chicco de 72 unidades cada;VITRINE
 FATURAMENTO BBTOTAL ES;8.21;9.43;8.25.53.108.07;Mordedor com Pega Fresh Relax Chicco Amarelo e Azul;BB TOTAL
 FATURAMENTO VD RJ;16.51;18.86;8.25.53.108.07;Mordedor com Pega Fresh Relax Chicco Amarelo e Azul;VITRINE
 FATURAMENTO VD RJ;4.07;4.83;8.25.53.110.11;Pack 2 Escovas Dentes 3-6 Anos Verde Chicco;VITRINE
 FATURAMENTO VD RJ;4.07;4.83;8.25.53.110.11;Pack 2 Escovas de Dentes 3 a 6 Anos Verde - Chicco;VITRINE
-FATURAMENTO VD RJ;67.79;74.86;8.25.53.111.18;Escova e Pente Rosa + Tesourinha Rosa Chicco;VITRINE
-FATURAMENTO VD RJ;64.45;72.88;8.25.53.112.00;Sabonete Líquido 200ml + Colônia 100ml Chicco;VITRINE
 FATURAMENTO VD RJ;18.24;20.7;8.25.53.113.00;Anel Mordedor Fresh Relax + Sabonete Líquido Relax 500ml + Necessaire - Chicco;VITRINE
 FATURAMENTO VD ES;67.78;70.6;8.25.53.114.07;Escova e Pente Azul + Tesourinha Azul Chicco;VITRINE
 FATURAMENTO VD RJ;58.73;64.68;8.25.53.114.07;Escova e Pente Azul + Tesourinha Azul Chicco;VITRINE
@@ -5307,9 +5296,6 @@ FATURAMENTO VD RJ;9.89;10.28;8.25.53.91.06;Refil Para Escova De Dente Elétrica 
 FATURAMENTO BBTOTAL ES;5.14;5.14;8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;BB TOTAL
 FATURAMENTO VD RJ;5.23;5.61;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;8.45;9.7;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;BB TOTAL
-FATURAMENTO VD RJ;12.64;14.38;8.25.53.96.00;Shampoo 200ml Pele Delicada Baby Moments Chicco;VITRINE
-FATURAMENTO VD RJ;9.17;10.39;8.25.53.97.00;Shampoo 500ml Pele Delicada Baby Moments Chicco;VITRINE
-FATURAMENTO BBTOTAL ES;15.64;17.96;8.25.53.97.00;Shampoo 500ml Pele Delicada Baby Moments Chicco;BB TOTAL
 FATURAMENTO VD ES;6.44;7.36;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;VITRINE
 FATURAMENTO BBTOTAL ES;2.73;3.14;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;BB TOTAL
 FATURAMENTO VD RJ;6.03;6.28;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;VITRINE
@@ -6434,7 +6420,6 @@ FATURAMENTO VD RJ;89.91;89.91;8.60.171.11.18;Saco de Dormir Swaddle em Algodão 
 FATURAMENTO VD RJ;80.91;80.91;8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;VITRINE
 FATURAMENTO VD RJ;80.91;80.91;8.60.171.13.07;Saco de Dormir em Algodão Egípcio Foguetinho Primavera Verão P - Casulo;VITRINE
 FATURAMENTO VD RJ;82.22;94.38;8.60.57.01.10;Ninho Para Bebê Redutor de Berço Cinza - Buba;VITRINE
-FATURAMENTO VD RJ;142.11;149.0;8.60.85.07.00;Porta Treco Tricot;VITRINE
 FATURAMENTO VD RJ;176.8;200.91;8.60.85.09.00;Trocador Reto - Loren Baby;VITRINE
 FATURAMENTO BBTOTAL ES;80.94;95.91;8.60.85.09.00;Trocador Reto - Loren Baby;BB TOTAL
 FATURAMENTO VD RJ;195.93;222.65;8.60.85.10.00;Trocador Americano - Loren Baby;VITRINE
@@ -8605,17 +8590,10 @@ FATURAMENTO VD RJ;21.18;21.18;8.25.47.79.16;Termômetro para Banheira Girafa;BB 
 FATURAMENTO VD ES;26.48;26.48;8.25.53.04.00;Recipiente Para Leite Materno 150ml WellBeing Chicco 4 Peças;BB TUDO
 FATURAMENTO VD RJ;28.48;28.48;8.25.53.04.00;Recipiente Para Leite Materno 150ml WellBeing Chicco 4 Peças;BB TUDO
 FATURAMENTO VD RJ;20.62;20.62;8.25.53.06.00;Chupeta Physio Soft Chicco 6-12M Transparente;BB TUDO
-FATURAMENTO VD RJ;18.76;18.76;8.25.53.100.00;Creme Corporal Baby Moments 500ml Pele Delicada - Chicco;BB TUDO
-FATURAMENTO VD RJ;18.76;18.76;8.25.53.100.00;Creme Corporal Baby Moments 500ml Pele Delicada Chicco;BB TUDO
-FATURAMENTO VD RJ;9.03;9.03;8.25.53.101.00;Creme Corporal Baby Moments 200ml Pele Delicada - Chicco;BB TUDO
-FATURAMENTO VD RJ;9.03;9.03;8.25.53.101.00;Creme Corporal Baby Moments 200ml Pele Delicada Chicco;BB TUDO
-FATURAMENTO VD RJ;16.61;16.61;8.25.53.103.00;Creme Contra Assaduras Baby Moments 100ml Pele Delicada Chicco;BB TUDO
 FATURAMENTO VD RJ;54.9;54.9;8.25.53.106.00;Kit de 3 packs de Lenços Umedecidos com Tampa Chicco de 72 unidades cada;BB TUDO
 FATURAMENTO VD RJ;18.86;18.86;8.25.53.108.07;Mordedor com Pega Fresh Relax Chicco Amarelo e Azul;BB TUDO
 FATURAMENTO VD RJ;4.83;4.83;8.25.53.110.11;Pack 2 Escovas Dentes 3-6 Anos Verde Chicco;BB TUDO
 FATURAMENTO VD RJ;4.83;4.83;8.25.53.110.11;Pack 2 Escovas de Dentes 3 a 6 Anos Verde - Chicco;BB TUDO
-FATURAMENTO VD RJ;74.86;74.86;8.25.53.111.18;Escova e Pente Rosa + Tesourinha Rosa Chicco;BB TUDO
-FATURAMENTO VD RJ;72.88;72.88;8.25.53.112.00;Sabonete Líquido 200ml + Colônia 100ml Chicco;BB TUDO
 FATURAMENTO VD RJ;20.7;20.7;8.25.53.113.00;Anel Mordedor Fresh Relax + Sabonete Líquido Relax 500ml + Necessaire - Chicco;BB TUDO
 FATURAMENTO VD ES;70.6;70.6;8.25.53.114.07;Escova e Pente Azul + Tesourinha Azul Chicco;BB TUDO
 FATURAMENTO VD RJ;64.68;64.68;8.25.53.114.07;Escova e Pente Azul + Tesourinha Azul Chicco;BB TUDO
@@ -8672,8 +8650,6 @@ FATURAMENTO VD RJ;10.78;10.78;8.25.53.77.00;Chocalho Mordedor Salada de Frutas C
 FATURAMENTO VD RJ;2.89;2.89;8.25.53.88.00;Escova De Dentes De Bambu Bamboo Toothbrush 3A+ Chicco;BB TUDO
 FATURAMENTO VD RJ;10.28;10.28;8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;BB TUDO
 FATURAMENTO VD RJ;5.61;5.61;8.25.53.94.00;Lenço Umedecido Com Tampa Baby Moments Chicco;BB TUDO
-FATURAMENTO VD RJ;14.38;14.38;8.25.53.96.00;Shampoo 200ml Pele Delicada Baby Moments Chicco;BB TUDO
-FATURAMENTO VD RJ;10.39;10.39;8.25.53.97.00;Shampoo 500ml Pele Delicada Baby Moments Chicco;BB TUDO
 FATURAMENTO VD ES;7.36;7.36;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;BB TUDO
 FATURAMENTO VD RJ;6.28;6.28;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;BB TUDO
 FATURAMENTO VD RJ;11.39;11.39;8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;BB TUDO
