@@ -19,7 +19,7 @@ FATURAMENTO VD ES;170.1;195.14;21.14.175.45.01;Cadeira Eiffel Office Slim Preta;
 FATURAMENTO VD ES;179.11;205.47;21.14.175.52.06;Cadeira Giratoria Office Zebrada Branca;VITRINE
 FATURAMENTO VD ES;51.32;60.92;21.14.175.53.01;Cadeira Allegra Preta;VITRINE
 FATURAMENTO VD ES;35.11;40.27;21.14.175.56.00;Carrinho Multiuso Affresco 4 Prateleiras Fumê;VITRINE
-FATURAMENTO VD ES;35.1;40.27;21.14.175.57.00;Carrinho Multiuso Affresco 4 Prateleiras Transparente;VITRINE
+FATURAMENTO VD ES;35.11;40.27;21.14.175.57.00;Carrinho Multiuso Affresco 4 Prateleiras Transparente;VITRINE
 FATURAMENTO VD RJ;79.88;91.27;21.14.46.03.07;Cadeira Allegra Azul;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1201.06;Cadeira Folha Abs Branca Base Cromada;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1202.01;Cadeira Folha Abs Preta Base Cromada;VITRINE
@@ -446,6 +446,7 @@ FATURAMENTO VD ES;29.92;34.04;24.10.159.333.00;Queijeira de Cristal Fio de Ouro 
 FATURAMENTO VD ES;11.1;12.63;24.10.159.334.00;Forma de Bolo com Furo Antiaderente Aço Carbono 24cm;VITRINE
 FATURAMENTO VD ES;53.29;60.62;24.10.159.338.10;Frigideira por Indução Wok em Cerâmica Granilete - Lyor;VITRINE
 FATURAMENTO VD ES;5.67;6.45;24.10.159.347.07;Sousplat de Plástico Opala Azul 33cm - Lyor;VITRINE
+FATURAMENTO VD ES;4.71;5.35;24.10.159.350.01;Pote de Vidro em Tampa Metal  Gastro Preta 300ml - Lyor;VITRINE
 FATURAMENTO VD ES;3.7;4.21;24.10.159.354.00;Espremedor de Limão Bird 12 x 2,5 x 5cm - Lyor;VITRINE
 FATURAMENTO VD ES;9.74;11.19;24.10.159.359.00;Saleiro Quadrado de Bambu com Tampa 9cm x 9cm x 7cm - Lyor;VITRINE
 FATURAMENTO VD ES;11.09;12.73;24.10.159.360.00;Saleiro Redondo de Bambu com Tampa 9cm x 6cm - Lyor;VITRINE
@@ -582,9 +583,11 @@ FATURAMENTO VD ES;60.77;70.05;24.11.175.162.06;Persiana Toucher Rolo Translúcid
 FATURAMENTO VD ES;71.64;82.58;24.11.175.163.57;Persiana Toucher Rolo Translúcida 140X140 Bege;VITRINE
 FATURAMENTO VD ES;79.95;92.16;24.11.175.171.57;Persiana Nouvel  Rolo Blackout 120X160 Bege Creme;VITRINE
 FATURAMENTO VD ES;79.95;92.16;24.11.175.172.06;Persiana Nouvel  Rolo Blackout 120X160 Branca;VITRINE
-FATURAMENTO VD ES;93.96;108.3;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;VITRINE
+FATURAMENTO VD ES;93.95;108.3;24.11.175.173.57;Persiana Nouvel  Rolo Blackout 140X160 Bege Creme;VITRINE
+FATURAMENTO VD ES;93.95;108.3;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;VITRINE
 FATURAMENTO VD ES;106.59;122.87;24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;VITRINE
 FATURAMENTO VD ES;102.24;114.17;24.11.175.181.00;Kit Varão Extensor 120 a 210cm Coroa Ouro Velho 25-28MM;VITRINE
+FATURAMENTO VD ES;102.25;114.18;24.11.175.187.00;Kit Varão Extensor 120 a 210cm Cilindrica Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.190.00;Kit Varão Extensor 160 a 300cm Coroa Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.55;24.11.175.191.00;Kit Varão Extensor 160 a 300cm Esfera Cromada 25-28MM;VITRINE
 FATURAMENTO VD ES;124.97;139.54;24.11.175.192.00;Kit Varão Extensor 160 a 300cm Esfera Ouro Velho 25-28MM;VITRINE
@@ -613,7 +616,7 @@ FATURAMENTO VD ES;98.68;113.76;24.11.175.52.57;Persiana Bauhaus Rolo Bambu 120X1
 FATURAMENTO VD ES;115.13;132.72;24.11.175.53.57;Persiana Bauhaus Rolo Bambu 140X160 Honey Mapple;VITRINE
 FATURAMENTO VD ES;90.62;104.47;24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;VITRINE
 FATURAMENTO VD ES;90.62;104.47;24.11.175.78.01;Persiana Zebra Rolo Dupla 120X160 Preta;VITRINE
-FATURAMENTO VD ES;90.62;104.47;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
+FATURAMENTO VD ES;90.63;104.47;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;73.29;84.48;24.11.175.80.57;Persiana Zebra Rolo Dupla 120X160 Caramelo;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.84.06;Persiana Zebra Rolo Dupla 140X160 Branca;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.85.01;Persiana Zebra Rolo Dupla 140X160 Preta;VITRINE
@@ -835,6 +838,7 @@ FATURAMENTO VD RJ;11.0;12.02;24.52.159.138.00;Conjunto 6 Canecas de Vidro Vintag
 FATURAMENTO VD ES;3.95;4.5;24.52.159.20.00;Caneca de Vidro Borossilicato Love 125ml - Lyor;VITRINE
 FATURAMENTO VD ES;6.88;7.8;24.52.159.21.00;Caneca de Porcelana Creamy Milk Branca e Preta 260ml - Lyor;VITRINE
 FATURAMENTO VD ES;17.68;20.12;24.52.159.28.00;Chaleira de Vidro Borossilicato 550ml - Lyor;VITRINE
+FATURAMENTO VD ES;9.1;10.35;24.52.159.30.00;Manteigueira de Cristal Deli Diamond 17cm - Lyor;VITRINE
 FATURAMENTO VD ES;28.36;32.26;24.52.159.32.00;Chaleira de Vidro Borossilicato  860ml - Lyor;VITRINE
 FATURAMENTO VD ES;24.78;28.19;24.52.159.33.00;Chaleira de Vidro Borossilicato Classic 860ml - Lyor;VITRINE
 FATURAMENTO VD ES;11.62;13.16;24.52.159.47.00;Xícara de Chá de Porcelana com Pires Clean 220ml - Lyor;VITRINE
@@ -2077,12 +2081,12 @@ FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho -
 FATURAMENTO VD RJ;77.62;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;VITRINE
 FATURAMENTO BBTOTAL ES;40.48;47.96;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;BB TOTAL
 FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.03.18;Almofada De Banho Rosa - Baby Pil;VISUAL IN
-FATURAMENTO VD RJ;86.85;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VITRINE
+FATURAMENTO VD RJ;86.85;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;85.33;101.19;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;VISUAL IN
 FATURAMENTO BBTOTAL ES;41.5;49.16;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TOTAL
-FATURAMENTO VD RJ;86.85;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;VITRINE
+FATURAMENTO VD RJ;86.85;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;VITRINE
 FATURAMENTO VD RJ;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VISUAL IN
 FATURAMENTO VISUAL IN SP;71.58;113.32;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VISUAL IN
@@ -3784,7 +3788,6 @@ FULFILLMENT VISUAL IN;451.77;712.78;8.09.28.71.01;Carrinho de Bebê Olympus New 
 FATURAMENTO BBTOTAL ES;318.79;318.79;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;BB TOTAL
 FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VISUAL IN
-FULFILLMENT VISUAL IN;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
@@ -4061,6 +4064,7 @@ FATURAMENTO VD RJ;140.21;140.21;8.11.160.13.76;Mini Mochila com Bolso Frontal Ca
 FATURAMENTO BBTOTAL ES;60.12;71.23;8.11.160.13.76;Mini Mochila com Bolso Frontal Cavalinho - MaiT;BB TOTAL
 FATURAMENTO VD RJ;128.94;161.45;8.11.160.14.07;Bolsa de Passeio Cachorrinho - MaiT;VITRINE
 FULFILLMENT VISUAL IN;128.94;161.45;8.11.160.14.07;Bolsa de Passeio Cachorrinho - MaiT;VISUAL IN
+FATURAMENTO VD RJ;58.76;73.58;8.11.160.15.07;Necessaire Cachorrinho - MaiT;VITRINE
 FULFILLMENT VISUAL IN;58.76;73.58;8.11.160.15.07;Necessaire Cachorrinho - MaiT;VISUAL IN
 FATURAMENTO VD RJ;113.76;142.45;8.11.160.16.07;Mini Bolsa de Costas com Bolso Fronta Cachorrinho - MaiT;VITRINE
 FATURAMENTO VD RJ;113.76;142.45;8.11.160.16.07;Mini Mochila com Bolso Frontal Cachorrinho - MaiT;VITRINE
@@ -6775,10 +6779,10 @@ FATURAMENTO VD RJ;61.39;61.39;8.03.57.03.69;Almofada de Atividades Panda - Buba�
 FATURAMENTO VD RJ;61.39;61.39;8.03.57.04.69;Almofada de Atividades Amazônia - Buba;BB TUDO
 FATURAMENTO VD RJ;293.68;293.68;8.03.68.01.01;Bebê Conforto 0 a 13 kg Preto Liso - Litet;BB TUDO
 FATURAMENTO VD RJ;95.91;95.91;8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;BB TUDO
-FATURAMENTO VD RJ;97.2;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
-FATURAMENTO VD RJ;97.2;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;BB TUDO
+FATURAMENTO VD RJ;97.2;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;BB TUDO
+FATURAMENTO VD RJ;97.2;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.69;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TUDO
@@ -7873,6 +7877,7 @@ FATURAMENTO VD RJ;73.58;73.58;8.11.160.12.76;Necessaire Cavalinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;140.21;140.21;8.11.160.13.76;Mini Bolsa de Costas com Bolso Fronta Cavalinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;140.21;140.21;8.11.160.13.76;Mini Mochila com Bolso Frontal Cavalinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;161.45;161.45;8.11.160.14.07;Bolsa de Passeio Cachorrinho - MaiT;BB TUDO
+FATURAMENTO VD RJ;73.58;73.58;8.11.160.15.07;Necessaire Cachorrinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;142.45;142.45;8.11.160.16.07;Mini Bolsa de Costas com Bolso Fronta Cachorrinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;142.45;142.45;8.11.160.16.07;Mini Mochila com Bolso Frontal Cachorrinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;165.04;165.04;8.11.160.17.07;Bolsa de Passeio Astronauta - MaiT;BB TUDO
