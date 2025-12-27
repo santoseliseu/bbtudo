@@ -706,7 +706,6 @@ FATURAMENTO VD ES;58.02;65.74;24.50.66.12.00;Vaso Wolff Murano Italy  Âmbar 11,
 FATURAMENTO VD ES;71.78;81.32;24.50.66.137.00;Centro de Mesa Wolff Italy de Vidro Âmbar 21cm x 10cm;VITRINE
 FATURAMENTO VD ES;44.13;50.0;24.50.66.14.11;Vaso Wolff Murano Italy  Verde Esmeralda 10cm;VITRINE
 FATURAMENTO VD ES;65.58;74.3;24.50.66.140.00;CENTRO DE MESA DECORATIVO DE VIDRO ITALY PÚRPURA E ROSÉ 21x10cm;VITRINE
-FATURAMENTO VD ES;65.58;74.3;24.50.66.140.00;Centro de Mesa Wolff Italy de Vidro Púrpura e Rosé 21cm;VITRINE
 FATURAMENTO VD ES;43.03;48.75;24.50.66.15.00;Vaso Wolff Murano Italy  10cm x 11cm;VITRINE
 FATURAMENTO VD ES;60.17;67.91;24.50.66.180.06;Figura Boneca Wolff de Resina Balões Branco 7cm x 7cm x 30cm;VITRINE
 FATURAMENTO VD ES;53.24;60.32;24.50.66.201.00;Lupa Decorativa Wolff de Metal e Madeira 20cm x 7cm x 2cm;VITRINE
@@ -1600,8 +1599,6 @@ FATURAMENTO VD ES;82.8;94.99;24.71.175.12.01;Carrinho Multiuso 3 Prateleiras Pre
 FATURAMENTO VD ES;62.1;71.24;24.71.175.16.06;Carrinho Multiuso Gala 3 Prateleiras Metal Branco;VITRINE
 FATURAMENTO VD ES;62.1;71.24;24.71.175.17.01;Carrinho Multiuso Gala 3 Prateleiras Metal Preto;VITRINE
 FATURAMENTO VD ES;25.93;29.38;25.76.175.01.00;Balança Digital Corporal De Vidro;VITRINE
-FATURAMENTO VD ES;150.33;175.86;6.28.25.173.69;Bicicleta Infantil Aro 12 Cecizinha 2023 Caloi Colorida;VITRINE
-FATURAMENTO VD RJ;150.33;175.86;6.28.25.173.69;Bicicleta Infantil Aro 12 Cecizinha 2023 Caloi Colorida;VITRINE
 FATURAMENTO VD ES;150.33;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;VITRINE
 FATURAMENTO VD RJ;150.33;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;VITRINE
 FULFILLMENT VISUAL IN;100.18;158.05;6.28.60.07.110;Bicicleta Infantil  Black Aro 12'' até 21kg Verde e Preto - Nathor;VISUAL IN
@@ -2203,7 +2200,6 @@ FATURAMENTO BBTOTAL ES;322.85;322.85;8.04.02.08.01;Moisés Para Carrinho Oria Es
 FATURAMENTO VD RJ;716.71;999.5;8.04.02.09.11;Berço Iora Air Maxi-Cosi Beyond Green;VITRINE
 FATURAMENTO VD RJ;716.71;999.5;8.04.02.09.11;Berço Portátil Co-bed Iora Air Beyond Green - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;463.0;645.69;8.04.02.10.11;Moisés Oria Maxi-Cosi Essential Green;VITRINE
-FATURAMENTO BBTOTAL ES;334.81;334.81;8.04.02.10.11;Moisés Oria Maxi-Cosi Essential Green;BB TOTAL
 FATURAMENTO VD RJ;463.0;645.69;8.04.02.10.11;Moisés Para Carrinho Oria Essential Green - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;334.81;334.81;8.04.02.10.11;Moisés Para Carrinho Oria Essential Green - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;727.75;1014.93;8.04.02.11.12;Berço Iora Air Classic Oat -  Maxi-Cosi;VITRINE
@@ -2232,7 +2228,6 @@ FULFILLMENT MELI;254.49;354.9;8.04.03.14.07;Berço Portátil Sleep Azul - Voyage
 FATURAMENTO VD RJ;254.48;354.9;8.04.03.14.07;Berço Portátil Sleep Azul - Voyage;VITRINE
 FULFILLMENT AMAZON;277.13;386.48;8.04.03.14.07;Berço Portátil Sleep Azul - Voyage;VITRINE
 FULFILLMENT MELI;254.49;354.9;8.04.03.14.07;Berço Sleep Voyage - Azul;VITRINE
-FATURAMENTO VD RJ;254.48;354.9;8.04.03.14.07;Berço Sleep Voyage - Azul;VITRINE
 FATURAMENTO VD RJ;162.37;226.42;8.04.03.15.10;Berço Portátil Light Voyage - Cinza;VITRINE
 FATURAMENTO VD RJ;231.42;322.73;8.04.03.19.07;Berço Portátil Fit Azul Geo - Voyage;VITRINE
 FULFILLMENT AMAZON;231.42;322.73;8.04.03.19.07;Berço Portátil Fit Azul Geo - Voyage;VITRINE
@@ -5537,8 +5532,6 @@ FATURAMENTO VISUAL IN SP;23.39;23.39;8.25.69.02.00;Detergente Líquido para Mama
 FULFILLMENT VISUAL IN;23.39;23.39;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO BBTOTAL ES;13.91;13.91;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TOTAL
 FATURAMENTO VD RJ;23.09;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;VITRINE
-FATURAMENTO VD ES;23.09;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;VITRINE
-FATURAMENTO VISUAL IN SP;23.39;23.39;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;VISUAL IN
 FATURAMENTO VD ES;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO VISUAL IN SP;18.91;29.84;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VISUAL IN
@@ -5547,7 +5540,6 @@ FATURAMENTO VD ES;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Álcool 150
 FATURAMENTO VD ES;15.34;17.75;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;15.34;17.75;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO BBTOTAL ES;7.36;8.72;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;BB TOTAL
-FATURAMENTO VD RJ;15.35;17.44;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;20.5;21.94;8.25.69.06.00;Limpeza de Chão Infantil Limpa Chãozinho - Bioclub Baby;VISUAL IN
 FATURAMENTO VD ES;20.5;21.94;8.25.69.06.00;Limpeza de Chão Infantil Limpa Chãozinho - Bioclub Baby;VITRINE
 FATURAMENTO VD ES;21.33;24.45;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;VITRINE
@@ -5563,7 +5555,6 @@ FATURAMENTO BBTOTAL ES;11.52;13.65;8.25.69.10.00;Pré Lavagem Tira Manchas 500 m
 FATURAMENTO VD RJ;24.03;27.3;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;VITRINE
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;VITRINE
 FATURAMENTO VD RJ;26.85;30.51;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;VITRINE
-FATURAMENTO BBTOTAL ES;11.16;13.22;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;BB TOTAL
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha 500ml - BioClub Baby;VITRINE
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;VITRINE
 FATURAMENTO VD ES;15.69;17.98;8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;VITRINE
@@ -6506,8 +6497,6 @@ FATURAMENTO VD RJ;94.74;94.74;24.25.49.17.01;Lixeira Retrô com Pedal Preta Moll
 FATURAMENTO VD ES;97.57;97.57;24.25.49.17.01;Lixeira Retrô com Pedal Preta Mollie 20 litros;BB TUDO
 FATURAMENTO VD RJ;26.04;26.04;24.25.49.18.11;Lixeira Redonda com Pedal Verde Menta Mollie 3 litros;BB TUDO
 FATURAMENTO VD RJ;58.7;58.7;24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta Mollie 12 litros;BB TUDO
-FATURAMENTO VD ES;175.86;175.86;6.28.25.173.69;Bicicleta Infantil Aro 12 Cecizinha 2023 Caloi Colorida;BB TUDO
-FATURAMENTO VD RJ;175.86;175.86;6.28.25.173.69;Bicicleta Infantil Aro 12 Cecizinha 2023 Caloi Colorida;BB TUDO
 FATURAMENTO VD ES;175.86;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;BB TUDO
 FATURAMENTO VD RJ;175.86;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;BB TUDO
 FATURAMENTO VD ES;140.03;140.03;6.28.60.07.110;Bicicleta Infantil  Black Aro 12'' até 21kg Verde e Preto - Nathor;BB TUDO
@@ -6858,7 +6847,6 @@ FATURAMENTO VD RJ;320.32;320.32;8.04.03.10.10;Berço Portátil Fit Cinza Estrela
 FATURAMENTO VD RJ;386.48;386.48;8.04.03.11.00;Berço Portátil Sleep Colorê - Voyage;BB TUDO
 FATURAMENTO VD RJ;386.48;386.48;8.04.03.11.00;Berço Sleep Voyage - Colorê;BB TUDO
 FATURAMENTO VD RJ;354.9;354.9;8.04.03.14.07;Berço Portátil Sleep Azul - Voyage;BB TUDO
-FATURAMENTO VD RJ;354.9;354.9;8.04.03.14.07;Berço Sleep Voyage - Azul;BB TUDO
 FATURAMENTO VD RJ;226.42;226.42;8.04.03.15.10;Berço Portátil Light Voyage - Cinza;BB TUDO
 FATURAMENTO VD RJ;322.73;322.73;8.04.03.19.07;Berço Portátil Fit Azul Geo - Voyage;BB TUDO
 FATURAMENTO VD RJ;322.73;322.73;8.04.03.19.07;Berço Portátil Fit Voyage Azul Geo;BB TUDO
@@ -8814,12 +8802,10 @@ FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 50
 FATURAMENTO VD RJ;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD RJ;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;BB TUDO
-FATURAMENTO VD ES;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras Bioclub Baby 500 ml;BB TUDO
 FATURAMENTO VD ES;21.7;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;21.7;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool Bioclub Baby 150 ml;BB TUDO
 FATURAMENTO VD ES;21.7;21.7;8.25.69.03.00;Higienizador de Mãos Sem Álcool 150 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;17.75;17.75;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;BB TUDO
-FATURAMENTO VD RJ;17.44;17.44;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;21.94;21.94;8.25.69.06.00;Limpeza de Chão Infantil Limpa Chãozinho - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;24.45;24.45;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;BB TUDO
 FATURAMENTO VD ES;22.2;22.2;8.25.69.08.00;Lava Roupas Concentrado Detergente Natural  - Bioclub Baby;BB TUDO
