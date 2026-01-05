@@ -17,8 +17,8 @@ FATURAMENTO VD ES;170.99;196.17;21.14.175.38.57;Kit 2 Cadeiras Eames Leda Nude;V
 FATURAMENTO VD ES;170.1;195.14;21.14.175.45.01;Cadeira Eiffel Office Slim Preta;VITRINE
 FATURAMENTO VD ES;179.11;205.47;21.14.175.52.06;Cadeira Giratoria Office Zebrada Branca;VITRINE
 FATURAMENTO VD ES;51.32;60.92;21.14.175.53.01;Cadeira Allegra Preta;VITRINE
-FATURAMENTO VD ES;35.1;40.27;21.14.175.56.00;Carrinho Multiuso Affresco 4 Prateleiras Fumê;VITRINE
-FATURAMENTO VD ES;35.11;40.27;21.14.175.57.00;Carrinho Multiuso Affresco 4 Prateleiras Transparente;VITRINE
+FATURAMENTO VD ES;35.11;40.27;21.14.175.56.00;Carrinho Multiuso Affresco 4 Prateleiras Fumê;VITRINE
+FATURAMENTO VD ES;35.1;40.27;21.14.175.57.00;Carrinho Multiuso Affresco 4 Prateleiras Transparente;VITRINE
 FATURAMENTO VD RJ;79.88;91.27;21.14.46.03.07;Cadeira Allegra Azul;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1201.06;Cadeira Folha Abs Branca Base Cromada;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.14.46.1202.01;Cadeira Folha Abs Preta Base Cromada;VITRINE
@@ -114,10 +114,10 @@ FATURAMENTO VD RJ;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD ES;54.56;63.65;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;54.56;63.65;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;27.16;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;VITRINE
-FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;27.16;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;69.09;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;69.09;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
@@ -217,13 +217,14 @@ FATURAMENTO VD RJ;156.04;185.66;21.14.50.483.00;Conjunto 2 Cadeiras Web Wood Pre
 FATURAMENTO VD ES;476.8;561.68;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VITRINE
 FATURAMENTO VD RJ;312.08;371.32;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VITRINE
 FATURAMENTO VISUAL IN SP;636.02;727.62;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VISUAL IN
-FATURAMENTO VD RJ;75.7;89.87;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
 FATURAMENTO VD ES;60.28;71.02;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
+FATURAMENTO VD RJ;75.7;89.87;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;151.4;179.74;21.14.50.486.00;Conjunto Com 2 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD ES;120.58;142.03;21.14.50.486.00;Conjunto Com 2 Cadeiras Web Wood Branca;VITRINE
+FATURAMENTO VD ES;241.12;284.08;21.14.50.487.00;Conjunto 4 Cadeiras Web  Wood Branca;VITRINE
 FATURAMENTO VD RJ;302.8;359.48;21.14.50.487.00;Conjunto 4 Cadeiras Web  Wood Branca;VITRINE
+FATURAMENTO VD ES;241.12;284.08;21.14.50.487.00;Conjunto 4 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;302.8;359.48;21.14.50.487.00;Conjunto 4 Cadeiras Web Wood Branca;VITRINE
-FATURAMENTO VD ES;259.28;306.63;21.14.50.487.00;Conjunto 4 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD ES;108.44;123.9;21.14.50.49.00;Cadeira Eames  Transparente;VITRINE
 FATURAMENTO VD RJ;55.23;65.45;21.14.50.49.00;Cadeira Eames  Transparente;VITRINE
 FATURAMENTO VD ES;139.36;164.17;21.14.50.495.00;Cadeira De Balanço Eames Com Braço Creme  Base Em Metal E Madeira;VITRINE
@@ -246,8 +247,8 @@ FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada B
 FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
-FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
+FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
@@ -319,6 +320,7 @@ FATURAMENTO VD RJ;53.0;60.56;21.40.46.03.01;Banqueta Baixa Eames Preta;VITRINE
 FATURAMENTO VD RJ;82.19;93.9;21.40.46.1522.06;Banqueta Titan Media Branca;VITRINE
 FATURAMENTO VD RJ;126.29;144.29;21.40.46.1525.01;Banqueta Wave Alta com Encosto Cor Preta;VITRINE
 FATURAMENTO VD RJ;96.05;109.73;21.40.46.1526.16;Banqueta Wave Estofada Amarela Cromada;VITRINE
+FATURAMENTO VD RJ;183.46;209.6;21.40.46.1535.01;Banqueta Confort Estofada Preta Base Cromada;VITRINE
 FATURAMENTO VD RJ;47.63;54.41;21.40.46.1574.00;Banquinho Glamour Pelo Mescla Base Metal;VITRINE
 FATURAMENTO VD RJ;67.56;77.18;21.40.46.1578.01;Banquinho Kitty com Pelo Curto Preta Base Madeira;VITRINE
 FATURAMENTO VD RJ;79.3;90.6;21.40.46.1583.06;Banquinho Nona Croche Branca Base Madeira;VITRINE
@@ -574,7 +576,7 @@ FATURAMENTO VD ES;120.58;139.0;24.11.175.123.06;Persiana Bloom Corta Luz Off Whi
 FATURAMENTO VD ES;144.35;166.4;24.11.175.126.06;Persiana Screen Rolo Solar 160X260 Branca;VITRINE
 FATURAMENTO VD ES;198.69;229.04;24.11.175.127.06;Persiana Screen Rolo Solar 180X220 Branca;VITRINE
 FATURAMENTO VD ES;44.84;60.92;24.11.175.13.01;Persiana Premier Pvc 25Mm 140X160 Preta;VITRINE
-FATURAMENTO VD ES;78.0;89.91;24.11.175.130.06;Persiana Screen Rolo Solar 120X160 Branca;VITRINE
+FATURAMENTO VD ES;78.82;90.85;24.11.175.130.06;Persiana Screen Rolo Solar 120X160 Branca;VITRINE
 FATURAMENTO VD ES;105.05;121.09;24.11.175.134.06;Persiana Screen Rolo Solar 160X160 Branca;VITRINE
 FATURAMENTO VD ES;44.84;60.92;24.11.175.14.10;Persiana Premier Pvc 25Mm 140X160 Chumbo;VITRINE
 FATURAMENTO VD ES;118.81;132.37;24.11.175.15.06;Persiana Premier Pvc 25Mm 160X160 Branca;VITRINE
@@ -589,8 +591,8 @@ FATURAMENTO VD ES;61.41;70.79;24.11.175.161.57;Persiana Toucher Rolo Translúcid
 FATURAMENTO VD ES;60.77;70.05;24.11.175.162.06;Persiana Toucher Rolo Translúcida 120X140 Branca;VITRINE
 FATURAMENTO VD ES;71.64;82.58;24.11.175.163.57;Persiana Toucher Rolo Translúcida 140X140 Bege;VITRINE
 FATURAMENTO VD ES;80.79;93.13;24.11.175.171.57;Persiana Nouvel  Rolo Blackout 120X160 Bege Creme;VITRINE
-FATURAMENTO VD ES;80.78;93.13;24.11.175.172.06;Persiana Nouvel  Rolo Blackout 120X160 Branca;VITRINE
-FATURAMENTO VD ES;94.94;109.44;24.11.175.173.57;Persiana Nouvel  Rolo Blackout 140X160 Bege Creme;VITRINE
+FATURAMENTO VD ES;80.79;93.13;24.11.175.172.06;Persiana Nouvel  Rolo Blackout 120X160 Branca;VITRINE
+FATURAMENTO VD ES;94.93;109.44;24.11.175.173.57;Persiana Nouvel  Rolo Blackout 140X160 Bege Creme;VITRINE
 FATURAMENTO VD ES;94.93;109.44;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;VITRINE
 FATURAMENTO VD ES;106.59;122.87;24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;VITRINE
 FATURAMENTO VD ES;102.24;114.17;24.11.175.181.00;Kit Varão Extensor 120 a 210cm Coroa Ouro Velho 25-28MM;VITRINE
@@ -611,7 +613,7 @@ FATURAMENTO VD ES;106.7;123.0;24.11.175.225.06;Persiana Screen Rolo Solar Branca
 FATURAMENTO VD RJ;37.24;50.59;24.11.175.29.06;Persiana Off 25 Pvc 25Mm 120X130 Branca;VITRINE
 FATURAMENTO VD ES;84.48;94.12;24.11.175.33.06;Persiana Off 25 Pvc 25Mm 140X130 Branca;VITRINE
 FATURAMENTO VD ES;96.52;107.54;24.11.175.37.06;Persiana Off 25 Pvc 25Mm 160X130 Branca;VITRINE
-FATURAMENTO VD ES;99.72;114.96;24.11.175.42.00;Persiana Hanoy Rolo Bambu 120X160 Cedro;VITRINE
+FATURAMENTO VD ES;99.73;114.96;24.11.175.42.00;Persiana Hanoy Rolo Bambu 120X160 Cedro;VITRINE
 FATURAMENTO VD ES;115.13;132.72;24.11.175.43.00;Persiana Hanoy Rolo Bambu 140X160 Cedro;VITRINE
 FATURAMENTO VD ES;131.58;151.68;24.11.175.44.00;Persiana Hanoy Rolo Bambu 160X160 Cedro;VITRINE
 FATURAMENTO VD ES;105.81;121.97;24.11.175.45.00;Persiana Hanoy Rolo Bambu 100X220 Cedro;VITRINE
@@ -621,16 +623,16 @@ FATURAMENTO VD ES;131.58;151.68;24.11.175.49.57;Persiana Bauhaus Rolo Bambu 160X
 FATURAMENTO VD ES;104.7;120.7;24.11.175.50.57;Persiana Bauhaus Rolo Bambu 100X220  Fresno;VITRINE
 FATURAMENTO VD ES;98.68;113.76;24.11.175.52.57;Persiana Bauhaus Rolo Bambu 120X160 Honey Mapple;VITRINE
 FATURAMENTO VD ES;105.81;121.97;24.11.175.53.57;Persiana Bauhaus Rolo Bambu 140X160 Honey Mapple;VITRINE
-FATURAMENTO VD ES;90.62;104.47;24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;VITRINE
+FATURAMENTO VD ES;91.58;105.57;24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;VITRINE
 FATURAMENTO VD ES;91.59;105.57;24.11.175.78.01;Persiana Zebra Rolo Dupla 120X160 Preta;VITRINE
-FATURAMENTO VD ES;91.34;105.3;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
+FATURAMENTO VD ES;91.58;105.57;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;73.29;84.48;24.11.175.80.57;Persiana Zebra Rolo Dupla 120X160 Caramelo;VITRINE
 FATURAMENTO VD ES;106.91;123.24;24.11.175.84.06;Persiana Zebra Rolo Dupla 140X160 Branca;VITRINE
 FATURAMENTO VD ES;106.91;123.24;24.11.175.85.01;Persiana Zebra Rolo Dupla 140X160 Preta;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.86.57;Persiana Zebra Rolo Dupla 140X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;85.5;98.56;24.11.175.87.57;Persiana Zebra Rolo Dupla 140X160 Caramelo;VITRINE
 FATURAMENTO VD ES;97.16;112.0;24.11.175.89.10;Persiana Zebra Rolo Dupla 140X160 Grafite Linho;VITRINE
-FATURAMENTO VD ES;122.18;140.85;24.11.175.90.06;Persiana Zebra Rolo Dupla 160X160 Branca;VITRINE
+FATURAMENTO VD ES;122.2;140.85;24.11.175.90.06;Persiana Zebra Rolo Dupla 160X160 Branca;VITRINE
 FATURAMENTO VD ES;122.2;140.85;24.11.175.91.01;Persiana Zebra Rolo Dupla 160X160 Preta;VITRINE
 FATURAMENTO VD ES;122.19;140.85;24.11.175.92.57;Persiana Zebra Rolo Dupla 160X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;97.72;112.64;24.11.175.93.57;Persiana Zebra Rolo Dupla 160X160 Caramelo;VITRINE
@@ -714,10 +716,13 @@ FATURAMENTO VD ES;60.17;67.91;24.50.66.180.06;Figura Boneca Wolff de Resina Bal�
 FATURAMENTO VD ES;53.24;60.32;24.50.66.201.00;Lupa Decorativa Wolff de Metal e Madeira 20cm x 7cm x 2cm;VITRINE
 FATURAMENTO VD ES;20.74;23.54;24.50.66.210.05;PORTA-RETRATO AÇO BAMBU PRATEADO 20x25cm;VITRINE
 FATURAMENTO VD ES;22.24;25.26;24.50.66.212.05;PORTA-RETRATO AÇO CHESS PRATEADO 20x25cm;VITRINE
-FATURAMENTO VD ES;9.9;11.24;24.50.66.213.05;PORTA-RETRATO AÇO CHESS PRATEADO 13x18cm;VITRINE
+FATURAMENTO VD ES;9.89;11.24;24.50.66.213.05;PORTA-RETRATO AÇO CHESS PRATEADO 13x18cm;VITRINE
+FATURAMENTO VD ES;9.89;11.24;24.50.66.213.05;Porta-Retrato Wolff Chess Prata de Aço 13cm x 18cm;VITRINE
 FATURAMENTO VD ES;26.75;30.38;24.50.66.218.05;PORTA-RETRATO AÇO PRATEADO 20x25cm;VITRINE
 FATURAMENTO VD ES;26.75;30.38;24.50.66.218.05;Porta-Retrato Wolff de Aço Prata 20cm x 25cm;VITRINE
 FATURAMENTO VD ES;8.74;9.98;24.50.66.22.00;Porta Vela Wolff Pearl de Vidro;VITRINE
+FATURAMENTO VD ES;19.79;22.34;24.50.66.223.00;PORTA-RETRATO PLÁSTICO ESPELHADO TOP 10x15cm;VITRINE
+FATURAMENTO VD ES;19.79;22.34;24.50.66.223.00;Porta-Retrato Wolff Top de Plástico 10cm x 15cm;VITRINE
 FATURAMENTO VD ES;33.06;37.46;24.50.66.256.04;VASO DE VIDRO C/Borda dourada TAJ 13cm x 23,5cm;VITRINE
 FATURAMENTO VD ES;21.6;24.47;24.50.66.275.00;Vaso Wolff de Vidro 13,5cm x 20cm;VITRINE
 FATURAMENTO VD ES;20.49;23.21;24.50.66.276.00;Vaso Wolff de Vidro 14cm x 20cm;VITRINE
@@ -727,7 +732,7 @@ FATURAMENTO VD ES;108.52;122.94;24.50.66.290.00;Vaso Wolff Murano Italy  Âmbar 
 FATURAMENTO VD ES;45.69;51.77;24.50.66.291.04;Vaso Wolff Murano Italy  Âmbar e Dourado 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;44.92;50.88;24.50.66.308.18;Vaso Wolff Murano Italy  Rosa Claro 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;88.79;100.6;24.50.66.317.00;Vaso Wolff Murano Italy  Tiffany 19cm x 24cm;VITRINE
-FATURAMENTO VD ES;43.74;49.56;24.50.66.321.04;Vaso Wolff Murano Italy  Transparente e Dourado 10cm x 11cm;VITRINE
+FATURAMENTO VD ES;43.75;49.56;24.50.66.321.04;Vaso Wolff Murano Italy  Transparente e Dourado 10cm x 11cm;VITRINE
 FATURAMENTO VD ES;43.69;49.49;24.50.66.328.11;VASO DE VIDRO ITALY VERDE ESMERALDA E amarelo 10x11cm;VITRINE
 FATURAMENTO VD ES;43.69;49.49;24.50.66.328.11;Vaso Wolff Murano Italy  Verde Esmeralda e Dourado 11cm;VITRINE
 FATURAMENTO VD ES;5.17;5.87;24.50.66.330.00;Vaso Wolff Love Seed de Vidro 6cm x 15cm;VITRINE
@@ -753,7 +758,7 @@ FATURAMENTO VD ES;13.95;16.01;24.50.66.560.00;Conjunto 3 Cestas de Fibra Natural
 FATURAMENTO VD ES;11.39;13.07;24.50.66.62.06;Cachepot Wolff Geométrico de Cimento Branco 10cm x 15cm;VITRINE
 FATURAMENTO VD ES;6.53;7.5;24.50.66.63.06;Cachepot Wolff Geométrico de Cimento Branco 7,5cm x 9,5cm;VITRINE
 FATURAMENTO VD ES;15.63;17.85;24.50.66.691.00;Castiçal Para Vela De Vidro Athenas 10cm x 10cm x 20,5Cm;VITRINE
-FATURAMENTO VD ES;5.76;6.57;24.50.66.692.00;Castiçal Para Vela De Vidro Athenas 7cm x 7cm x 10,5Cm;VITRINE
+FATURAMENTO VD ES;5.75;6.57;24.50.66.692.00;Castiçal Para Vela De Vidro Athenas 7cm x 7cm x 10,5Cm;VITRINE
 FATURAMENTO VD ES;14.47;16.53;24.50.66.693.00;Castiçal Para Vela De Vidro Creta 8cm x 8cm x 16Cm;VITRINE
 FATURAMENTO VD ES;15.86;18.12;24.50.66.694.00;Castiçal Para Vela De Vidro Creta 9cm x 9cm x 18,5Cm;VITRINE
 FATURAMENTO VD ES;138.86;159.39;24.50.66.697.00;Conjunto 6 Cachepots De Fibra Natural Forro;VITRINE
@@ -773,8 +778,8 @@ FATURAMENTO VD ES;52.32;59.28;24.50.66.745.07;Vaso De Vidro Italy Azul 11cm x 10
 FATURAMENTO VD ES;56.11;63.58;24.50.66.748.07;Vaso De Vidro Italy Azul 9,5cm x 20Cm;VITRINE
 FATURAMENTO VD ES;71.26;80.74;24.50.66.755.00;Vaso De Vidro Italy Leopardo 12cm x 15,5Cm;VITRINE
 FATURAMENTO VD ES;51.15;57.95;24.50.66.756.00;Vaso De Vidro Italy Leopardo 9cm x 12Cm;VITRINE
-FATURAMENTO VD ES;8.12;9.2;24.50.66.757.00;Vaso De Vidro Lines 8,2cm x 6,8cm x 17Cm;VITRINE
-FATURAMENTO VD ES;11.1;12.57;24.50.66.758.00;Vaso De Vidro Tulipa 10cm x 10cm x 19Cm;VITRINE
+FATURAMENTO VD ES;8.11;9.19;24.50.66.757.00;Vaso De Vidro Lines 8,2cm x 6,8cm x 17Cm;VITRINE
+FATURAMENTO VD ES;11.1;12.58;24.50.66.758.00;Vaso De Vidro Tulipa 10cm x 10cm x 19Cm;VITRINE
 FATURAMENTO VD ES;20.77;23.53;24.50.66.759.00;Vaso De Vidro Tulipa 12,5cm x 12,5cm x 22,5Cm;VITRINE
 FATURAMENTO VD ES;60.23;69.14;24.50.66.760.00;Conjunto 5 Cachepots de Fibra Natural  - Wolff;VITRINE
 FATURAMENTO VD ES;12.02;13.65;24.50.66.769.05;Porta-Retrato de Aço Friso Prata 10cm x 15cm - Wolff;VITRINE
@@ -880,7 +885,7 @@ FATURAMENTO VD ES;10.62;12.08;24.52.66.187.18;Caneca Wolff Love de Cerâmica Pre
 FATURAMENTO VD ES;8.31;9.45;24.52.66.188.18;Caneca Wolff Love de Cerâmica Preto Matt Rosa 350ml;VITRINE
 FATURAMENTO VD ES;27.86;31.68;24.52.66.194.04;Chaleira com Difusor Wolff Dourado de Borossilicato 600ml;VITRINE
 FATURAMENTO VD ES;15.74;17.91;24.52.66.195.00;Chaleira Wolff de Vidro Borossilicato 600ml;VITRINE
-FATURAMENTO VD ES;19.42;21.99;24.52.66.199.00;Garrafa Térmica Wolff de Aço Inox 500ml;VITRINE
+FATURAMENTO VD ES;19.4;21.98;24.52.66.199.00;Garrafa Térmica Wolff de Aço Inox 500ml;VITRINE
 FATURAMENTO VD ES;19.47;22.06;24.52.66.200.01;Garrafa Térmica Wolff de Aço Inox Preta 500ml;VITRINE
 FATURAMENTO VD ES;34.85;39.49;24.52.66.206.11;Garrafa Térmica Wolff Nórdica Verde de Plástico 1L;VITRINE
 FATURAMENTO VD ES;5.77;6.56;24.52.66.218.00;Manteigueira Wolff Pearl de Cristal 11cm x 7cm x 7cm;VITRINE
@@ -904,13 +909,13 @@ FATURAMENTO VD ES;38.33;43.6;24.52.66.374.00;Conjunto 6 Taças de Sobremesa de C
 FATURAMENTO VD ES;13.05;14.85;24.52.66.380.00;Caneca Parede Dupla De Vidro Borossilicato Fall 330Ml;VITRINE
 FATURAMENTO VD RJ;13.68;15.56;24.52.66.380.00;Caneca Parede Dupla De Vidro Borossilicato Fall 330Ml;VITRINE
 FATURAMENTO VD ES;5.63;6.41;24.52.66.381.00;Conjunto 2 Canecas De Vidro Bubbles 220Ml;VITRINE
-FATURAMENTO VD ES;12.1;13.77;24.52.66.382.00;Conjunto 4 Taças Para Cappuccino De Vidro Classic 160Ml;VITRINE
+FATURAMENTO VD ES;12.11;13.77;24.52.66.382.00;Conjunto 4 Taças Para Cappuccino De Vidro Classic 160Ml;VITRINE
 FATURAMENTO VD ES;9.04;10.28;24.52.66.384.00;Conjunto 4 Xícaras De Vidro Frankfurt 100Ml;VITRINE
 FATURAMENTO VD ES;11.8;13.42;24.52.66.385.00;Conjunto 4 Xícaras De Vidro Frankfurt 220Ml;VITRINE
 FATURAMENTO VD ES;38.68;43.82;24.52.66.386.06;Garrafa Térmica Carrossel Branca 1L - Wolff;VITRINE
 FATURAMENTO VD ES;31.85;36.09;24.52.66.389.01;Garrafa Térmica Carrossel Preta 1L - Wolff;VITRINE
 FATURAMENTO VD ES;11.62;13.16;24.52.66.390.06;Garrafa Térmica Essência Branca 300Ml;VITRINE
-FATURAMENTO VD ES;12.6;14.27;24.52.66.391.01;Garrafa Térmica Essência Preta 300Ml;VITRINE
+FATURAMENTO VD ES;12.59;14.27;24.52.66.391.01;Garrafa Térmica Essência Preta 300Ml;VITRINE
 FATURAMENTO VD ES;26.53;30.06;24.52.66.393.06;Garrafa Térmica Geometric Branca 1L - Wolff;VITRINE
 FATURAMENTO VD ES;62.63;70.96;24.52.66.395.76;Garrafa Térmica Marrom Com Tampa Dourada New Rattan 1L;VITRINE
 FATURAMENTO VD ES;25.05;28.38;24.52.66.396.06;Garrafa Térmica Matelassê Branca 1L;VITRINE
@@ -920,7 +925,7 @@ FATURAMENTO VD ES;14.05;15.98;24.52.66.400.00;Xícara Parede Dupla De Vidro Boro
 FATURAMENTO VD ES;41.52;47.23;24.52.66.401.10;Bule com Tampa e Suporte para Filtro Cinza 600ml - Wolff;VITRINE
 FATURAMENTO VD ES;41.52;47.23;24.52.66.401.10;Bule com Tampa e Suporte para Filtro Creme 600ml - Wolff;VITRINE
 FATURAMENTO VD ES;25.7;29.12;24.52.66.418.06;Açucareiro de Porcelana Birds Branco 300ml - Wolff;VITRINE
-FATURAMENTO VD ES;17.63;20.05;24.52.66.419.00;"
+FATURAMENTO VD ES;17.0;19.34;24.52.66.419.00;"
 
 
 Cafeteira Prensa Francesa Vidro Bambu 400ml Wolff
@@ -958,7 +963,7 @@ FATURAMENTO VD ES;93.33;105.74;24.52.66.67.00;Garrafa Térmica Wolff de Aço Ino
 FATURAMENTO VD ES;33.49;37.94;24.52.66.69.00;Garrafa Térmica Wolff Nórdica de Plástico Bege;VITRINE
 FATURAMENTO VD ES;33.03;37.43;24.52.66.70.00;Garrafa Térmica Wolff Nórdica de Plástico Menta 1L;VITRINE
 FATURAMENTO VD ES;33.03;37.43;24.52.66.70.00;Garrafa Térmica Wolff Nórdica de Plástico Verde 1L;VITRINE
-FATURAMENTO VD ES;15.05;17.11;24.52.66.79.00;Jogo de 2 Xícaras de Café e Chá Parede Dupla Wolff Incolor 180ml;VITRINE
+FATURAMENTO VD ES;15.04;17.11;24.52.66.79.00;Jogo de 2 Xícaras de Café e Chá Parede Dupla Wolff Incolor 180ml;VITRINE
 FATURAMENTO VD ES;17.38;19.86;24.52.66.80.00;Jogo de 2 Xícaras de Café Wolff Retrô de Cerâmica Laranja 100ml;VITRINE
 FATURAMENTO VD ES;10.18;11.68;24.53.163.01.00;Pote de Vidro com tampa Quadrado 520ml - Oikos;VITRINE
 FATURAMENTO VD ES;10.11;11.61;24.53.163.02.00;Pote de Vidro Com tampa Retangular 570ml - Oikos;VITRINE
@@ -1052,6 +1057,7 @@ FATURAMENTO VD ES;34.57;39.69;24.53.163.89.00;Tábua Com Base Giratória De Acá
 FATURAMENTO VD ES;17.15;19.69;24.53.163.92.00;Pote 1300Ml De Vidro Com Tampa Acácia Com Alça;VITRINE
 FATURAMENTO VD ES;45.74;52.5;24.53.163.94.00;Saleiro Duplo De Acácia 500Ml - Oikos;VITRINE
 FATURAMENTO VD ES;33.31;37.89;24.53.66.10.00;Jogo de 6 Porta Tempero com Base Wolff Poli Preta de Vidro 17cm;VITRINE
+FATURAMENTO VD ES;13.74;15.63;24.53.66.12.00;Conjunto de Galheteiro Wolff Donatello de Vidro 11 x 10 x 20 cm;VITRINE
 FATURAMENTO VD ES;9.48;10.78;24.53.66.13.00;Moedor para Sal e Pimenta de Acrilíco 6cm x 17cm;VITRINE
 FATURAMENTO VD ES;84.19;95.77;24.53.66.135.00;Conjunto 12 Potes Com Tampa Hermética E Rack Giratório 120Ml;VITRINE
 FATURAMENTO VD ES;68.37;77.78;24.53.66.137.00;Conjunto 8 Potes Com Tampa Hermética E Rack Em Bambu;VITRINE
@@ -1063,8 +1069,9 @@ FATURAMENTO VD ES;15.37;17.49;24.53.66.161.01;Porta Mantimento De Vidro Com Tamp
 FATURAMENTO VD ES;12.99;14.77;24.53.66.163.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 1L;VITRINE
 FATURAMENTO VD ES;8.49;9.65;24.53.66.164.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 600Ml;VITRINE
 FATURAMENTO VD ES;12.17;13.85;24.53.66.165.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 800Ml;VITRINE
-FATURAMENTO VD ES;14.31;16.27;24.53.66.169.00;Porta Mantimento De Vidro Martelado Com Tampa De Bambu 1,3L;VITRINE
+FATURAMENTO VD ES;14.3;16.26;24.53.66.169.00;Porta Mantimento De Vidro Martelado Com Tampa De Bambu 1,3L;VITRINE
 FATURAMENTO VD ES;13.24;15.06;24.53.66.170.00;Porta Mantimento De Vidro Martelado Com Tampa De Bambu 1L;VITRINE
+FATURAMENTO VD ES;11.54;13.13;24.53.66.171.00;Porta Mantimento De Vidro Martelado Com Tampa De Bambu 700Ml;VITRINE
 FATURAMENTO VD ES;12.36;14.06;24.53.66.18.00;Porta Mantimentos Wolff de Vidro com Tampa em Madeira 1,2L;VITRINE
 FATURAMENTO VD ES;8.48;9.64;24.53.66.19.00;Porta Mantimentos Wolff de Vidro com Tampa em Madeira 600ml;VITRINE
 FATURAMENTO VD ES;6.25;7.12;24.53.66.203.00;Garrafa para Azeite de Vidro Pintado Branco com Tampa 230ml;VITRINE
@@ -1073,8 +1080,10 @@ FATURAMENTO VD ES;5.33;6.06;24.53.66.207.00;Borrifador Spray Aço Inox e Vidro 1
 FATURAMENTO VD ES;57.81;65.77;24.53.66.208.01;Frigideira Wok Indução em Alumínio e Revestimento Preta 28cm;VITRINE
 FATURAMENTO VD ES;57.81;65.77;24.53.66.209.10;Frigideira Wok Indução em Alumínio e Revestimento Cinza 28cm;VITRINE
 FATURAMENTO VD ES;41.59;47.31;24.53.66.211.10;Leiteira de Indução em Alumínio com Revestimento Cinza 14cm;VITRINE
+FATURAMENTO VD ES;55.55;63.19;24.53.66.214.01;Kit  Porta Temperos de Vidro com Suporte - 12Pçs;VITRINE
 FATURAMENTO VD ES;10.39;11.72;24.53.66.215.06;Colher Medidora Digital de Plástico Branca 23cm - Wolff;VITRINE
 FATURAMENTO VD ES;20.95;23.83;24.53.66.217.00;Moedor para Temperos de Acrilíco e Madeira 5,5cm x 21,5cm;VITRINE
+FATURAMENTO VD ES;68.23;77.61;24.53.66.218.10;Caçarola Indução Alumínio Revest. Cerâmico 20cm Wolff;VITRINE
 FATURAMENTO VD ES;35.94;40.89;24.53.66.220.00;Kit 5 Porta Temperos Vidro Borossilicato Tampa Bambu Wolff;VITRINE
 FATURAMENTO VD ES;16.77;19.08;24.53.66.35.06;Pote Wolff Vintage Flores de Cerâmica Branco 10cm x 8cm;VITRINE
 FATURAMENTO VD ES;60.65;69.0;24.53.66.37.00;Panela Wolff Revestimento Cerâmico Indução Granilite Cinza 20cm;VITRINE
@@ -1139,13 +1148,15 @@ FATURAMENTO VD ES;12.8;14.5;24.54.66.04.00;Jogo de 6 Taças Para Lícor Wolff Pe
 FATURAMENTO VD ES;12.8;14.5;24.54.66.04.00;Jogo de 6 Taças Wolff Pearl de Cristal Âmbar;VITRINE
 FATURAMENTO VD ES;34.47;39.05;24.54.66.05.00;Jogo de 6 Taças para Água Wolff Bico de Jaca de Vidro Incolor;VITRINE
 FATURAMENTO VD ES;37.01;42.1;24.54.66.09.00;Jarra Wolff Palm Tree de Cristal Verde 1,5L;VITRINE
-FATURAMENTO VD ES;22.46;25.44;24.54.66.100.01;Copo Térmico Parede Dupla Preto Wolff de Aço Inox 600ml;VITRINE
+FATURAMENTO VD ES;22.45;25.44;24.54.66.100.01;Copo Térmico Parede Dupla Preto Wolff de Aço Inox 600ml;VITRINE
 FATURAMENTO VD ES;21.94;24.86;24.54.66.101.00;Copo Térmico Wolff de Aço Inox 600ml;VITRINE
 FATURAMENTO VD ES;3.5;3.96;24.54.66.102.06;Copo Wolff de Vidro com Cinta em Silicone Branco 350ml;VITRINE
 FATURAMENTO VD ES;6.42;7.37;24.54.66.106.00;Escova para Taça Wolff 26cm;VITRINE
+FATURAMENTO VD ES;56.45;64.22;24.54.66.112.00;Garrafa Wolff de Cristal 850ml;VITRINE
 FATURAMENTO VD ES;22.27;25.34;24.54.66.140.00;Jarra Wolff de Vidro Incolor 1,3L;VITRINE
 FATURAMENTO VD ES;16.61;18.9;24.54.66.148.00;Jarra Wolff Greek de Vidro 1L;VITRINE
 FATURAMENTO VD ES;56.89;64.72;24.54.66.154.11;Jarra Wolff Palm Tree de Acrílico Verde 2,8L;VITRINE
+FATURAMENTO VD ES;27.42;31.18;24.54.66.155.00;Jarra Wolff Palm Tree de Cristal 1,2L;VITRINE
 FATURAMENTO VD ES;29.18;33.19;24.54.66.156.00;Jarra Wolff Palm Tree de Cristal Incolor 1,5L;VITRINE
 FATURAMENTO VD ES;5.26;6.0;24.54.66.170.00;Saca-Rolhas 2 Estágios Wolff de Inox 13cm x 2cm;VITRINE
 FATURAMENTO VD ES;6.56;7.43;24.54.66.174.01;Taça Wolff de Vidro Preta 300ml;VITRINE
@@ -1163,7 +1174,7 @@ FATURAMENTO VD ES;20.36;23.16;24.54.66.259.00;Jarra de Vidro Borossilicato com T
 FATURAMENTO VD ES;16.04;18.17;24.54.66.288.00;Decanter de Cristal Ecológico com Tampa Esfera Hydriam Veritas 1L - Wolff;VITRINE
 FATURAMENTO VD ES;10.41;11.84;24.54.66.295.00;Garrafa de Vidro com Cinta e Canudo Pure Rosa 500ml - Wolff;VITRINE
 FATURAMENTO VD ES;10.59;12.04;24.54.66.296.00;Garrafa de Vidro com Cinta e Canudo Pure Branca 500ml - Wolff;VITRINE
-FATURAMENTO VD ES;70.18;79.84;24.54.66.304.00;Jogo Jarra com 6 Copos de Cristal Palm Tree Handpaint;VITRINE
+FATURAMENTO VD ES;70.18;79.83;24.54.66.304.00;Jogo Jarra com 6 Copos de Cristal Palm Tree Handpaint;VITRINE
 FATURAMENTO VD ES;13.45;15.23;24.54.66.318.00;Taça para Vinho de Cristal Reserva 750ml - Wolff;VITRINE
 FATURAMENTO VD ES;10.37;11.75;24.54.66.319.00;Taça para Vinho de Cristal Reserva 740ml - Wolff;VITRINE
 FATURAMENTO VD ES;10.92;12.37;24.54.66.320.00;Taça para Vinho de Cristal Reserva 510ml - Wolff;VITRINE
@@ -1174,7 +1185,7 @@ FATURAMENTO VD ES;33.17;37.58;24.54.66.353.00;Conjunto 6 Taças De Vidro Mandala
 FATURAMENTO VD ES;23.08;26.26;24.54.66.354.00;Jarra De Vidro Bold Transparente 1.2L - Wolff;VITRINE
 FATURAMENTO VD ES;16.34;18.59;24.54.66.355.00;Jarra De Vidro Mandala Transparente 1L;VITRINE
 FATURAMENTO VD ES;31.54;35.89;24.54.66.356.00;Jarra De Vidro Slim Transparente 1.2L - Wolff;VITRINE
-FATURAMENTO VD ES;31.67;35.89;24.54.66.360.00;Conjunto 6 Taças de Água de Vidro Greek 345ml - Wolff;VITRINE
+FATURAMENTO VD ES;31.67;35.88;24.54.66.360.00;Conjunto 6 Taças de Água de Vidro Greek 345ml - Wolff;VITRINE
 FATURAMENTO VD ES;41.26;46.74;24.54.66.361.00;Conjunto 6 Taças de Água de Vidro Greek Âmbar 345ml - Wolff;VITRINE
 FATURAMENTO VD RJ;41.26;46.74;24.54.66.361.00;Conjunto 6 Taças de Água de Vidro Greek Âmbar 345ml - Wolff;VITRINE
 FATURAMENTO VD ES;31.22;35.36;24.54.66.363.00;Jogo 2 Copos Altos com Borda Dourada Lines 400ml - Wolff;VITRINE
@@ -1182,7 +1193,7 @@ FATURAMENTO VD ES;17.18;19.47;24.54.66.364.00;Jogo 2 Copos Altos com Borda Doura
 FATURAMENTO VD ES;10.67;12.08;24.54.66.365.00;Jogo 2 Copos Altos Lines 450ml - Wolff;VITRINE
 FATURAMENTO VD ES;61.46;69.63;24.54.66.369.00;Jogo 6 Copos Altos Lines 400ml - Wolff;VITRINE
 FATURAMENTO VD ES;56.27;63.75;24.54.66.370.00;Jogo 6 Copos para Whisky Lines 300ml - Wolff;VITRINE
-FATURAMENTO VD ES;45.7;51.77;24.54.66.379.00;Kit 2 Taças para Vinho Balls Fio de Ouro 350ml Vidro;VITRINE
+FATURAMENTO VD ES;45.69;51.77;24.54.66.379.00;Kit 2 Taças para Vinho Balls Fio de Ouro 350ml Vidro;VITRINE
 FATURAMENTO VD ES;41.28;46.76;24.54.66.380.00;Kit 2 Taças para Champanhe Balls Fio de Ouro 220ml Vidro;VITRINE
 FATURAMENTO VD ES;93.14;105.52;24.54.66.382.00;Kit  2 Taças para Vinho de Cristal  Audax Veritas 960ml;VITRINE
 FATURAMENTO VD ES;6.39;7.27;24.54.66.383.00;Aerador de Acrílico para Vinho - Wolff;VITRINE
@@ -1245,7 +1256,7 @@ FATURAMENTO VD ES;46.39;52.78;24.55.159.61.20;Faqueiro 24 Peças Gastro Dourado 
 FATURAMENTO VD ES;9.92;11.28;24.55.159.62.20;Conjunto 6 Garfos para Mesa de Aço Inox Gastro 19cm - Lyor;VITRINE
 FATURAMENTO VD ES;10.74;12.2;24.55.159.63.20;Conjunto 6 Facas para Mesa de Aço Inox Gastro 21,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;9.96;11.34;24.55.159.64.20;Conjunto 6 Colheres de Mesa de Aço Inox Gastro 19cm - Lyor;VITRINE
-FATURAMENTO VD ES;36.45;41.4;24.55.66.01.00;Conjunto de 6 Facas para Sobremesa Wolff Berna Champanhe Fosco;VITRINE
+FATURAMENTO VD ES;36.46;41.41;24.55.66.01.00;Conjunto de 6 Facas para Sobremesa Wolff Berna Champanhe Fosco;VITRINE
 FATURAMENTO VD ES;211.57;240.68;24.55.66.09.04;Faqueiro 30 Peças Wolff Berna de Aço Inox Dourado;VITRINE
 FATURAMENTO VD ES;31.68;36.04;24.55.66.127.04;Conjunto de 6 Garfos para Bolo Wolff Berna de Aço Inox Dourado;VITRINE
 FATURAMENTO VD ES;141.5;160.97;24.55.66.135.00;Jogo de 6 Talheres com Cabo de Bambu Wolff de Aço Inox;VITRINE
@@ -1259,6 +1270,7 @@ FATURAMENTO VD ES;10.71;12.18;24.55.66.35.00;Conjunto de 2 Colheres de Açúcar 
 FATURAMENTO VD ES;23.65;26.9;24.55.66.43.04;Conjunto de Talheres  para Salada Wolff Berna Dourado;VITRINE
 FATURAMENTO VD ES;54.42;61.8;24.55.66.506.00;Faca de Pão com Cabo de Madeira e Aço Inox Laguiole - Wolff;VITRINE
 FATURAMENTO VD ES;123.95;140.77;24.55.66.507.00;Conjunto 4 Facas com Cabo de Madeira e Inox Laguiole - Wolff;VITRINE
+FATURAMENTO VD ES;59.15;67.29;24.55.66.513.00;Faqueiro 16 Peças Veneza em Aço Inox - Wolff;VITRINE
 FATURAMENTO VD ES;80.82;91.94;24.55.66.514.00;Faqueiro 24 Peças Nice em Aço Inox - Wolff;VITRINE
 FATURAMENTO VD ES;79.56;90.5;24.55.66.515.00;Faqueiro 24 Peças Veneza em Aço Inox - Wolff;VITRINE
 FATURAMENTO VD ES;102.36;116.45;24.55.66.516.00;Faqueiro 30 Peças Cannes em Aço Inox - Wolff;VITRINE
@@ -1268,14 +1280,15 @@ FATURAMENTO VD ES;74.2;84.41;24.55.66.519.00;Faqueiro 20 Peças Cannes em Aço I
 FATURAMENTO VD ES;244.32;277.93;24.55.66.522.00;Faqueiro 48 Peças de Aço Inox Oxford - Wolff;VITRINE
 FATURAMENTO VD ES;132.9;151.18;24.55.66.523.00;Faqueiro 30 Peças de Aço Inox Avalon - Wolff;VITRINE
 FATURAMENTO VD ES;586.55;667.24;24.55.66.525.00;Faqueiro 101 Pçs de Aço Inox com Caixa Litografada Avalon;VITRINE
-FATURAMENTO VD ES;82.86;94.26;24.55.66.526.00;Faqueiro 24 Pçs de Aço Inox com Cabo Amadeirado Milão;VITRINE
+FATURAMENTO VD ES;80.71;91.82;24.55.66.526.00;Faqueiro 24 Pçs de Aço Inox com Cabo Amadeirado Milão;VITRINE
 FATURAMENTO VD ES;80.65;91.75;24.55.66.527.00;Faqueiro 24 Peças de Aço Inox Firenze - Wolff;VITRINE
 FATURAMENTO VD ES;381.81;434.34;24.55.66.530.00;Faqueiro 101 Peças de Aço Inox Viena - Wolff;VITRINE
 FATURAMENTO VD ES;283.5;322.5;24.55.66.533.04;Faqueiro 54 Peças de Aço Inox Viena Dourado - Wolff;VITRINE
 FATURAMENTO VD ES;182.43;207.53;24.55.66.537.00;Faqueiro 54 Peças de Aço Inox Firenze - Wolff;VITRINE
 FATURAMENTO VD ES;132.9;151.18;24.55.66.539.00;Faqueiro 30 Peças com Faca para Churrasco de Aço Inox Pérola;VITRINE
+FATURAMENTO VD ES;51.17;58.22;24.55.66.545.00;Kit 6 Colheres Zamac Suporte Niquelado Crystal 14cm Wolff;VITRINE
 FATURAMENTO VD ES;9.6;10.92;24.55.66.60.05;Conjunto de 4 Colheres de Chá Wolff Cat Prata de Aço Inox;VITRINE
-FATURAMENTO VD ES;9.66;10.99;24.55.66.61.04;Conjunto de 4 Colheres de Chá Wolff Flores Dourado de Aço Inox;VITRINE
+FATURAMENTO VD ES;9.67;10.99;24.55.66.61.04;Conjunto de 4 Colheres de Chá Wolff Flores Dourado de Aço Inox;VITRINE
 FATURAMENTO VD ES;10.45;11.88;24.55.66.64.05;Conjunto de 4 Colheres de Chá Wolff Fruit Prata de Aço Inox;VITRINE
 FATURAMENTO VD ES;8.34;9.49;24.55.66.66.05;Conjunto de 4 Colheres de Chá Wolff Heart Prata de Aço Inox;VITRINE
 FATURAMENTO VD ES;8.02;9.13;24.55.66.68.05;Conjunto de 4 Colheres de Chá Wolff Leaves Prata de Aço Inox;VITRINE
@@ -1284,7 +1297,7 @@ FATURAMENTO VD ES;11.08;12.6;24.55.66.78.04;Jogo de 4 Espátulas Wolff Leaves de
 FATURAMENTO VD ES;8.47;9.63;24.55.66.84.05;Conjunto de 4 Garfos para Aperitivo Wolff Leaves Prata de Aço Inox;VITRINE
 FATURAMENTO VD ES;13.74;15.62;24.55.66.87.04;Conjunto de 4 Garfos Wolff Fruit de Aço Inox Dourado;VITRINE
 FATURAMENTO VD ES;29.48;33.54;24.55.66.90.04;Conjunto de 6 Colheres de Café Wolff Berna de Aço Inox Dourado;VITRINE
-FATURAMENTO VD ES;21.51;24.47;24.55.66.96.00;Conjunto de 6 Colheres de Chá Wolff Berna de Aço Inox;VITRINE
+FATURAMENTO VD ES;21.52;24.48;24.55.66.96.00;Conjunto de 6 Colheres de Chá Wolff Berna de Aço Inox;VITRINE
 FATURAMENTO VD ES;32.18;36.6;24.55.66.98.04;Conjunto de 6 Colheres de Chá Wolff Berna Dourado de Aço Inox;VITRINE
 FATURAMENTO VD ES;41.12;46.59;24.56.159.101.02;6 Taças para Água Bico de Abacaxi de Vidro Lilás 325ml - Lyor;VITRINE
 FATURAMENTO VD ES;4.71;5.36;24.56.159.109.01;Travessa Retangular de Melamina Tóquio Preta 24,5cm - Lyor;VITRINE
@@ -1366,11 +1379,12 @@ FATURAMENTO VD ES;7.64;8.7;24.56.66.531.00;Travessa Oval de Cristal Pearl 24cm x
 FATURAMENTO VD ES;22.52;25.62;24.56.66.537.00;Prato para Servir de Cristal Martelado com Borda Dourada Taj 26cm - Wolff;VITRINE
 FATURAMENTO VD ES;8.63;9.82;24.56.66.56.18;Prato Wolff Pearl de Cristal Rosa 30cm x 25cm x 2cm;VITRINE
 FATURAMENTO VD ES;5.02;5.71;24.56.66.583.10;Prato De Sobremesa De Melamina Class Cinza 21,5Cm;VITRINE
-FATURAMENTO VD ES;7.76;8.82;24.56.66.589.10;Prato Raso De Melamina Class Cinza 27Cm;VITRINE
+FATURAMENTO VD ES;7.75;8.82;24.56.66.589.10;Prato Raso De Melamina Class Cinza 27Cm;VITRINE
 FATURAMENTO VD ES;8.1;9.21;24.56.66.590.01;Prato Raso De Melamina Class Preto 27Cm;VITRINE
 FATURAMENTO VD ES;23.78;27.05;24.56.66.591.00;Refratário De Vidro Com Suporte Em Fibra Natural 21,5Cm;VITRINE
 FATURAMENTO VD ES;81.98;93.26;24.56.66.598.00;Conjunto 6 Pratos Cerâmica Coração Sortidas 19,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;13.7;15.58;24.56.66.60.04;Prato Wolff Pearl de Cristal Dourado 20cm;VITRINE
+FATURAMENTO VD ES;24.78;28.19;24.56.66.602.10;Prato Raso de Cerâmica Mist Cinza Matte 27cm - Wolff;VITRINE
 FATURAMENTO VD ES;14.18;16.13;24.56.66.63.00;Jogo de 4 Bowls Wolff Pearl de Cristal Incolor 12cm;VITRINE
 FATURAMENTO VD ES;10.83;12.32;24.56.66.64.00;Jogo de 4 Pratos Wolff Pearl de Cristal Âmbar 12cm x 10cm x 1cm;VITRINE
 FATURAMENTO VD ES;9.77;11.11;24.56.66.65.00;Prato Wolff Pearl de Cristal Âmbar 20cm x 17cm;VITRINE
@@ -1417,7 +1431,7 @@ FATURAMENTO VD ES;5.9;6.71;24.57.159.74.06;Sousplat Patinado de Plástico Moon B
 FATURAMENTO VD RJ;7.14;8.94;24.57.163.01.00;Jogo De 2 Utensilios Para Salada 31Cm - Oikos;VITRINE
 FATURAMENTO VD ES;7.79;8.94;24.57.163.01.00;Jogo De 2 Utensilios Para Salada 31Cm - Oikos;VITRINE
 FATURAMENTO VD ES;19.69;22.59;24.57.163.03.00;Bandeja De Bambu 24Cm - Oikos;VITRINE
-FATURAMENTO VD ES;38.82;44.56;24.57.163.05.00;Jarra De Vidro Com Tampa De Bambu 2L - Oikos;VITRINE
+FATURAMENTO VD ES;38.83;44.56;24.57.163.05.00;Jarra De Vidro Com Tampa De Bambu 2L - Oikos;VITRINE
 FATURAMENTO VD ES;69.67;79.96;24.57.163.07.00;Bandeja De Acácia Arredondada 40Cm - Oikos;VITRINE
 FATURAMENTO VD ES;18.85;21.64;24.57.163.10.00;Bandeja Retangular Em Bambu 35Cm - Oikos;VITRINE
 FATURAMENTO VD ES;7.58;8.71;24.57.66.04.00;Porta Guardanapos Wolff de Sisal 12cm x 6cm x 8cm;VITRINE
@@ -1427,6 +1441,7 @@ FATURAMENTO VD ES;23.64;28.9;24.57.66.135.05;Jogo de 4 Anéis para Guardanapos W
 FATURAMENTO VD ES;33.33;38.26;24.57.66.136.04;Jogo de 4 Anéis para Guardanapos Wolff Limão Dourado de Zinco 4cm;VITRINE
 FATURAMENTO VD ES;9.55;11.31;24.57.66.145.00;Jogo de 4 Aneis para Guardanapos Wolff Quadrado Teca Natural;VITRINE
 FATURAMENTO VD ES;19.87;22.6;24.57.66.16.00;Sousplat Wolff Daisy de Cristal Incolor 32cm;VITRINE
+FATURAMENTO VD ES;9.14;10.36;24.57.66.160.00;Jogo de 4 Descansos Wolff Koji de Porcelana s 5cm x 3cm;VITRINE
 FATURAMENTO VD ES;58.94;66.77;24.57.66.162.00;Jogo de 4 Mini Panelas quadradas Wolff de Porcelana Coloridas 12cm 150ml;VITRINE
 FATURAMENTO VD ES;18.87;21.47;24.57.66.17.00;Queijeira Wolff Daisy de Cristal 19,5cm x 13cm;VITRINE
 FATURAMENTO VD ES;47.35;54.34;24.57.66.186.00;Jogo de 6 Descansos para Talheres Wolff de Zamac;VITRINE
@@ -1435,7 +1450,7 @@ FATURAMENTO VD ES;24.28;27.62;24.57.66.198.00;Bandeja com Alça Wolff Angel de C
 FATURAMENTO VD ES;8.78;9.99;24.57.66.21.00;Jogo de 6 Porta Ovos Wolff Pearl de Cristal Âmbar;VITRINE
 FATURAMENTO VD ES;8.78;9.99;24.57.66.21.00;Jogo de 6 Porta Ovos Wolff Pearl de Cristal Âmbar Jogo de 6cm;VITRINE
 FATURAMENTO VD ES;12.98;14.76;24.57.66.22.00;Queijeira Wolff Pearl de Cristal Incolor 20 cmx 9cm;VITRINE
-FATURAMENTO VD ES;17.97;20.64;24.57.66.220.00;Bandeja Wolff de Sisal 30cm x 22cm x 4cm;VITRINE
+FATURAMENTO VD ES;17.98;20.64;24.57.66.220.00;Bandeja Wolff de Sisal 30cm x 22cm x 4cm;VITRINE
 FATURAMENTO VD ES;21.6;24.79;24.57.66.221.00;Bandeja Wolff de Sisal 34cm x 26cm x 4,5cm;VITRINE
 FATURAMENTO VD ES;10.51;12.06;24.57.66.229.00;Cesta Oval com Alça e Forro Wolff em Papel 27cm x 20cm;VITRINE
 FATURAMENTO VD RJ;10.39;11.92;24.57.66.229.00;Cesta Oval com Alça e Forro Wolff em Papel 27cm x 20cm;VITRINE
@@ -1447,10 +1462,11 @@ FATURAMENTO VD ES;21.33;24.26;24.57.66.24.00;Queijeira Wolff Pearl de Cristal In
 FATURAMENTO VD ES;21.33;24.26;24.57.66.24.00;Queijeira Wolff Pearl de Cristal Transparente 20 cmx 12cm;VITRINE
 FATURAMENTO VD ES;23.47;26.69;24.57.66.25.00;Queijeira Wolff Pearl de Cristal Âmbar 20cm x 12cm;VITRINE
 FATURAMENTO VD ES;12.55;14.28;24.57.66.26.00;Petisqueira Wolff Pearl de Cristal Incolor 30x13x3cm;VITRINE
+FATURAMENTO VD ES;8.91;10.13;24.57.66.267.11;Lugar Americano Wolff de Plástico Verde 38cm;VITRINE
 FATURAMENTO VD ES;5.96;6.78;24.57.66.269.07;Lugar Americano Wolff de Poliéster Azul Marinho 38cm;VITRINE
 FATURAMENTO VD ES;5.85;6.66;24.57.66.27.00;Molheira Wolff Pearl de Cristal Incolor 140ml;VITRINE
 FATURAMENTO VD ES;28.75;32.71;24.57.66.28.00;Saladeira Wolff Pearl de Cristal Incolor 21cm x 19cm;VITRINE
-FATURAMENTO VD ES;5.77;6.56;24.57.66.329.07;Lugar Americano Wolff Poliéster Cinza e Azul 38cm;VITRINE
+FATURAMENTO VD ES;5.76;6.56;24.57.66.329.07;Lugar Americano Wolff Poliéster Cinza e Azul 38cm;VITRINE
 FATURAMENTO VD ES;14.81;16.77;24.57.66.354.06;Mini Caçarola Wolff Black Lid de Porcelana Branca 150ml;VITRINE
 FATURAMENTO VD ES;14.81;16.77;24.57.66.355.08;Mini Caçarola Wolff Black Lid de Porcelana Vermelha 150ml;VITRINE
 FATURAMENTO VD ES;11.75;13.37;24.57.66.357.01;Mini Caçarola Wolff Love de Cerâmica Preto 16,5 x 12,5cm;VITRINE
@@ -1468,13 +1484,17 @@ FATURAMENTO VD ES;22.72;25.85;24.57.66.457.00;Souplast Wolff Pearl de Cristal In
 FATURAMENTO VD ES;22.72;25.85;24.57.66.457.00;Souplast Wolff Pearl de Cristal Transparente 32 cm;VITRINE
 FATURAMENTO VD ES;27.66;31.47;24.57.66.462.04;Sousplat Wolff de Cristal Dourada Agate 31cm;VITRINE
 FATURAMENTO VD ES;6.77;7.71;24.57.66.470.04;Sousplat Wolff de Plástico Dourado 25cm;VITRINE
+FATURAMENTO VD ES;15.76;18.09;24.57.66.48.06;Jogo de 2 Guardanapos Ponto Ajour Wolff de Algodão Branco 40cm;VITRINE
 FATURAMENTO VD ES;7.36;8.42;24.57.66.489.76;Sousplat Wolff Marrom de Plástico 33cm;VITRINE
 FATURAMENTO VD ES;39.41;44.84;24.57.66.493.00;Sousplat Wolff Pearl de Cristal 32cm;VITRINE
+FATURAMENTO VD ES;15.52;17.81;24.57.66.50.00;Jogo de 2 Guardanapos Ponto Ajour Wolff de Algodão Off White 40cm;VITRINE
 FATURAMENTO VD ES;11.21;12.75;24.57.66.506.06;SousplatWolff Bambude Melamina Branco 33cm;VITRINE
+FATURAMENTO VD ES;18.92;21.71;24.57.66.577.00;Conjunto 3 Petisqueiras com Bandeja de Bambu Branco 33cm x 8cm - Wolff;VITRINE
 FATURAMENTO VD ES;20.35;23.15;24.57.66.581.00;Tábua de Melamina com Estampa de Madeira 40,5cm x 30,5cm x 1cm - Wolff;VITRINE
-FATURAMENTO VD ES;26.85;30.54;24.57.66.599.00;Sousplat de Cristal com Borda Dourada Linen 33cm - Wolff;VITRINE
+FATURAMENTO VD ES;26.84;30.54;24.57.66.599.00;Sousplat de Cristal com Borda Dourada Linen 33cm - Wolff;VITRINE
 FATURAMENTO VD ES;15.25;17.5;24.57.66.604.00;Lugar Americano de Sisal Mandala Flor 32cm - Wolff;VITRINE
 FATURAMENTO VD ES;14.94;17.15;24.57.66.64.08;Jogo de 2 Guardanapos Wolff de Algodão Vermelho 40cm;VITRINE
+FATURAMENTO VD ES;22.94;26.33;24.57.66.666.00;Conjunto 10 Peças Para Sushi De Bambu Okinawa;VITRINE
 FATURAMENTO VD ES;21.02;24.12;24.57.66.667.00;Conjunto 4 Peças Para Queijo Com Tábua Ladrilho;VITRINE
 FATURAMENTO VD ES;50.61;58.09;24.57.66.668.00;Conjunto 6 Peças Queijo De Bambu Com Tábua Ladrilho 23Cm;VITRINE
 FATURAMENTO VD ES;23.48;26.96;24.57.66.669.00;Conjunto 8 Peças Para Sushi De Bambu Akita;VITRINE
@@ -1561,7 +1581,7 @@ FATURAMENTO VD ES;33.07;37.96;24.69.163.51.00;Escorredor De Pratos De Ferro E Ma
 FATURAMENTO VD ES;90.51;103.89;24.69.163.53.00;Carrinho Organizador 3 Andares - Oikos;VITRINE
 FATURAMENTO VD ES;166.31;190.9;24.69.163.54.00;Gaveteiro Giratório Quadrado com Rodinhas - Oikos;VITRINE
 FATURAMENTO VD ES;7.88;9.04;24.69.163.55.00;Saco Para Máquina De Lavar Roupas 4 Divisórias - Oikos;VITRINE
-FATURAMENTO VD ES;91.06;104.52;24.69.163.70.00;Cesto Redondo 40Cm Com Alças Arcos Palha Rattan - Oikos;VITRINE
+FATURAMENTO VD ES;91.07;104.53;24.69.163.70.00;Cesto Redondo 40Cm Com Alças Arcos Palha Rattan - Oikos;VITRINE
 FATURAMENTO VD ES;87.01;99.86;24.69.163.73.00;Cesto Com Tampa Cogumelo 28Cm De Corda - Oikos;VITRINE
 FATURAMENTO VD ES;12.7;14.57;24.69.163.76.00;Organizador Dobrável Com 6 Divisórias Quadradas Linho;VITRINE
 FATURAMENTO VD ES;20.49;23.52;24.69.163.78.00;Organizador Dobrável Linho - Oikos;VITRINE
@@ -3484,10 +3504,10 @@ FATURAMENTO VD RJ;239.3;329.76;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Ro
 FULFILLMENT MELI;243.06;276.2;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Rosa Geo;VITRINE
 FATURAMENTO VD RJ;239.3;329.76;8.09.03.83.18;Carrinho de Bebê Spot Rosa Geo - Voyage;VITRINE
 FULFILLMENT MELI;243.06;276.2;8.09.03.83.18;Carrinho de Bebê Spot Rosa Geo - Voyage;VITRINE
-FULFILLMENT MELI;362.78;499.92;8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;VITRINE
 FATURAMENTO VD RJ;365.06;503.05;8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;VITRINE
-FULFILLMENT MELI;362.78;499.92;8.09.03.87.10;Carrinho de Bebê Yupi Voyage Cinza Mescla;VITRINE
+FULFILLMENT MELI;362.78;499.92;8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;VITRINE
 FATURAMENTO VD RJ;365.06;503.05;8.09.03.87.10;Carrinho de Bebê Yupi Voyage Cinza Mescla;VITRINE
+FULFILLMENT MELI;362.78;499.92;8.09.03.87.10;Carrinho de Bebê Yupi Voyage Cinza Mescla;VITRINE
 FULFILLMENT MELI;267.5;368.14;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mescla - Voyage;VITRINE
 FULFILLMENT AMAZON;303.9;418.78;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mescla - Voyage;VITRINE
 FATURAMENTO VD RJ;303.9;418.78;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mescla - Voyage;VITRINE
@@ -3972,6 +3992,7 @@ FATURAMENTO VD RJ;802.79;917.2;8.09.76.69.10;Carrinho de Bebê Pact Pro Misty Gr
 FATURAMENTO BBTOTAL ES;458.6;458.6;8.09.76.69.10;Carrinho de Bebê Pact Pro Misty Grey - Joie;BB TOTAL
 FATURAMENTO VD RJ;914.82;1040.69;8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;VITRINE
 FATURAMENTO VD RJ;869.08;988.65;8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;VITRINE
+FATURAMENTO VD RJ;2525.39;2872.83;8.09.76.72.10;Carrinho de Bebê Travel System Trio Versatrax E Pebble Cinza + Brinde Exclusivo - Joie;VITRINE
 FATURAMENTO VD RJ;2525.4;2872.84;8.09.76.73.01;Carrinho de Bebê Travel System Trio Versatrax E Preto Moon Light + Brinde Exclusivo - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;1436.42;1436.42;8.09.76.73.01;Carrinho de Bebê Travel System Trio Versatrax E Preto Moon Light + Brinde Exclusivo - Joie;BB TOTAL
 FATURAMENTO VD RJ;2524.1;2872.84;8.09.76.74.07;Carrinho de Bebê Travel System Trio Versatrax E Azul Lagoon + Brinde Exclusivo - Joie;VITRINE
@@ -4641,6 +4662,7 @@ FATURAMENTO VD RJ;62.44;68.22;8.24.53.84.18;Garrafa Térmica Inox 350ml Gatinho 
 FATURAMENTO VD ES;7.97;9.1;8.24.57.07.07;Porta-Frutinha Sugador em Silicone Azul e Verde - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;3.52;4.04;8.24.57.07.07;Porta-Frutinha Sugador em Silicone Azul e Verde - Buba;BB TOTAL
 FATURAMENTO VD RJ;7.76;8.08;8.24.57.07.07;Porta-Frutinha Sugador em Silicone Azul e Verde - Buba;VITRINE
+FATURAMENTO VD ES;7.97;9.1;8.24.57.07.07;Porta-Frutinha em Silicone Buba Azul e Verde;VITRINE
 FATURAMENTO VD ES;7.98;9.1;8.24.57.08.18;Porta-Frutinha Em Silicone Buba Azul e Rosa;VITRINE
 FATURAMENTO VD ES;7.98;9.1;8.24.57.08.18;Porta-Frutinha Sugador em Silicone Azul e Rosa - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;4.55;4.55;8.24.57.08.18;Porta-Frutinha Sugador em Silicone Azul e Rosa - Buba;BB TOTAL
@@ -5434,8 +5456,8 @@ FATURAMENTO VD RJ;11.57;13.16;8.25.57.26.07;Luvinha Mordedor Urso Buba Azul;VITR
 FATURAMENTO VD ES;9.39;10.68;8.25.57.28.00;Kit Aspirador Nasal com Conta-Gotas Buba;VITRINE
 FATURAMENTO BBTOTAL ES;5.3;6.08;8.25.57.28.00;Kit Aspirador Nasal com Conta-Gotas Buba;BB TOTAL
 FATURAMENTO VD RJ;11.67;12.16;8.25.57.28.00;Kit Aspirador Nasal com Conta-Gotas Buba;VITRINE
-FATURAMENTO VD RJ;10.0;11.34;8.25.57.38.16;Termômetro Para Água Girafinha Amarelo e Azul - Buba;VITRINE
 FATURAMENTO VD ES;10.0;11.34;8.25.57.38.16;Termômetro Para Água Girafinha Amarelo e Azul - Buba;VITRINE
+FATURAMENTO VD RJ;10.0;11.34;8.25.57.38.16;Termômetro Para Água Girafinha Amarelo e Azul - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;6.03;6.03;8.25.57.38.16;Termômetro Para Água Girafinha Amarelo e Azul - Buba;BB TOTAL
 FATURAMENTO VD RJ;10.0;11.34;8.25.57.39.16;Termômetro Para Água Girafinha Amarelo e Laranja - Buba;VITRINE
 FATURAMENTO VD ES;10.0;11.34;8.25.57.39.16;Termômetro Para Água Girafinha Amarelo e Laranja - Buba;VITRINE
@@ -6430,10 +6452,10 @@ FATURAMENTO VD ES;63.91;63.91;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD RJ;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;63.91;63.91;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;BB TUDO
-FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
-FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;82.15;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;82.15;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
@@ -7786,6 +7808,7 @@ FATURAMENTO VD RJ;946.07;946.07;8.09.76.68.07;Carrinho de Bebê Pact Pro Dark Bl
 FATURAMENTO VD RJ;917.2;917.2;8.09.76.69.10;Carrinho de Bebê Pact Pro Misty Grey - Joie;BB TUDO
 FATURAMENTO VD RJ;1040.69;1040.69;8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;BB TUDO
 FATURAMENTO VD RJ;988.65;988.65;8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;BB TUDO
+FATURAMENTO VD RJ;2872.83;2872.83;8.09.76.72.10;Carrinho de Bebê Travel System Trio Versatrax E Pebble Cinza + Brinde Exclusivo - Joie;BB TUDO
 FATURAMENTO VD RJ;2872.84;2872.84;8.09.76.73.01;Carrinho de Bebê Travel System Trio Versatrax E Preto Moon Light + Brinde Exclusivo - Joie;BB TUDO
 FATURAMENTO VD RJ;2872.84;2872.84;8.09.76.74.07;Carrinho de Bebê Travel System Trio Versatrax E Azul Lagoon + Brinde Exclusivo - Joie;BB TUDO
 FATURAMENTO VD RJ;3488.91;3488.91;8.09.76.75.10;Carrinho de Bebê Travel System Trio Versatrax Cycle Cinza Shellgray + Brinde Exclusivo - Joie;BB TUDO
@@ -8215,6 +8238,7 @@ FATURAMENTO VD RJ;138.86;138.86;8.24.53.73.00;Mamadeiras Step Up 150ml neutro + 
 FATURAMENTO VD RJ;68.22;68.22;8.24.53.84.18;Garrafa Térmica Inox 350ml Gatinho - Chicco;BB TUDO
 FATURAMENTO VD ES;9.1;9.1;8.24.57.07.07;Porta-Frutinha Sugador em Silicone Azul e Verde - Buba;BB TUDO
 FATURAMENTO VD RJ;8.08;8.08;8.24.57.07.07;Porta-Frutinha Sugador em Silicone Azul e Verde - Buba;BB TUDO
+FATURAMENTO VD ES;9.1;9.1;8.24.57.07.07;Porta-Frutinha em Silicone Buba Azul e Verde;BB TUDO
 FATURAMENTO VD ES;9.1;9.1;8.24.57.08.18;Porta-Frutinha Em Silicone Buba Azul e Rosa;BB TUDO
 FATURAMENTO VD ES;9.1;9.1;8.24.57.08.18;Porta-Frutinha Sugador em Silicone Azul e Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;14.64;14.64;8.24.57.10.07;Garrafinha Dino Patinete Buba 340ml Azul;BB TUDO
@@ -8711,8 +8735,8 @@ FATURAMENTO VD RJ;13.16;13.16;8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;BB 
 FATURAMENTO VD RJ;13.16;13.16;8.25.57.26.07;Luvinha Mordedor Urso Buba Azul;BB TUDO
 FATURAMENTO VD ES;10.68;10.68;8.25.57.28.00;Kit Aspirador Nasal com Conta-Gotas Buba;BB TUDO
 FATURAMENTO VD RJ;12.16;12.16;8.25.57.28.00;Kit Aspirador Nasal com Conta-Gotas Buba;BB TUDO
-FATURAMENTO VD RJ;11.34;11.34;8.25.57.38.16;Termômetro Para Água Girafinha Amarelo e Azul - Buba;BB TUDO
 FATURAMENTO VD ES;11.34;11.34;8.25.57.38.16;Termômetro Para Água Girafinha Amarelo e Azul - Buba;BB TUDO
+FATURAMENTO VD RJ;11.34;11.34;8.25.57.38.16;Termômetro Para Água Girafinha Amarelo e Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;11.34;11.34;8.25.57.39.16;Termômetro Para Água Girafinha Amarelo e Laranja - Buba;BB TUDO
 FATURAMENTO VD ES;11.34;11.34;8.25.57.39.16;Termômetro Para Água Girafinha Amarelo e Laranja - Buba;BB TUDO
 FATURAMENTO VD ES;39.36;39.36;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;BB TUDO
