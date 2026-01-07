@@ -1282,7 +1282,6 @@ FATURAMENTO VD ES;74.2;84.41;24.55.66.519.00;Faqueiro 20 Peças Cannes em Aço I
 FATURAMENTO VD ES;178.43;202.97;24.55.66.520.00;Faqueiro 30 Peças de Aço Inox Berna - Wolff;VITRINE
 FATURAMENTO VD ES;244.32;277.93;24.55.66.522.00;Faqueiro 48 Peças de Aço Inox Oxford - Wolff;VITRINE
 FATURAMENTO VD ES;132.9;151.18;24.55.66.523.00;Faqueiro 30 Peças de Aço Inox Avalon - Wolff;VITRINE
-FATURAMENTO VD ES;586.55;667.24;24.55.66.525.00;Faqueiro 101 Pçs de Aço Inox com Caixa Litografada Avalon;VITRINE
 FATURAMENTO VD ES;80.71;91.82;24.55.66.526.00;Faqueiro 24 Pçs de Aço Inox com Cabo Amadeirado Milão;VITRINE
 FATURAMENTO VD ES;80.65;91.75;24.55.66.527.00;Faqueiro 24 Peças de Aço Inox Firenze - Wolff;VITRINE
 FATURAMENTO VD ES;381.81;434.34;24.55.66.530.00;Faqueiro 101 Peças de Aço Inox Viena - Wolff;VITRINE
@@ -1858,9 +1857,10 @@ FATURAMENTO VD RJ;256.35;294.25;8.01.57.02.10;Banheira Infantil Dobrável Ofurô
 FATURAMENTO VD RJ;96.98;111.32;8.01.57.03.10;Banheira Infantil Dobrável Cinza - Buba;VITRINE
 FATURAMENTO VD RJ;129.47;148.61;8.01.57.04.07;Banheira Infantil Dobrável Azul - Buba;VITRINE
 FATURAMENTO VD RJ;129.47;148.61;8.01.57.05.18;Banheira Infantil Dobrável Rosa - Buba;VITRINE
+FATURAMENTO VD RJ;141.64;153.13;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;66.71;76.57;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;BB TOTAL
+FATURAMENTO VD RJ;141.64;153.13;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;66.71;76.57;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;BB TOTAL
-FATURAMENTO VD RJ;66.71;76.57;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;76.57;76.57;8.01.70.07.18;Banheira Infantil Portátil Dobrável Transparente Rosa - Clingo;BB TOTAL
 FATURAMENTO BBTOTAL ES;76.57;76.57;8.01.70.07.18;Banheira Infantil Portátil Dobrável Transparente Rosa - Clingo;BB TOTAL
 FATURAMENTO VD RJ;141.64;153.13;8.01.70.07.18;Banheira Infantil Portátil Dobrável Transparente Rosa - Clingo;VITRINE
@@ -3876,6 +3876,7 @@ FATURAMENTO VD RJ;491.54;546.6;8.09.53.43.01;Carrinho de Bebê Compacto Best Fri
 FATURAMENTO VD RJ;253.17;289.86;8.09.53.44.01;Moisés Best Friend Pro Chicco Black Re Lux;VITRINE
 FATURAMENTO VD RJ;253.17;289.86;8.09.53.44.01;Moisés Para Carrinho Best Friend Pro ReLux Black - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;144.93;144.93;8.09.53.44.01;Moisés Para Carrinho Best Friend Pro ReLux Black - Chicco;BB TOTAL
+FATURAMENTO VD RJ;29.88;34.21;8.09.53.46.01;Adaptadores Mysa Fast In Black - Chicco;VITRINE
 FATURAMENTO VD RJ;29.88;34.21;8.09.53.46.01;Adaptadores Mysa Fast In Black Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;196.64;196.64;8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;BB TOTAL
 FATURAMENTO VD RJ;346.09;393.28;8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;VITRINE
@@ -6617,7 +6618,8 @@ FATURAMENTO VD RJ;294.25;294.25;8.01.57.02.10;Banheira Infantil Dobrável Ofurô
 FATURAMENTO VD RJ;111.32;111.32;8.01.57.03.10;Banheira Infantil Dobrável Cinza - Buba;BB TUDO
 FATURAMENTO VD RJ;148.61;148.61;8.01.57.04.07;Banheira Infantil Dobrável Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;148.61;148.61;8.01.57.05.18;Banheira Infantil Dobrável Rosa - Buba;BB TUDO
-FATURAMENTO VD RJ;76.57;76.57;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;BB TUDO
+FATURAMENTO VD RJ;153.13;153.13;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;BB TUDO
+FATURAMENTO VD RJ;153.13;153.13;8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;BB TUDO
 FATURAMENTO VD RJ;153.13;153.13;8.01.70.07.18;Banheira Infantil Portátil Dobrável Transparente Rosa - Clingo;BB TUDO
 FATURAMENTO VD RJ;485.36;485.36;8.01.71.03.10;Banheira Dobrável Grande Cinza - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;135.0;135.0;8.01.71.06.07;Banheira Dobrável Pequena 2 em 1 Azul Marinho 35L  Baby Pil;BB TUDO
@@ -7753,6 +7755,7 @@ FATURAMENTO VD RJ;827.39;827.39;8.09.53.41.01;Carrinho de Bebê Cheerio Chicco J
 FATURAMENTO VD RJ;546.6;546.6;8.09.53.43.01;Carrinho de Bebê Compacto Best Friend Pro Eco+ ReLux Black - Chicco;BB TUDO
 FATURAMENTO VD RJ;289.86;289.86;8.09.53.44.01;Moisés Best Friend Pro Chicco Black Re Lux;BB TUDO
 FATURAMENTO VD RJ;289.86;289.86;8.09.53.44.01;Moisés Para Carrinho Best Friend Pro ReLux Black - Chicco;BB TUDO
+FATURAMENTO VD RJ;34.21;34.21;8.09.53.46.01;Adaptadores Mysa Fast In Black - Chicco;BB TUDO
 FATURAMENTO VD RJ;34.21;34.21;8.09.53.46.01;Adaptadores Mysa Fast In Black Chicco;BB TUDO
 FATURAMENTO VD RJ;393.28;393.28;8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;BB TUDO
 FATURAMENTO VD RJ;166.19;166.19;8.09.57.01.06;Balanço Portátil Para Carrinho de Bebê Branco - Buba;BB TUDO
