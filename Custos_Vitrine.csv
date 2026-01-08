@@ -39,7 +39,6 @@ FATURAMENTO VD RJ;112.92;129.01;21.14.46.343.01;Cadeira Aço Pintura Epoxi Preta
 FATURAMENTO VD RJ;373.23;426.42;21.14.46.396.12;Cadeira Esteirinha Alta Pu Creme Base Rodízio;VITRINE
 FATURAMENTO VD RJ;354.25;404.74;21.14.46.398.12;Cadeira Esteirinha Baixa Pu Creme Base Rodízio;VITRINE
 FATURAMENTO VD RJ;347.92;397.51;21.14.46.399.01;Cadeira Esteirinha Baixa PU Preta Base Rodízio Sem Braco;VITRINE
-FATURAMENTO VD ES;148.66;169.85;21.14.46.422.06;Cadeira Tok Baixa Branca Base Cromada Rodízio;VITRINE
 FATURAMENTO VD RJ;259.64;296.64;21.14.46.431.06;Cadeira Gamer Raptor Branco Base Rodízio;VITRINE
 FATURAMENTO VD RJ;306.8;350.54;21.14.46.69.01;Cadeira Diretor Mesh Preta;VITRINE
 FATURAMENTO VD RJ;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
@@ -1197,7 +1196,6 @@ FATURAMENTO VD ES;31.22;35.36;24.54.66.363.00;Jogo 2 Copos Altos com Borda Doura
 FATURAMENTO VD ES;17.18;19.47;24.54.66.364.00;Jogo 2 Copos Altos com Borda Dourada Lines 450ml - Wolff;VITRINE
 FATURAMENTO VD ES;10.67;12.08;24.54.66.365.00;Jogo 2 Copos Altos Lines 450ml - Wolff;VITRINE
 FATURAMENTO VD ES;61.46;69.63;24.54.66.369.00;Jogo 6 Copos Altos Lines 400ml - Wolff;VITRINE
-FATURAMENTO VD ES;56.27;63.75;24.54.66.370.00;Jogo 6 Copos para Whisky Lines 300ml - Wolff;VITRINE
 FATURAMENTO VD ES;45.69;51.77;24.54.66.379.00;Kit 2 Taças para Vinho Balls Fio de Ouro 350ml Vidro;VITRINE
 FATURAMENTO VD ES;41.28;46.76;24.54.66.380.00;Kit 2 Taças para Champanhe Balls Fio de Ouro 220ml Vidro;VITRINE
 FATURAMENTO VD ES;93.14;105.52;24.54.66.382.00;Kit  2 Taças para Vinho de Cristal  Audax Veritas 960ml;VITRINE
@@ -1915,7 +1913,6 @@ FATURAMENTO VD RJ;91.24;127.22;8.02.01.01.01;Base para Bebê Conforto 4Safe Pret
 FATURAMENTO BBTOTAL ES;118.18;118.18;8.02.02.02.30;Base Veicular para Bebê Conforto Citi Black Raven - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;169.49;236.36;8.02.02.02.30;Base Veicular para Bebê Conforto Citi Black Raven - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;543.12;757.42;8.02.02.03.01;Base de Carro FamilyFix 360 Black - Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;543.12;757.42;8.02.02.03.01;Base de Carro FamilyFix 360 Maxi-Cosi Black;VITRINE
 FATURAMENTO VD RJ;678.98;946.9;8.02.02.04.01;Base de Carro FamilyFix 360 Pro Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;526.06;526.06;8.02.02.04.01;Base de Carro FamilyFix 360 Pro Black - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;218.71;305.0;8.02.02.05.01;Base para Bebê Conforto 4Safe Isofix Black - Safety1 st;VITRINE
@@ -2910,7 +2907,6 @@ FULFILLMENT AMAZON;34.3;47.84;8.07.04.49.01;Assento de Elevação Booster Clippy
 FATURAMENTO VD RJ;34.3;47.84;8.07.04.49.01;Assento de Elevação Booster Clippy Cosco 15 a 36 kg Preto;VITRINE
 FULFILLMENT MELI;34.3;47.84;8.07.04.49.01;Assento de Elevação Booster Clippy Cosco 15 a 36 kg Preto;VITRINE
 FULFILLMENT MAGALU;34.3;47.84;8.07.04.49.01;Assento de Elevação Booster Clippy Cosco 15 a 36 kg Preto;VITRINE
-FULFILLMENT AMAZON;34.3;47.84;8.07.04.49.01;Assento de Elevação Booster Clippy Cosco 15 a 36 kg Preto;VITRINE
 FATURAMENTO VD RJ;34.3;47.84;8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;VITRINE
 FULFILLMENT AMAZON;34.3;47.84;8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;VITRINE
 FULFILLMENT MELI;48.29;57.93;8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;VITRINE
@@ -3505,7 +3501,6 @@ FULFILLMENT MELI;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - Az
 FATURAMENTO VD RJ;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - Azul Geo;VITRINE
 FULFILLMENT AMAZON;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot Azul Geo - Voyage;VITRINE
 FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - Preto Geo;VITRINE
-FULFILLMENT MELI;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - Preto Geo;VITRINE
 FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot Preto Geo - Voyage;VITRINE
 FULFILLMENT MELI;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot Preto Geo - Voyage;VITRINE
 FATURAMENTO VD RJ;239.3;329.76;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Rosa Geo;VITRINE
@@ -3915,7 +3910,6 @@ FATURAMENTO VD RJ;1567.05;1782.64;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse
 FATURAMENTO BBTOTAL ES;873.15;873.15;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse - Joie;BB TOTAL
 FULFILLMENT VISUAL IN;0.0;0.0;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse Joie;VISUAL IN
 FATURAMENTO VD RJ;1567.05;1782.64;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse Joie;VITRINE
-FATURAMENTO BBTOTAL ES;873.15;873.15;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse Joie;BB TOTAL
 FATURAMENTO VD RJ;1517.65;1726.45;8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;891.7;891.7;8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;BB TOTAL
 FATURAMENTO VD RJ;1517.65;1726.45;8.09.76.07.10;Carrinho de Bebê Parcel Oyster Joie;VITRINE
@@ -4210,7 +4204,6 @@ FATURAMENTO VD RJ;6.17;7.54;8.12.01.04.06;Trava Multifuncional Safety 1st White;
 FATURAMENTO BBTOTAL ES;3.62;3.77;8.12.01.04.06;Trava Multifuncional Safety 1st White;BB TOTAL
 FATURAMENTO VD RJ;6.17;7.54;8.12.01.04.06;Trava de Segurança Multifuncional White - Safety 1st;VITRINE
 FATURAMENTO VD RJ;4.81;6.45;8.12.01.05.01;Trava Flexível Safety 1st Para Puxador Black;VITRINE
-FATURAMENTO VD RJ;171.63;234.54;8.12.01.06.01;Grade Retrátil Rolling Gate Safety 1st - Black;VITRINE
 FATURAMENTO VD RJ;40.06;55.87;8.12.01.07.06;Mosquiteiro SafeNap Safety 1st White;VITRINE
 FATURAMENTO VD RJ;40.06;55.87;8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;24.33;27.93;8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;BB TOTAL
@@ -5081,7 +5074,6 @@ FATURAMENTO VD ES;32.65;38.09;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Es
 FATURAMENTO BBTOTAL ES;19.05;19.05;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;BB TOTAL
 FATURAMENTO VD RJ;31.52;35.82;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;VITRINE
 FATURAMENTO VD ES;29.66;30.9;8.25.100.02.00;Compressas Refrescantes para Alívio da Febre 04 Unid LikLuc;VITRINE
-FATURAMENTO BBTOTAL ES;30.9;30.9;8.25.100.02.00;Compressas Refrescantes para Alívio da Febre 04 Unid LikLuc;BB TOTAL
 FATURAMENTO VD ES;29.66;30.9;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;VITRINE
 FATURAMENTO BBTOTAL ES;30.9;30.9;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;BB TOTAL
 FATURAMENTO VD RJ;18.17;18.93;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;VITRINE
@@ -5089,7 +5081,6 @@ FATURAMENTO VD ES;8.45;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para
 FATURAMENTO BBTOTAL ES;8.8;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê - LikLuc;BB TOTAL
 FATURAMENTO VD ES;8.45;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê LikLuc;VITRINE
 FATURAMENTO BBTOTAL ES;8.8;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê LikLuc;BB TOTAL
-FATURAMENTO VD RJ;7.08;7.37;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê LikLuc;VITRINE
 FATURAMENTO VD ES;8.02;8.98;8.25.100.04.00;Lenços Umedecidos com Solução Salina Assoar Baby (20 Unidades) - LikLuc;VITRINE
 FATURAMENTO BBTOTAL ES;4.49;4.49;8.25.100.04.00;Lenços Umedecidos com Solução Salina Assoar Baby (20 Unidades) - LikLuc;BB TOTAL
 FATURAMENTO VD ES;14.26;14.85;8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;VITRINE
@@ -5560,7 +5551,6 @@ FULFILLMENT VISUAL IN;12.94;20.41;8.25.69.09.00;Condicionador Infantil Hidrata C
 FATURAMENTO VD ES;24.02;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;24.02;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO BBTOTAL ES;11.52;13.65;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;BB TOTAL
-FATURAMENTO VD RJ;24.03;27.3;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;VITRINE
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;VITRINE
 FATURAMENTO VD RJ;26.85;30.51;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;VITRINE
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha 500ml - BioClub Baby;VITRINE
@@ -6244,7 +6234,6 @@ FATURAMENTO VD RJ;47.92;53.61;8.30.53.22.06;Minha Primeira Lousa Digital Chicco 
 FATURAMENTO VD RJ;15.44;17.37;8.30.53.26.00;Estrela Musical Chicco Branco;VITRINE
 FATURAMENTO BBTOTAL ES;8.69;8.69;8.30.53.26.00;Estrela Musical Chicco Branco;BB TOTAL
 FATURAMENTO VD RJ;13.36;15.29;8.30.53.27.00;Lua Musical Chicco Amarela;VITRINE
-FATURAMENTO VD RJ;16.93;17.64;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Chicco Verde;VITRINE
 FATURAMENTO VD RJ;16.93;17.64;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Colorido - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;8.82;8.82;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Colorido - Chicco;BB TOTAL
 FATURAMENTO VD RJ;40.35;46.26;8.30.53.40.00;Casa Dos Bichos 2 Em 1 Chicco;VITRINE
@@ -6652,7 +6641,6 @@ FATURAMENTO VD RJ;319.86;319.86;8.01.74.18.18;Banheira Dobrável com Suporte Fle
 FATURAMENTO VD RJ;127.22;127.22;8.02.01.01.01;Base para Bebê Conforto 4Safe Preto - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;236.36;236.36;8.02.02.02.30;Base Veicular para Bebê Conforto Citi Black Raven - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;757.42;757.42;8.02.02.03.01;Base de Carro FamilyFix 360 Black - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;757.42;757.42;8.02.02.03.01;Base de Carro FamilyFix 360 Maxi-Cosi Black;BB TUDO
 FATURAMENTO VD RJ;946.9;946.9;8.02.02.04.01;Base de Carro FamilyFix 360 Pro Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;305.0;305.0;8.02.02.05.01;Base para Bebê Conforto 4Safe Isofix Black - Safety1 st;BB TUDO
 FATURAMENTO VD RJ;277.23;277.23;8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;BB TUDO
@@ -8502,7 +8490,6 @@ FATURAMENTO VD ES;30.9;30.9;8.25.100.02.00;Xô Febre Compressas Refrescantes Par
 FATURAMENTO VD RJ;18.93;18.93;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;BB TUDO
 FATURAMENTO VD ES;8.8;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê - LikLuc;BB TUDO
 FATURAMENTO VD ES;8.8;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê LikLuc;BB TUDO
-FATURAMENTO VD RJ;7.37;7.37;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê LikLuc;BB TUDO
 FATURAMENTO VD ES;8.98;8.98;8.25.100.04.00;Lenços Umedecidos com Solução Salina Assoar Baby (20 Unidades) - LikLuc;BB TUDO
 FATURAMENTO VD ES;14.85;14.85;8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;BB TUDO
 FATURAMENTO VD RJ;11.67;11.67;8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;BB TUDO
@@ -8807,7 +8794,6 @@ FATURAMENTO VD ES;24.45;24.45;8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml B
 FATURAMENTO VD ES;22.2;22.2;8.25.69.08.00;Lava Roupas Concentrado Detergente Natural  - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;17.48;17.48;8.25.69.09.00;Condicionador Infantil Hidrata Cabelinho - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;25.82;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;BB TUDO
-FATURAMENTO VD RJ;27.3;27.3;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;BB TUDO
 FATURAMENTO VD RJ;30.51;30.51;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;BB TUDO
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha 500ml - BioClub Baby;BB TUDO
@@ -9249,7 +9235,6 @@ FATURAMENTO VD RJ;22.78;22.78;8.30.53.19.00;Kit 3 Carrinhos Turbo Ball Box - Chi
 FATURAMENTO VD RJ;53.61;53.61;8.30.53.22.06;Minha Primeira Lousa Digital Chicco Branco;BB TUDO
 FATURAMENTO VD RJ;17.37;17.37;8.30.53.26.00;Estrela Musical Chicco Branco;BB TUDO
 FATURAMENTO VD RJ;15.29;15.29;8.30.53.27.00;Lua Musical Chicco Amarela;BB TUDO
-FATURAMENTO VD RJ;17.64;17.64;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Chicco Verde;BB TUDO
 FATURAMENTO VD RJ;17.64;17.64;8.30.53.30.00;Brinquedo Para Banho Sapo Nadador Baby Senses Colorido - Chicco;BB TUDO
 FATURAMENTO VD RJ;46.26;46.26;8.30.53.40.00;Casa Dos Bichos 2 Em 1 Chicco;BB TUDO
 FATURAMENTO VD RJ;27.85;27.85;8.30.53.48.00;Pelúcia Musical Milady 44 Gatos - Chicco;BB TUDO
