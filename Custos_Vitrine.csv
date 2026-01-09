@@ -217,8 +217,8 @@ FATURAMENTO VD ES;238.4;280.84;21.14.50.483.00;Conjunto 2 Cadeiras Web Wood Pret
 FATURAMENTO VD ES;476.8;561.68;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VITRINE
 FATURAMENTO VD RJ;312.08;371.32;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VITRINE
 FATURAMENTO VISUAL IN SP;636.02;727.62;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VISUAL IN
-FATURAMENTO VD ES;60.28;71.02;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;75.7;89.87;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
+FATURAMENTO VD ES;60.28;71.02;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;151.4;179.74;21.14.50.486.00;Conjunto Com 2 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD ES;120.58;142.03;21.14.50.486.00;Conjunto Com 2 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;248.49;294.48;21.14.50.487.00;Conjunto 4 Cadeiras Web  Wood Branca;VITRINE
@@ -618,7 +618,6 @@ FATURAMENTO VD ES;115.13;132.72;24.11.175.43.00;Persiana Hanoy Rolo Bambu 140X16
 FATURAMENTO VD ES;131.58;151.68;24.11.175.44.00;Persiana Hanoy Rolo Bambu 160X160 Cedro;VITRINE
 FATURAMENTO VD ES;105.8;121.97;24.11.175.45.00;Persiana Hanoy Rolo Bambu 100X220 Cedro;VITRINE
 FATURAMENTO VD ES;98.68;113.76;24.11.175.47.57;Persiana Bauhaus Rolo Bambu 120X160  Fresno;VITRINE
-FATURAMENTO VD ES;105.81;121.97;24.11.175.48.57;Persiana Bauhaus Rolo Bambu 140X160  Fresno;VITRINE
 FATURAMENTO VD ES;131.58;151.68;24.11.175.49.57;Persiana Bauhaus Rolo Bambu 160X160  Fresno;VITRINE
 FATURAMENTO VD ES;104.7;120.7;24.11.175.50.57;Persiana Bauhaus Rolo Bambu 100X220  Fresno;VITRINE
 FATURAMENTO VD ES;98.68;113.76;24.11.175.52.57;Persiana Bauhaus Rolo Bambu 120X160 Honey Mapple;VITRINE
@@ -1591,13 +1590,13 @@ FATURAMENTO VD ES;33.07;37.96;24.69.163.51.00;Escorredor De Pratos De Ferro E Ma
 FATURAMENTO VD ES;90.51;103.89;24.69.163.53.00;Carrinho Organizador 3 Andares - Oikos;VITRINE
 FATURAMENTO VD ES;166.31;190.9;24.69.163.54.00;Gaveteiro Giratório Quadrado com Rodinhas - Oikos;VITRINE
 FATURAMENTO VD ES;7.88;9.04;24.69.163.55.00;Saco Para Máquina De Lavar Roupas 4 Divisórias - Oikos;VITRINE
-FATURAMENTO VD ES;91.06;104.52;24.69.163.70.00;Cesto Redondo 40Cm Com Alças Arcos Palha Rattan - Oikos;VITRINE
+FATURAMENTO VD ES;91.07;104.53;24.69.163.70.00;Cesto Redondo 40Cm Com Alças Arcos Palha Rattan - Oikos;VITRINE
 FATURAMENTO VD ES;87.01;99.86;24.69.163.73.00;Cesto Com Tampa Cogumelo 28Cm De Corda - Oikos;VITRINE
 FATURAMENTO VD ES;12.7;14.57;24.69.163.76.00;Organizador Dobrável Com 6 Divisórias Quadradas Linho;VITRINE
 FATURAMENTO VD ES;20.49;23.52;24.69.163.78.00;Organizador Dobrável Linho - Oikos;VITRINE
 FATURAMENTO VD ES;5.97;6.85;24.69.163.79.00;Organizador Para Cabeceira - Oikos;VITRINE
 FATURAMENTO VD ES;142.06;163.06;24.69.163.80.00;Organizador Multiuso 4 Andares De Acácia - Oikos;VITRINE
-FATURAMENTO VD ES;30.13;34.58;24.69.163.85.00;Cesto 45L Telado Com Tampa E Alças De Plástico - Oikos;VITRINE
+FATURAMENTO VD ES;30.14;34.59;24.69.163.85.00;Cesto 45L Telado Com Tampa E Alças De Plástico - Oikos;VITRINE
 FATURAMENTO VD ES;16.43;18.86;24.69.163.87.00;Cesto 15L Telado Com Tampa E Alçasde Plástico - Oikos;VITRINE
 FATURAMENTO VD ES;16.43;18.86;24.69.163.88.00;Cesto 15L Telado Com Tampa E Alças de Plástico Verde - Oikos;VITRINE
 FATURAMENTO VD ES;34.87;39.67;24.70.159.02.06;Lixeira Redonda de Metal com Pedal Tampa em Bambu Branca 3L;VITRINE
@@ -2674,7 +2673,6 @@ FULFILLMENT AMAZON;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portáti
 FULFILLMENT MELI;123.98;172.82;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;VITRINE
 FATURAMENTO VD RJ;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
 FULFILLMENT MAGALU;115.41;160.69;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
-FULFILLMENT AMAZON;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
 FATURAMENTO VD RJ;428.5;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;VITRINE
 FULFILLMENT MELI;428.5;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;VITRINE
 FATURAMENTO VD RJ;428.5;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Cosco Amarela;VITRINE
@@ -2960,7 +2958,6 @@ FATURAMENTO VD RJ;51.4;71.67;8.07.23.13.01;Assento de Elevação Booster Stage P
 FATURAMENTO VD RJ;46.25;64.5;8.07.23.14.10;Assento de Elevação Booster Stage Cinza Mescla - Infanti;VITRINE
 FATURAMENTO VD RJ;46.25;64.5;8.07.23.14.10;Assento de Elevação Booster Stage Infanti Cinza Mescla;VITRINE
 FATURAMENTO VD RJ;451.43;629.56;8.07.23.15.01;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Black Intense - Infanti;VITRINE
-FATURAMENTO VD RJ;451.43;629.56;8.07.23.15.01;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Black Intense;VITRINE
 FATURAMENTO VD RJ;462.69;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;VITRINE
 FATURAMENTO VD RJ;462.69;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Grey Brave;VITRINE
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.17.01;Assento de Elevação Booster Starfix Infanti Preto;VITRINE
@@ -5180,7 +5177,6 @@ FATURAMENTO VD RJ;35.36;49.94;8.25.23.10.07;Manta Infantil M Azul - Infanti;VITR
 FATURAMENTO BBTOTAL ES;21.75;24.97;8.25.23.11.18;Manta Infantil M Rosa - Infanti;BB TOTAL
 FATURAMENTO VD RJ;35.36;49.94;8.25.23.11.18;Manta Infantil M Rosa - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;21.75;24.97;8.25.23.11.18;Manta Popcorn infanti Rosa;BB TOTAL
-FATURAMENTO VD RJ;35.36;49.94;8.25.23.11.18;Manta Popcorn infanti Rosa;VITRINE
 FATURAMENTO BBTOTAL ES;12.39;14.23;8.25.23.15.00;Toalha com Capuz Balão - Infanti;BB TOTAL
 FATURAMENTO VD RJ;20.14;28.45;8.25.23.15.00;Toalha com Capuz Balão - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;12.39;14.23;8.25.23.15.00;Toalha com Capuz Infanti Balão;BB TOTAL
@@ -7250,7 +7246,6 @@ FATURAMENTO VD RJ;71.67;71.67;8.07.23.13.01;Assento de Elevação Booster Stage 
 FATURAMENTO VD RJ;64.5;64.5;8.07.23.14.10;Assento de Elevação Booster Stage Cinza Mescla - Infanti;BB TUDO
 FATURAMENTO VD RJ;64.5;64.5;8.07.23.14.10;Assento de Elevação Booster Stage Infanti Cinza Mescla;BB TUDO
 FATURAMENTO VD RJ;629.56;629.56;8.07.23.15.01;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Black Intense - Infanti;BB TUDO
-FATURAMENTO VD RJ;629.56;629.56;8.07.23.15.01;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Black Intense;BB TUDO
 FATURAMENTO VD RJ;645.27;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;BB TUDO
 FATURAMENTO VD RJ;645.27;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Grey Brave;BB TUDO
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.17.01;Assento de Elevação Booster Starfix Infanti Preto;BB TUDO
@@ -8560,7 +8555,6 @@ FATURAMENTO VD RJ;14.9;14.9;8.25.179.04.11;Seringa Tira Picada Laranja Verde - B
 FATURAMENTO VD RJ;49.94;49.94;8.25.23.10.07;Manta Infanti Azul;BB TUDO
 FATURAMENTO VD RJ;49.94;49.94;8.25.23.10.07;Manta Infantil M Azul - Infanti;BB TUDO
 FATURAMENTO VD RJ;49.94;49.94;8.25.23.11.18;Manta Infantil M Rosa - Infanti;BB TUDO
-FATURAMENTO VD RJ;49.94;49.94;8.25.23.11.18;Manta Popcorn infanti Rosa;BB TUDO
 FATURAMENTO VD RJ;28.45;28.45;8.25.23.15.00;Toalha com Capuz Balão - Infanti;BB TUDO
 FATURAMENTO VD RJ;28.45;28.45;8.25.23.15.00;Toalha com Capuz Infanti Balão;BB TUDO
 FATURAMENTO VD RJ;49.94;49.94;8.25.23.26.10;Manta Infanti Média Infanti - Cinza;BB TUDO
