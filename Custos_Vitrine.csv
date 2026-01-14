@@ -2051,9 +2051,9 @@ FATURAMENTO VD RJ;99.2;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto 
 FATURAMENTO VD RJ;99.2;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto Infanti;VITRINE
 FATURAMENTO VD RJ;59.96;84.7;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;40.99;47.05;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;BB TOTAL
-FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
 FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
-FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
+FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
+FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD ES;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;VITRINE
@@ -3085,7 +3085,7 @@ FATURAMENTO BBTOTAL ES;252.91;299.67;8.09.01.06.10;Carrinho de Bebê Bytes Safet
 FATURAMENTO VD RJ;580.16;799.47;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;VITRINE
 FATURAMENTO VD RJ;543.9;749.5;8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;VITRINE
 FATURAMENTO VD RJ;1712.55;2388.34;8.09.01.09.01;Carrinho com Bebê Conforto Travel System Mobi+ Reserva Isofix Black - Safety 1st;VITRINE
-FATURAMENTO VD RJ;955.67;1332.78;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;VITRINE
+FATURAMENTO VD RJ;863.39;1204.09;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;666.39;666.39;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;1254.9;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;VITRINE
 FATURAMENTO VD RJ;1254.9;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Safety 1St - Black & Silver;VITRINE
@@ -5152,6 +5152,7 @@ FATURAMENTO VD RJ;157.71;179.99;8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - 
 FATURAMENTO BBTOTAL ES;7.54;10.01;8.25.47.14.00;Babador de Silicone com Cata-Migalhas Dino - KaBaby;BB TOTAL
 FATURAMENTO VD RJ;157.2;175.93;8.25.47.30.06;Lixo Magico Anti-Odor Branco;VITRINE
 FATURAMENTO BBTOTAL ES;76.64;87.97;8.25.47.30.06;Lixo Magico Anti-Odor Branco;BB TOTAL
+FATURAMENTO VD ES;56.63;65.0;8.25.47.32.06;Luminária Musical Little Egg - KaBaby;VITRINE
 FATURAMENTO BBTOTAL ES;30.92;35.49;8.25.47.32.06;Luminária Musical Little Egg - KaBaby;BB TOTAL
 FATURAMENTO VD RJ;64.84;70.98;8.25.47.32.06;Luminária Musical Little Egg - KaBaby;VITRINE
 FATURAMENTO VD RJ;25.8;28.7;8.25.47.44.01;Kit 2 Cortinas Protetoras de Claridade e Guarda-sol;VITRINE
@@ -5302,6 +5303,7 @@ FATURAMENTO VD RJ;12.05;13.19;8.25.57.128.00;Organizador De Banho Com Ventosa - 
 FATURAMENTO VD RJ;25.6;29.2;8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;14.6;14.6;8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;BB TOTAL
 FATURAMENTO VD RJ;24.26;25.27;8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;VITRINE
+FATURAMENTO VD ES;24.09;27.66;8.25.57.134.00;Redutor De Assento Dobrável - Buba;VITRINE
 FATURAMENTO VD ES;24.09;27.66;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;14.52;14.52;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TOTAL
 FATURAMENTO VD RJ;20.85;21.72;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;VITRINE
@@ -6693,9 +6695,9 @@ FATURAMENTO VD RJ;59.5;59.5;8.03.23.05.01;Almofada de Elevação Mangiare Preto 
 FATURAMENTO VD RJ;138.33;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;138.33;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto Infanti;BB TUDO
 FATURAMENTO VD RJ;84.7;84.7;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;BB TUDO
-FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
 FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
-FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
+FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
+FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD ES;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;BB TUDO
@@ -7286,7 +7288,7 @@ FATURAMENTO VD RJ;599.33;599.33;8.09.01.06.10;Carrinho de Bebê Bytes Safety 1st
 FATURAMENTO VD RJ;799.47;799.47;8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;749.5;749.5;8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;2388.34;2388.34;8.09.01.09.01;Carrinho com Bebê Conforto Travel System Mobi+ Reserva Isofix Black - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;1332.78;1332.78;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;1204.09;1204.09;8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;1750.09;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;BB TUDO
 FATURAMENTO VD RJ;1750.09;1750.09;8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Safety 1St - Black & Silver;BB TUDO
 FATURAMENTO VD RJ;1750.09;1750.09;8.09.01.101.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;BB TUDO
@@ -8501,6 +8503,7 @@ FATURAMENTO VD RJ;353.21;353.21;8.25.47.126.18;Massageador de Lactação Blush -
 FATURAMENTO VD ES;272.18;272.18;8.25.47.126.18;Massageador de Lactação Blush - Lumama;BB TUDO
 FATURAMENTO VD RJ;179.99;179.99;8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;BB TUDO
 FATURAMENTO VD RJ;175.93;175.93;8.25.47.30.06;Lixo Magico Anti-Odor Branco;BB TUDO
+FATURAMENTO VD ES;65.0;65.0;8.25.47.32.06;Luminária Musical Little Egg - KaBaby;BB TUDO
 FATURAMENTO VD RJ;70.98;70.98;8.25.47.32.06;Luminária Musical Little Egg - KaBaby;BB TUDO
 FATURAMENTO VD RJ;28.7;28.7;8.25.47.44.01;Kit 2 Cortinas Protetoras de Claridade e Guarda-sol;BB TUDO
 FATURAMENTO VD RJ;17.97;17.97;8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;BB TUDO
@@ -8600,6 +8603,7 @@ FATURAMENTO VD ES;14.78;14.78;8.25.57.128.00;Organizador De Banho Com Ventosa - 
 FATURAMENTO VD RJ;13.19;13.19;8.25.57.128.00;Organizador De Banho Com Ventosa - Buba;BB TUDO
 FATURAMENTO VD RJ;29.2;29.2;8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;25.27;25.27;8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;BB TUDO
+FATURAMENTO VD ES;27.66;27.66;8.25.57.134.00;Redutor De Assento Dobrável - Buba;BB TUDO
 FATURAMENTO VD ES;27.66;27.66;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TUDO
 FATURAMENTO VD RJ;21.72;21.72;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TUDO
 FATURAMENTO VD RJ;29.2;29.2;8.25.57.135.06;Travesseiro Anatômico Viscoelástico Baby Branco - Buba;BB TUDO
