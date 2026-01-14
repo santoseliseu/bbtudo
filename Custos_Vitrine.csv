@@ -604,7 +604,7 @@ FATURAMENTO VD ES;91.59;105.57;24.11.175.78.01;Persiana Zebra Rolo Dupla 120X160
 FATURAMENTO VD ES;91.59;105.57;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;73.29;84.48;24.11.175.80.57;Persiana Zebra Rolo Dupla 120X160 Caramelo;VITRINE
 FATURAMENTO VD ES;106.91;123.24;24.11.175.84.06;Persiana Zebra Rolo Dupla 140X160 Branca;VITRINE
-FATURAMENTO VD ES;106.91;123.24;24.11.175.85.01;Persiana Zebra Rolo Dupla 140X160 Preta;VITRINE
+FATURAMENTO VD ES;105.8;121.96;24.11.175.85.01;Persiana Zebra Rolo Dupla 140X160 Preta;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.86.57;Persiana Zebra Rolo Dupla 140X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;85.5;98.56;24.11.175.87.57;Persiana Zebra Rolo Dupla 140X160 Caramelo;VITRINE
 FATURAMENTO VD ES;97.16;112.0;24.11.175.89.10;Persiana Zebra Rolo Dupla 140X160 Grafite Linho;VITRINE
@@ -1192,13 +1192,14 @@ FATURAMENTO VD RJ;46.41;50.57;24.54.66.390.04;"Kit 2 Taças Coupe Vidro Borda Do
 FATURAMENTO VD ES;19.72;22.34;24.54.66.395.00;Conjunto 2 Taças para Vinho de Vidro Lotus 350ml - Wolff;VITRINE
 FATURAMENTO VD ES;6.56;7.43;24.54.66.398.00;Copo Alto Palm Tree Handpaint 360Ml Cristal;VITRINE
 FATURAMENTO VD ES;6.34;7.21;24.54.66.406.00;Taça De Sobremesa Angel 260ml Cristal;VITRINE
+FATURAMENTO VD ES;6.17;7.02;24.54.66.408.00;Taça De Sobremesa Queen 260Ml Cristal;VITRINE
 FATURAMENTO VD ES;5.32;6.02;24.54.66.414.00;Copo Alto Para Drink Stella Vidro 360Ml;VITRINE
 FATURAMENTO VD ES;36.03;40.82;24.54.66.42.00;Jogo de 6 Taças de Água Wolff Greek Rainbow de Vidro 345ml;VITRINE
 FATURAMENTO VD ES;6.88;7.79;24.54.66.428.00;Taça Para Água Brand 320ml Âmbar Metalizado Vidro;VITRINE
 FATURAMENTO VD ES;6.64;7.52;24.54.66.437.00;Taça Para Água Com Fio De Ouro Roman 345Ml Vidro;VITRINE
 FATURAMENTO VD ES;42.45;48.09;24.54.66.45.08;Jogo de 6 Taças de Água Wolff Greek Vermelho de Vidro 345ml;VITRINE
 FATURAMENTO VD ES;4.81;5.46;24.54.66.456.00;Copo Alto Para Drink Allure 425Ml Vidro;VITRINE
-FATURAMENTO VD ES;6.56;7.43;24.54.66.470.08;Taça Para Água Roman 345Ml Vermelha Vidro;VITRINE
+FATURAMENTO VD ES;6.55;7.43;24.54.66.470.08;Taça Para Água Roman 345Ml Vermelha Vidro;VITRINE
 FATURAMENTO VD ES;37.15;42.09;24.54.66.65.00;Jogo de 6 Taças Wolff Angel de Cristal Transparente 245ml;VITRINE
 FATURAMENTO VD ES;40.89;46.33;24.54.66.67.07;Jogo de 6 Taças Wolff Brand de Vidro Azul Escuro 345ml;VITRINE
 FATURAMENTO VD ES;32.43;36.74;24.54.66.68.18;Jogo de 6 Taças Wolff Brand de Vidro Rosa 345ml;VITRINE
@@ -1774,13 +1775,13 @@ FULFILLMENT VISUAL IN;117.02;138.65;8.01.28.23.18;Banheira para Bebê Plástica 
 FULFILLMENT MAGALU;106.58;133.46;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;VITRINE
 FATURAMENTO VD RJ;108.86;137.29;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;VITRINE
 FATURAMENTO VD ES;117.02;138.65;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;VITRINE
-FATURAMENTO VD RJ;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FATURAMENTO VD ES;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
+FATURAMENTO VD RJ;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FULFILLMENT MAGALU;249.85;283.92;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;149.11;149.11;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TOTAL
 FULFILLMENT VISUAL IN;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VISUAL IN
-FATURAMENTO VD RJ;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;VITRINE
 FATURAMENTO VD ES;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;VITRINE
+FATURAMENTO VD RJ;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;VITRINE
 FATURAMENTO BBTOTAL ES;25.62;25.62;8.01.28.30.18;Banheira de Bebê Plástica Rosa Claro Perolado - Galzerano;BB TOTAL
 FATURAMENTO VD ES;42.52;50.38;8.01.28.30.18;Banheira de Bebê Plástica Rosa Claro Perolado - Galzerano;VITRINE
 FATURAMENTO VD ES;167.59;192.37;8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;VITRINE
@@ -2051,9 +2052,9 @@ FATURAMENTO VD RJ;99.2;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto 
 FATURAMENTO VD RJ;99.2;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto Infanti;VITRINE
 FATURAMENTO VD RJ;59.96;84.7;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;40.99;47.05;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;BB TOTAL
-FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
 FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
-FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
+FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
+FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD ES;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;VITRINE
@@ -2134,11 +2135,11 @@ FATURAMENTO VD RJ;452.04;487.46;8.03.74.14.01;Base para Bebê Conforto com Isofi
 FATURAMENTO VD RJ;570.28;651.56;8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;VITRINE
 FULFILLMENT VISUAL IN;402.48;461.38;8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;VISUAL IN
 FATURAMENTO VD RJ;570.28;651.56;8.03.76.06.01;Bebê Conforto I-snug Preto Chumbo Shale Joie;VITRINE
-FATURAMENTO VD RJ;490.14;560.73;8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;VITRINE
+FATURAMENTO VD RJ;490.78;560.73;8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;114.27;114.27;8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;BB TOTAL
 FULFILLMENT VISUAL IN;279.53;365.01;8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;VISUAL IN
-FATURAMENTO VD RJ;490.14;560.73;8.03.76.07.01;I-Base Isofix I-Snug  Preto - Joie;VITRINE
-FATURAMENTO VD RJ;490.14;560.73;8.03.76.07.01;I-Base Isofix I-Snug Joie Preto;VITRINE
+FATURAMENTO VD RJ;490.78;560.73;8.03.76.07.01;I-Base Isofix I-Snug  Preto - Joie;VITRINE
+FATURAMENTO VD RJ;490.78;560.73;8.03.76.07.01;I-Base Isofix I-Snug Joie Preto;VITRINE
 FATURAMENTO VD RJ;1346.49;1538.4;8.03.76.08.01;Bebê Conforto Sprint Com Isofix Preto Eclipse - Joie;VITRINE
 FATURAMENTO VD RJ;1346.5;1538.4;8.03.76.09.10;Bebê Conforto Sprint Com Isofix Cinza Carbon - Joie;VITRINE
 FATURAMENTO VD RJ;1346.5;1538.41;8.03.76.10.10;Bebê Conforto Sprint Com Isofix Cinza Oyster - Joie;VITRINE
@@ -2389,7 +2390,6 @@ FATURAMENTO VD RJ;297.64;320.96;8.04.74.04.10;Cercado Portátil ICI Cinza - Kidd
 FATURAMENTO VD RJ;710.55;808.31;8.04.76.02.10;Moisés Ramble XL Signature Carbon Cinza - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;441.98;441.98;8.04.76.02.10;Moisés Ramble XL Signature Carbon Cinza - Joie;BB TOTAL
 FATURAMENTO VD RJ;710.55;808.31;8.04.76.02.10;Moisés Ramble XL Signature Carbon Cinza Joie;VITRINE
-FATURAMENTO BBTOTAL ES;441.98;441.98;8.04.76.02.10;Moisés Ramble XL Signature Carbon Cinza Joie;BB TOTAL
 FATURAMENTO VD RJ;728.26;828.45;8.04.76.03.10;Moisés Ramble XL Signature Oyster Cinza - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;321.55;369.09;8.04.76.03.10;Moisés Ramble XL Signature Oyster Cinza - Joie;BB TOTAL
 FATURAMENTO VD RJ;515.09;591.24;8.04.76.05.01;Moisés Ramble XL Preto Pavement - Joie;VITRINE
@@ -2566,7 +2566,6 @@ FULFILLMENT AMAZON;532.84;743.09;8.06.02.04.06;Cadeira de Alimentação Moa 8 em
 FULFILLMENT MELI;992.18;1127.48;8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;496.09;691.85;8.06.02.04.06;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi  Beyond White;VITRINE
 FULFILLMENT AMAZON;532.84;743.09;8.06.02.04.06;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi  Beyond White;VITRINE
-FULFILLMENT MELI;992.18;1127.48;8.06.02.04.06;Cadeira de Refeição Moa 8 em 1 Maxi-Cosi  Beyond White;VITRINE
 FATURAMENTO VD RJ;727.75;1014.93;8.06.02.06.12;Cadeira de Alimentação Minla Classic Oat - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;507.47;507.47;8.06.02.06.12;Cadeira de Alimentação Minla Classic Oat - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;496.09;691.85;8.06.02.07.12;Cadeira de Alimentação Moa 8 em 1 Classic Oat - Maxi-Cosi;VITRINE
@@ -3270,7 +3269,7 @@ FATURAMENTO VD RJ;1389.64;1938.0;8.09.02.129.10;Carrinho com Bebê Conforto Trav
 FATURAMENTO VD RJ;870.48;1199.53;8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;770.01;1061.08;8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black -  Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;589.49;589.49;8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black -  Maxi-Cosi;BB TOTAL
-FATURAMENTO VD RJ;770.01;1061.08;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
+FATURAMENTO VD RJ;733.76;1011.13;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;498.51;590.67;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD ES;851.67;1172.57;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;770.01;1061.08;8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;VITRINE
@@ -6526,10 +6525,10 @@ FATURAMENTO VD RJ;137.29;137.29;8.01.28.23.18;Banheira de Bebê Plástica Acqua 
 FATURAMENTO VD ES;138.65;138.65;8.01.28.23.18;Banheira de Bebê Plástica Acqua Trio Rosa Pérola - Galzerano;BB TUDO
 FATURAMENTO VD RJ;137.29;137.29;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;BB TUDO
 FATURAMENTO VD ES;138.65;138.65;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;BB TUDO
-FATURAMENTO VD RJ;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TUDO
 FATURAMENTO VD ES;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TUDO
-FATURAMENTO VD RJ;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;BB TUDO
+FATURAMENTO VD RJ;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TUDO
 FATURAMENTO VD ES;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;BB TUDO
+FATURAMENTO VD RJ;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;BB TUDO
 FATURAMENTO VD ES;50.38;50.38;8.01.28.30.18;Banheira de Bebê Plástica Rosa Claro Perolado - Galzerano;BB TUDO
 FATURAMENTO VD ES;192.37;192.37;8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;BB TUDO
 FATURAMENTO VD ES;123.12;123.12;8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;BB TUDO
@@ -6695,9 +6694,9 @@ FATURAMENTO VD RJ;59.5;59.5;8.03.23.05.01;Almofada de Elevação Mangiare Preto 
 FATURAMENTO VD RJ;138.33;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;138.33;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Preto Infanti;BB TUDO
 FATURAMENTO VD RJ;84.7;84.7;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;BB TUDO
-FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
 FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
-FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
+FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
+FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD ES;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;BB TUDO
@@ -7390,7 +7389,7 @@ FATURAMENTO VD RJ;1537.95;1537.95;8.09.02.128.10;Carrinho de Bebê Leona² Selec
 FATURAMENTO VD RJ;1938.0;1938.0;8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1199.53;1199.53;8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1061.08;1061.08;8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black -  Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;1061.08;1061.08;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;BB TUDO
+FATURAMENTO VD RJ;1011.13;1011.13;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;BB TUDO
 FATURAMENTO VD ES;1172.57;1172.57;8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1061.08;1061.08;8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1614.92;1614.92;8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;BB TUDO
