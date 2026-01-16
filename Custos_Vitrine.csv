@@ -231,8 +231,8 @@ FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada B
 FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
-FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
+FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
@@ -377,7 +377,7 @@ FATURAMENTO VD ES;26.21;30.08;24.10.159.271.00;3 Petisqueiras com Bandeja de Cer
 FATURAMENTO VD ES;30.59;35.11;24.10.159.272.00;3 Petisqueiras de Ceramica com Bandeja 31cmx14,5cmx3,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;13.79;15.56;24.10.159.273.00;3 Petisqueiras de Ceramica  25cm x 10cm x 2cm - Lyor;VITRINE
 FATURAMENTO VD ES;24.32;27.45;24.10.159.274.00;4 Bowls de Cerâmica 9,5cm - Lyor;VITRINE
-FATURAMENTO VD ES;8.35;10.21;24.10.159.276.00;4 Anéis para Guardanapo Curves de Aço Dourado - Lyor;VITRINE
+FATURAMENTO VD ES;8.98;10.99;24.10.159.276.00;4 Anéis para Guardanapo Curves de Aço Dourado - Lyor;VITRINE
 FATURAMENTO VD ES;10.29;12.58;24.10.159.277.00;4 Anéis para Guardanapo Circle de Aço Niquelado Prata - Lyor;VITRINE
 FATURAMENTO VD ES;10.33;12.63;24.10.159.278.00;4 Anéis para Guardanapo Circle de Aço Dourado - Lyor;VITRINE
 FATURAMENTO VD ES;6.77;7.7;24.10.159.279.00;Porta Mantimento Hermético em Vidro Borossilicato 350ml - Lyor;VITRINE
@@ -447,10 +447,10 @@ FATURAMENTO VD ES;50.51;57.46;24.10.159.391.57;Panela de Indução 18cm Taupe co
 FATURAMENTO VD ES;39.05;44.43;24.10.159.392.57;Frigideira de Indução 24cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;33.82;38.46;24.10.159.394.57;Tapioqueira de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;57.7;65.65;24.10.159.395.57;Frigideira Wok de Indução 28cm Taupe c/Revestimento Cerâmico;VITRINE
-FATURAMENTO VD ES;73.84;83.99;24.10.159.396.57;Caçarola de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
+FATURAMENTO VD ES;73.83;83.99;24.10.159.396.57;Caçarola de Indução 22cm Taupe com Revestimento Cerâmico;VITRINE
 FATURAMENTO VD ES;10.6;12.06;24.10.159.398.18;Marmita Hermética com Talheres 850ml Rosa Plástico - Lyor;VITRINE
 FATURAMENTO VD ES;11.04;12.56;24.10.159.399.07;Marmita Hermética com Talheres 850ml Azul Plástico - Lyor;VITRINE
-FATURAMENTO VD ES;15.35;17.39;24.10.159.401.01;Tampa Universal para Panela com 22 a 26cm Preta Vidro - Lyor;VITRINE
+FATURAMENTO VD ES;15.35;17.4;24.10.159.401.01;Tampa Universal para Panela com 22 a 26cm Preta Vidro - Lyor;VITRINE
 FATURAMENTO VD ES;27.42;31.18;24.10.159.404.06;Conjunto 3 Potes Herméticos com Cesto Escorredor Branco;VITRINE
 FATURAMENTO VD ES;5.07;5.78;24.10.159.409.18;Pote Hermético de Vidro com Tampa em Metal Rosé 80ml - Lyor;VITRINE
 FATURAMENTO VD ES;4.38;4.99;24.10.159.410.18;Pote Hermético de Vidro com Tampa em Metal Rosé 370ml - Lyor;VITRINE
@@ -535,7 +535,7 @@ FATURAMENTO VD ES;23.52;26.76;24.11.159.92.05;Bandeja de Metal com Espelho Prate
 FATURAMENTO VD ES;30.24;34.4;24.11.159.93.05;Bandeja de Metal com Espelho Prateada 30cm x 20cm x 4cm;VITRINE
 FATURAMENTO VD ES;21.32;24.22;24.11.159.94.05;Porta Retrato de Metal Prata 15cm x 10cm - Lyor;VITRINE
 FATURAMENTO VD ES;31.97;36.53;24.11.159.95.00;Bandeja de Mármore Terrazzo 27cm x 17cm x 2cm - Lyor;VITRINE
-FATURAMENTO VD ES;11.98;13.62;24.11.159.98.00;Porta Retrato de Mdf com Treliça 10cm x 15cm - Lyor;VITRINE
+FATURAMENTO VD ES;11.97;13.62;24.11.159.98.00;Porta Retrato de Mdf com Treliça 10cm x 15cm - Lyor;VITRINE
 FATURAMENTO VD ES;17.49;19.9;24.11.159.99.00;Porta Retrato de Mdf com Treliça 15cm x 20cm - Lyo;VITRINE
 FATURAMENTO VD ES;74.26;82.74;24.11.175.03.06;Persiana Premier Pvc 25Mm 100X160 Branca;VITRINE
 FATURAMENTO VD ES;176.18;203.08;24.11.175.105.06;Persiana Bloom Blackout Linho Branca 140X160;VITRINE
@@ -568,7 +568,7 @@ FATURAMENTO VD ES;71.64;82.58;24.11.175.163.57;Persiana Toucher Rolo Translúcid
 FATURAMENTO VD ES;80.78;93.13;24.11.175.171.57;Persiana Nouvel  Rolo Blackout 120X160 Bege Creme;VITRINE
 FATURAMENTO VD ES;80.79;93.13;24.11.175.172.06;Persiana Nouvel  Rolo Blackout 120X160 Branca;VITRINE
 FATURAMENTO VD ES;94.93;109.44;24.11.175.173.57;Persiana Nouvel  Rolo Blackout 140X160 Bege Creme;VITRINE
-FATURAMENTO VD ES;94.93;109.44;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;VITRINE
+FATURAMENTO VD ES;93.95;108.3;24.11.175.174.06;Persiana Nouvel  Rolo Blackout 140X160 Branca;VITRINE
 FATURAMENTO VD ES;106.59;122.87;24.11.175.176.06;Persiana Nouvel  Rolo Blackout 160X160 Branca;VITRINE
 FATURAMENTO VD ES;102.24;114.17;24.11.175.181.00;Kit Varão Extensor 120 a 210cm Coroa Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;102.24;114.17;24.11.175.187.00;Kit Varão Extensor 120 a 210cm Cilindrica Ouro Velho 25-28MM;VITRINE
@@ -597,11 +597,11 @@ FATURAMENTO VD ES;131.58;151.68;24.11.175.49.57;Persiana Bauhaus Rolo Bambu 160X
 FATURAMENTO VD ES;104.7;120.7;24.11.175.50.57;Persiana Bauhaus Rolo Bambu 100X220  Fresno;VITRINE
 FATURAMENTO VD ES;98.68;113.76;24.11.175.52.57;Persiana Bauhaus Rolo Bambu 120X160 Honey Mapple;VITRINE
 FATURAMENTO VD ES;115.13;132.72;24.11.175.53.57;Persiana Bauhaus Rolo Bambu 140X160 Honey Mapple;VITRINE
-FATURAMENTO VD ES;91.59;105.57;24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;VITRINE
+FATURAMENTO VD ES;90.63;104.47;24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;VITRINE
 FATURAMENTO VD ES;91.59;105.57;24.11.175.78.01;Persiana Zebra Rolo Dupla 120X160 Preta;VITRINE
 FATURAMENTO VD ES;90.62;104.47;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;73.29;84.48;24.11.175.80.57;Persiana Zebra Rolo Dupla 120X160 Caramelo;VITRINE
-FATURAMENTO VD ES;106.91;123.24;24.11.175.84.06;Persiana Zebra Rolo Dupla 140X160 Branca;VITRINE
+FATURAMENTO VD ES;105.8;121.96;24.11.175.84.06;Persiana Zebra Rolo Dupla 140X160 Branca;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.85.01;Persiana Zebra Rolo Dupla 140X160 Preta;VITRINE
 FATURAMENTO VD ES;105.8;121.96;24.11.175.86.57;Persiana Zebra Rolo Dupla 140X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;85.5;98.56;24.11.175.87.57;Persiana Zebra Rolo Dupla 140X160 Caramelo;VITRINE
@@ -1020,6 +1020,7 @@ FATURAMENTO VD ES;17.96;20.43;24.53.66.138.00;Galheteiro 2 Em 1 De Vidro Pincel 
 FATURAMENTO VD ES;7.02;7.99;24.53.66.139.01;Garrafa Para Azeite De Vidro Preta Essência 500Ml;VITRINE
 FATURAMENTO VD ES;17.02;19.44;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
 FATURAMENTO VD ES;15.24;17.34;24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;VITRINE
+FATURAMENTO VD ES;10.16;11.56;24.53.66.158.00;Porta Mantimento De Vidro Com Tampa De Pinus 800Ml;VITRINE
 FATURAMENTO VD ES;12.99;14.77;24.53.66.163.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 1L;VITRINE
 FATURAMENTO VD ES;8.49;9.65;24.53.66.164.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 600Ml;VITRINE
 FATURAMENTO VD ES;12.17;13.85;24.53.66.165.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 800Ml;VITRINE
@@ -1041,11 +1042,11 @@ FATURAMENTO VD ES;35.94;40.89;24.53.66.220.00;Kit 5 Porta Temperos Vidro Borossi
 FATURAMENTO VD ES;16.77;19.08;24.53.66.35.06;Pote Wolff Vintage Flores de Cerâmica Branco 10cm x 8cm;VITRINE
 FATURAMENTO VD ES;60.65;69.0;24.53.66.37.00;Panela Wolff Revestimento Cerâmico Indução Granilite Cinza 20cm;VITRINE
 FATURAMENTO VD ES;69.71;78.98;24.53.66.41.00;Conjunto 6 Taças de Vinho Branco de Cristal Ecológico Gastro Colibri 350ml - Bohemia;VITRINE
-FATURAMENTO VD ES;5.07;5.78;24.53.66.46.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 210ml - Wolff;VITRINE
+FATURAMENTO VD ES;5.08;5.79;24.53.66.46.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 210ml - Wolff;VITRINE
 FATURAMENTO VD ES;4.59;5.23;24.53.66.47.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 160ml - Wolff;VITRINE
-FATURAMENTO VD ES;4.28;4.86;24.53.66.48.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 120ml - Wolff;VITRINE
-FATURAMENTO VD ES;3.7;4.21;24.53.66.49.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 90ml - Wolff;VITRINE
-FATURAMENTO VD ES;3.4;3.86;24.53.66.50.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 60ml - Wolff;VITRINE
+FATURAMENTO VD ES;4.33;4.93;24.53.66.48.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 120ml - Wolff;VITRINE
+FATURAMENTO VD ES;3.72;4.23;24.53.66.49.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 90ml - Wolff;VITRINE
+FATURAMENTO VD ES;3.39;3.86;24.53.66.50.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 60ml - Wolff;VITRINE
 FATURAMENTO VD ES;12.86;14.63;24.53.66.61.00;Porta Mantimentos de Vidro com Tampa de Bambu Classic 450ml - Wolff;VITRINE
 FATURAMENTO VD ES;15.74;17.91;24.53.66.72.00;Porta Mantimentos de Vidro com Tampa em Madeira 1,9l - Wolff;VITRINE
 FATURAMENTO VD ES;66.24;75.35;24.53.66.90.00;Panela de Indução em Alumínio com Revestimento Cerâmico e Tampa de Vidro Granilite Preta 20cm;VITRINE
@@ -1067,6 +1068,7 @@ FATURAMENTO VD ES;27.72;31.4;24.54.159.26.01;Copo Térmico Parede Dupla com Term
 FATURAMENTO VD ES;18.49;20.94;24.54.159.27.07;Copo Térmico parede Dupla com Termômetro Motion Azul 500ml;VITRINE
 FATURAMENTO VD ES;4.16;4.71;24.54.159.31.00;Copo de Cristal Deli Diamante 330ml - Lyor;VITRINE
 FATURAMENTO VD ES;7.07;8.02;24.54.159.34.00;Copo Alto de Cristal com Fio de Ouro Square 360ml - Lyor;VITRINE
+FATURAMENTO VD ES;5.32;6.03;24.54.159.36.00;Copo de Cristal com Fio de Ouro Square 330ml - Lyor;VITRINE
 FATURAMENTO VD ES;67.31;76.57;24.54.159.38.00;Kit 1 Jarra e 6 Taças de Cristal Hand Painting 1,3L/240ml;VITRINE
 FATURAMENTO VD ES;6.75;7.65;24.54.159.39.00;Taça para Água de Cristal Lavanda Hand Painting 240ml - Lyor;VITRINE
 FATURAMENTO VD ES;23.93;27.11;24.54.159.42.00;Kit 2 Taças para Vinho de Vidro Borossilicato 380ml - Lyor;VITRINE
@@ -1094,7 +1096,7 @@ FATURAMENTO VD ES;3.87;4.44;24.54.163.01.00;Cortador De Lacre Para Vinhos - Oiko
 FATURAMENTO VD ES;62.18;70.44;24.54.65.04.00;Jogo de 6 Taças de Cerveja Wolff Gastro Colibri de Cristal 380ml;VITRINE
 FATURAMENTO VD ES;71.22;80.69;24.54.65.05.00;Jogo de 6 Taças de Gin Wolff Gastro Colibri de Cristal 570ml;VITRINE
 FATURAMENTO VD ES;75.74;85.82;24.54.65.34.00;Conjunto 6 Taças de Cerveja de Cristal  Alex 380ml - Wolff;VITRINE
-FATURAMENTO VD ES;89.35;101.23;24.54.65.36.00;Conjunto 6 Taças de Vinho de Cristal  Alex 600ml - Wolff;VITRINE
+FATURAMENTO VD ES;92.22;104.49;24.54.65.36.00;Conjunto 6 Taças de Vinho de Cristal  Alex 600ml - Wolff;VITRINE
 FATURAMENTO VD ES;41.08;46.54;24.54.66.01.00;Decanter com Alça Wolff de Vidro Incolor;VITRINE
 FATURAMENTO VD ES;68.56;77.67;24.54.66.03.00;Jogo de 6 Taças Wolff Palm Tree de Cristal Verde 450ml;VITRINE
 FATURAMENTO VD ES;12.8;14.5;24.54.66.04.00;Jogo de 6 Taças Para Lícor Wolff Pearl de Cristal Âmbar;VITRINE
@@ -3727,9 +3729,10 @@ FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Mila
 FULFILLMENT VISUAL IN;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
+FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
-FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
+FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;650.64;1026.55;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;758.58;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VITRINE
