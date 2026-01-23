@@ -434,7 +434,7 @@ FATURAMENTO VD ES;4.27;4.85;24.10.159.370.69;Temporizador para Cozimento de Ovos
 FATURAMENTO VD ES;13.24;15.06;24.10.159.371.01;Pote Hermético de Vidro com Silicone Vintage Preto 2,3L;VITRINE
 FATURAMENTO VD ES;10.98;12.49;24.10.159.372.01;Pote Hermético de Vidro com Silicone Vintage Preto 1,6L;VITRINE
 FATURAMENTO VD ES;11.23;12.77;24.10.159.373.01;Pote Hermético de Vidro com Silicone Vintage Preto 1L;VITRINE
-FATURAMENTO VD ES;9.43;10.72;24.10.159.374.01;Pote Hermético de Vidro com Silicone Vintage Preto 850ml;VITRINE
+FATURAMENTO VD ES;6.93;7.88;24.10.159.374.01;Pote Hermético de Vidro com Silicone Vintage Preto 850ml;VITRINE
 FATURAMENTO VD ES;6.21;7.06;24.10.159.375.01;Pote Hermético de Vidro com Silicone Vintage Preto 550ml;VITRINE
 FATURAMENTO VD ES;8.4;9.56;24.10.159.376.10;Pote para Salada com Garfo e Alça de Plástico Cinza 1L;VITRINE
 FATURAMENTO VD ES;13.37;15.34;24.10.159.377.06;Marmita Hermética com Talheres de Bambu e PP Off White 1,1L;VITRINE
@@ -553,7 +553,6 @@ FATURAMENTO VD ES;137.69;158.72;24.11.175.121.10;Persiana Bloom Corta Luz Cinza 
 FATURAMENTO VD ES;120.58;139.0;24.11.175.123.06;Persiana Bloom Corta Luz Off White 140X160;VITRINE
 FATURAMENTO VD ES;144.35;166.4;24.11.175.126.06;Persiana Screen Rolo Solar 160X260 Branca;VITRINE
 FATURAMENTO VD ES;198.69;229.04;24.11.175.127.06;Persiana Screen Rolo Solar 180X220 Branca;VITRINE
-FATURAMENTO VD ES;44.84;60.92;24.11.175.13.01;Persiana Premier Pvc 25Mm 140X160 Preta;VITRINE
 FATURAMENTO VD ES;82.1;94.64;24.11.175.130.06;Persiana Screen Rolo Solar 120X160 Branca;VITRINE
 FATURAMENTO VD ES;105.05;121.09;24.11.175.134.06;Persiana Screen Rolo Solar 160X160 Branca;VITRINE
 FATURAMENTO VD ES;44.84;60.92;24.11.175.14.10;Persiana Premier Pvc 25Mm 140X160 Chumbo;VITRINE
@@ -5369,11 +5368,12 @@ FATURAMENTO VD ES;8.67;9.95;8.25.57.83.07;Chupeta Comfort Tamanho 2 Coala Azul -
 FATURAMENTO BBTOTAL ES;3.75;4.98;8.25.57.83.07;Chupeta Comfort Tamanho 2 Coala Azul - Buba;BB TOTAL
 FATURAMENTO VD ES;46.23;52.68;8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;27.28;36.23;8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;BB TOTAL
+FATURAMENTO VD ES;56.97;65.39;8.25.57.89.10;Almofada De Banho Ursinho - Buba;VITRINE
 FATURAMENTO VD RJ;56.97;65.39;8.25.57.89.10;Almofada De Banho Ursinho - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;32.7;32.7;8.25.57.89.10;Almofada De Banho Ursinho - Buba;BB TOTAL
+FATURAMENTO VD ES;56.97;65.39;8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;VITRINE
 FATURAMENTO VD RJ;56.97;65.39;8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;32.7;32.7;8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;BB TOTAL
-FATURAMENTO VD ES;56.97;65.39;8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;VITRINE
 FATURAMENTO VD RJ;95.57;108.72;8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;53.25;53.25;8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;BB TOTAL
 FATURAMENTO VD RJ;6.44;7.36;8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;VITRINE
@@ -8568,9 +8568,10 @@ FATURAMENTO VD ES;14.45;14.45;8.25.57.71.00;Kit 2 Chupetas Comfort Tamanho 2 Urs
 FATURAMENTO VD ES;19.74;19.74;8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;9.95;9.95;8.25.57.83.07;Chupeta Comfort Tamanho 2 Coala Azul - Buba;BB TUDO
 FATURAMENTO VD ES;52.68;52.68;8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;BB TUDO
+FATURAMENTO VD ES;65.39;65.39;8.25.57.89.10;Almofada De Banho Ursinho - Buba;BB TUDO
 FATURAMENTO VD RJ;65.39;65.39;8.25.57.89.10;Almofada De Banho Ursinho - Buba;BB TUDO
-FATURAMENTO VD RJ;65.39;65.39;8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;BB TUDO
 FATURAMENTO VD ES;65.39;65.39;8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;BB TUDO
+FATURAMENTO VD RJ;65.39;65.39;8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;BB TUDO
 FATURAMENTO VD RJ;108.72;108.72;8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;BB TUDO
 FATURAMENTO VD RJ;7.36;7.36;8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;BB TUDO
 FATURAMENTO VD ES;7.36;7.36;8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;BB TUDO
