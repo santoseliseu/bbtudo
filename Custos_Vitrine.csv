@@ -553,6 +553,7 @@ FATURAMENTO VD ES;137.69;158.72;24.11.175.121.10;Persiana Bloom Corta Luz Cinza 
 FATURAMENTO VD ES;120.58;139.0;24.11.175.123.06;Persiana Bloom Corta Luz Off White 140X160;VITRINE
 FATURAMENTO VD ES;144.35;166.4;24.11.175.126.06;Persiana Screen Rolo Solar 160X260 Branca;VITRINE
 FATURAMENTO VD ES;198.69;229.04;24.11.175.127.06;Persiana Screen Rolo Solar 180X220 Branca;VITRINE
+FATURAMENTO VD ES;44.84;60.92;24.11.175.13.01;Persiana Premier Pvc 25Mm 140X160 Preta;VITRINE
 FATURAMENTO VD ES;82.1;94.64;24.11.175.130.06;Persiana Screen Rolo Solar 120X160 Branca;VITRINE
 FATURAMENTO VD ES;105.05;121.09;24.11.175.134.06;Persiana Screen Rolo Solar 160X160 Branca;VITRINE
 FATURAMENTO VD ES;44.84;60.92;24.11.175.14.10;Persiana Premier Pvc 25Mm 140X160 Chumbo;VITRINE
@@ -873,7 +874,6 @@ FATURAMENTO VD ES;58.05;66.03;24.52.66.30.06;Bule Wolff de Cerâmica Branco 600m
 FATURAMENTO VD ES;17.0;19.27;24.52.66.31.00;Jogo de 2 Copos para Café Dupla Parede Wolff de Vidro Incolor 100ml;VITRINE
 FATURAMENTO VD ES;48.11;54.73;24.52.66.316.00;Prato para Bolo de Cristal com Pé Lys 32cm x 11cm - Wolff;VITRINE
 FATURAMENTO VD ES;11.58;13.17;24.52.66.317.00;Prato de Cristal com Pé Pearl 20cm x 9cm - Wolff;VITRINE
-FATURAMENTO VD ES;23.21;26.4;24.52.66.33.00;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Incolor 80ml;VITRINE
 FATURAMENTO VD ES;23.21;26.4;24.52.66.33.00;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Transparente 80ml;VITRINE
 FATURAMENTO VD ES;35.49;40.38;24.52.66.334.00;Chaleira de Vidro Martelado com Alça de Bambu 750ml - Wolff;VITRINE
 FATURAMENTO VD ES;33.61;38.24;24.52.66.34.00;Prato para Bolo Wolff Daisy de Cristal Incolor 31 x 10cm;VITRINE
@@ -1019,7 +1019,7 @@ FATURAMENTO VD ES;84.19;95.77;24.53.66.135.00;Conjunto 12 Potes Com Tampa Hermé
 FATURAMENTO VD ES;68.37;77.78;24.53.66.137.00;Conjunto 8 Potes Com Tampa Hermética E Rack Em Bambu;VITRINE
 FATURAMENTO VD ES;17.96;20.43;24.53.66.138.00;Galheteiro 2 Em 1 De Vidro Pincel Medidor Em Silicone 550Ml;VITRINE
 FATURAMENTO VD ES;7.02;7.99;24.53.66.139.01;Garrafa Para Azeite De Vidro Preta Essência 500Ml;VITRINE
-FATURAMENTO VD ES;16.86;19.26;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
+FATURAMENTO VD ES;17.0;19.42;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
 FATURAMENTO VD ES;15.24;17.34;24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;VITRINE
 FATURAMENTO VD ES;12.99;14.77;24.53.66.163.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 1L;VITRINE
 FATURAMENTO VD ES;8.49;9.65;24.53.66.164.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 600Ml;VITRINE
@@ -2269,7 +2269,6 @@ FATURAMENTO VD RJ;38.73;54.72;8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x
 FULFILLMENT AMAZON;38.73;54.72;8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;27.36;27.36;8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;BB TOTAL
 FATURAMENTO VD RJ;38.73;54.72;8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Cosco - Branco Estampado;VITRINE
-FULFILLMENT AMAZON;38.73;54.72;8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Cosco - Branco Estampado;VITRINE
 FATURAMENTO VD RJ;48.13;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;VITRINE
 FULFILLMENT AMAZON;48.13;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;VITRINE
 FULFILLMENT MELI;48.13;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;VITRINE
@@ -4966,7 +4965,6 @@ FULFILLMENT MELI;149.72;204.04;8.25.02.38.06;Luz e Som Soothe White Linha Conect
 FATURAMENTO VD ES;32.65;38.09;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;VITRINE
 FATURAMENTO BBTOTAL ES;19.05;19.05;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;BB TOTAL
 FATURAMENTO VD RJ;31.52;35.82;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;VITRINE
-FATURAMENTO VD ES;29.66;30.9;8.25.100.02.00;Compressas Refrescantes para Alívio da Febre 04 Unid LikLuc;VITRINE
 FATURAMENTO VD ES;29.66;30.9;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;VITRINE
 FATURAMENTO BBTOTAL ES;30.9;30.9;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;BB TOTAL
 FATURAMENTO VD RJ;18.17;18.93;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;VITRINE
@@ -8311,7 +8309,6 @@ FATURAMENTO VD RJ;231.37;231.37;8.25.02.38.06;Luz e Som Soothe White - Maxi-Cosi
 FATURAMENTO VD RJ;231.37;231.37;8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;BB TUDO
 FATURAMENTO VD ES;38.09;38.09;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;BB TUDO
 FATURAMENTO VD RJ;35.82;35.82;8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;BB TUDO
-FATURAMENTO VD ES;30.9;30.9;8.25.100.02.00;Compressas Refrescantes para Alívio da Febre 04 Unid LikLuc;BB TUDO
 FATURAMENTO VD ES;30.9;30.9;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;BB TUDO
 FATURAMENTO VD RJ;18.93;18.93;8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;BB TUDO
 FATURAMENTO VD ES;8.8;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para Utensílios do Bebê - LikLuc;BB TUDO
