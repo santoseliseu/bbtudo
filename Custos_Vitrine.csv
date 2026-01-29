@@ -113,10 +113,10 @@ FATURAMENTO VD ES;69.09;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;69.09;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
-FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
@@ -892,7 +892,7 @@ FATURAMENTO VD ES;9.04;10.28;24.52.66.384.00;Conjunto 4 Xícaras De Vidro Frankf
 FATURAMENTO VD ES;12.73;14.48;24.52.66.385.00;Conjunto 4 Xícaras De Vidro Frankfurt 220Ml;VITRINE
 FATURAMENTO VD ES;38.68;43.82;24.52.66.386.06;Garrafa Térmica Carrossel Branca 1L - Wolff;VITRINE
 FATURAMENTO VD ES;31.85;36.09;24.52.66.389.01;Garrafa Térmica Carrossel Preta 1L - Wolff;VITRINE
-FATURAMENTO VD ES;13.25;15.01;24.52.66.390.06;Garrafa Térmica Essência Branca 300Ml;VITRINE
+FATURAMENTO VD ES;13.14;14.89;24.52.66.390.06;Garrafa Térmica Essência Branca 300Ml;VITRINE
 FATURAMENTO VD ES;12.59;14.27;24.52.66.391.01;Garrafa Térmica Essência Preta 300Ml;VITRINE
 FATURAMENTO VD ES;26.53;30.06;24.52.66.393.06;Garrafa Térmica Geometric Branca 1L - Wolff;VITRINE
 FATURAMENTO VD ES;62.63;70.96;24.52.66.395.76;Garrafa Térmica Marrom Com Tampa Dourada New Rattan 1L;VITRINE
@@ -4237,7 +4237,7 @@ FATURAMENTO VD RJ;40.59;46.18;8.24.149.19.18;Prato Infantil de Silicone Basic Pl
 FATURAMENTO VD ES;40.59;46.18;8.24.149.19.18;Prato Infantil de Silicone Basic Plate Pinky Pink - Minikoioi;VITRINE
 FATURAMENTO VD ES;81.42;92.62;8.24.149.21.10;Prato Infantil de Silicone Encaixe Puzzle River Green e Cinzento - Minikoioi;VITRINE
 FATURAMENTO VD ES;35.08;39.9;8.24.149.25.11;Colher e Garfo Silicone e Bambu Dig In River Green - Minikoioi;VITRINE
-FATURAMENTO VD ES;35.08;39.9;8.24.149.26.18;Colher e Garfo Silicone e Bambu Dig In Pinky Pink - Minikoioi;VITRINE
+FATURAMENTO VD RJ;35.08;39.91;8.24.149.26.18;Colher e Garfo Silicone e Bambu Dig In Pinky Pink - Minikoioi;VITRINE
 FATURAMENTO VD ES;35.08;39.91;8.24.149.27.18;Colher e Garfo Silicone e Bambu Dig In Velvet Rose - Minikoioi;VITRINE
 FATURAMENTO VD RJ;54.21;61.67;8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;VITRINE
 FATURAMENTO VD ES;54.21;61.67;8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;VITRINE
@@ -4982,7 +4982,6 @@ FATURAMENTO VD RJ;12.64;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fev
 FATURAMENTO VD ES;12.64;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;VITRINE
 FATURAMENTO BBTOTAL ES;5.47;7.26;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;BB TOTAL
 FATURAMENTO VD RJ;12.64;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und INR;VITRINE
-FATURAMENTO VD ES;12.64;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und INR;VITRINE
 FATURAMENTO VD ES;8.45;9.7;8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;VITRINE
 FATURAMENTO BBTOTAL ES;4.85;4.85;8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;BB TOTAL
 FATURAMENTO VD RJ;8.46;8.81;8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;VITRINE
@@ -7811,7 +7810,7 @@ FATURAMENTO VD RJ;46.18;46.18;8.24.149.19.18;Prato Infantil de Silicone Basic Pl
 FATURAMENTO VD ES;46.18;46.18;8.24.149.19.18;Prato Infantil de Silicone Basic Plate Pinky Pink - Minikoioi;BB TUDO
 FATURAMENTO VD ES;92.62;92.62;8.24.149.21.10;Prato Infantil de Silicone Encaixe Puzzle River Green e Cinzento - Minikoioi;BB TUDO
 FATURAMENTO VD ES;39.9;39.9;8.24.149.25.11;Colher e Garfo Silicone e Bambu Dig In River Green - Minikoioi;BB TUDO
-FATURAMENTO VD ES;39.9;39.9;8.24.149.26.18;Colher e Garfo Silicone e Bambu Dig In Pinky Pink - Minikoioi;BB TUDO
+FATURAMENTO VD RJ;39.91;39.91;8.24.149.26.18;Colher e Garfo Silicone e Bambu Dig In Pinky Pink - Minikoioi;BB TUDO
 FATURAMENTO VD ES;39.91;39.91;8.24.149.27.18;Colher e Garfo Silicone e Bambu Dig In Velvet Rose - Minikoioi;BB TUDO
 FATURAMENTO VD RJ;61.67;61.67;8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;BB TUDO
 FATURAMENTO VD ES;61.67;61.67;8.24.149.28.07;Conjunto Copo com Canudo + Tampa Snack Deep Blue e Grey - Minikoioi;BB TUDO
@@ -8284,7 +8283,6 @@ FATURAMENTO VD RJ;17.17;17.17;8.25.135.01.00;Adesivo Monitor de Febre Termo Frie
 FATURAMENTO VD RJ;14.22;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;BB TUDO
 FATURAMENTO VD ES;14.22;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;BB TUDO
 FATURAMENTO VD RJ;14.22;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und INR;BB TUDO
-FATURAMENTO VD ES;14.22;14.22;8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und INR;BB TUDO
 FATURAMENTO VD ES;9.7;9.7;8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;BB TUDO
 FATURAMENTO VD RJ;8.81;8.81;8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;BB TUDO
 FATURAMENTO VD ES;24.9;24.9;8.25.135.04.00;Adesivo de Citronela com 28 unidades - Amo Protect;BB TUDO
