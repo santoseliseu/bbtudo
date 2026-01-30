@@ -69,7 +69,6 @@ FATURAMENTO VD RJ;73.34;86.4;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terr
 FATURAMENTO VD ES;269.95;318.01;21.14.50.1082.00;Conjunto Com 4 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.1083.00;Cadeira Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;200.95;236.73;21.14.50.1085.00;Conjunto Com 4 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;59.28;69.84;21.14.50.109.00;Cadeira Saarinen  Preto;VITRINE
 FATURAMENTO VD ES;36.68;39.44;21.14.50.1127.00;Cadeira Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.1127.00;Cadeira Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;73.35;86.4;21.14.50.1128.00;Conjunto Com 2 Cadeiras Eames Musgo  Base Em Polipropileno;VITRINE
@@ -2018,7 +2017,6 @@ FATURAMENTO VD RJ;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - 
 FULFILLMENT VISUAL IN;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VISUAL IN
 FATURAMENTO VISUAL IN SP;71.58;113.32;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VISUAL IN
 FATURAMENTO BBTOTAL ES;49.35;49.35;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TOTAL
-FATURAMENTO VD ES;86.85;97.2;8.03.71.06.00;Almofada para Banho Unicórnio Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FATURAMENTO VD RJ;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VISUAL IN
@@ -2894,7 +2892,6 @@ FATURAMENTO BBTOTAL ES;651.11;651.11;8.07.76.02.10;Cadeirinha de Carro Every Sta
 FATURAMENTO VD RJ;1140.7;1302.21;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VITRINE
 FATURAMENTO VISUAL IN SP;1194.54;1248.37;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VISUAL IN
 FULFILLMENT VISUAL IN;1194.54;1248.37;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VISUAL IN
-FULFILLMENT MAGALU;987.43;1123.98;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VITRINE
 FATURAMENTO VD RJ;1161.36;1327.14;8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;VITRINE
 FULFILLMENT VISUAL IN;1161.36;1327.14;8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;VISUAL IN
 FATURAMENTO BBTOTAL ES;663.57;663.57;8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;BB TOTAL
@@ -3763,8 +3760,6 @@ FATURAMENTO VD RJ;676.13;774.12;8.09.74.07.110;Carrinho de Bebê Compacto Nano V
 FATURAMENTO VD RJ;630.9;678.72;8.09.74.18.10;Carrinho de Bebê Spider Grafite - Kiddo;VITRINE
 FATURAMENTO VD RJ;596.63;678.71;8.09.74.19.01;Carrinho de Bebê Spider Preto - Kiddo;VITRINE
 FATURAMENTO VD RJ;1546.59;1663.83;8.09.74.20.01;Carrinho de Bebê Savvy Melange Preto - Kiddo;VITRINE
-FATURAMENTO VD RJ;3054.51;3506.1;8.09.76.01.01;Carrinho de Bebê Aeria Carbon Joie;VITRINE
-FATURAMENTO VD RJ;3104.34;3554.27;8.09.76.03.10;Carrinho de Bebê Aeria Oyster Joie;VITRINE
 FULFILLMENT VISUAL IN;0.0;0.0;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse - Joie;VISUAL IN
 FATURAMENTO VD RJ;1567.05;1782.64;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;873.15;873.15;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse - Joie;BB TOTAL
@@ -5466,7 +5461,6 @@ FATURAMENTO VD RJ;15.23;17.88;8.25.74.09.00;Travesseiro Pillow Air - Kiddo;VITRI
 FATURAMENTO BBTOTAL ES;8.94;8.94;8.25.74.09.00;Travesseiro Pillow Air - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;94.3;97.08;8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;VITRINE
 FATURAMENTO BBTOTAL ES;48.54;48.54;8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;BB TOTAL
-FATURAMENTO VD RJ;94.3;97.08;8.25.75.01.10;Bebê Fofo Almofada de Apoio Lycra Cinza D'Bella For Baby;VITRINE
 FATURAMENTO VD RJ;95.38;97.03;8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;VITRINE
 FATURAMENTO BBTOTAL ES;48.52;48.52;8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;BB TOTAL
 FATURAMENTO VD RJ;95.38;97.03;8.25.75.02.00;Bebê Fofo Almofada de Apoio Lycra Nude D'Bella For Baby;VITRINE
@@ -5553,7 +5547,6 @@ FATURAMENTO VD RJ;150.05;152.49;8.25.75.49.01;Capa Protetora Para Cadeira de Car
 FATURAMENTO BBTOTAL ES;76.25;76.25;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;BB TOTAL
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;48.5;48.5;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;BB TOTAL
-FATURAMENTO BBTOTAL ES;43.5;43.5;8.25.75.51.10;Almofada Redutora Bebê Fofo Malha Cinza D´Bella for Baby;BB TOTAL
 FATURAMENTO BBTOTAL ES;43.5;43.5;8.25.75.51.10;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Cinza - D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;87.0;87.0;8.25.75.51.10;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Cinza - D´Bella for Baby;VITRINE
 FATURAMENTO VD RJ;83.61;87.05;8.25.75.52.18;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Rosê - D´Bella for Baby;VITRINE
@@ -6053,7 +6046,6 @@ FATURAMENTO VD RJ;75.24;78.37;8.30.53.53.00;Mesa de Atividades Bilíngue Crescer
 FATURAMENTO BBTOTAL ES;129.7;148.87;8.30.53.53.00;Mesa de Atividades Bilíngue Crescer e Aprender Chicco;BB TOTAL
 FULFILLMENT MAGALU;157.95;170.2;8.30.53.54.00;Nova Fazendinha Bilíngue Chicco;VITRINE
 FATURAMENTO VD RJ;47.28;53.7;8.30.53.54.00;Nova Fazendinha Bilíngue Chicco;VITRINE
-FATURAMENTO BBTOTAL ES;85.18;97.78;8.30.53.54.00;Nova Fazendinha Bilíngue Chicco;BB TOTAL
 FATURAMENTO BBTOTAL ES;102.47;102.47;8.30.53.55.00;Roda-Roda Educativa Chicco;BB TOTAL
 FATURAMENTO VD RJ;51.77;59.3;8.30.53.55.00;Roda-Roda Educativa Chicco;VITRINE
 FATURAMENTO VD RJ;109.28;125.27;8.30.53.59.00;Brinquedo Adivinhe Os Animais - Chicco;VITRINE
@@ -6557,7 +6549,6 @@ FATURAMENTO VD RJ;97.2;97.2;8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme
 FATURAMENTO VD ES;97.2;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.69;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
-FATURAMENTO VD ES;97.2;97.2;8.03.71.06.00;Almofada para Banho Unicórnio Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.64;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.07.00;Almofada para Banho Creme Ursinho Zeca Baby Pil;BB TUDO
@@ -7532,8 +7523,6 @@ FATURAMENTO VD RJ;774.12;774.12;8.09.74.07.110;Carrinho de Bebê Compacto Nano V
 FATURAMENTO VD RJ;678.72;678.72;8.09.74.18.10;Carrinho de Bebê Spider Grafite - Kiddo;BB TUDO
 FATURAMENTO VD RJ;678.71;678.71;8.09.74.19.01;Carrinho de Bebê Spider Preto - Kiddo;BB TUDO
 FATURAMENTO VD RJ;1663.83;1663.83;8.09.74.20.01;Carrinho de Bebê Savvy Melange Preto - Kiddo;BB TUDO
-FATURAMENTO VD RJ;3506.1;3506.1;8.09.76.01.01;Carrinho de Bebê Aeria Carbon Joie;BB TUDO
-FATURAMENTO VD RJ;3554.27;3554.27;8.09.76.03.10;Carrinho de Bebê Aeria Oyster Joie;BB TUDO
 FATURAMENTO VD RJ;1782.64;1782.64;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse - Joie;BB TUDO
 FATURAMENTO VD RJ;1782.64;1782.64;8.09.76.06.01;Carrinho de Bebê Parcel Eclipse Joie;BB TUDO
 FATURAMENTO VD RJ;1605.59;1605.59;8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;BB TUDO
@@ -8585,7 +8574,6 @@ FATURAMENTO VD RJ;36.38;36.38;8.25.74.08.06;Travesseiro Pillow Soneca - Kiddo;BB
 FATURAMENTO VD RJ;17.88;17.88;8.25.74.09.00;Travesseiro Infantil Pillow Air Branco - Kiddo;BB TUDO
 FATURAMENTO VD RJ;17.88;17.88;8.25.74.09.00;Travesseiro Pillow Air - Kiddo;BB TUDO
 FATURAMENTO VD RJ;97.08;97.08;8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;BB TUDO
-FATURAMENTO VD RJ;97.08;97.08;8.25.75.01.10;Bebê Fofo Almofada de Apoio Lycra Cinza D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;97.03;97.03;8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;97.03;97.03;8.25.75.02.00;Bebê Fofo Almofada de Apoio Lycra Nude D'Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;130.37;130.37;8.25.75.03.01;Capa Protetora para Bebê Conforto Lycra Preta - D'Bella for Baby;BB TUDO
