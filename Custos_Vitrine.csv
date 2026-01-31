@@ -2360,7 +2360,6 @@ FULFILLMENT MELI;543.11;757.42;8.05.02.10.10;Cadeira de Descanso Bouncer Swing C
 FATURAMENTO BBTOTAL ES;378.71;378.71;8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;BB TOTAL
 FULFILLMENT AMAZON;603.47;841.58;8.05.02.11.10;Cadeira de Dencanso Bouncer Swing Cassia Beyond Grey - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;603.47;841.58;8.05.02.11.10;Cadeira de Dencanso Bouncer Swing Cassia Maxi-Cosi Beyond Grey;VITRINE
-FULFILLMENT MELI;603.47;841.58;8.05.02.11.10;Cadeira de Dencanso Bouncer Swing Cassia Maxi-Cosi Beyond Grey;VITRINE
 FULFILLMENT AMAZON;603.47;841.58;8.05.02.11.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Grey - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;603.47;841.58;8.05.02.11.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Grey - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;603.47;841.58;8.05.02.11.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Grey - Maxi-Cosi;VITRINE
@@ -2511,7 +2510,6 @@ FATURAMENTO VD RJ;129.68;180.84;8.06.04.05.57;Cadeira de Alimentação Portátil
 FULFILLMENT MELI;129.68;180.84;8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;90.42;90.42;8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;BB TOTAL
 FATURAMENTO VD RJ;129.68;180.84;8.06.04.05.57;Cadeira de Refeição Portátil Pop Cosco - Bege;VITRINE
-FULFILLMENT MELI;129.68;180.84;8.06.04.05.57;Cadeira de Refeição Portátil Pop Cosco - Bege;VITRINE
 FATURAMENTO VD RJ;96.91;135.14;8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;VITRINE
 FULFILLMENT AMAZON;96.91;135.14;8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;VITRINE
 FULFILLMENT MELI;96.91;135.14;8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;VITRINE
@@ -5432,7 +5430,6 @@ FATURAMENTO VD RJ;8.95;9.46;8.25.70.35.00;Luminaria Led Com Sensor Square - Clin
 FATURAMENTO VD RJ;8.95;9.46;8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;VITRINE
 FATURAMENTO VD ES;10.1;11.57;8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;4.36;5.79;8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;BB TOTAL
-FATURAMENTO VD RJ;11.61;12.05;8.25.70.41.10;Porta Chupetas Silicone Cinza/Amarelo - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;3.66;3.81;8.25.70.47.02;Prendedor De Chupeta Sereia Lilas - Clingo;BB TOTAL
 FATURAMENTO VD RJ;7.31;7.61;8.25.70.47.02;Prendedor De Chupeta Sereia Lilas - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;3.66;3.81;8.25.70.47.02;Prendedor De Chupeta Sereia Lilás - Clingo;BB TOTAL
@@ -5449,7 +5446,6 @@ FATURAMENTO VD RJ;32.35;36.38;8.25.74.08.06;Travesseiro Pillow Soneca - Kiddo;VI
 FATURAMENTO VD RJ;15.23;17.88;8.25.74.09.00;Travesseiro Infantil Pillow Air Branco - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;8.94;8.94;8.25.74.09.00;Travesseiro Infantil Pillow Air Branco - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;15.23;17.88;8.25.74.09.00;Travesseiro Pillow Air - Kiddo;VITRINE
-FATURAMENTO BBTOTAL ES;8.94;8.94;8.25.74.09.00;Travesseiro Pillow Air - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;94.3;97.08;8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;VITRINE
 FATURAMENTO BBTOTAL ES;48.54;48.54;8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;BB TOTAL
 FATURAMENTO VD RJ;95.38;97.03;8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;VITRINE
@@ -8554,7 +8550,6 @@ FATURAMENTO VD RJ;122.07;122.07;8.25.70.34.00;Lixeira Mágica Antiodor Para Fral
 FATURAMENTO VD RJ;9.46;9.46;8.25.70.35.00;Luminaria Led Com Sensor Square - Clingo;BB TUDO
 FATURAMENTO VD RJ;9.46;9.46;8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;BB TUDO
 FATURAMENTO VD ES;11.57;11.57;8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;BB TUDO
-FATURAMENTO VD RJ;12.05;12.05;8.25.70.41.10;Porta Chupetas Silicone Cinza/Amarelo - Clingo;BB TUDO
 FATURAMENTO VD RJ;7.61;7.61;8.25.70.47.02;Prendedor De Chupeta Sereia Lilas - Clingo;BB TUDO
 FATURAMENTO VD RJ;7.61;7.61;8.25.70.47.02;Prendedor De Chupeta Sereia Lilás - Clingo;BB TUDO
 FATURAMENTO VD ES;8.03;8.03;8.25.70.48.00;Prendedor De Chupeta Sorvete - Clingo;BB TUDO
