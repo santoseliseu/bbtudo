@@ -228,8 +228,8 @@ FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada B
 FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;159.36;189.66;21.14.50.665.00;Conjunto 2 Cadeira Saarinen  Office Cromada Branca;VITRINE
-FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
+FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
@@ -589,7 +589,7 @@ FATURAMENTO VD ES;96.53;107.55;24.11.175.37.06;Persiana Off 25 Pvc 25Mm 160X130 
 FATURAMENTO VD ES;99.73;114.96;24.11.175.42.00;Persiana Hanoy Rolo Bambu 120X160 Cedro;VITRINE
 FATURAMENTO VD ES;115.13;132.72;24.11.175.43.00;Persiana Hanoy Rolo Bambu 140X160 Cedro;VITRINE
 FATURAMENTO VD ES;131.58;151.68;24.11.175.44.00;Persiana Hanoy Rolo Bambu 160X160 Cedro;VITRINE
-FATURAMENTO VD ES;104.71;120.7;24.11.175.45.00;Persiana Hanoy Rolo Bambu 100X220 Cedro;VITRINE
+FATURAMENTO VD ES;104.3;120.23;24.11.175.45.00;Persiana Hanoy Rolo Bambu 100X220 Cedro;VITRINE
 FATURAMENTO VD ES;98.68;113.76;24.11.175.47.57;Persiana Bauhaus Rolo Bambu 120X160  Fresno;VITRINE
 FATURAMENTO VD ES;120.59;139.0;24.11.175.48.57;Persiana Bauhaus Rolo Bambu 140X160  Fresno;VITRINE
 FATURAMENTO VD ES;131.58;151.68;24.11.175.49.57;Persiana Bauhaus Rolo Bambu 160X160  Fresno;VITRINE
@@ -759,6 +759,7 @@ FATURAMENTO VD ES;14.9;17.02;24.50.66.780.00;Candelabro de Vidro para 3 Velas Al
 FATURAMENTO VD ES;96.51;109.34;24.50.66.783.00;Centro de Mesa de Vidro Shield 40cm x 9,5cm - Wolff;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.30.00;Porta Retrato de Madeira e Vidro Pinus 10cm x 15cm - Woodart;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.32.00;Porta Retrato Woodart Pinus de Madeira 10cm x 15cm;VITRINE
+FATURAMENTO VD ES;30.53;36.18;24.50.67.36.00;Bandeja de Madeira com Espelho Coquinho 34cm x 19cm - Woodart;VITRINE
 FATURAMENTO VD ES;36.75;43.55;24.50.67.47.00;Bandeja de Madeira com Sisal e Bambu Branca 37,5cm x 23,5cm - Woodart;VITRINE
 FATURAMENTO VD ES;7.44;7.72;24.51.159.01.00;Tapete de PVC com Antiderrapante para Banheiro 49cm - Lyor;VITRINE
 FATURAMENTO VD ES;7.51;7.79;24.51.159.02.10;Tapete de PVC com Antiderrapante para Banheiro Cinza 49cm;VITRINE
@@ -1694,13 +1695,13 @@ FATURAMENTO VD ES;117.02;138.65;8.01.28.23.18;Banheira de Bebê Plástica Acqua 
 FATURAMENTO BBTOTAL ES;70.5;70.5;8.01.28.23.18;Banheira de Bebê Plástica Acqua Trio Rosa Pérola - Galzerano;BB TOTAL
 FULFILLMENT VISUAL IN;117.02;138.65;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;VISUAL IN
 FULFILLMENT MAGALU;106.58;133.46;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;VITRINE
-FATURAMENTO VD ES;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FATURAMENTO VD RJ;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
+FATURAMENTO VD ES;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FULFILLMENT MAGALU;249.85;283.92;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;149.11;149.11;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TOTAL
 FULFILLMENT VISUAL IN;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VISUAL IN
-FATURAMENTO VD ES;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;VITRINE
 FATURAMENTO VD RJ;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;VITRINE
+FATURAMENTO VD ES;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;VITRINE
 FATURAMENTO BBTOTAL ES;25.62;25.62;8.01.28.30.18;Banheira de Bebê Plástica Rosa Claro Perolado - Galzerano;BB TOTAL
 FATURAMENTO VD ES;42.52;50.38;8.01.28.30.18;Banheira de Bebê Plástica Rosa Claro Perolado - Galzerano;VITRINE
 FATURAMENTO VD ES;167.59;192.37;8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;VITRINE
@@ -2410,6 +2411,7 @@ FATURAMENTO VD RJ;443.73;477.29;8.05.61.11.10;Cadeira de Descanso Techno Light A
 FATURAMENTO VISUAL IN SP;460.51;460.51;8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;VISUAL IN
 FULFILLMENT VISUAL IN;460.51;460.51;8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;VISUAL IN
 FATURAMENTO BBTOTAL ES;238.65;238.65;8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;BB TOTAL
+FATURAMENTO VD RJ;443.73;477.29;8.05.61.11.10;Cadeira de Descanso Techno Light Mastela Até 18 Kg Cinza Fit;VITRINE
 FATURAMENTO BBTOTAL ES;247.62;247.62;8.05.61.23.10;Cadeirinha de Descanso Suporte Ajustável Techno Plus Elefante/Girafa - Mastela;BB TOTAL
 FATURAMENTO BBTOTAL ES;247.62;247.62;8.05.61.23.10;Cadeirinha de Descanso Suporte Ajustável Techno Plus Elefante/Girafa Mastela;BB TOTAL
 FATURAMENTO VD RJ;475.42;495.23;8.05.61.23.10;Cadeirinha de Descanso Suporte Ajustável Techno Plus Elefante/Girafa Mastela;VITRINE
@@ -6343,10 +6345,10 @@ FATURAMENTO VD RJ;127.05;127.05;8.01.28.22.07;Banheira para Bebê Plástica Acqu
 FATURAMENTO VD ES;136.92;136.92;8.01.28.22.07;Banheira para Bebê Plástica Acqua Trio Galzerano Azul Pastel;BB TUDO
 FATURAMENTO VD RJ;137.29;137.29;8.01.28.23.18;Banheira de Bebê Plástica Acqua Trio Rosa Pérola - Galzerano;BB TUDO
 FATURAMENTO VD ES;138.65;138.65;8.01.28.23.18;Banheira de Bebê Plástica Acqua Trio Rosa Pérola - Galzerano;BB TUDO
-FATURAMENTO VD ES;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TUDO
 FATURAMENTO VD RJ;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TUDO
-FATURAMENTO VD ES;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;BB TUDO
+FATURAMENTO VD ES;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;BB TUDO
 FATURAMENTO VD RJ;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;BB TUDO
+FATURAMENTO VD ES;298.22;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Galzerano Branca e Rosa;BB TUDO
 FATURAMENTO VD ES;50.38;50.38;8.01.28.30.18;Banheira de Bebê Plástica Rosa Claro Perolado - Galzerano;BB TUDO
 FATURAMENTO VD ES;192.37;192.37;8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;BB TUDO
 FATURAMENTO VD ES;123.12;123.12;8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;BB TUDO
@@ -6755,6 +6757,7 @@ FATURAMENTO VD RJ;253.23;253.23;8.05.57.02.11;Cadeira de Descanso Vibratória Se
 FATURAMENTO VD RJ;232.31;232.31;8.05.61.01.116;Cadeira de Descanso Sunset Até 11,5Kg Cinza e Branco - Mastela;BB TUDO
 FATURAMENTO VD RJ;166.23;166.23;8.05.61.06.07;Cadeira de Descanso Carnaval Até 9 Kg Azul Urso - Mastela;BB TUDO
 FATURAMENTO VD RJ;477.29;477.29;8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;BB TUDO
+FATURAMENTO VD RJ;477.29;477.29;8.05.61.11.10;Cadeira de Descanso Techno Light Mastela Até 18 Kg Cinza Fit;BB TUDO
 FATURAMENTO VD RJ;495.23;495.23;8.05.61.23.10;Cadeirinha de Descanso Suporte Ajustável Techno Plus Elefante/Girafa Mastela;BB TUDO
 FATURAMENTO VD RJ;490.02;490.02;8.05.61.27.10;Cadeira de Balanço com Moisés 360° 4 Em 1  Ursinho - Mastela;BB TUDO
 FATURAMENTO VD RJ;490.02;490.02;8.05.61.27.10;Cadeira de Descanso com Balanço e Moisés 360° 4 Em 1 Ursinho - Mastela;BB TUDO
