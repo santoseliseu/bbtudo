@@ -96,10 +96,10 @@ FATURAMENTO VD ES;54.25;63.91;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;54.25;63.91;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;27.13;31.96;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
+FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
-FATURAMENTO VD ES;27.13;31.96;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD ES;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca Base Em Madeira - Empório Tiffany;VITRINE
@@ -531,7 +531,7 @@ FATURAMENTO VD ES;17.75;20.37;24.11.159.89.00;Bandeja Retangular de Mdf com Fund
 FATURAMENTO VD ES;25.03;28.74;24.11.159.90.00;Bandeja Retangular de Mdf com Fundo Treliça 36,5cm x 26,5cm;VITRINE
 FATURAMENTO VD ES;31.4;36.04;24.11.159.91.00;Bandeja Retangular de Mdf com Fundo Treliça 41,5cm x 31,5cm;VITRINE
 FATURAMENTO VD ES;23.52;26.76;24.11.159.92.05;Bandeja de Metal com Espelho Prateada 25cm x 15cm x 4cm;VITRINE
-FATURAMENTO VD ES;30.24;34.4;24.11.159.93.05;Bandeja de Metal com Espelho Prateada 30cm x 20cm x 4cm;VITRINE
+FATURAMENTO VD ES;30.23;34.39;24.11.159.93.05;Bandeja de Metal com Espelho Prateada 30cm x 20cm x 4cm;VITRINE
 FATURAMENTO VD ES;21.32;24.22;24.11.159.94.05;Porta Retrato de Metal Prata 15cm x 10cm - Lyor;VITRINE
 FATURAMENTO VD ES;31.97;36.53;24.11.159.95.00;Bandeja de Mármore Terrazzo 27cm x 17cm x 2cm - Lyor;VITRINE
 FATURAMENTO VD ES;11.97;13.62;24.11.159.98.00;Porta Retrato de Mdf com Treliça 10cm x 15cm - Lyor;VITRINE
@@ -599,7 +599,7 @@ FATURAMENTO VD ES;98.68;113.76;24.11.175.52.57;Persiana Bauhaus Rolo Bambu 120X1
 FATURAMENTO VD ES;115.13;132.72;24.11.175.53.57;Persiana Bauhaus Rolo Bambu 140X160 Honey Mapple;VITRINE
 FATURAMENTO VD ES;90.87;104.74;24.11.175.77.06;Persiana Zebra Rolo Dupla 120X160 Branca;VITRINE
 FATURAMENTO VD ES;91.59;105.57;24.11.175.78.01;Persiana Zebra Rolo Dupla 120X160 Preta;VITRINE
-FATURAMENTO VD ES;90.82;104.47;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
+FATURAMENTO VD ES;95.81;109.97;24.11.175.79.57;Persiana Zebra Rolo Dupla 120X160 Bege Linho;VITRINE
 FATURAMENTO VD ES;86.24;99.0;24.11.175.80.57;Persiana Zebra Rolo Dupla 120X160 Caramelo;VITRINE
 FATURAMENTO VD ES;106.36;122.6;24.11.175.84.06;Persiana Zebra Rolo Dupla 140X160 Branca;VITRINE
 FATURAMENTO VD ES;111.84;128.38;24.11.175.85.01;Persiana Zebra Rolo Dupla 140X160 Preta;VITRINE
@@ -775,7 +775,7 @@ FATURAMENTO VD ES;8.13;9.24;24.51.159.19.00;Porta Cotonete com Tampa de Bambu My
 FATURAMENTO VD ES;4.48;5.1;24.51.159.22.00;Porta Algodão com Tampa de Bambu My Box 7cm x 7cm x 9cm;VITRINE
 FATURAMENTO VD ES;12.42;14.13;24.51.159.23.00;Pote Multiuso com Tampa de Bambu My Box 15cm x 9cm x 11,5cm;VITRINE
 FATURAMENTO VD ES;13.49;15.34;24.51.159.24.00;Caixa Organizadora com Tampa de Bambu My Box 23cm;VITRINE
-FATURAMENTO VD ES;20.66;23.71;24.51.159.25.00;Porta Jóias de Bambu com Espelho 25cm x 14cm x 3,5cm - Lyor;VITRINE
+FATURAMENTO VD ES;21.79;25.01;24.51.159.25.00;Porta Jóias de Bambu com Espelho 25cm x 14cm x 3,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;7.34;8.31;24.51.159.29.00;Porta Sabonete Líquido de Vidro Lines 420ml - Lyor;VITRINE
 FATURAMENTO VD ES;4.6;5.22;24.51.159.30.00;Porta Escova de Dente de Vidro Lines 8cm x 8cm x 9cm - Lyor;VITRINE
 FATURAMENTO VD ES;53.01;60.3;24.51.159.31.01;Lixeira Quadrada de Metal c/ Pedal e Tampa em Bambu Preta 5L;VITRINE
@@ -1525,7 +1525,7 @@ FATURAMENTO VD ES;82.8;94.99;24.71.175.11.06;Carrinho Multiuso 3 Prateleiras Bra
 FATURAMENTO VD ES;82.8;94.99;24.71.175.12.01;Carrinho Multiuso 3 Prateleiras Preto;VITRINE
 FATURAMENTO VD ES;62.1;71.24;24.71.175.16.06;Carrinho Multiuso Gala 3 Prateleiras Metal Branco;VITRINE
 FATURAMENTO VD ES;62.1;71.24;24.71.175.17.01;Carrinho Multiuso Gala 3 Prateleiras Metal Preto;VITRINE
-FATURAMENTO VD ES;26.04;29.38;25.76.175.01.00;Balança Digital Corporal De Vidro;VITRINE
+FATURAMENTO VD ES;26.03;29.38;25.76.175.01.00;Balança Digital Corporal De Vidro;VITRINE
 FATURAMENTO VD ES;150.33;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;VITRINE
 FATURAMENTO VD RJ;150.33;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;VITRINE
 FULFILLMENT VISUAL IN;100.18;158.05;6.28.60.07.110;Bicicleta Infantil  Black Aro 12'' até 21kg Verde e Preto - Nathor;VISUAL IN
@@ -2873,11 +2873,12 @@ FATURAMENTO VD RJ;8.24;8.58;8.07.57.01.06;Luminária de Led com Sensor Estrela B
 FATURAMENTO BBTOTAL ES;129.52;148.67;8.07.68.03.76;Bebê Conforto Candy Até 13Kg Caramelo - Litet;BB TOTAL
 FATURAMENTO VD RJ;238.46;297.33;8.07.68.03.76;Bebê Conforto Candy Até 13Kg Caramelo - Litet;VITRINE
 FATURAMENTO BBTOTAL ES;267.1;306.59;8.07.74.03.01;Cadeirinha de Carro Active com ISOFIX Preto - Kiddo;BB TOTAL
+FULFILLMENT MAGALU;987.43;1123.98;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;VITRINE
 FATURAMENTO VD RJ;1140.7;1302.21;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;VITRINE
 FATURAMENTO VISUAL IN SP;1194.54;1248.37;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;VISUAL IN
 FULFILLMENT VISUAL IN;1194.54;1248.37;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;VISUAL IN
-FULFILLMENT MAGALU;987.43;1123.98;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;651.11;651.11;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;BB TOTAL
+FULFILLMENT MAGALU;987.43;1123.98;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VITRINE
 FATURAMENTO VD RJ;1140.7;1302.21;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VITRINE
 FATURAMENTO VISUAL IN SP;1194.54;1248.37;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VISUAL IN
 FULFILLMENT VISUAL IN;1194.54;1248.37;8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel Joie;VISUAL IN
@@ -3935,7 +3936,6 @@ FATURAMENTO VD RJ;165.04;165.04;8.11.160.17.07;Bolsa de Passeio Astronauta - Mai
 FATURAMENTO BBTOTAL ES;69.5;82.34;8.11.160.17.07;Bolsa de Passeio Astronauta - MaiT;BB TOTAL
 FATURAMENTO VD RJ;64.29;76.34;8.11.160.18.07;Necessaire Astronauta - MaiT;VITRINE
 FULFILLMENT VISUAL IN;52.57;82.97;8.11.160.18.07;Necessaire Astronauta - MaiT;VISUAL IN
-FATURAMENTO BBTOTAL ES;30.33;35.94;8.11.160.18.07;Necessaire Astronauta - MaiT;BB TOTAL
 FATURAMENTO VD RJ;156.59;173.46;8.11.160.19.113;Bolsa de Passeio Arco Iris - MaiT;VITRINE
 FATURAMENTO BBTOTAL ES;86.73;86.73;8.11.160.19.113;Bolsa de Passeio Arco Iris - MaiT;BB TOTAL
 FULFILLMENT VISUAL IN;121.99;192.55;8.11.160.19.113;Bolsa de Passeio Arco Iris - MaiT;VISUAL IN
