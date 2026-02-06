@@ -613,7 +613,6 @@ FATURAMENTO VD RJ;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros C
 FULFILLMENT AMAZON;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
 FULFILLMENT VISUAL IN;44.37;51.89;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
 FATURAMENTO VD ES;47.9;58.8;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VITRINE
-FATURAMENTO VISUAL IN SP;22.46;33.74;24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza Mollie;VISUAL IN
 FATURAMENTO VD RJ;79.92;94.25;24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;VITRINE
 FATURAMENTO VISUAL IN SP;77.11;115.94;24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;VISUAL IN
 FULFILLMENT AMAZON;79.92;94.25;24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;VITRINE
@@ -1685,7 +1684,6 @@ FATURAMENTO VD RJ;108.86;137.29;8.01.28.23.18;Banheira de Bebê Plástica Acqua 
 FATURAMENTO VD ES;117.02;138.65;8.01.28.23.18;Banheira de Bebê Plástica Acqua Trio Rosa Pérola - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;70.5;70.5;8.01.28.23.18;Banheira de Bebê Plástica Acqua Trio Rosa Pérola - Galzerano;BB TOTAL
 FULFILLMENT VISUAL IN;117.02;138.65;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;VISUAL IN
-FULFILLMENT MAGALU;106.58;133.46;8.01.28.23.18;Banheira para Bebê Plástica Acqua Trio Galzerano Rosa Pérola;VITRINE
 FATURAMENTO VD RJ;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FATURAMENTO VD ES;251.73;298.22;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
 FULFILLMENT MAGALU;249.85;283.92;8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;VITRINE
@@ -1966,7 +1964,6 @@ FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Co
 FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD ES;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
-FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;VITRINE
 FATURAMENTO VD ES;182.13;214.55;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;170.55;200.91;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;VISUAL IN
 FATURAMENTO VD ES;182.13;214.55;8.03.28.29.01;Bebê Conforto Grid Galzerano Black;VITRINE
@@ -3584,7 +3581,6 @@ FULFILLMENT MAGALU;362.44;499.44;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - 
 FATURAMENTO VD RJ;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;VITRINE
 FULFILLMENT MELI;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;VITRINE
 FULFILLMENT AMAZON;338.28;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;VITRINE
-FULFILLMENT MAGALU;362.44;499.44;8.09.23.63.10;Carrinho de Bebê Breeze Cinza Infanti;VITRINE
 FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto - Infanti;VITRINE
 FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;398.46;398.46;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;BB TOTAL
@@ -5111,8 +5107,6 @@ FATURAMENTO VD ES;35.7;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Traseir
 FATURAMENTO VD RJ;21.9;24.92;8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;VITRINE
 FATURAMENTO VD RJ;21.9;24.92;8.25.57.102.00;Buzininha Com Mordedor Buba Zoo Panda - Buba;VITRINE
 FATURAMENTO VD RJ;11.21;12.49;8.25.57.104.00;Bandana Com Mordedor Happy Friends - Buba;VITRINE
-FATURAMENTO VD RJ;21.42;23.83;8.25.57.105.00;Capa Protetora Solar Para Janela Traseira - Buba;VITRINE
-FATURAMENTO BBTOTAL ES;10.38;11.92;8.25.57.105.00;Capa Protetora Solar Para Janela Traseira - Buba;BB TOTAL
 FATURAMENTO VD ES;38.23;43.53;8.25.57.107.07;Kit Cuidados com o Bebê Com Estojo 9 Itens Azul - Buba;VITRINE
 FATURAMENTO VD ES;40.96;46.59;8.25.57.108.18;Kit Cuidados com o Bebê Com Estojo 9 Itens Rosa - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;21.77;21.77;8.25.57.108.18;Kit Cuidados com o Bebê Com Estojo 9 Itens Rosa - Buba;BB TOTAL
@@ -6515,7 +6509,6 @@ FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Co
 FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD ES;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
-FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon Galzerano 0 a 13 Kg Preto;BB TUDO
 FATURAMENTO VD ES;214.55;214.55;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;BB TUDO
 FATURAMENTO VD ES;214.55;214.55;8.03.28.29.01;Bebê Conforto Grid Galzerano Black;BB TUDO
 FATURAMENTO VD RJ;214.55;214.55;8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;BB TUDO
@@ -8340,7 +8333,6 @@ FATURAMENTO VD ES;40.44;40.44;8.25.57.10.00;Espelho Retrovisor Para Banco Trasei
 FATURAMENTO VD RJ;24.92;24.92;8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;BB TUDO
 FATURAMENTO VD RJ;24.92;24.92;8.25.57.102.00;Buzininha Com Mordedor Buba Zoo Panda - Buba;BB TUDO
 FATURAMENTO VD RJ;12.49;12.49;8.25.57.104.00;Bandana Com Mordedor Happy Friends - Buba;BB TUDO
-FATURAMENTO VD RJ;23.83;23.83;8.25.57.105.00;Capa Protetora Solar Para Janela Traseira - Buba;BB TUDO
 FATURAMENTO VD ES;43.53;43.53;8.25.57.107.07;Kit Cuidados com o Bebê Com Estojo 9 Itens Azul - Buba;BB TUDO
 FATURAMENTO VD ES;46.59;46.59;8.25.57.108.18;Kit Cuidados com o Bebê Com Estojo 9 Itens Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;45.87;45.87;8.25.57.109.11;Kit Cuidados Com Estojo Verde - Buba;BB TUDO
