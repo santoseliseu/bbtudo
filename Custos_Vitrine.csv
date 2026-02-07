@@ -2643,7 +2643,6 @@ FULFILLMENT MELI;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0
 FATURAMENTO BBTOTAL ES;729.44;729.44;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º Safety 1st 0 a 36 Kg Black Urban;VITRINE
 FULFILLMENT MELI;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º Safety 1st 0 a 36 Kg Black Urban;VITRINE
-FATURAMENTO BBTOTAL ES;729.44;729.44;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º Safety 1st 0 a 36 Kg Black Urban;BB TOTAL
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Grey Urban - Safety 1st;VITRINE
 FULFILLMENT MELI;971.97;1239.49;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Grey Urban - Safety 1st;VITRINE
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º Safety 1st  0 a 36 Kg Grey Urban;VITRINE
@@ -2708,7 +2707,6 @@ FATURAMENTO VD RJ;26.11;36.42;8.07.03.19.10;Assento de Elevação Booster Vibe V
 FATURAMENTO VD RJ;385.73;537.93;8.07.03.20.47;Cadeira Legacy Voyage - Preta e Cinza;VITRINE
 FULFILLMENT AMAZON;406.03;566.24;8.07.03.20.47;Cadeira Legacy Voyage - Preta e Cinza;VITRINE
 FULFILLMENT MELI;730.86;830.52;8.07.03.20.47;Cadeira Legacy Voyage - Preta e Cinza;VITRINE
-FATURAMENTO BBTOTAL ES;283.12;283.12;8.07.03.20.47;Cadeira Legacy Voyage - Preta e Cinza;BB TOTAL
 FATURAMENTO VD RJ;385.73;537.93;8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;VITRINE
 FULFILLMENT AMAZON;406.03;566.24;8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;VITRINE
 FULFILLMENT MELI;730.86;830.52;8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;VITRINE
@@ -3334,7 +3332,6 @@ FATURAMENTO VD RJ;289.93;399.52;8.09.03.80.18;Carrinho de Bebê Luck Rosa Boreal
 FATURAMENTO VD RJ;289.93;399.52;8.09.03.80.18;Carrinho de Bebê Luck Voyage - Rosa Boreal;VITRINE
 FULFILLMENT AMAZON;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - Azul Geo;VITRINE
 FULFILLMENT MELI;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - Azul Geo;VITRINE
-FATURAMENTO VD RJ;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - Azul Geo;VITRINE
 FULFILLMENT AMAZON;241.99;333.46;8.09.03.81.07;Carrinho de Bebê Spot Azul Geo - Voyage;VITRINE
 FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - Preto Geo;VITRINE
 FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot Preto Geo - Voyage;VITRINE
@@ -3447,7 +3444,6 @@ FATURAMENTO VD RJ;556.22;775.7;8.09.04.68.07;Carrinho com Bebê Conforto Travel 
 FATURAMENTO VD RJ;556.22;775.7;8.09.04.68.07;Travel System Reverse cosco - Azul Rajado;VITRINE
 FATURAMENTO VD RJ;904.31;1261.16;8.09.04.70.68;Carrinho com Bebê Conforto Travel System Poppy Duo Preto Mescla - Cosco;VITRINE
 FATURAMENTO VD RJ;889.24;1240.14;8.09.04.71.68;Carrinho com Bebê Conforto Travel System Poppy Duo Cinza Mescla - Cosco;VITRINE
-FATURAMENTO VD RJ;889.24;1240.14;8.09.04.71.68;Travel System Poppy Duo Cosco - Cinza Mescla;VITRINE
 FATURAMENTO VD RJ;813.9;1135.04;8.09.04.72.68;Carrinho com Bebê Conforto Travel System Poppy Duo Rosa Mescla - Cosco;VITRINE
 FATURAMENTO VD RJ;813.9;1135.04;8.09.04.72.68;Travel System Poppy Duo Cosco - Rosa Mescla;VITRINE
 FATURAMENTO VD RJ;909.82;1267.13;8.09.04.73.68;Carrinho com Bebê Conforto Travel System Poppy Trio Preto Mescla - Cosco;VITRINE
@@ -3495,7 +3491,6 @@ FULFILLMENT MELI;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - C
 FATURAMENTO VD RJ;363.6;501.05;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
 FULFILLMENT MELI;335.8;462.74;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
 FULFILLMENT AMAZON;336.19;463.28;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
-FULFILLMENT MAGALU;321.94;442.13;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
 FATURAMENTO VD RJ;363.6;501.05;8.09.04.96.01;Carrinho de Bebê Reverse Preto Rajado - Cosco;VITRINE
 FULFILLMENT MELI;335.8;462.74;8.09.04.96.01;Carrinho de Bebê Reverse Preto Rajado - Cosco;VITRINE
 FULFILLMENT AMAZON;336.19;463.28;8.09.04.96.01;Carrinho de Bebê Reverse Preto Rajado - Cosco;VITRINE
@@ -4399,7 +4394,6 @@ FATURAMENTO VD RJ;18.32;19.65;8.24.53.06.00;Mamadeira Step Up 2M+ 250ml Fluxo M�
 FATURAMENTO BBTOTAL ES;29.57;33.95;8.24.53.06.00;Mamadeira Step Up 2M+ 250ml Fluxo Médio Branca - Chicco;BB TOTAL
 FATURAMENTO VD RJ;10.2;11.16;8.24.53.10.07;Mamadeira Step Up 0M+ 150ML Fluxo Normal Azul - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;5.58;5.58;8.24.53.10.07;Mamadeira Step Up 0M+ 150ML Fluxo Normal Azul - Chicco;BB TOTAL
-FATURAMENTO VD RJ;8.9;9.71;8.24.53.11.18;Mamadeira Step Up 0M+ 150ML Fluxo Normal Chicco Rosa;VITRINE
 FATURAMENTO VD RJ;8.9;9.71;8.24.53.11.18;Mamadeira Step Up 0M+ 150ML Fluxo Normal Rosa - Chicco;VITRINE
 FATURAMENTO VD RJ;18.2;19.91;8.24.53.13.18;Mamadeira Step Up 2M+ 250ML Fluxo Médio Chicco Rosa;VITRINE
 FATURAMENTO VD RJ;18.2;19.91;8.24.53.13.18;Mamadeira Step Up 2M+ 250ML Fluxo Médio Rosa - Chicco;VITRINE
@@ -5719,7 +5713,6 @@ FATURAMENTO VD RJ;40.19;55.38;8.27.04.02.18;Troninho Portátil 2 em 1 Cosco - Ro
 FATURAMENTO VD RJ;40.19;55.38;8.27.04.02.18;Troninho Portátil Infantil 2 em 1 Rosa - Cosco;VITRINE
 FATURAMENTO VD RJ;47.76;65.81;8.27.04.03.07;Troninho Infantil Peppy Azul - Cosco;VITRINE
 FATURAMENTO VD RJ;47.77;65.81;8.27.04.04.10;Troninho Infantil Peppy Cinza - Cosco;VITRINE
-FATURAMENTO VD RJ;47.77;65.81;8.27.04.04.10;Troninho Peppy Cosco - Cinza;VITRINE
 FATURAMENTO VD RJ;47.76;65.81;8.27.04.05.18;Troninho Infantil Peppy Rosa - Cosco;VITRINE
 FATURAMENTO VD RJ;10.63;14.64;8.27.04.06.06;Troninho Infantil Sanny Cosco Gelo;VITRINE
 FATURAMENTO VD RJ;10.63;14.64;8.27.04.06.06;Troninho Infantil Sanny Gelo - Cosco;VITRINE
@@ -7261,7 +7254,6 @@ FATURAMENTO VD RJ;399.51;399.51;8.09.03.79.01;Carrinho de Bebê Luck Preto - Voy
 FATURAMENTO VD RJ;399.51;399.51;8.09.03.79.01;Carrinho de Bebê Luck Voyage - Preto;BB TUDO
 FATURAMENTO VD RJ;399.52;399.52;8.09.03.80.18;Carrinho de Bebê Luck Rosa Boreal - Voyage;BB TUDO
 FATURAMENTO VD RJ;399.52;399.52;8.09.03.80.18;Carrinho de Bebê Luck Voyage - Rosa Boreal;BB TUDO
-FATURAMENTO VD RJ;333.46;333.46;8.09.03.81.07;Carrinho de Bebê Spot  Voyage - Azul Geo;BB TUDO
 FATURAMENTO VD RJ;329.76;329.76;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Rosa Geo;BB TUDO
 FATURAMENTO VD RJ;329.76;329.76;8.09.03.83.18;Carrinho de Bebê Spot Rosa Geo - Voyage;BB TUDO
 FATURAMENTO VD RJ;503.05;503.05;8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;BB TUDO
@@ -7329,7 +7321,6 @@ FATURAMENTO VD RJ;775.7;775.7;8.09.04.68.07;Carrinho com Bebê Conforto Travel S
 FATURAMENTO VD RJ;775.7;775.7;8.09.04.68.07;Travel System Reverse cosco - Azul Rajado;BB TUDO
 FATURAMENTO VD RJ;1261.16;1261.16;8.09.04.70.68;Carrinho com Bebê Conforto Travel System Poppy Duo Preto Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;1240.14;1240.14;8.09.04.71.68;Carrinho com Bebê Conforto Travel System Poppy Duo Cinza Mescla - Cosco;BB TUDO
-FATURAMENTO VD RJ;1240.14;1240.14;8.09.04.71.68;Travel System Poppy Duo Cosco - Cinza Mescla;BB TUDO
 FATURAMENTO VD RJ;1135.04;1135.04;8.09.04.72.68;Carrinho com Bebê Conforto Travel System Poppy Duo Rosa Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;1135.04;1135.04;8.09.04.72.68;Travel System Poppy Duo Cosco - Rosa Mescla;BB TUDO
 FATURAMENTO VD RJ;1267.13;1267.13;8.09.04.73.68;Carrinho com Bebê Conforto Travel System Poppy Trio Preto Mescla - Cosco;BB TUDO
@@ -7908,7 +7899,6 @@ FATURAMENTO VD RJ;39.64;39.64;8.24.53.02.00;Bomba Tira Leite Manual Step Up - Ch
 FATURAMENTO VD RJ;39.64;39.64;8.24.53.02.00;Bomba Tira Leite Manual Step Up Chicco;BB TUDO
 FATURAMENTO VD RJ;19.65;19.65;8.24.53.06.00;Mamadeira Step Up 2M+ 250ml Fluxo Médio Branca - Chicco;BB TUDO
 FATURAMENTO VD RJ;11.16;11.16;8.24.53.10.07;Mamadeira Step Up 0M+ 150ML Fluxo Normal Azul - Chicco;BB TUDO
-FATURAMENTO VD RJ;9.71;9.71;8.24.53.11.18;Mamadeira Step Up 0M+ 150ML Fluxo Normal Chicco Rosa;BB TUDO
 FATURAMENTO VD RJ;9.71;9.71;8.24.53.11.18;Mamadeira Step Up 0M+ 150ML Fluxo Normal Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;19.91;19.91;8.24.53.13.18;Mamadeira Step Up 2M+ 250ML Fluxo Médio Chicco Rosa;BB TUDO
 FATURAMENTO VD RJ;19.91;19.91;8.24.53.13.18;Mamadeira Step Up 2M+ 250ML Fluxo Médio Rosa - Chicco;BB TUDO
@@ -8714,7 +8704,6 @@ FATURAMENTO VD RJ;55.38;55.38;8.27.04.02.18;Troninho Portátil 2 em 1 Cosco - Ro
 FATURAMENTO VD RJ;55.38;55.38;8.27.04.02.18;Troninho Portátil Infantil 2 em 1 Rosa - Cosco;BB TUDO
 FATURAMENTO VD RJ;65.81;65.81;8.27.04.03.07;Troninho Infantil Peppy Azul - Cosco;BB TUDO
 FATURAMENTO VD RJ;65.81;65.81;8.27.04.04.10;Troninho Infantil Peppy Cinza - Cosco;BB TUDO
-FATURAMENTO VD RJ;65.81;65.81;8.27.04.04.10;Troninho Peppy Cosco - Cinza;BB TUDO
 FATURAMENTO VD RJ;65.81;65.81;8.27.04.05.18;Troninho Infantil Peppy Rosa - Cosco;BB TUDO
 FATURAMENTO VD RJ;14.64;14.64;8.27.04.06.06;Troninho Infantil Sanny Cosco Gelo;BB TUDO
 FATURAMENTO VD RJ;14.64;14.64;8.27.04.06.06;Troninho Infantil Sanny Gelo - Cosco;BB TUDO
