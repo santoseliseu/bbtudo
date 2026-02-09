@@ -402,7 +402,7 @@ FATURAMENTO VD ES;19.7;22.41;24.10.159.307.01;Jogo 4 Peças Galheteiro de Vidro 
 FATURAMENTO VD ES;11.06;12.49;24.10.159.309.00;Balança de Cozinha Digital 10kg Lyor;VITRINE
 FATURAMENTO VD ES;4.16;4.73;24.10.159.31.08;Espátula de Silicone Vermelha 27cm - Lyor;VITRINE
 FATURAMENTO VD ES;69.05;79.26;24.10.159.311.06;Conjunto 6 Peças de Bambu e ABS para Banheiro Branco;VITRINE
-FATURAMENTO VD ES;29.68;33.76;24.10.159.314.00;Pote Hermético de Poliestireno My Box 5,5L;VITRINE
+FATURAMENTO VD ES;29.83;33.94;24.10.159.314.00;Pote Hermético de Poliestireno My Box 5,5L;VITRINE
 FATURAMENTO VD ES;27.66;31.47;24.10.159.315.00;Pote Hermético de Poliestireno My Box 4,8L;VITRINE
 FATURAMENTO VD ES;4.91;6.01;24.10.159.316.10;Escorredor Multiuso em Aço Inox e Silicone Cinza 52x35cm;VITRINE
 FATURAMENTO VD ES;9.47;10.77;24.10.159.318.00;Pote Hermético de Vidro com Tampa 640ml;VITRINE
@@ -2173,11 +2173,11 @@ FULFILLMENT AMAZON;425.69;593.67;8.04.04.10.10;Berço Co-bed Pluggy Cosco - Cinz
 FATURAMENTO VD RJ;425.69;593.67;8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;VITRINE
 FULFILLMENT MELI;425.69;593.67;8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;VITRINE
 FULFILLMENT AMAZON;425.69;593.67;8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;VITRINE
-FULFILLMENT MELI;425.69;593.67;8.04.04.11.10;Berço Co-bed Pluggy Cosco- Cinza Claro;VITRINE
 FATURAMENTO VD RJ;425.69;593.67;8.04.04.11.10;Berço Co-bed Pluggy Cosco- Cinza Claro;VITRINE
+FULFILLMENT MELI;425.69;593.67;8.04.04.11.10;Berço Co-bed Pluggy Cosco- Cinza Claro;VITRINE
 FULFILLMENT AMAZON;425.69;593.67;8.04.04.11.10;Berço Co-bed Pluggy Cosco- Cinza Claro;VITRINE
-FULFILLMENT MELI;425.69;593.67;8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;VITRINE
 FATURAMENTO VD RJ;425.69;593.67;8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;VITRINE
+FULFILLMENT MELI;425.69;593.67;8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;VITRINE
 FULFILLMENT AMAZON;425.69;593.67;8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;VITRINE
 FATURAMENTO VD RJ;38.73;54.72;8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;VITRINE
 FULFILLMENT AMAZON;38.73;54.72;8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;VITRINE
@@ -3737,9 +3737,9 @@ FATURAMENTO VD RJ;2286.13;2567.85;8.09.76.20.01;Carrinho com Bebê Conforto e Mo
 FATURAMENTO BBTOTAL ES;1283.93;1283.93;8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;BB TOTAL
 FULFILLMENT VISUAL IN;2286.13;2567.85;8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;VISUAL IN
 FATURAMENTO VD RJ;2286.13;2567.85;8.09.76.20.01;Carrinho de Bebê Versatrax E Travel System TRIO Preto Pavement Joie;VITRINE
-FATURAMENTO VD RJ;1441.78;1640.13;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;VITRINE
+FATURAMENTO VD RJ;1297.84;1480.63;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;706.13;811.14;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;BB TOTAL
-FATURAMENTO VD RJ;1441.78;1640.13;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine Joie;VITRINE
+FATURAMENTO VD RJ;1297.84;1480.63;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine Joie;VITRINE
 FATURAMENTO VD RJ;1441.77;1640.12;8.09.76.25.10;Carrinho de Bebê Parcel Carbon - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;835.29;835.29;8.09.76.25.10;Carrinho de Bebê Parcel Carbon - Joie;BB TOTAL
 FATURAMENTO VD RJ;1441.77;1640.12;8.09.76.25.10;Carrinho de Bebê Parcel Carbon Joie;VITRINE
@@ -4677,8 +4677,8 @@ FATURAMENTO BBTOTAL ES;67.82;67.82;8.24.91.02.00;Almofada De Amamentação Mescl
 FATURAMENTO BBTOTAL ES;67.8;67.8;8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;BB TOTAL
 FATURAMENTO VD RJ;112.64;135.6;8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;VITRINE
 FULFILLMENT VISUAL IN;112.64;135.6;8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;VISUAL IN
-FATURAMENTO BBTOTAL ES;67.54;67.54;8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;BB TOTAL
 FATURAMENTO VD RJ;112.86;135.08;8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;VITRINE
+FATURAMENTO BBTOTAL ES;67.54;67.54;8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;BB TOTAL
 FULFILLMENT VISUAL IN;112.86;135.08;8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;VISUAL IN
 FATURAMENTO VD RJ;112.75;135.6;8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;VITRINE
 FATURAMENTO BBTOTAL ES;67.8;67.8;8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;BB TOTAL
@@ -7481,8 +7481,8 @@ FATURAMENTO VD RJ;2149.95;2149.95;8.09.76.09.11;Carrinho de Bebê Finiti Pine Ve
 FATURAMENTO VD RJ;1093.25;1093.25;8.09.76.10.10;Carrinho de Bebê Para Gêmeos Aire Twin Cinza Dark Pewter - Joie;BB TUDO
 FATURAMENTO VD RJ;2567.85;2567.85;8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;BB TUDO
 FATURAMENTO VD RJ;2567.85;2567.85;8.09.76.20.01;Carrinho de Bebê Versatrax E Travel System TRIO Preto Pavement Joie;BB TUDO
-FATURAMENTO VD RJ;1640.13;1640.13;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;BB TUDO
-FATURAMENTO VD RJ;1640.13;1640.13;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine Joie;BB TUDO
+FATURAMENTO VD RJ;1480.63;1480.63;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;BB TUDO
+FATURAMENTO VD RJ;1480.63;1480.63;8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine Joie;BB TUDO
 FATURAMENTO VD RJ;1640.12;1640.12;8.09.76.25.10;Carrinho de Bebê Parcel Carbon - Joie;BB TUDO
 FATURAMENTO VD RJ;1640.12;1640.12;8.09.76.25.10;Carrinho de Bebê Parcel Carbon Joie;BB TUDO
 FATURAMENTO VD RJ;1301.22;1301.22;8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;BB TUDO
