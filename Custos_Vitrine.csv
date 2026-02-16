@@ -578,7 +578,6 @@ FATURAMENTO VD ES;83.28;96.0;24.11.175.223.10;Persiana Zebra Rolo Dupla Grafite 
 FATURAMENTO VD ES;122.32;141.0;24.11.175.224.06;Persiana Screen Rolo Solar Branca 160X220;VITRINE
 FATURAMENTO VD ES;57.74;69.18;24.11.175.24.57;Persiana Premier Pvc 25Mm 100X160 Caramelo;VITRINE
 FATURAMENTO VD ES;47.08;52.45;24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Chumbo;VITRINE
-FATURAMENTO VD RJ;37.24;50.59;24.11.175.29.06;Persiana Off 25 Pvc 25Mm 120X130 Branca;VITRINE
 FATURAMENTO VD ES;72.4;80.67;24.11.175.31.01;Persiana Off 25 Pvc 25Mm 120X130 Preta;VITRINE
 FATURAMENTO VD ES;96.53;107.55;24.11.175.37.06;Persiana Off 25 Pvc 25Mm 160X130 Branca;VITRINE
 FATURAMENTO VD ES;98.69;113.76;24.11.175.42.00;Persiana Hanoy Rolo Bambu 120X160 Cedro;VITRINE
@@ -1722,7 +1721,6 @@ FATURAMENTO VD RJ;197.88;233.38;8.01.74.05.10;Banheira de Bebê Slim Plus Cinza 
 FATURAMENTO BBTOTAL ES;107.72;107.72;8.01.74.05.10;Banheira de Bebê Slim Plus Cinza - Kiddo;BB TOTAL
 FATURAMENTO BBTOTAL ES;65.97;75.73;8.01.74.07.11;Banheira de Bebê Dobrável Jelly Verde - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;140.1;151.46;8.01.74.07.11;Banheira de Bebê Dobrável Jelly Verde - Kiddo;VITRINE
-FATURAMENTO BBTOTAL ES;66.14;75.92;8.01.74.08.10;Banheira Chuá Cinza Kiddo;BB TOTAL
 FATURAMENTO BBTOTAL ES;66.14;75.92;8.01.74.08.10;Banheira de Bebê Chuá Cinza - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;128.74;151.83;8.01.74.08.10;Banheira de Bebê Chuá Cinza - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;119.03;119.03;8.01.74.09.10;Banheira Shower Grafite - Kiddo;BB TOTAL
@@ -1811,7 +1809,6 @@ FATURAMENTO VD RJ;58.6;82.78;8.03.01.11.10;Almofada para Carrinhos SafeHuggy Dar
 FATURAMENTO VD RJ;58.6;82.78;8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;VITRINE
 FATURAMENTO VD RJ;58.6;82.78;8.03.01.12.10;Almofada para Carrinhos SafeHuggy Light Melange - Safety 1st;VITRINE
 FATURAMENTO VD RJ;58.6;82.78;8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;VITRINE
-FATURAMENTO VD RJ;377.75;516.25;8.03.02.12.91;Bebê Conforto Citi com Base Maxi-Cosi Nomad Sand;VITRINE
 FATURAMENTO VD RJ;565.72;788.94;8.03.02.13.27;Bebê Conforto Citi com Base 0 a 13 Kg Sparkling Grey - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;565.72;788.94;8.03.02.13.27;Bebê Conforto Citi com Base Maxi-Cosi Sparkling Grey;VITRINE
 FATURAMENTO VD RJ;370.18;516.25;8.03.02.15.107;Bebê Conforto Citi com Base 0 a 13 Kg Nomad Grey - Maxi-Cosi;VITRINE
@@ -5095,7 +5092,6 @@ FATURAMENTO VD RJ;12.05;13.19;8.25.57.128.00;Organizador De Banho Com Ventosa - 
 FATURAMENTO VD RJ;25.6;29.2;8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;14.6;14.6;8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;BB TOTAL
 FATURAMENTO VD RJ;24.26;25.27;8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;VITRINE
-FATURAMENTO VD ES;24.09;27.66;8.25.57.134.00;Redutor De Assento Dobrável - Buba;VITRINE
 FATURAMENTO VD ES;24.09;27.66;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;14.52;14.52;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TOTAL
 FATURAMENTO VD RJ;20.85;21.72;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;VITRINE
@@ -6382,7 +6378,6 @@ FATURAMENTO VD RJ;82.78;82.78;8.03.01.11.10;Almofada para Carrinhos SafeHuggy Da
 FATURAMENTO VD RJ;82.78;82.78;8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;82.78;82.78;8.03.01.12.10;Almofada para Carrinhos SafeHuggy Light Melange - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;82.78;82.78;8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;516.25;516.25;8.03.02.12.91;Bebê Conforto Citi com Base Maxi-Cosi Nomad Sand;BB TUDO
 FATURAMENTO VD RJ;788.94;788.94;8.03.02.13.27;Bebê Conforto Citi com Base 0 a 13 Kg Sparkling Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;788.94;788.94;8.03.02.13.27;Bebê Conforto Citi com Base Maxi-Cosi Sparkling Grey;BB TUDO
 FATURAMENTO VD RJ;516.25;516.25;8.03.02.15.107;Bebê Conforto Citi com Base 0 a 13 Kg Nomad Grey - Maxi-Cosi;BB TUDO
@@ -8314,7 +8309,6 @@ FATURAMENTO VD ES;14.78;14.78;8.25.57.128.00;Organizador De Banho Com Ventosa - 
 FATURAMENTO VD RJ;13.19;13.19;8.25.57.128.00;Organizador De Banho Com Ventosa - Buba;BB TUDO
 FATURAMENTO VD RJ;29.2;29.2;8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;25.27;25.27;8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;BB TUDO
-FATURAMENTO VD ES;27.66;27.66;8.25.57.134.00;Redutor De Assento Dobrável - Buba;BB TUDO
 FATURAMENTO VD ES;27.66;27.66;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TUDO
 FATURAMENTO VD RJ;21.72;21.72;8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;BB TUDO
 FATURAMENTO VD RJ;29.2;29.2;8.25.57.135.06;Travesseiro Anatômico Viscoelástico Baby Branco - Buba;BB TUDO
