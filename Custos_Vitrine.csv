@@ -80,7 +80,6 @@ FATURAMENTO VD ES;51.75;60.96;21.14.50.1147.00;Cadeira Kaila Eiffel Branco  Base
 FATURAMENTO VD ES;49.74;58.59;21.14.50.1153.00;Cadeira Kaila Eiffel Konkret  Base Cobre;VITRINE
 FATURAMENTO VD RJ;69.12;78.55;21.14.50.1153.00;Cadeira Kaila Eiffel Konkret  Base Cobre;VITRINE
 FATURAMENTO VD ES;79.88;94.1;21.14.50.1155.00;Cadeira Kaila Office Branco  Base Aço Cromado;VITRINE
-FATURAMENTO VD RJ;47.11;53.53;21.14.50.1157.00;Cadeira Kaila Dsw Preto  Base Madeira;VITRINE
 FATURAMENTO VD ES;38.69;45.57;21.14.50.1158.00;Cadeira Kaila Dsw Branco  Base Madeira;VITRINE
 FATURAMENTO VD ES;38.69;45.57;21.14.50.1159.00;Cadeira Kaila Dsw Fendi  Base Madeira;VITRINE
 FATURAMENTO VD ES;36.67;43.2;21.14.50.1171.10;Cadeira Eames Konkret  Base Em Polipropileno;VITRINE
@@ -485,6 +484,7 @@ FATURAMENTO VD ES;40.21;45.82;24.11.159.126.57;Tapete para Banheiro 60x39cm Gran
 FATURAMENTO VD ES;36.74;41.87;24.11.159.127.10;Tapete para Banheiro 60x39cm Cinza Escuro Diatomita;VITRINE
 FATURAMENTO VD ES;40.21;45.82;24.11.159.128.10;Tapete para Banheiro 60x39cm Marmorizado Diatomita;VITRINE
 FATURAMENTO VD ES;6.39;7.28;24.11.159.129.10;Bandeja Retangular para Pia 25x10 Cinza Diatomita;VITRINE
+FATURAMENTO VD ES;6.39;7.27;24.11.159.130.10;Bandeja Retangular para Pia 25x10 Cinza Escuro Diatomita;VITRINE
 FATURAMENTO VD ES;13.08;14.76;24.11.159.19.18;Coração Decorativo de Cerâmica Heart Rosa 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;9.04;10.28;24.11.159.20.00;Cesta Redonda de Rattan Plástico 21cm;VITRINE
 FATURAMENTO VD ES;73.54;83.32;24.11.159.32.00;Centro de Mesa de Cristal Deli Diamond 32,2cm - Lyor;VITRINE
@@ -616,8 +616,8 @@ FATURAMENTO VD RJ;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros 
 FULFILLMENT AMAZON;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
 FULFILLMENT VISUAL IN;29.13;34.52;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VISUAL IN
 FATURAMENTO VD ES;33.69;41.35;24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo Mollie;VITRINE
-FATURAMENTO VD RJ;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FULFILLMENT VISUAL IN;54.06;76.56;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VISUAL IN
+FATURAMENTO VD RJ;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FULFILLMENT AMAZON;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FULFILLMENT MELI;55.75;66.99;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
 FATURAMENTO VD ES;56.79;69.72;24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo Mollie;VITRINE
@@ -1029,7 +1029,7 @@ FATURAMENTO VD ES;20.25;23.03;24.54.159.47.18;Kit Garrafa Squeeze Policarbonato 
 FATURAMENTO VD RJ;20.25;23.03;24.54.159.47.18;Kit Garrafa Squeeze Policarbonato 2,1L com Case 5 em 1 Rosa;VITRINE
 FATURAMENTO VD ES;3.72;4.24;24.54.159.48.20;Saca Rolhas de Aço Inox para Vinho 2 Estágios 11cm - Lyor;VITRINE
 FATURAMENTO VD ES;11.05;12.57;24.54.159.49.18;Case Térmico para Garrafa Squeeze 2 litros 5 em 1 Rosa;VITRINE
-FATURAMENTO VD ES;13.24;15.06;24.54.159.51.10;Garrafa Shaker 3 em 1 de Plástico Performance Cinza 620ml;VITRINE
+FATURAMENTO VD ES;12.74;14.5;24.54.159.51.10;Garrafa Shaker 3 em 1 de Plástico Performance Cinza 620ml;VITRINE
 FATURAMENTO VD ES;16.85;19.17;24.54.159.52.69;Copo Decorativo com Canudo e Luz Led Astronauta 460ml;VITRINE
 FATURAMENTO VD ES;87.53;99.57;24.54.159.53.00;Suqueira New Butterfly 4,5L Cristal  - Lyor;VITRINE
 FATURAMENTO VD ES;28.21;31.96;24.54.159.54.57;Garrafa Térmica Explorer 650ml Bege Aço Inox - Lyor;VITRINE
