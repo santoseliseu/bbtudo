@@ -197,7 +197,6 @@ FATURAMENTO VD RJ;75.7;89.87;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
 FATURAMENTO VD ES;60.28;71.02;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;151.4;179.74;21.14.50.486.00;Conjunto Com 2 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD ES;120.58;142.03;21.14.50.486.00;Conjunto Com 2 Cadeiras Web Wood Branca;VITRINE
-FATURAMENTO VD RJ;248.49;294.48;21.14.50.487.00;Conjunto 4 Cadeiras Web  Wood Branca;VITRINE
 FATURAMENTO VD RJ;248.49;294.48;21.14.50.487.00;Conjunto 4 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD ES;241.12;284.08;21.14.50.487.00;Conjunto 4 Cadeiras Web Wood Branca;VITRINE
 FATURAMENTO VD ES;108.44;123.9;21.14.50.49.00;Cadeira Eames  Transparente;VITRINE
@@ -711,7 +710,6 @@ FATURAMENTO VD ES;15.64;17.77;24.50.66.774.04;Porta-Retrato de Aço Inox Basic D
 FATURAMENTO VD ES;13.92;15.84;24.50.66.776.06;Porta-Retrato Textura 10cm x 15cm Branco Mdf - Wolff;VITRINE
 FATURAMENTO VD ES;14.9;17.02;24.50.66.780.00;Candelabro de Vidro para 3 Velas Allure 15x7x13cm - Wolff;VITRINE
 FATURAMENTO VD ES;96.51;109.34;24.50.66.783.00;Centro de Mesa de Vidro Shield 40cm x 9,5cm - Wolff;VITRINE
-FATURAMENTO VD ES;12.92;14.7;24.50.66.785.57;Porta-Retrato Pérolis 10cmx 15cm Creme MDF - Wolff;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.30.00;Porta Retrato de Madeira e Vidro Pinus 10cm x 15cm - Woodart;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.32.00;Porta Retrato Woodart Pinus de Madeira 10cm x 15cm;VITRINE
 FATURAMENTO VD ES;44.67;52.93;24.50.67.43.00;Bandeja de Madeira com Sisal e Bambu Bege 45cm x 30cm - Woodart;VITRINE
@@ -1276,6 +1274,7 @@ FATURAMENTO VD ES;11.24;12.89;24.57.66.229.00;Cesta Oval com Alça e Forro Wolff
 FATURAMENTO VD RJ;10.39;11.92;24.57.66.229.00;Cesta Oval com Alça e Forro Wolff em Papel 27cm x 20cm;VITRINE
 FATURAMENTO VD ES;12.9;14.81;24.57.66.233.00;Cesta Oval Wolff de Sisal 27cm x 21cm x 12,5cm;VITRINE
 FATURAMENTO VD ES;9.95;11.42;24.57.66.234.00;Cesta Redonda com Alça e Forro Wolff de Papel 24cm x 12cm;VITRINE
+FATURAMENTO VD ES;15.44;17.72;24.57.66.235.00;Cesta Redonda Wolff de Sisal 24,5cm x 12,5cm;VITRINE
 FATURAMENTO VD ES;10.03;11.52;24.57.66.236.00;Cesta Retangular com Alça e Forro Wolff de Papel 29cm x 19cm;VITRINE
 FATURAMENTO VD ES;16.99;19.5;24.57.66.237.00;Cesta Retangular Wolff de Sisal29cm x 19cm x 12,5cm;VITRINE
 FATURAMENTO VD ES;21.33;24.26;24.57.66.24.00;Queijeira Wolff Pearl de Cristal Transparente 20 cmx 12cm;VITRINE
@@ -4288,8 +4287,8 @@ FATURAMENTO VD ES;15.64;17.95;8.24.57.43.18;Bowl de Silicone com Ventosa Rosa - 
 FATURAMENTO BBTOTAL ES;6.76;8.98;8.24.57.43.18;Bowl de Silicone com Ventosa Rosa - Buba;BB TOTAL
 FATURAMENTO BBTOTAL ES;8.81;11.7;8.24.57.44.00;Conchas Protetoras para Amamentação - Buba;BB TOTAL
 FATURAMENTO VD ES;20.38;23.4;8.24.57.44.00;Conchas Protetoras para Amamentação - Buba;VITRINE
-FATURAMENTO BBTOTAL ES;9.13;9.13;8.24.57.53.00;Copo Infantil Parede Dupla Com Canudo 280 ml Animal Fun Girafa - Buba;BB TOTAL
 FATURAMENTO VD ES;17.52;18.25;8.24.57.53.00;Copo Infantil Parede Dupla Com Canudo 280 ml Animal Fun Girafa - Buba;VITRINE
+FATURAMENTO BBTOTAL ES;9.13;9.13;8.24.57.53.00;Copo Infantil Parede Dupla Com Canudo 280 ml Animal Fun Girafa - Buba;BB TOTAL
 FATURAMENTO VD ES;17.42;18.14;8.24.57.54.00;Copo Infantil Parede Dupla com Canudo 280ml Animal Fun Leão - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;9.07;9.07;8.24.57.54.00;Copo Infantil Parede Dupla com Canudo 280ml Animal Fun Leão - Buba;BB TOTAL
 FATURAMENTO BBTOTAL ES;12.51;12.51;8.24.57.55.00;Garrafinha De AlumÍnio Animal Fun Girafa - Buba;BB TOTAL
@@ -4371,7 +4370,7 @@ FATURAMENTO BBTOTAL ES;10.18;10.18;8.24.70.41.00;Kit Prato E Bowl - Zoo - Clingo
 FATURAMENTO VD RJ;32.87;34.24;8.24.70.47.07;Pote Vidro Para Leite Materno Azul - 4 Unidades - Clingo;VITRINE
 FATURAMENTO VD ES;32.87;37.63;8.24.70.47.07;Pote Vidro Para Leite Materno Azul - 4 Unidades - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;14.92;17.12;8.24.70.47.07;Pote Vidro Para Leite Materno Azul - 4 Unidades - Clingo;BB TOTAL
-FATURAMENTO VD RJ;64.51;67.2;8.24.70.54.07;Pote Termico Dupla Camada Vacuo Luke - Clingo;VITRINE
+FATURAMENTO VD RJ;56.75;60.04;8.24.70.54.07;Pote Termico Dupla Camada Vacuo Luke - Clingo;VITRINE
 FATURAMENTO VD RJ;56.75;60.04;8.24.70.55.18;Pote Termico Dupla Camada Vacuo Milky - Clingo;VITRINE
 FATURAMENTO VD RJ;148.13;161.07;8.24.70.65.00;Aquecedor de Mamadeira Individual Easy 3 em 1 110V - Clingo;VITRINE
 FATURAMENTO BBTOTAL ES;70.9;81.38;8.24.70.65.00;Aquecedor de Mamadeira Individual Easy 3 em 1 110V - Clingo;BB TOTAL
@@ -4849,8 +4848,8 @@ FATURAMENTO VD RJ;16.69;18.99;8.25.57.114.07;Mordedor Mãozinha Com Prendedor De
 FATURAMENTO BBTOTAL ES;8.28;9.5;8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;BB TOTAL
 FATURAMENTO VD RJ;15.57;17.24;8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;8.62;8.62;8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;BB TOTAL
-FATURAMENTO BBTOTAL ES;11.87;13.62;8.25.57.116.00;Naninha Coelhinho - Buba;BB TOTAL
 FATURAMENTO VD RJ;24.45;27.24;8.25.57.116.00;Naninha Coelhinho - Buba;VITRINE
+FATURAMENTO BBTOTAL ES;11.87;13.62;8.25.57.116.00;Naninha Coelhinho - Buba;BB TOTAL
 FATURAMENTO VD RJ;28.31;32.2;8.25.57.117.00;Naninha Girafinha - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;15.05;15.05;8.25.57.117.00;Naninha Girafinha - Buba;BB TOTAL
 FATURAMENTO VD RJ;28.31;32.2;8.25.57.118.00;Naninha  Leãozinho - Buba;VITRINE
@@ -7696,7 +7695,7 @@ FATURAMENTO VD ES;9.95;9.95;8.24.70.27.07;Colher de Silicone Premium Azul - Clin
 FATURAMENTO VD ES;20.99;20.99;8.24.70.40.18;Kit Garfo E Colher Silicone Rosa - Clingo;BB TUDO
 FATURAMENTO VD RJ;34.24;34.24;8.24.70.47.07;Pote Vidro Para Leite Materno Azul - 4 Unidades - Clingo;BB TUDO
 FATURAMENTO VD ES;37.63;37.63;8.24.70.47.07;Pote Vidro Para Leite Materno Azul - 4 Unidades - Clingo;BB TUDO
-FATURAMENTO VD RJ;67.2;67.2;8.24.70.54.07;Pote Termico Dupla Camada Vacuo Luke - Clingo;BB TUDO
+FATURAMENTO VD RJ;60.04;60.04;8.24.70.54.07;Pote Termico Dupla Camada Vacuo Luke - Clingo;BB TUDO
 FATURAMENTO VD RJ;60.04;60.04;8.24.70.55.18;Pote Termico Dupla Camada Vacuo Milky - Clingo;BB TUDO
 FATURAMENTO VD RJ;161.07;161.07;8.24.70.65.00;Aquecedor de Mamadeira Individual Easy 3 em 1 110V - Clingo;BB TUDO
 FATURAMENTO VD ES;86.22;86.22;8.24.72.07.00;Prato Com Sucção Porquinha Pokey Marcus & Marcus;BB TUDO
