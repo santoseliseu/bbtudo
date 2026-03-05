@@ -89,10 +89,10 @@ FATURAMENTO VD RJ;35.06;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro 
 FATURAMENTO VD ES;35.06;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.06;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;35.06;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD ES;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD ES;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD ES;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
@@ -109,14 +109,14 @@ FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD ES;69.09;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;69.09;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
+FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
+FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
+FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
+FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD ES;49.79;59.26;21.14.50.13.00;Cadeira Eames  Branca;VITRINE
 FATURAMENTO VD RJ;49.79;59.26;21.14.50.13.00;Cadeira Eames  Branca;VITRINE
 FATURAMENTO VD ES;348.84;410.94;21.14.50.1339.10;Conjunto Com 2 Cadeiras Saarinen Office Konkret  Base Em Aço Cromado;VITRINE
@@ -472,7 +472,7 @@ FATURAMENTO VD ES;13.98;15.78;24.11.159.125.06;Potiche de Cerâmica Heart Branco
 FATURAMENTO VD ES;40.21;45.82;24.11.159.126.57;Tapete para Banheiro 60x39cm Granilite Diatomita;VITRINE
 FATURAMENTO VD ES;13.08;14.76;24.11.159.19.18;Coração Decorativo de Cerâmica Heart Rosa 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;9.04;10.28;24.11.159.20.00;Cesta Redonda de Rattan Plástico 21cm;VITRINE
-FATURAMENTO VD ES;23.41;26.52;24.11.159.33.00;Centro de Mesa de Cristal com Pé Deli Diamond 18cm - Lyor;VITRINE
+FATURAMENTO VD ES;23.4;26.51;24.11.159.33.00;Centro de Mesa de Cristal com Pé Deli Diamond 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;12.92;14.7;24.11.159.36.00;Cesta Oval de Plástico com Forro em Tecido 27cm;VITRINE
 FATURAMENTO VD ES;11.54;13.13;24.11.159.37.00;Cesta Retangular de Plástico com Forro em Tecido 24cm;VITRINE
 FATURAMENTO VD ES;10.41;11.84;24.11.159.39.00;Cesta Oval de plástico com Forro em Tecido 24cm;VITRINE
@@ -3434,11 +3434,12 @@ FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reve
 FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
+FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
+FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
-FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VISUAL IN SP;650.64;1026.55;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VISUAL IN
 FATURAMENTO VD ES;758.58;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VITRINE
@@ -3713,8 +3714,8 @@ FATURAMENTO BBTOTAL ES;30.33;35.94;8.11.160.18.07;Necessaire Astronauta - MaiT;B
 FATURAMENTO VD RJ;156.59;173.46;8.11.160.19.113;Bolsa de Passeio Arco Iris - MaiT;VITRINE
 FATURAMENTO BBTOTAL ES;86.73;86.73;8.11.160.19.113;Bolsa de Passeio Arco Iris - MaiT;BB TOTAL
 FULFILLMENT VISUAL IN;121.99;192.55;8.11.160.19.113;Bolsa de Passeio Arco Iris - MaiT;VISUAL IN
-FATURAMENTO BBTOTAL ES;35.98;35.98;8.11.160.20.113;Necessaire Arco Iris - MaiT;BB TOTAL
 FATURAMENTO VD RJ;65.61;76.35;8.11.160.20.113;Necessaire Arco Iris - MaiT;VITRINE
+FATURAMENTO BBTOTAL ES;35.98;35.98;8.11.160.20.113;Necessaire Arco Iris - MaiT;BB TOTAL
 FULFILLMENT VISUAL IN;52.62;83.05;8.11.160.20.113;Necessaire Arco Iris - MaiT;VISUAL IN
 FULFILLMENT VISUAL IN;188.53;230.61;8.11.160.21.18;Bolsa de Passeio Floral - MaiT;VISUAL IN
 FATURAMENTO VD RJ;188.53;230.61;8.11.160.21.18;Bolsa de Passeio Floral - MaiT;VITRINE
@@ -3934,8 +3935,8 @@ FATURAMENTO VD ES;14.42;16.55;8.24.120.14.00;Porta Lanchinho Flor - Nûby;VITRIN
 FATURAMENTO BBTOTAL ES;6.24;8.28;8.24.120.14.00;Porta Lanchinho Flor - Nûby;BB TOTAL
 FATURAMENTO VD ES;17.25;19.8;8.24.120.15.00;Copo Monstro com Bico e Alça 210ml - Nûby;VITRINE
 FATURAMENTO BBTOTAL ES;10.4;10.4;8.24.120.15.00;Copo Monstro com Bico e Alça 210ml - Nûby;BB TOTAL
-FATURAMENTO BBTOTAL ES;9.37;9.37;8.24.120.19.00;Pratinho Monstro - Nûby;BB TOTAL
 FATURAMENTO VD ES;15.55;17.85;8.24.120.19.00;Pratinho Monstro - Nûby;VITRINE
+FATURAMENTO BBTOTAL ES;9.37;9.37;8.24.120.19.00;Pratinho Monstro - Nûby;BB TOTAL
 FATURAMENTO VD RJ;38.83;47.46;8.24.128.01.18;Garrafa Flip Térmica com Alça de Silicone Lulu - Büp Baby;VITRINE
 FATURAMENTO VD RJ;40.42;46.29;8.24.128.02.18;Garrafa Flip Térmica com Alça de Silicone Carrossel - Büp Baby;VITRINE
 FATURAMENTO BBTOTAL ES;20.16;23.15;8.24.128.02.18;Garrafa Flip Térmica com Alça de Silicone Carrossel - Büp Baby;BB TOTAL
@@ -5919,10 +5920,10 @@ FATURAMENTO VD RJ;41.72;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro 
 FATURAMENTO VD ES;41.72;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;41.72;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;41.72;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;BB TUDO
-FATURAMENTO VD ES;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;BB TUDO
-FATURAMENTO VD ES;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
@@ -5931,14 +5932,14 @@ FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD ES;82.15;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;82.15;82.15;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
-FATURAMENTO VD ES;33.96;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;BB TUDO
-FATURAMENTO VD ES;33.96;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;33.96;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;BB TUDO
-FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
+FATURAMENTO VD ES;33.96;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;84.24;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
-FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.24;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
+FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;67.11;67.11;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;BB TUDO
 FATURAMENTO VD RJ;67.11;67.11;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;BB TUDO
 FATURAMENTO VD ES;27.03;27.03;21.14.50.1355.07;Cadeira Infantil Tiffany Azul;BB TUDO
@@ -7115,9 +7116,10 @@ FATURAMENTO VD ES;653.72;653.72;8.09.28.71.01;Carrinho de Bebê Olympus New Blac
 FATURAMENTO VD RJ;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
+FATURAMENTO VD ES;786.58;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;786.58;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
-FATURAMENTO VD RJ;786.58;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;786.58;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
+FATURAMENTO VD RJ;786.58;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;888.79;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;888.79;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;631.98;631.98;8.09.28.80.12;Carrinho de Bebê Travel System Milano Reversível II Creme e Rosa - Galzerano;BB TUDO
