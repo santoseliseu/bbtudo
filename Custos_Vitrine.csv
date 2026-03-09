@@ -92,10 +92,10 @@ FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD ES;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
+FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
+FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD ES;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca Base Em Madeira - Empório Tiffany;VITRINE
@@ -261,7 +261,6 @@ FATURAMENTO VD ES;67.18;79.14;21.14.50.833.00;Cadeira Eames Rosa  Base Em Polipr
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.833.00;Cadeira Eames Rosa  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;73.34;86.4;21.14.50.834.00;Conjunto Com 2 Cadeiras Eames Rosa  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;269.95;318.01;21.14.50.835.00;Conjunto Com 4 Cadeiras Eames Rosa  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;280.13;301.22;21.14.50.84.00;Conjunto 4 Cadeiras Web  Fendi;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.929.00;Cadeira Eames Com Braço Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;406.68;479.08;21.14.50.931.00;Conjunto Com 4 Cadeiras Eames Com Braço Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;50.24;59.18;21.14.50.932.00;Cadeira Eames Com Braço Fendi  Base Em Polipropileno;VITRINE
@@ -445,6 +444,7 @@ FATURAMENTO VD ES;8.84;10.15;24.10.159.456.00;Cj 2 Descansos para Panela de Fibr
 FATURAMENTO VD ES;13.24;15.06;24.10.159.464.18;Garrafa Shaker 3 em 1 Performance Rosa 650ml - Lyor;VITRINE
 FATURAMENTO VD ES;11.41;12.98;24.10.159.49.00;Pote Hermético de Vidro Borossilicato com Tampa 640ml;VITRINE
 FATURAMENTO VD ES;4.95;5.63;24.10.159.50.00;Molheira de Cristal Dublin 140ml - Lyor;VITRINE
+FATURAMENTO VD ES;4.98;5.61;24.10.159.54.08;Garrafa de Azeite Vidro com Tampa Vermelha 270ml - Lyor;VITRINE
 FATURAMENTO VD ES;5.03;5.71;24.10.159.57.18;Pote de Vidro com Tampa de Acrílico Gastro Rosa 500ml;VITRINE
 FATURAMENTO VD ES;7.48;8.51;24.10.159.60.00;Sousplat de Plástico Balls 32cm - Lyor;VITRINE
 FATURAMENTO VD ES;4.72;5.37;24.10.159.61.00;Jarra de Vidro Colméia 340ml - Lyor;VITRINE
@@ -1261,7 +1261,6 @@ FATURAMENTO VD ES;7.97;9.06;24.57.159.58.01;Manteigueira Francesa de Vidro Colm�
 FATURAMENTO VD ES;4.89;5.57;24.57.159.61.06;Prato Fundo Nevada 21cm x 3,5cm Branco Vidro Opalino;VITRINE
 FATURAMENTO VD ES;5.0;6.11;24.57.159.62.20;Queijeira de Aço Inox Prime 7,2cm x 10cm - Lyor;VITRINE
 FATURAMENTO VD ES;5.9;6.71;24.57.159.74.06;Sousplat Patinado de Plástico Moon Branco 25cm - Lyor;VITRINE
-FATURAMENTO VD ES;14.9;16.89;24.57.159.83.06;Refratário de Porcelana com Alça Basic Branco 34cm x 20,5cm;VITRINE
 FATURAMENTO VD ES;61.47;69.93;24.57.159.94.00;Prato p/ Bolo c/Pé e Tampa Deli Diamond 30cm x 23,5cm Vidro;VITRINE
 FATURAMENTO VD ES;7.79;8.94;24.57.163.01.00;Jogo De 2 Utensilios Para Salada 31Cm - Oikos;VITRINE
 FATURAMENTO VD RJ;7.14;8.94;24.57.163.01.00;Jogo De 2 Utensilios Para Salada 31Cm - Oikos;VITRINE
@@ -1664,7 +1663,6 @@ FATURAMENTO BBTOTAL ES;119.03;119.03;8.01.74.09.10;Banheira de Bebê Shower Graf
 FATURAMENTO VD RJ;201.84;238.05;8.01.74.09.10;Banheira de Bebê Shower Grafite - Kiddo;VITRINE
 FATURAMENTO VD RJ;250.69;295.66;8.01.74.10.18;Banheira de Bebê Shower Rosa - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;109.79;126.03;8.01.74.10.18;Banheira de Bebê Shower Rosa - Kiddo;BB TOTAL
-FATURAMENTO BBTOTAL ES;119.03;119.03;8.01.74.11.10;Banheira Infantil Shower Cinza Kiddo;BB TOTAL
 FATURAMENTO BBTOTAL ES;119.03;119.03;8.01.74.11.10;Banheira de Bebê Shower Cinza - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;201.84;238.05;8.01.74.11.10;Banheira de Bebê Shower Cinza - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;129.07;148.16;8.01.74.12.07;Banheira de Bebê Slim Plus Azul - Kiddo;BB TOTAL
@@ -1734,7 +1732,6 @@ FULFILLMENT AMAZON;129.12;182.56;8.03.01.08.27;Almofada Para Carrinho SafeDream 
 FATURAMENTO BBTOTAL ES;90.9;90.9;8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;BB TOTAL
 FATURAMENTO VD ES;128.69;181.8;8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;VITRINE
 FATURAMENTO VD RJ;128.24;181.01;8.03.01.08.27;Almofada SafeDream Safety 1st Grey;VITRINE
-FULFILLMENT AMAZON;129.12;182.56;8.03.01.08.27;Almofada SafeDream Safety 1st Grey;VITRINE
 FATURAMENTO VD RJ;56.76;80.17;8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;VITRINE
 FATURAMENTO VD RJ;56.75;80.17;8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;40.09;40.09;8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;BB TOTAL
@@ -1848,7 +1845,6 @@ FATURAMENTO VD RJ;59.96;84.7;8.03.23.06.57;Travesseiro Termorregulável Volpi Of
 FATURAMENTO BBTOTAL ES;40.99;47.05;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;BB TOTAL
 FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
 FATURAMENTO VD ES;97.28;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;VITRINE
-FATURAMENTO VD RJ;97.28;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;VITRINE
 FATURAMENTO VD RJ;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD ES;208.45;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD ES;182.13;214.55;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;VITRINE
@@ -1881,7 +1877,6 @@ FATURAMENTO VD RJ;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - 
 FULFILLMENT VISUAL IN;83.68;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VISUAL IN
 FATURAMENTO VISUAL IN SP;71.58;113.32;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;VISUAL IN
 FATURAMENTO BBTOTAL ES;49.35;49.35;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TOTAL
-FATURAMENTO VD ES;86.85;97.2;8.03.71.06.00;Almofada para Banho Unicórnio Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FATURAMENTO VD RJ;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VISUAL IN
@@ -1960,7 +1955,6 @@ FULFILLMENT AMAZON;291.26;406.16;8.04.01.14.01;Berço Compacto Mini Play Grey De
 FATURAMENTO VD RJ;291.09;405.92;8.04.01.14.01;Berço Mini Play Safety 1st - Grey Denim;VITRINE
 FULFILLMENT MELI;258.01;329.02;8.04.01.14.01;Berço Mini Play Safety 1st - Grey Denim;VITRINE
 FULFILLMENT MAGALU;257.78;328.79;8.04.01.14.01;Berço Mini Play Safety 1st - Grey Denim;VITRINE
-FULFILLMENT AMAZON;291.26;406.16;8.04.01.14.01;Berço Mini Play Safety 1st - Grey Denim;VITRINE
 FATURAMENTO VD RJ;358.43;499.18;8.04.01.15.10;Cercado Tenda InstaPop Grey - Safety 1st;VITRINE
 FULFILLMENT AMAZON;358.43;499.18;8.04.01.15.10;Cercado Tenda InstaPop Grey - Safety 1st;VITRINE
 FATURAMENTO VD RJ;358.43;499.18;8.04.01.15.10;Cercado Tenda InstaPop Safety 1st Grey;VITRINE
@@ -2774,7 +2768,6 @@ FATURAMENTO VD RJ;70.11;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinz
 FULFILLMENT AMAZON;70.11;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;49.52;49.52;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;BB TOTAL
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.02.10;Canguru Loop Cosco - Cinza Escuro;VITRINE
-FULFILLMENT AMAZON;70.11;99.04;8.08.04.02.10;Canguru Loop Cosco - Cinza Escuro;VITRINE
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.03.10;Canguru Infantil Loop Até 9 kg Cinza Claro - Cosco;VITRINE
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.03.10;Canguru Loop Cosco - Cinza Claro;VITRINE
 FATURAMENTO VD RJ;59.82;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;VITRINE
@@ -3028,7 +3021,6 @@ FULFILLMENT AMAZON;1531.61;2110.59;8.09.02.83.76;Carrinho de Bebê Lila CP² Ess
 FULFILLMENT AMAZON;1182.78;1649.5;8.09.02.84.80;Carrinho com Bebê Conforto Travel System Eva Trio Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1182.78;1649.5;8.09.02.84.80;Carrinho com Bebê Conforto Travel System Eva Trio Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1182.78;1649.5;8.09.02.84.80;Travel System Eva Trio Essential Graphite Maxi-Cosi;VITRINE
-FULFILLMENT MELI;1182.78;1649.5;8.09.02.84.80;Travel System Eva Trio Essential Graphite Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1163.05;1622.01;8.09.02.85.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black Champagne - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1163.05;1622.01;8.09.02.85.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black Champagne - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1163.05;1622.01;8.09.02.85.01;Travel System Eva Trio Essential Black Champagne Maxi-Cosi;VITRINE
@@ -3984,7 +3976,6 @@ FATURAMENTO BBTOTAL ES;50.0;66.38;8.24.149.40.18;Kit de Alimentação Silicone B
 FATURAMENTO VD ES;116.69;132.75;8.24.149.40.18;Kit de Alimentação Silicone BLW Set 2 Pinky Pink - Minikoioi;VITRINE
 FATURAMENTO VD ES;116.72;132.76;8.24.149.44.76;Kit de Alimentação Silicone BLW Set 2 Woody Brown - Minikoioi;VITRINE
 FATURAMENTO VD ES;105.85;120.42;8.24.149.46.07;Kit de Alimentação Silicone BLW Set1 Deep Blue - Minikoioi;VITRINE
-FATURAMENTO VD ES;105.86;120.42;8.24.149.47.16;Kit de Alimentação Silicone BLW Set1 Mellow Yelow - Minikoioi;VITRINE
 FATURAMENTO VD ES;105.86;120.42;8.24.149.48.18;Kit de Alimentação Silicone BLW Set1 Pinky Pink - Minikoioi;VITRINE
 FATURAMENTO VD RJ;0.0;0.0;8.24.149.49.10;Kit de Alimentação Silicone BLW Set1 Powder Grey - Minikoioi;VITRINE
 FATURAMENTO VD RJ;105.86;120.42;8.24.149.51.18;Kit de Alimentação Silicone BLW Set1 Velvet Rose - Minikoioi;VITRINE
@@ -4566,7 +4557,6 @@ FATURAMENTO VD RJ;24.2;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança para
 FATURAMENTO VD RJ;55.52;76.46;8.25.01.24.06;Dispenser Automático para Álcool Gel 300 ml White - Safety 1st;VITRINE
 FATURAMENTO VD RJ;55.52;76.46;8.25.01.24.06;Dispenser Automático para Álcool Gel Safety 1st - White;VITRINE
 FATURAMENTO VD RJ;3.85;5.3;8.25.01.25.06;Protetor de Tomada 10 Peças White - Safety 1st;VITRINE
-FATURAMENTO VD RJ;3.85;5.3;8.25.01.25.06;Protetor de Tomada 10 pç Safety 1st - White;VITRINE
 FATURAMENTO VD RJ;3.85;5.3;8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;VITRINE
 FATURAMENTO VD RJ;7.73;10.65;8.25.01.26.06;Protetor de Tomada 24 pç Safety 1st - White;VITRINE
 FATURAMENTO VD RJ;7.73;10.65;8.25.01.26.06;Protetor de Tomada 24 pç White - Safety 1st;VITRINE
@@ -4650,7 +4640,6 @@ FATURAMENTO VD ES;14.26;14.85;8.25.100.05.00;Aparelho para Alívio da Dor na Hor
 FATURAMENTO BBTOTAL ES;6.17;7.43;8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;BB TOTAL
 FATURAMENTO VD ES;21.85;24.84;8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;VITRINE
 FATURAMENTO BBTOTAL ES;10.92;14.5;8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;BB TOTAL
-FATURAMENTO VD RJ;21.86;22.77;8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;VITRINE
 FATURAMENTO VD RJ;126.75;156.02;8.25.101.01.16;Inalador Air Mesh Colors com Bateria Amarelo - Medicate;VITRINE
 FATURAMENTO BBTOTAL ES;65.34;75.0;8.25.101.01.16;Inalador Air Mesh Colors com Bateria Amarelo - Medicate;BB TOTAL
 FATURAMENTO VD RJ;126.75;156.02;8.25.101.01.16;Inalador Air Mesh Colors com Bateria Amarelo Medicate;VITRINE
@@ -4975,7 +4964,6 @@ FATURAMENTO VD ES;10.0;11.34;8.25.57.39.16;Termômetro Para Água Girafinha Amar
 FATURAMENTO BBTOTAL ES;4.0;5.3;8.25.57.39.16;Termômetro Para Água Girafinha Amarelo e Laranja - Buba;BB TOTAL
 FATURAMENTO VD ES;34.47;39.36;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;VITRINE
 FATURAMENTO BBTOTAL ES;20.77;20.77;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;BB TOTAL
-FATURAMENTO VD RJ;33.68;35.08;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;VITRINE
 FATURAMENTO VD RJ;57.87;65.83;8.25.57.47.69;Almofada Rolinho De Atividades Buba;VITRINE
 FATURAMENTO VD ES;54.06;61.5;8.25.57.47.69;Almofada Rolinho De Atividades Buba;VITRINE
 FATURAMENTO BBTOTAL ES;29.16;29.16;8.25.57.47.69;Almofada Rolinho De Atividades Buba;BB TOTAL
@@ -5617,7 +5605,6 @@ FATURAMENTO VD RJ;19.92;27.45;8.30.33.20.00;Brinquedo Wind Chime Christopher - T
 FATURAMENTO VD RJ;17.93;24.7;8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;12.35;12.35;8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;37.64;51.84;8.30.33.26.00;Brinquedo Musical Marie - Tiny Love;VITRINE
-FATURAMENTO VD RJ;37.64;51.84;8.30.33.26.00;Brinquedo Musical Marie Tiny Love;VITRINE
 FATURAMENTO VD RJ;75.28;103.74;8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;50.21;57.64;8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;85.6;117.95;8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;VITRINE
@@ -6185,7 +6172,6 @@ FATURAMENTO VD RJ;138.33;138.33;8.03.23.06.01;Base para Bebê Conforto Elos Pret
 FATURAMENTO VD RJ;84.7;84.7;8.03.23.06.57;Travesseiro Termorregulável Volpi Off White - Infanti;BB TUDO
 FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
 FATURAMENTO VD ES;114.6;114.6;8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;BB TUDO
-FATURAMENTO VD RJ;114.6;114.6;8.03.28.20.01;Base para Bebê Conforto Cocoon Galzerano Preto;BB TUDO
 FATURAMENTO VD RJ;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD ES;245.56;245.56;8.03.28.23.01;Bebê Conforto Cocoon 0 a 13 Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD ES;214.55;214.55;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;BB TUDO
@@ -6206,7 +6192,6 @@ FATURAMENTO VD RJ;97.2;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agat
 FATURAMENTO VD ES;97.2;97.2;8.03.71.05.00;Almofada para Banho Bebê Gatinha Agata Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.69;98.69;8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;BB TUDO
-FATURAMENTO VD ES;97.2;97.2;8.03.71.06.00;Almofada para Banho Unicórnio Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;98.64;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.07.00;Almofada para Banho Creme Ursinho Zeca Baby Pil;BB TUDO
@@ -7415,7 +7400,6 @@ FATURAMENTO VD ES;132.75;132.75;8.24.149.38.16;Kit de Alimentação Silicone BLW
 FATURAMENTO VD ES;132.75;132.75;8.24.149.40.18;Kit de Alimentação Silicone BLW Set 2 Pinky Pink - Minikoioi;BB TUDO
 FATURAMENTO VD ES;132.76;132.76;8.24.149.44.76;Kit de Alimentação Silicone BLW Set 2 Woody Brown - Minikoioi;BB TUDO
 FATURAMENTO VD ES;120.42;120.42;8.24.149.46.07;Kit de Alimentação Silicone BLW Set1 Deep Blue - Minikoioi;BB TUDO
-FATURAMENTO VD ES;120.42;120.42;8.24.149.47.16;Kit de Alimentação Silicone BLW Set1 Mellow Yelow - Minikoioi;BB TUDO
 FATURAMENTO VD ES;120.42;120.42;8.24.149.48.18;Kit de Alimentação Silicone BLW Set1 Pinky Pink - Minikoioi;BB TUDO
 FATURAMENTO VD RJ;0.0;0.0;8.24.149.49.10;Kit de Alimentação Silicone BLW Set1 Powder Grey - Minikoioi;BB TUDO
 FATURAMENTO VD RJ;120.42;120.42;8.24.149.51.18;Kit de Alimentação Silicone BLW Set1 Velvet Rose - Minikoioi;BB TUDO
@@ -7784,7 +7768,6 @@ FATURAMENTO VD RJ;34.18;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança par
 FATURAMENTO VD RJ;76.46;76.46;8.25.01.24.06;Dispenser Automático para Álcool Gel 300 ml White - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;76.46;76.46;8.25.01.24.06;Dispenser Automático para Álcool Gel Safety 1st - White;BB TUDO
 FATURAMENTO VD RJ;5.3;5.3;8.25.01.25.06;Protetor de Tomada 10 Peças White - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;5.3;5.3;8.25.01.25.06;Protetor de Tomada 10 pç Safety 1st - White;BB TUDO
 FATURAMENTO VD RJ;5.3;5.3;8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;10.65;10.65;8.25.01.26.06;Protetor de Tomada 24 pç Safety 1st - White;BB TUDO
 FATURAMENTO VD RJ;10.65;10.65;8.25.01.26.06;Protetor de Tomada 24 pç White - Safety 1st;BB TUDO
@@ -7834,7 +7817,6 @@ FATURAMENTO VD ES;8.8;8.8;8.25.100.03.00;Lenços Umedecidos Higienizadores para 
 FATURAMENTO VD ES;8.98;8.98;8.25.100.04.00;Lenços Umedecidos com Solução Salina Assoar Baby (20 Unidades) - LikLuc;BB TUDO
 FATURAMENTO VD ES;14.85;14.85;8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;BB TUDO
 FATURAMENTO VD ES;24.84;24.84;8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;BB TUDO
-FATURAMENTO VD RJ;22.77;22.77;8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;BB TUDO
 FATURAMENTO VD RJ;156.02;156.02;8.25.101.01.16;Inalador Air Mesh Colors com Bateria Amarelo - Medicate;BB TUDO
 FATURAMENTO VD RJ;156.02;156.02;8.25.101.01.16;Inalador Air Mesh Colors com Bateria Amarelo Medicate;BB TUDO
 FATURAMENTO VD RJ;154.99;154.99;8.25.101.02.07;Inalador Air Mesh Colors com Bateria Azul Claro - Medicate;BB TUDO
@@ -8041,7 +8023,6 @@ FATURAMENTO VD RJ;11.34;11.34;8.25.57.38.16;Termômetro Para Água Girafinha Ama
 FATURAMENTO VD RJ;11.34;11.34;8.25.57.39.16;Termômetro Para Água Girafinha Amarelo e Laranja - Buba;BB TUDO
 FATURAMENTO VD ES;11.34;11.34;8.25.57.39.16;Termômetro Para Água Girafinha Amarelo e Laranja - Buba;BB TUDO
 FATURAMENTO VD ES;39.36;39.36;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;BB TUDO
-FATURAMENTO VD RJ;35.08;35.08;8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;BB TUDO
 FATURAMENTO VD RJ;65.83;65.83;8.25.57.47.69;Almofada Rolinho De Atividades Buba;BB TUDO
 FATURAMENTO VD ES;61.5;61.5;8.25.57.47.69;Almofada Rolinho De Atividades Buba;BB TUDO
 FATURAMENTO VD ES;39.8;39.8;8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;BB TUDO
@@ -8455,7 +8436,6 @@ FATURAMENTO VD RJ;35.7;35.7;8.30.33.17.00;Brinquedo Jitter Jumpy Thomas Tiny Lov
 FATURAMENTO VD RJ;27.45;27.45;8.30.33.20.00;Brinquedo Wind Chime Christopher - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;24.7;24.7;8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;51.84;51.84;8.30.33.26.00;Brinquedo Musical Marie - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;51.84;51.84;8.30.33.26.00;Brinquedo Musical Marie Tiny Love;BB TUDO
 FATURAMENTO VD RJ;103.74;103.74;8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;117.95;117.95;8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;103.74;103.74;8.30.33.30.00;Arco Sunny Stroll - Tiny Princess Tales;BB TUDO
