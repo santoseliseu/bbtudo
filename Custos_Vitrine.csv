@@ -9,6 +9,7 @@ FATURAMENTO VD ES;476.1;546.19;21.14.175.21.01;Cadeira Xtreme Gamers Cinesis Ny 
 FATURAMENTO VD ES;269.11;308.72;21.14.175.23.01;Cadeira Giratoria Office Executive Em Malha Preta;VITRINE
 FATURAMENTO VD ES;61.2;70.21;21.14.175.30.57;Cadeira Eiffel Nude;VITRINE
 FATURAMENTO VD ES;171.8;197.1;21.14.175.32.01;Kit 2 Cadeiras Eames Wood Leda Preta;VITRINE
+FATURAMENTO VD RJ;78.95;98.08;21.14.175.34.06;Cadeira Saarinen Wood Branca;VITRINE
 FATURAMENTO VD ES;85.5;98.09;21.14.175.34.06;Cadeira Saarinen Wood Branca;VITRINE
 FATURAMENTO VD ES;170.99;196.17;21.14.175.35.06;Kit 2 Cadeiras Eames Leda Branca;VITRINE
 FATURAMENTO VD ES;85.5;98.09;21.14.175.37.57;Cadeira Saarinen Wood Nude;VITRINE
@@ -111,7 +112,6 @@ FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base 
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD ES;49.79;59.26;21.14.50.13.00;Cadeira Eames  Branca;VITRINE
@@ -531,6 +531,7 @@ FATURAMENTO VD ES;102.24;114.17;24.11.175.181.00;Kit Varão Extensor 120 a 210cm
 FATURAMENTO VD ES;102.57;114.17;24.11.175.183.00;Kit Varão Extensor 120 a 210cm Esfera Cromada 25-28MM;VITRINE
 FATURAMENTO VD ES;125.38;139.55;24.11.175.191.00;Kit Varão Extensor 160 a 300cm Esfera Cromada 25-28MM;VITRINE
 FATURAMENTO VD ES;125.18;139.55;24.11.175.192.00;Kit Varão Extensor 160 a 300cm Esfera Ouro Velho 25-28MM;VITRINE
+FATURAMENTO VD RJ;108.97;137.12;24.11.175.194.00;Kit Varão Extensor 160 a 300cm Cilindrica Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;125.38;139.55;24.11.175.194.00;Kit Varão Extensor 160 a 300cm Cilindrica Ouro Velho 25-28MM;VITRINE
 FATURAMENTO VD ES;111.04;128.0;24.11.175.214.10;Persiana Zebra Rolo Dupla Cinza Linho 160x160;VITRINE
 FATURAMENTO VD ES;111.04;128.0;24.11.175.215.10;Persiana Zebra Rolo Dupla Grafite Linho160x160;VITRINE
@@ -706,7 +707,6 @@ FATURAMENTO VD ES;15.64;17.77;24.50.66.774.04;Porta-Retrato de Aço Inox Basic D
 FATURAMENTO VD ES;14.17;16.12;24.50.66.776.06;Porta-Retrato Textura 10cm x 15cm Branco Mdf - Wolff;VITRINE
 FATURAMENTO VD ES;14.9;17.02;24.50.66.780.00;Candelabro de Vidro para 3 Velas Allure 15x7x13cm - Wolff;VITRINE
 FATURAMENTO VD ES;96.51;109.34;24.50.66.783.00;Centro de Mesa de Vidro Shield 40cm x 9,5cm - Wolff;VITRINE
-FATURAMENTO VD ES;19.6;22.29;24.50.66.784.00;Umidificador de Ar Portátil de Plástico Luz Led 300ml;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.30.00;Porta Retrato de Madeira e Vidro Pinus 10cm x 15cm - Woodart;VITRINE
 FATURAMENTO VD ES;10.19;11.93;24.50.67.32.00;Porta Retrato Woodart Pinus de Madeira 10cm x 15cm;VITRINE
 FATURAMENTO VD ES;7.44;7.72;24.51.159.01.00;Tapete de PVC com Antiderrapante para Banheiro 49cm - Lyor;VITRINE
@@ -1338,7 +1338,6 @@ FATURAMENTO VD ES;31.3;35.93;24.68.174.36.00;Limpa Vidros 2 Em 1 Com Cabo Extens
 FATURAMENTO VD ES;9.22;10.58;24.68.174.45.00;Pano De Microfibra Para Chão Com Furo - Simplo;VITRINE
 FATURAMENTO VD ES;15.59;17.9;24.68.174.46.00;Espanador Flexível De Chenile - Simplo;VITRINE
 FATURAMENTO VD ES;3.68;4.23;24.68.174.47.00;Prendedores De Plástico Multiuso 12 Peças - Simplo;VITRINE
-FATURAMENTO VD ES;137.11;157.37;24.68.174.53.00;Varal Vertical 3 Andares Em Bambu Com Hastes Metálicas Preto;VITRINE
 FATURAMENTO VD ES;28.57;32.8;24.69.163.03.00;Kit 3 Organizadores Dobráveis De Peva - Oikos;VITRINE
 FATURAMENTO VD ES;17.9;20.56;24.69.163.04.00;Caixa Organizadora Com Tampa De Bambu 24x10 - Oikos;VITRINE
 FATURAMENTO VD ES;38.51;44.21;24.69.163.06.00;Caixa Organizadora Com Tampa De Bambu 35x14 - Oikos;VITRINE
@@ -3266,6 +3265,7 @@ FATURAMENTO VD RJ;1201.14;1366.4;8.09.103.06.01;Carrinho com Bebê Conforto e Ba
 FATURAMENTO VD RJ;3099.31;3525.7;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;VITRINE
 FATURAMENTO VD RJ;3099.31;3525.7;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;VITRINE
 FATURAMENTO BBTOTAL ES;1650.75;1650.75;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;BB TOTAL
+FATURAMENTO VD RJ;3629.08;4128.37;8.09.161.17.57;Carrinho de Bebê Mixx Next Bege Cedar - Nuna;VITRINE
 FATURAMENTO VD RJ;96.34;111.06;8.09.169.01.18;Forro Acolchoado para Carrinho Anti-Sweat Hedge-Hugs Pink - Kikka Boo;VITRINE
 FATURAMENTO VD RJ;96.35;111.06;8.09.169.02.10;Forro Acolchoado para Carrinho Anti-Sweat Seally Me Grey - Kikka Boo;VITRINE
 FATURAMENTO VD RJ;96.34;111.06;8.09.169.03.11;Forro Acolchoado para Carrinho Anti-Sweat Sleepy Sheep Mint - Kikka Boo;VITRINE
@@ -3758,9 +3758,9 @@ FATURAMENTO VD RJ;17.23;24.03;8.12.01.14.01;Protetor Solar Retrátil Safety 1st 
 FATURAMENTO VD RJ;53.01;74.89;8.12.01.15.01;Protetor de Banco TT Black Safety 1st;VITRINE
 FATURAMENTO VD RJ;53.01;74.89;8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;41.61;41.61;8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;BB TOTAL
-FATURAMENTO VD RJ;113.16;157.87;8.12.01.18.06;Grade de Porta Stop Gate Safety 1st White;VITRINE
+FATURAMENTO VD RJ;112.53;156.94;8.12.01.18.06;Grade de Porta Stop Gate Safety 1st White;VITRINE
 FULFILLMENT AMAZON;113.05;157.66;8.12.01.18.06;Grade de Porta Stop Gate Safety 1st White;VITRINE
-FATURAMENTO VD RJ;113.16;157.87;8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;VITRINE
+FATURAMENTO VD RJ;112.53;156.94;8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;VITRINE
 FULFILLMENT AMAZON;113.05;157.66;8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;VITRINE
 FULFILLMENT MELI;113.05;157.66;8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;78.86;78.86;8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;BB TOTAL
@@ -4531,6 +4531,7 @@ FATURAMENTO BBTOTAL ES;40.53;40.53;8.25.01.21.07;Pulseira de Segurança Watch Az
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.21.07;Pulseira de segurança Watch Safety 1st - Azul;VITRINE
 FATURAMENTO VD RJ;26.48;37.41;8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;18.71;18.71;8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;BB TOTAL
+FATURAMENTO VD RJ;26.48;37.41;8.25.01.22.18;Pulseira de segurança Unicorn Safety 1st - Rosa;VITRINE
 FATURAMENTO VD RJ;24.2;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança para Gestantes Black - Safety 1st;VITRINE
 FATURAMENTO VD RJ;24.2;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança para Gestantes Safety 1st - Black;VITRINE
 FATURAMENTO VD RJ;55.52;76.46;8.25.01.24.06;Dispenser Automático para Álcool Gel 300 ml White - Safety 1st;VITRINE
@@ -4857,6 +4858,7 @@ FATURAMENTO BBTOTAL ES;3.04;3.04;8.25.57.150.69;Prendedor De Chupeta Animal Fun 
 FATURAMENTO VD ES;14.75;17.01;8.25.57.155.06;Protetor Absorvente Lavável Para Seios - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;8.89;8.89;8.25.57.155.06;Protetor Absorvente Lavável Para Seios - Buba;BB TOTAL
 FATURAMENTO VD RJ;14.75;15.36;8.25.57.155.06;Protetor Absorvente Lavável Para Seios - Buba;VITRINE
+FATURAMENTO VD RJ;10.94;11.43;8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;VITRINE
 FATURAMENTO VD RJ;9.5;10.9;8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;VITRINE
 FATURAMENTO VD ES;9.5;10.9;8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;VITRINE
 FATURAMENTO VD RJ;7.38;8.39;8.25.57.161.00;Lavador Nasal Infantl e Adulto 250 ml Incolor - Buba;VITRINE
@@ -5887,7 +5889,6 @@ FATURAMENTO VD ES;33.96;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base 
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;33.96;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;84.24;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
-FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;84.24;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;67.11;67.11;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;BB TUDO
@@ -7278,8 +7279,8 @@ FATURAMENTO VD RJ;24.03;24.03;8.12.01.14.01;Protetor Solar Retrátil Para Carro 
 FATURAMENTO VD RJ;24.03;24.03;8.12.01.14.01;Protetor Solar Retrátil Safety 1st Black;BB TUDO
 FATURAMENTO VD RJ;74.89;74.89;8.12.01.15.01;Protetor de Banco TT Black Safety 1st;BB TUDO
 FATURAMENTO VD RJ;74.89;74.89;8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;157.87;157.87;8.12.01.18.06;Grade de Porta Stop Gate Safety 1st White;BB TUDO
-FATURAMENTO VD RJ;157.87;157.87;8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;156.94;156.94;8.12.01.18.06;Grade de Porta Stop Gate Safety 1st White;BB TUDO
+FATURAMENTO VD RJ;156.94;156.94;8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;156.87;156.87;8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;156.87;156.87;8.12.01.19.01;Grade de Porta Stop Gate Safety 1st Black;BB TUDO
 FATURAMENTO VD RJ;41.58;41.58;8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;BB TUDO
@@ -7795,6 +7796,7 @@ FATURAMENTO VD RJ;29.85;29.85;8.25.01.20.18;Kit Cuidados do Bebê Pink - Safety 
 FATURAMENTO VD RJ;37.41;37.41;8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;37.41;37.41;8.25.01.21.07;Pulseira de segurança Watch Safety 1st - Azul;BB TUDO
 FATURAMENTO VD RJ;37.41;37.41;8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;37.41;37.41;8.25.01.22.18;Pulseira de segurança Unicorn Safety 1st - Rosa;BB TUDO
 FATURAMENTO VD RJ;34.18;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança para Gestantes Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;34.18;34.18;8.25.01.23.01;Adaptador de Cinto de Segurança para Gestantes Safety 1st - Black;BB TUDO
 FATURAMENTO VD RJ;76.46;76.46;8.25.01.24.06;Dispenser Automático para Álcool Gel 300 ml White - Safety 1st;BB TUDO
@@ -8002,6 +8004,7 @@ FATURAMENTO VD RJ;11.21;11.21;8.25.57.147.16;Massageador De Gengiva Milho - Buba
 FATURAMENTO VD RJ;6.07;6.07;8.25.57.150.69;Prendedor De Chupeta Animal Fun Girafa - Buba;BB TUDO
 FATURAMENTO VD ES;17.01;17.01;8.25.57.155.06;Protetor Absorvente Lavável Para Seios - Buba;BB TUDO
 FATURAMENTO VD RJ;15.36;15.36;8.25.57.155.06;Protetor Absorvente Lavável Para Seios - Buba;BB TUDO
+FATURAMENTO VD RJ;11.43;11.43;8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;BB TUDO
 FATURAMENTO VD RJ;10.9;10.9;8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;BB TUDO
 FATURAMENTO VD ES;10.9;10.9;8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;BB TUDO
 FATURAMENTO VD RJ;8.39;8.39;8.25.57.161.00;Lavador Nasal Infantl e Adulto 250 ml Incolor - Buba;BB TUDO
