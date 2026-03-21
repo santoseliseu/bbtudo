@@ -35,8 +35,8 @@ FATURAMENTO VD RJ;120.19;137.32;21.14.46.32.06;Cadeira Bertoia Cromada Com Almof
 FATURAMENTO VD ES;154.98;177.07;21.14.46.320.01;Cadeira Viena Alta Preta;VITRINE
 FATURAMENTO VD RJ;154.98;177.07;21.14.46.320.01;Cadeira Viena Alta Preta;VITRINE
 FATURAMENTO VD RJ;373.23;426.42;21.14.46.396.12;Cadeira Esteirinha Alta Pu Creme Base Rodízio;VITRINE
-FATURAMENTO VD RJ;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
 FATURAMENTO VD ES;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
+FATURAMENTO VD RJ;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.07.00;Cadeira Eames  Azul Bic;VITRINE
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.07.00;Cadeira Eames  Azul Bic;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.14.50.08.00;Conjunto 2 Cadeiras Eames  Azul Bic;VITRINE
@@ -114,8 +114,8 @@ FATURAMENTO VD ES;28.75;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base E
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;70.78;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD ES;55.49;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;VITRINE
-FATURAMENTO VD ES;49.79;59.26;21.14.50.13.00;Cadeira Eames  Branca;VITRINE
 FATURAMENTO VD RJ;49.79;59.26;21.14.50.13.00;Cadeira Eames  Branca;VITRINE
+FATURAMENTO VD ES;49.79;59.26;21.14.50.13.00;Cadeira Eames  Branca;VITRINE
 FATURAMENTO VD ES;348.84;410.94;21.14.50.1339.10;Conjunto Com 2 Cadeiras Saarinen Office Konkret  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;73.35;86.4;21.14.50.1344.16;Conjunto com 2 Cadeiras Eames Amarelo Lumi;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1345.16;Conjunto com 4 Cadeiras Eames Amarelo Lumi;VITRINE
@@ -167,7 +167,6 @@ FATURAMENTO VD RJ;99.58;118.52;21.14.50.35.00;Conjunto 2 Cadeiras Eames  Preto;V
 FATURAMENTO VD RJ;199.16;237.04;21.14.50.36.00;Conjunto 4 Cadeiras Eames  Preto;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.37.00;Cadeira Eames Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;51.25;60.37;21.14.50.376.00;Cadeira Eames Eiffel Azul Bic  Base Aço Cromado;VITRINE
-FATURAMENTO VD ES;194.58;229.22;21.14.50.377.00;Conjunto Com 2 Cadeiras Eames Eiffel Azul Bic  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;51.25;60.37;21.14.50.394.00;Cadeira Eames Eiffel Branco  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;102.49;120.73;21.14.50.419.00;Conjunto Com 2 Cadeiras Eames Eiffel Fendi  Base Aço Cromado;VITRINE
 FATURAMENTO VD RJ;70.17;83.42;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
@@ -516,7 +515,6 @@ FATURAMENTO VD ES;118.8;132.37;24.11.175.15.06;Persiana Premier Pvc 25Mm 160X160
 FATURAMENTO VD ES;95.94;110.6;24.11.175.152.57;Persiana Soft Linho Rolo 140X160 Bege;VITRINE
 FATURAMENTO VD ES;94.23;108.63;24.11.175.154.57;Persiana Soft Linho Rolo 100X220 Bege;VITRINE
 FATURAMENTO VD ES;131.93;152.08;24.11.175.155.57;Persiana Soft Linho Rolo 140X220 Bege;VITRINE
-FATURAMENTO VD ES;179.31;205.82;24.11.175.156.57;Persiana Soft Linho Rolo 180X220 Bege;VITRINE
 FATURAMENTO VD ES;150.77;173.8;24.11.175.158.57;Persiana Soft Linho Rolo 160X220 Bege;VITRINE
 FATURAMENTO VD ES;82.24;94.8;24.11.175.159.57;Persiana Soft Linho Rolo 120X160 Bege;VITRINE
 FATURAMENTO VD ES;109.64;126.4;24.11.175.160.57;Persiana Soft Linho Rolo 160X160 Bege;VITRINE
@@ -1166,7 +1164,6 @@ FATURAMENTO VD ES;5.71;6.47;24.56.159.99.00;Taça para Água de Cristal Palm 240
 FATURAMENTO VD ES;21.59;24.46;24.56.66.10.00;Jogo de 2 Pratos para Sobremesa Wolff Pétala de Porcelana Bege Jogo de0cm;VITRINE
 FATURAMENTO VD ES;25.13;28.47;24.56.66.154.06;Jogo de 4 Pratos Wolff Heart  Beads de Porcelana Branco 17cm x 15cm x 2cm;VITRINE
 FATURAMENTO VD ES;9.08;10.29;24.56.66.155.00;Jogo de 4 Pratos Wolff Heart  Beads de Porcelana Rose 12cm x 10cm x 1cm;VITRINE
-FATURAMENTO VD ES;17.44;19.88;24.56.66.159.00;Jogo de 4 Pratos Wolff Heart Beads de Porcelana Rose 17cm x 15cm x 2cm;VITRINE
 FATURAMENTO VD ES;10.54;11.99;24.56.66.161.00;Jogo de 4 Pratos Wolff Heart Pearl de Cristal 3cm x 10,5cm x 1,5cm;VITRINE
 FATURAMENTO VD ES;13.66;15.53;24.56.66.162.00;Jogo de 4 Pratos Wolff Heart Pearl de Cristal Âmbar 17cm x 14,5cm x 1,5cm;VITRINE
 FATURAMENTO VD ES;10.18;11.58;24.56.66.163.00;Jogo de 4 Pratos Wolff Pearl de Cristal 10cm;VITRINE
@@ -1253,7 +1250,6 @@ FATURAMENTO VD ES;33.59;38.55;24.57.163.04.00;Bowl Canelado de Bambu 15Cm - Oiko
 FATURAMENTO VD ES;38.82;44.56;24.57.163.05.00;Jarra De Vidro Com Tampa De Bambu 2L - Oikos;VITRINE
 FATURAMENTO VD ES;69.67;79.96;24.57.163.07.00;Bandeja De Acácia Arredondada 40Cm - Oikos;VITRINE
 FATURAMENTO VD ES;7.59;8.71;24.57.66.04.00;Porta Guardanapos Wolff de Sisal 12cm x 6cm x 8cm;VITRINE
-FATURAMENTO VD ES;51.4;58.23;24.57.66.08.06;Sousplat Wolff Daisy de Porcelana Branco;VITRINE
 FATURAMENTO VD ES;23.64;28.9;24.57.66.135.05;Jogo de 4 Anéis para Guardanapos Wolff Laço Prata de Metal 5,5cm;VITRINE
 FATURAMENTO VD ES;59.78;67.73;24.57.66.162.00;Jogo de 4 Mini Panelas quadradas Wolff de Porcelana Coloridas 12cm 150ml;VITRINE
 FATURAMENTO VD ES;18.87;21.47;24.57.66.17.00;Queijeira Wolff Daisy de Cristal 19,5cm x 13cm;VITRINE
@@ -1683,7 +1679,6 @@ FATURAMENTO BBTOTAL ES;69.17;69.17;8.02.23.03.01;Base para Bebê Conforto Zion P
 FATURAMENTO VD RJ;207.41;258.6;8.02.68.01.01;Base com Isofix para Bebê Conforto - Litet;VITRINE
 FATURAMENTO BBTOTAL ES;129.3;129.3;8.02.68.01.01;Base com Isofix para Bebê Conforto - Litet;BB TOTAL
 FATURAMENTO VD RJ;207.41;258.6;8.02.68.01.01;Base com Isofix para Bebê Conforto Litet;VITRINE
-FATURAMENTO BBTOTAL ES;129.3;129.3;8.02.68.01.01;Base com Isofix para Bebê Conforto Litet;BB TOTAL
 FATURAMENTO VD RJ;467.15;536.22;8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;VITRINE
 FULFILLMENT AMAZON;70.73;80.37;8.03.01.01.27;Almofada Extra para Carrinhos SafeComfort Grey - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;33.92;40.19;8.03.01.01.27;Almofada Extra para Carrinhos SafeComfort Grey - Safety 1st;BB TOTAL
@@ -1741,7 +1736,6 @@ FATURAMENTO VD RJ;1282.77;1788.95;8.03.02.24.01;Bebê Conforto Pebble 360 com Ba
 FULFILLMENT MELI;1282.77;1788.95;8.03.02.24.01;Bebê Conforto Pebble 360 com Base FamilyFix 360 Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;754.92;894.48;8.03.02.24.01;Bebê Conforto Pebble 360 com Base FamilyFix 360 Essential Black - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1282.77;1788.95;8.03.02.24.01;Bebê Conforto Pebble 360º com Base FamilyFix Maxi-Cosi 0 a 13 kg Essential Black;VITRINE
-FULFILLMENT MELI;1282.77;1788.95;8.03.02.24.01;Bebê Conforto Pebble 360º com Base FamilyFix Maxi-Cosi 0 a 13 kg Essential Black;VITRINE
 FATURAMENTO VD RJ;1541.3;2149.5;8.03.02.25.01;Bebê Conforto Coral 360 com Base FamilyFix 360 Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1282.77;1788.95;8.03.02.26.10;Bebê Conforto Pebble 360 com Base FamilyFix 360 Twilic Grey - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;754.92;894.48;8.03.02.26.10;Bebê Conforto Pebble 360 com Base FamilyFix 360 Twilic Grey - Maxi-Cosi;BB TOTAL
@@ -2526,7 +2520,6 @@ FULFILLMENT MAGALU;339.45;472.37;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36
 FATURAMENTO VD RJ;26.11;36.42;8.07.03.18.01;Assento de Elevação Booster Vibe 15 a 36 Kg Preto - Voyage;VITRINE
 FATURAMENTO BBTOTAL ES;18.21;18.21;8.07.03.18.01;Assento de Elevação Booster Vibe 15 a 36 Kg Preto - Voyage;BB TOTAL
 FATURAMENTO VD RJ;26.11;36.42;8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;VITRINE
-FATURAMENTO VD RJ;26.11;36.42;8.07.03.19.10;Assento de Elevação Booster Vibe Voyage 15 a 36 kg Cinza;VITRINE
 FATURAMENTO VD RJ;365.43;509.62;8.07.03.20.47;Cadeira Legacy Voyage - Preta e Cinza;VITRINE
 FULFILLMENT AMAZON;406.03;566.24;8.07.03.20.47;Cadeira Legacy Voyage - Preta e Cinza;VITRINE
 FATURAMENTO VD RJ;365.43;509.62;8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;VITRINE
@@ -3222,7 +3215,6 @@ FATURAMENTO VD RJ;1003.92;1400.07;8.09.04.75.68;Carrinho com Bebê Conforto Trav
 FATURAMENTO BBTOTAL ES;641.81;641.81;8.09.04.75.68;Carrinho com Bebê Conforto Travel System Poppy Trio Rosa Mescla - Cosco;BB TOTAL
 FATURAMENTO VD RJ;1003.92;1400.07;8.09.04.75.68;Travel System Poppy Trio Cosco - Rosa Mescla;VITRINE
 FATURAMENTO VD RJ;612.59;854.3;8.09.04.76.01;Carrinho com Bebê Conforto Travel System Jetty Duo Preto Mescla - Cosco;VITRINE
-FATURAMENTO VD RJ;612.59;854.3;8.09.04.76.01;Travel System Jetty Duo Cosco Preto Mescla;VITRINE
 FATURAMENTO VD RJ;430.12;599.82;8.09.04.77.10;Carrinho com Bebê Conforto Travel System Jetty Duo Cinza Mescla - Cosco;VITRINE
 FULFILLMENT AMAZON;408.61;569.83;8.09.04.78.18;Carrinho com Bebê Conforto Travel System Jetty Duo Rosa Mescla - Cosco;VITRINE
 FULFILLMENT AMAZON;408.61;569.83;8.09.04.78.18;Travel System Jetty Duo Cosco Rosa Mescla;VITRINE
@@ -4692,7 +4684,6 @@ FATURAMENTO VD RJ;11.53;14.9;8.25.179.01.06;Lenço Repelente com Aloe Vera Com 1
 FATURAMENTO VD RJ;11.43;14.9;8.25.179.02.17;Seringa Tira Picada Laranja - Bug Boom;VITRINE
 FATURAMENTO VD RJ;11.43;14.9;8.25.179.03.18;Seringa Tira Picada Laranja Rosa - Bug Boom;VITRINE
 FATURAMENTO VD RJ;11.73;14.9;8.25.179.04.11;Seringa Tira Picada Laranja Verde - Bug Boom;VITRINE
-FATURAMENTO VD RJ;35.36;49.94;8.25.23.10.07;Manta Infanti Azul;VITRINE
 FATURAMENTO VD RJ;35.36;49.94;8.25.23.10.07;Manta Infantil M Azul - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;21.75;24.97;8.25.23.11.18;Manta Infantil M Rosa - Infanti;BB TOTAL
 FATURAMENTO VD RJ;35.36;49.94;8.25.23.11.18;Manta Infantil M Rosa - Infanti;VITRINE
@@ -4765,7 +4756,6 @@ FATURAMENTO BBTOTAL ES;8.99;8.99;8.25.53.37.00;Escova e Pente de Cerdas Naturais
 FATURAMENTO VD RJ;53.8;57.79;8.25.53.38.00;Escova e Pente de Cerdas Naturais Azul - Chicco;VITRINE
 FATURAMENTO VD ES;51.2;53.33;8.25.53.38.00;Escova e Pente de Cerdas Naturais Azul - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;25.38;29.14;8.25.53.38.00;Escova e Pente de Cerdas Naturais Azul - Chicco;BB TOTAL
-FATURAMENTO VD RJ;53.8;57.79;8.25.53.38.00;Escova e Pente de Cerdas Naturais Chicco Azul;VITRINE
 FATURAMENTO VD RJ;7.24;8.2;8.25.53.40.00;Refil Para Aspirador Nasal Physioclean Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;4.1;4.1;8.25.53.40.00;Refil Para Aspirador Nasal Physioclean Chicco;BB TOTAL
 FATURAMENTO VD RJ;9.34;9.72;8.25.53.41.00;Aspirador Nasal Physioclean Verde - Chicco;VITRINE
@@ -6577,7 +6567,6 @@ FATURAMENTO VD RJ;537.93;537.93;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 
 FATURAMENTO VD RJ;537.93;537.93;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36kg Voyage Preto;BB TUDO
 FATURAMENTO VD RJ;36.42;36.42;8.07.03.18.01;Assento de Elevação Booster Vibe 15 a 36 Kg Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;36.42;36.42;8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;BB TUDO
-FATURAMENTO VD RJ;36.42;36.42;8.07.03.19.10;Assento de Elevação Booster Vibe Voyage 15 a 36 kg Cinza;BB TUDO
 FATURAMENTO VD RJ;509.62;509.62;8.07.03.20.47;Cadeira Legacy Voyage - Preta e Cinza;BB TUDO
 FATURAMENTO VD RJ;509.62;509.62;8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;BB TUDO
 FATURAMENTO VD RJ;351.1;351.1;8.07.04.02.01;Cadeirinha para Carro Tour 9 a 36 kg Preto Bronze - Cosco Kids;BB TUDO
@@ -6978,7 +6967,6 @@ FATURAMENTO VD RJ;1400.07;1400.07;8.09.04.74.68;Travel System Poppy Trio Cosco -
 FATURAMENTO VD RJ;1400.07;1400.07;8.09.04.75.68;Carrinho com Bebê Conforto Travel System Poppy Trio Rosa Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;1400.07;1400.07;8.09.04.75.68;Travel System Poppy Trio Cosco - Rosa Mescla;BB TUDO
 FATURAMENTO VD RJ;854.3;854.3;8.09.04.76.01;Carrinho com Bebê Conforto Travel System Jetty Duo Preto Mescla - Cosco;BB TUDO
-FATURAMENTO VD RJ;854.3;854.3;8.09.04.76.01;Travel System Jetty Duo Cosco Preto Mescla;BB TUDO
 FATURAMENTO VD RJ;599.82;599.82;8.09.04.77.10;Carrinho com Bebê Conforto Travel System Jetty Duo Cinza Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;569.83;569.83;8.09.04.78.18;Travel System Jetty Duo Cosco Rosa Mescla;BB TUDO
 FATURAMENTO VD RJ;375.75;375.75;8.09.04.83.10;Carrinho de Bebê Jetty Cinza Mescla - Cosco;BB TUDO
@@ -7904,7 +7892,6 @@ FATURAMENTO VD RJ;14.9;14.9;8.25.179.01.06;Lenço Repelente com Aloe Vera Com 16
 FATURAMENTO VD RJ;14.9;14.9;8.25.179.02.17;Seringa Tira Picada Laranja - Bug Boom;BB TUDO
 FATURAMENTO VD RJ;14.9;14.9;8.25.179.03.18;Seringa Tira Picada Laranja Rosa - Bug Boom;BB TUDO
 FATURAMENTO VD RJ;14.9;14.9;8.25.179.04.11;Seringa Tira Picada Laranja Verde - Bug Boom;BB TUDO
-FATURAMENTO VD RJ;49.94;49.94;8.25.23.10.07;Manta Infanti Azul;BB TUDO
 FATURAMENTO VD RJ;49.94;49.94;8.25.23.10.07;Manta Infantil M Azul - Infanti;BB TUDO
 FATURAMENTO VD RJ;49.94;49.94;8.25.23.11.18;Manta Infantil M Rosa - Infanti;BB TUDO
 FATURAMENTO VD RJ;28.45;28.45;8.25.23.15.00;Toalha com Capuz Balão - Infanti;BB TUDO
@@ -7947,7 +7934,6 @@ FATURAMENTO VD RJ;53.5;53.5;8.25.53.37.00;Escova e Pente de Cerdas Naturais Chic
 FATURAMENTO VD RJ;53.5;53.5;8.25.53.37.00;Escova e Pente de Cerdas Naturais Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;57.79;57.79;8.25.53.38.00;Escova e Pente de Cerdas Naturais Azul - Chicco;BB TUDO
 FATURAMENTO VD ES;53.33;53.33;8.25.53.38.00;Escova e Pente de Cerdas Naturais Azul - Chicco;BB TUDO
-FATURAMENTO VD RJ;57.79;57.79;8.25.53.38.00;Escova e Pente de Cerdas Naturais Chicco Azul;BB TUDO
 FATURAMENTO VD RJ;8.2;8.2;8.25.53.40.00;Refil Para Aspirador Nasal Physioclean Chicco;BB TUDO
 FATURAMENTO VD RJ;9.72;9.72;8.25.53.41.00;Aspirador Nasal Physioclean Verde - Chicco;BB TUDO
 FATURAMENTO VD RJ;54.08;54.08;8.25.53.45.00;Conjunto de Higiene Meu Primeiro Beauty Set Chicco Rosa;BB TUDO
