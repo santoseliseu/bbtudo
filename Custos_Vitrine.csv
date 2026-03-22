@@ -1207,7 +1207,6 @@ FATURAMENTO VD ES;28.9;32.53;24.56.66.485.00;Aparelho de Fondue 4 Peças de Porc
 FATURAMENTO VD ES;31.68;36.03;24.56.66.486.00;Aparelho de Fondue 4 Peças de Porcelana Coração para Duas Pessoas Vermelho 400ml - Wolff;VITRINE
 FATURAMENTO VD ES;16.14;18.36;24.56.66.49.00;Jogo de 4 Pratos Wolff Pearl de Cristal Âmbar 14cm;VITRINE
 FATURAMENTO VD ES;13.17;14.98;24.56.66.53.00;Jogo de 4 Bowls Wolff Pearl de Cristal Âmbar 9cm;VITRINE
-FATURAMENTO VD ES;8.63;9.82;24.56.66.56.18;Prato Wolff Pearl de Cristal Rosa 30cm x 25cm x 2cm;VITRINE
 FATURAMENTO VD ES;5.21;5.92;24.56.66.583.10;Prato De Sobremesa De Melamina Class Cinza 21,5Cm;VITRINE
 FATURAMENTO VD ES;5.08;5.78;24.56.66.584.01;Prato De Sobremesa De Melamina Class Preto 21,5Cm;VITRINE
 FATURAMENTO VD ES;1.4;1.6;24.56.66.585.57;Prato Para Pão De Melamina Class Bege 15Cm;VITRINE
@@ -2474,7 +2473,6 @@ FULFILLMENT MELI;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º S
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Grey Urban - Safety 1st;VITRINE
 FULFILLMENT MELI;971.97;1239.49;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Grey Urban - Safety 1st;VITRINE
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º Safety 1st  0 a 36 Kg Grey Urban;VITRINE
-FULFILLMENT MELI;971.97;1239.49;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º Safety 1st  0 a 36 Kg Grey Urban;VITRINE
 FATURAMENTO VD RJ;187.61;261.65;8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;130.83;130.83;8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;187.61;261.65;8.07.01.35.01;Assento de Elevação Booster Trackfix Safety 1st 15 a 36 Kg Black;VITRINE
@@ -3398,7 +3396,6 @@ FATURAMENTO VD RJ;358.05;419.5;8.09.28.86.07;Carrinho de Bebê Romano Azul - Gal
 FATURAMENTO VD ES;358.05;419.5;8.09.28.86.07;Carrinho de Bebê Romano Azul - Galzerano;VITRINE
 FATURAMENTO VD RJ;358.04;419.5;8.09.28.87.01;Carrinho de Bebê Romano Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;520.39;609.71;8.09.28.88.01;Carrinho com Bebê Conforto Travel System Romano Preto e Cobre - Galzerano;VITRINE
-FATURAMENTO VD RJ;68.67;92.43;8.09.30.33.01;Barra Frontal para Carrinho Zapp X Quinny - Black;VITRINE
 FATURAMENTO VD RJ;559.9;633.38;8.09.39.07.01;Carrinho de Bebê It Preto - Burigotto;VITRINE
 FATURAMENTO BBTOTAL ES;315.85;315.85;8.09.39.08.10;Carrinho de Bebê It Cinza - Burigotto;BB TOTAL
 FATURAMENTO VD RJ;563.64;631.7;8.09.39.08.10;Carrinho de Bebê It Cinza - Burigotto;VITRINE
@@ -4030,8 +4027,6 @@ FATURAMENTO VD RJ;2.4;3.12;8.24.23.09.16;Copo Infantil 200 ml Amarelo - Infanti;
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.09.16;Copo Infantil 200 ml Infanti Amarelo;VITRINE
 FATURAMENTO VD RJ;2.41;3.12;8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.56;1.21;8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;BB TOTAL
-FATURAMENTO VD RJ;2.41;3.12;8.24.23.10.07;Copo Infantil 200 ml Infanti Azul Escuro;VITRINE
-FATURAMENTO BBTOTAL ES;1.56;1.21;8.24.23.10.07;Copo Infantil 200 ml Infanti Azul Escuro;BB TOTAL
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.11.07;Copo Infantil 200 ml Azul Claro - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.56;1.56;8.24.23.11.07;Copo Infantil 200 ml Azul Claro - Infanti;BB TOTAL
 FATURAMENTO VD RJ;6.93;9.03;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Colorido - Infanti;VITRINE
@@ -5872,7 +5867,6 @@ FATURAMENTO BBTOTAL ES;99.75;99.75;8.67.23.02.18;Andador Infantil Appia Rosa - I
 FATURAMENTO VD RJ;322.31;449.5;8.67.33.01.07;Andador e Centro de Atividades Here I Grow Magical Tales 4 em 1 Branco e Azul - Tiny Love;VITRINE
 FATURAMENTO VD RJ;194.66;268.24;8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;158.16;220.56;8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;VITRINE
-FATURAMENTO VD RJ;158.16;220.56;8.67.33.03.00;Triciclo de Madeira Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;156.52;178.06;8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;VITRINE
 FATURAMENTO VD ES;41.72;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;41.72;41.72;21.14.50.118.00;Cadeira Eames Infantil Azul Claro  Base Em Madeira;BB TUDO
@@ -7487,7 +7481,6 @@ FATURAMENTO VD RJ;3.12;3.12;8.24.23.08.110;Copo Infantil 200 ml Infanti Bordô;B
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.09.16;Copo Infantil 200 ml Amarelo - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.09.16;Copo Infantil 200 ml Infanti Amarelo;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.12;3.12;8.24.23.10.07;Copo Infantil 200 ml Infanti Azul Escuro;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.11.07;Copo Infantil 200 ml Azul Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;9.03;9.03;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Colorido - Infanti;BB TUDO
 FATURAMENTO VD RJ;9.03;9.03;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Infanti Colorido;BB TUDO
@@ -8668,5 +8661,4 @@ FATURAMENTO VD RJ;199.5;199.5;8.67.23.02.18;Andador Infantil Appia Rosa - Infant
 FATURAMENTO VD RJ;449.5;449.5;8.67.33.01.07;Andador e Centro de Atividades Here I Grow Magical Tales 4 em 1 Branco e Azul - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;268.24;268.24;8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;220.56;220.56;8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;220.56;220.56;8.67.33.03.00;Triciclo de Madeira Boho Chic - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;178.06;178.06;8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;BB TUDO
