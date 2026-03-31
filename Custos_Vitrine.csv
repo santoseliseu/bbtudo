@@ -1033,6 +1033,7 @@ FATURAMENTO VD ES;13.16;14.9;24.54.66.389.04;"Kit 2 Copos Whisky Vidro Borda Dou
 ";VITRINE
 FATURAMENTO VD ES;38.81;43.96;24.54.66.39.07;Jogo de 6 Taças de Água Wolff Greek Azul Escuro de Vidro 320ml;VITRINE
 FATURAMENTO VD RJ;38.4;43.51;24.54.66.39.07;Jogo de 6 Taças de Água Wolff Greek Azul Escuro de Vidro 320ml;VITRINE
+FATURAMENTO VD ES;38.81;43.96;24.54.66.39.07;Jogo de 6 Taças de Água Wolff Greek Azul Escuro de Vidro 345ml;VITRINE
 FATURAMENTO VD ES;31.29;35.45;24.54.66.390.04;"Kit 2 Taças Coupe Vidro Borda Dourada Spike 200ml Wolff
 
 
@@ -1850,7 +1851,7 @@ FATURAMENTO VD RJ;1346.5;1538.41;8.03.76.10.10;Bebê Conforto Sprint Com Isofix 
 FATURAMENTO VD RJ;506.12;580.94;8.03.84.01.01;Bebê Conforto Artio Satin Black - GB;VITRINE
 FATURAMENTO VD RJ;293.12;408.79;8.04.01.01.01;Berço Compacto Mini Play Black - Safety 1st;VITRINE
 FATURAMENTO VD RJ;668.77;932.67;8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;VITRINE
-FATURAMENTO VD RJ;668.79;932.67;8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;VITRINE
+FATURAMENTO VD RJ;668.78;932.67;8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;VITRINE
 FATURAMENTO VD RJ;293.45;409.23;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;VITRINE
 FULFILLMENT MELI;293.86;409.78;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;VITRINE
 FULFILLMENT AMAZON;293.15;408.83;8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;VITRINE
@@ -2099,10 +2100,12 @@ FULFILLMENT MELI;262.21;365.66;8.05.01.17.57;Moisés Portátil Dreamy Beige - Sa
 FATURAMENTO VD RJ;296.51;413.52;8.05.01.18.27;Andador Infantil Space 3 em 1 Grey - Safety 1st;VITRINE
 FATURAMENTO VD RJ;298.54;413.52;8.05.01.19.17;Andador Infantil Space 3 em 1 Laranja - Safety 1st;VITRINE
 FATURAMENTO VD RJ;298.54;413.52;8.05.01.19.17;Andador Space Safety 1st Laranja;VITRINE
+FULFILLMENT MAGALU;269.98;375.95;8.05.02.05.80;Cadeira de Dencanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;271.39;378.47;8.05.02.05.80;Cadeira de Dencanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
+FULFILLMENT MAGALU;269.98;375.95;8.05.02.05.80;Cadeira de Dencanso Bouncer Kori Maxi-Cosi Essential Graphite;VITRINE
 FATURAMENTO VD RJ;271.39;378.47;8.05.02.05.80;Cadeira de Dencanso Bouncer Kori Maxi-Cosi Essential Graphite;VITRINE
-FATURAMENTO VD RJ;271.39;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MAGALU;269.98;375.95;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
+FATURAMENTO VD RJ;271.39;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;271.38;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;271.38;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;279.64;388.79;8.05.02.09.18;Cadeira de Descanso Bouncer Kori Essential Blush - Maxi-Cosi;VITRINE
