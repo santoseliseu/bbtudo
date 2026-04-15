@@ -131,7 +131,7 @@ FATURAMENTO VD ES;45.96;45.96;21.14.50.1357.01;Cadeira Allegra Berrini  Preta Se
 FATURAMENTO VD ES;91.92;91.92;21.14.50.1358.01;Conjunto 2 Cadeiras Allegra Berrini  Preta;VITRINE
 FATURAMENTO VD ES;147.07;147.07;21.14.50.1359.01;Conjunto 4 Cadeiras Allegra Berrini  Preta;VITRINE
 FATURAMENTO VD ES;168.81;198.86;21.14.50.1362.06;Conjunto com 4 Cadeiras Allegra Berrini  Branca;VITRINE
-FATURAMENTO VD ES;347.02;396.48;21.14.50.1363.57;Cadeira Allegra Berrini  Fendi SeatCo;VITRINE
+FATURAMENTO VD ES;86.75;99.12;21.14.50.1363.57;Cadeira Allegra Berrini  Fendi SeatCo;VITRINE
 FATURAMENTO VD ES;173.51;198.24;21.14.50.1364.57;Conjunto com 2 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;347.02;396.48;21.14.50.1365.57;Conjunto com 4 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;49.71;42.2;21.14.50.1378.10;Cadeira Allegra Berrini  Cinza Brasão;VITRINE
@@ -177,7 +177,7 @@ FATURAMENTO VD RJ;70.17;83.42;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRIN
 FATURAMENTO VD ES;78.95;98.09;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD RJ;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
-FATURAMENTO VD ES;288.24;343.04;21.14.50.463.00;Conjunto Com 4 Cadeiras Saarinen Wood Nude;VITRINE
+FATURAMENTO VD ES;342.0;392.36;21.14.50.463.00;Conjunto Com 4 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD RJ;288.24;343.04;21.14.50.463.00;Conjunto Com 4 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;85.5;98.09;21.14.50.464.00;Cadeira Saarinen Wood Branca;VITRINE
 FATURAMENTO VD RJ;62.19;68.86;21.14.50.464.00;Cadeira Saarinen Wood Branca;VITRINE
@@ -217,7 +217,7 @@ FATURAMENTO VD ES;102.5;120.74;21.14.50.571.00;Conjunto Com 2 Cadeiras Eames Tow
 FATURAMENTO VD ES;94.32;111.11;21.14.50.58.00;Cadeira com Braços Eames  Preto;VITRINE
 FATURAMENTO VD ES;51.25;60.37;21.14.50.588.00;Cadeira Eames Tower Azul Bic  Base Preta;VITRINE
 FATURAMENTO VD ES;100.48;118.36;21.14.50.59.00;Conjunto 2 Cadeiras com Braços Eames  Preto;VITRINE
-FATURAMENTO VD ES;107.44;115.53;21.14.50.61.00;Cadeira com Braços Eames  Branca;VITRINE
+FATURAMENTO VD ES;101.67;119.77;21.14.50.61.00;Cadeira com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;100.48;118.37;21.14.50.62.00;Conjunto 2 Cadeiras com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.64.00;Cadeira Eames Com Braço Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
@@ -429,6 +429,7 @@ FATURAMENTO VD ES;8.84;10.15;24.10.159.456.00;Cj 2 Descansos para Panela de Fibr
 FATURAMENTO VD ES;13.24;15.06;24.10.159.464.18;Garrafa Shaker 3 em 1 Performance Rosa 650ml - Lyor;VITRINE
 FATURAMENTO VD ES;11.42;12.99;24.10.159.49.00;Pote Hermético de Vidro Borossilicato com Tampa 640ml;VITRINE
 FATURAMENTO VD ES;4.95;5.63;24.10.159.50.00;Molheira de Cristal Dublin 140ml - Lyor;VITRINE
+FATURAMENTO VD ES;13.5;15.5;24.10.159.512.01;Ventilador Repelente Mesa Retrátil 8cm 26cm Preto Plástico;VITRINE
 FATURAMENTO VD ES;4.98;5.61;24.10.159.54.08;Garrafa de Azeite Vidro com Tampa Vermelha 270ml - Lyor;VITRINE
 FATURAMENTO VD ES;5.03;5.71;24.10.159.57.18;Pote de Vidro com Tampa de Acrílico Gastro Rosa 500ml;VITRINE
 FATURAMENTO VD ES;8.26;10.76;24.10.159.60.00;Sousplat de Plástico Balls 32cm - Lyor;VITRINE
