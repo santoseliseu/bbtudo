@@ -174,6 +174,7 @@ FATURAMENTO VD ES;51.25;60.37;21.14.50.394.00;Cadeira Eames Eiffel Branco  Base 
 FATURAMENTO VD ES;102.49;120.73;21.14.50.419.00;Conjunto Com 2 Cadeiras Eames Eiffel Fendi  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;59.29;69.84;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
 FATURAMENTO VD RJ;70.17;83.42;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
+FATURAMENTO VD RJ;72.06;85.76;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;78.95;98.09;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD RJ;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
@@ -327,7 +328,6 @@ FATURAMENTO VD ES;7.72;8.78;24.10.159.206.00;Garrafa para Azeite de Vidro com Ta
 FATURAMENTO VD ES;17.46;19.87;24.10.159.210.60;Saleiro de Parede Cerâmica e Tampa de Bambu Sweet Home 10cm;VITRINE
 FATURAMENTO VD ES;15.49;17.62;24.10.159.218.00;Pote Hermético de Vidro Borossilicato com tampa 1000L;VITRINE
 FATURAMENTO VD ES;4.33;4.93;24.10.159.219.00;Pote de Vidro com Tampa de Metal 200ml - Lyor;VITRINE
-FATURAMENTO VD ES;8.4;9.56;24.10.159.224.00;Pote Hermético de Vidro com Tampa Plástica 370ml;VITRINE
 FATURAMENTO VD ES;3.53;4.01;24.10.159.225.04;Pote de Vidro de Metal  e Acrílico Gastro Dourada 300Ml;VITRINE
 FATURAMENTO VD ES;13.5;15.3;24.10.159.238.08;Caçarola de Porcelana Farm Vermelha 14,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;4.08;4.64;24.10.159.243.08;Lugar Americano de PVC Coração Vermelho  38cm - Lyor;VITRINE
@@ -382,7 +382,6 @@ FATURAMENTO VD ES;30.67;34.89;24.10.159.331.00;Jarra de Vidro com Fio de Ouro Co
 FATURAMENTO VD ES;21.7;24.69;24.10.159.332.00;Manteigueira de Cristal Fio de Ouro Radial 18cmx10,5cmx 8cm;VITRINE
 FATURAMENTO VD ES;29.92;34.04;24.10.159.333.00;Queijeira de Cristal Fio de Ouro Radial 20cm x 12,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;11.1;12.63;24.10.159.334.00;Forma de Bolo com Furo Antiaderente Aço Carbono 24cm;VITRINE
-FATURAMENTO VD ES;53.29;60.62;24.10.159.338.10;Frigideira por Indução Wok em Cerâmica Granilete - Lyor;VITRINE
 FATURAMENTO VD ES;5.67;6.45;24.10.159.347.07;Sousplat de Plástico Opala Azul 33cm - Lyor;VITRINE
 FATURAMENTO VD ES;4.71;5.35;24.10.159.350.01;Pote de Vidro em Tampa Metal  Gastro Preta 300ml - Lyor;VITRINE
 FATURAMENTO VD ES;3.76;4.28;24.10.159.354.00;Espremedor de Limão Bird 12 x 2,5 x 5cm - Lyor;VITRINE
@@ -4441,8 +4440,8 @@ FATURAMENTO VD RJ;327.37;434.86;8.25.02.36.06;Umidificador Breathe White - Maxi-
 FULFILLMENT MELI;327.37;434.86;8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;327.52;435.04;8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;248.92;248.92;8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;BB TOTAL
-FATURAMENTO VD RJ;255.97;342.84;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;VITRINE
-FATURAMENTO VD RJ;255.97;342.84;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VITRINE
+FATURAMENTO VD RJ;256.28;343.55;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;VITRINE
+FATURAMENTO VD RJ;256.28;343.55;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;274.67;367.81;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VITRINE
 FULFILLMENT VISUAL IN;322.88;422.37;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VISUAL IN
 FULFILLMENT MELI;274.67;367.81;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;VITRINE
@@ -7639,8 +7638,8 @@ FATURAMENTO VD RJ;114.93;114.93;8.25.02.35.06;Luz De Berço Glow Bivolt White - 
 FATURAMENTO VD RJ;114.93;114.93;8.25.02.35.06;Luz de Berço Glow Maxi-Cosi White;BB TUDO
 FATURAMENTO VD RJ;434.86;434.86;8.25.02.36.06;Umidificador Breathe Maxi-Cosi White;BB TUDO
 FATURAMENTO VD RJ;434.86;434.86;8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;342.84;342.84;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;BB TUDO
-FATURAMENTO VD RJ;342.84;342.84;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;BB TUDO
+FATURAMENTO VD RJ;343.55;343.55;8.25.02.37.06;Babá Eletrônica See Maxi-Cosi White;BB TUDO
+FATURAMENTO VD RJ;343.55;343.55;8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;231.37;231.37;8.25.02.38.06;Luz e Som Maxi-Cosi White;BB TUDO
 FATURAMENTO VD RJ;231.37;231.37;8.25.02.38.06;Luz e Som Soothe White - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;231.37;231.37;8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;BB TUDO
