@@ -9,7 +9,7 @@ FATURAMENTO VD ES;476.1;546.19;21.14.175.21.01;Cadeira Xtreme Gamers Cinesis Ny 
 FATURAMENTO VD ES;269.11;308.72;21.14.175.23.01;Cadeira Giratoria Office Executive Em Malha Preta;VITRINE
 FATURAMENTO VD ES;61.2;70.21;21.14.175.30.57;Cadeira Eiffel Nude;VITRINE
 FATURAMENTO VD ES;171.8;197.1;21.14.175.32.01;Kit 2 Cadeiras Eames Wood Leda Preta;VITRINE
-FATURAMENTO VD ES;85.5;98.09;21.14.175.34.06;Cadeira Saarinen Wood Branca;VITRINE
+FATURAMENTO VD ES;93.35;98.09;21.14.175.34.06;Cadeira Saarinen Wood Branca;VITRINE
 FATURAMENTO VD ES;170.99;196.17;21.14.175.35.06;Kit 2 Cadeiras Eames Leda Branca;VITRINE
 FATURAMENTO VD ES;85.5;98.09;21.14.175.37.57;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;170.99;196.17;21.14.175.38.57;Kit 2 Cadeiras Eames Leda Nude;VITRINE
@@ -130,7 +130,7 @@ FATURAMENTO VD ES;45.96;45.96;21.14.50.1357.01;Cadeira Allegra Berrini  Preta Se
 FATURAMENTO VD ES;91.92;91.92;21.14.50.1358.01;Conjunto 2 Cadeiras Allegra Berrini  Preta;VITRINE
 FATURAMENTO VD ES;147.07;147.07;21.14.50.1359.01;Conjunto 4 Cadeiras Allegra Berrini  Preta;VITRINE
 FATURAMENTO VD ES;168.81;198.86;21.14.50.1362.06;Conjunto com 4 Cadeiras Allegra Berrini  Branca;VITRINE
-FATURAMENTO VD ES;86.75;99.12;21.14.50.1363.57;Cadeira Allegra Berrini  Fendi SeatCo;VITRINE
+FATURAMENTO VD ES;260.26;297.36;21.14.50.1363.57;Cadeira Allegra Berrini  Fendi SeatCo;VITRINE
 FATURAMENTO VD ES;173.51;198.24;21.14.50.1364.57;Conjunto com 2 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;347.02;396.48;21.14.50.1365.57;Conjunto com 4 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;49.71;42.2;21.14.50.1378.10;Cadeira Allegra Berrini  Cinza Brasão;VITRINE
@@ -173,8 +173,8 @@ FATURAMENTO VD ES;51.25;60.37;21.14.50.394.00;Cadeira Eames Eiffel Branco  Base 
 FATURAMENTO VD ES;102.49;120.73;21.14.50.419.00;Conjunto Com 2 Cadeiras Eames Eiffel Fendi  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;59.29;69.84;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
 FATURAMENTO VD RJ;70.17;83.42;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
-FATURAMENTO VD RJ;72.06;85.76;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;78.95;98.09;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
+FATURAMENTO VD RJ;72.06;85.76;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD RJ;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;342.0;392.36;21.14.50.463.00;Conjunto Com 4 Cadeiras Saarinen Wood Nude;VITRINE
@@ -222,8 +222,8 @@ FATURAMENTO VD ES;100.48;118.37;21.14.50.62.00;Conjunto 2 Cadeiras com Braços E
 FATURAMENTO VD ES;101.67;119.77;21.14.50.64.00;Cadeira Eames Com Braço Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
+FATURAMENTO VD ES;81.3;96.79;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
-FATURAMENTO VD ES;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
@@ -1120,7 +1120,6 @@ FATURAMENTO VD ES;35.26;40.1;24.57.159.09.00;Faqueiro 16 Peças de Aço Inox Bam
 FATURAMENTO VD ES;42.34;48.17;24.57.159.13.00;Faqueiro 24 Peças de Aço Inox Positano - Lyor;VITRINE
 FATURAMENTO VD ES;57.15;65.01;24.57.159.14.01;Faqueiro 24 Peças de Aço Inox Positano Preto;VITRINE
 FATURAMENTO VD ES;7.81;8.88;24.57.159.15.00;Manteigueira Francesa de Vidro Colméia 9,5cm x 8cm;VITRINE
-FATURAMENTO VD ES;44.79;50.95;24.57.159.17.04;Faqueiro 16 Peças de Aço Inox Athenas Dourado;VITRINE
 FATURAMENTO VD ES;29.41;33.46;24.57.159.19.08;Jogo 5 Utensílios de Cozinha Silicone com Suporte Vermelho;VITRINE
 FATURAMENTO VD ES;34.04;38.72;24.57.159.20.00;Faqueiro 16 Peças de Aço Inox Santorini;VITRINE
 FATURAMENTO VD ES;24.16;27.48;24.57.159.24.00;Travessa de Cristal com Pé Dragon 34cm x 15cm x 10,5cm;VITRINE
@@ -1746,8 +1745,8 @@ FULFILLMENT VISUAL IN;86.85;97.2;8.03.71.18.00;Almofada De Banho Patinho Joy Ama
 FATURAMENTO BBTOTAL ES;52.32;52.32;8.03.71.18.00;Almofada De Banho Patinho Joy Amarelo - Baby Pil;BB TOTAL
 FATURAMENTO VD RJ;60.2;68.57;8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;VITRINE
 FATURAMENTO BBTOTAL ES;34.29;34.29;8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;BB TOTAL
+FATURAMENTO VD RJ;60.97;69.04;8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;60.97;69.04;8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;VISUAL IN
-FATURAMENTO VD RJ;73.98;77.06;8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;VITRINE
 FATURAMENTO BBTOTAL ES;29.86;34.27;8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;BB TOTAL
 FULFILLMENT MAGALU;60.2;68.39;8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;VITRINE
 FATURAMENTO VD RJ;60.2;68.39;8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;VITRINE
@@ -6010,7 +6009,7 @@ FATURAMENTO VD RJ;95.91;95.91;8.03.71.17.00;Almofada De Banho Creme - Baby Pil;B
 FATURAMENTO VD ES;97.2;97.2;8.03.71.18.00;Almofada De Banho Patinho Joy Amarelo - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;97.2;97.2;8.03.71.18.00;Almofada De Banho Patinho Joy Amarelo - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;68.57;68.57;8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;BB TUDO
-FATURAMENTO VD RJ;77.06;77.06;8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;BB TUDO
+FATURAMENTO VD RJ;69.04;69.04;8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;68.39;68.39;8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;68.57;68.57;8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;196.02;196.02;8.03.74.01.10;Almofada para Bebê e Gestante 3 Em 1 Moon Grafite Kiddo;BB TUDO
