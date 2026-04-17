@@ -38,7 +38,7 @@ FATURAMENTO VD RJ;373.23;426.42;21.14.46.396.12;Cadeira Esteirinha Alta Pu Creme
 FATURAMENTO VD RJ;208.76;238.51;21.14.46.52.01;Cadeira De Jantar Glam Preta;VITRINE
 FATURAMENTO VD RJ;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
 FATURAMENTO VD ES;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
-FATURAMENTO VD ES;67.49;79.5;21.14.50.07.00;Cadeira Eames  Azul Bic;VITRINE
+FATURAMENTO VD ES;36.67;43.2;21.14.50.07.00;Cadeira Eames  Azul Bic;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.14.50.08.00;Conjunto 2 Cadeiras Eames  Azul Bic;VITRINE
 FATURAMENTO VD ES;269.96;318.0;21.14.50.09.00;Conjunto 4 Cadeiras Eames  Azul Bic;VITRINE
 FATURAMENTO VD ES;119.2;140.42;21.14.50.100.00;Cadeira Saarinen  Branco;VITRINE
@@ -61,7 +61,7 @@ FATURAMENTO VD ES;67.49;79.5;21.14.50.1080.00;Cadeira Eames Terracota  Base Em P
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.1080.00;Cadeira Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;73.34;86.4;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;269.95;318.01;21.14.50.1082.00;Conjunto Com 4 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
+FATURAMENTO VD ES;146.68;172.8;21.14.50.1082.00;Conjunto Com 4 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.1083.00;Cadeira Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;200.95;236.73;21.14.50.1085.00;Conjunto Com 4 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;118.57;139.68;21.14.50.110.00;Conjunto Com 2 Cadeiras Saarinen Preta  Base Em Madeira;VITRINE
@@ -131,7 +131,7 @@ FATURAMENTO VD ES;91.92;91.92;21.14.50.1358.01;Conjunto 2 Cadeiras Allegra Berri
 FATURAMENTO VD ES;147.07;147.07;21.14.50.1359.01;Conjunto 4 Cadeiras Allegra Berrini  Preta;VITRINE
 FATURAMENTO VD ES;168.81;198.86;21.14.50.1362.06;Conjunto com 4 Cadeiras Allegra Berrini  Branca;VITRINE
 FATURAMENTO VD ES;260.26;297.36;21.14.50.1363.57;Cadeira Allegra Berrini  Fendi SeatCo;VITRINE
-FATURAMENTO VD ES;173.51;198.24;21.14.50.1364.57;Conjunto com 2 Cadeiras Allegra Berrini  Fendi;VITRINE
+FATURAMENTO VD ES;92.43;108.89;21.14.50.1364.57;Conjunto com 2 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;347.02;396.48;21.14.50.1365.57;Conjunto com 4 Cadeiras Allegra Berrini  Fendi;VITRINE
 FATURAMENTO VD ES;49.71;42.2;21.14.50.1378.10;Cadeira Allegra Berrini  Cinza Brasão;VITRINE
 FATURAMENTO VD ES;92.44;108.89;21.14.50.1379.10;Conjunto de 2 Cadeiras  Allegra Berrini  Cinza Brasão;VITRINE
@@ -145,8 +145,8 @@ FATURAMENTO VD ES;264.7;311.82;21.14.50.270.00;Conjunto Com 2 Cadeiras Eames Eif
 FATURAMENTO VD ES;132.35;155.91;21.14.50.271.00;Cadeira Eames Eiffel Transparente  Base Preta;VITRINE
 FATURAMENTO VD RJ;132.35;155.91;21.14.50.271.00;Cadeira Eames Eiffel Transparente  Base Preta;VITRINE
 FATURAMENTO VD ES;268.81;311.82;21.14.50.272.00;Conjunto Com 2 Cadeiras Eames Eiffel Transparente  Base Preta;VITRINE
-FATURAMENTO VD ES;35.61;37.09;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
 FATURAMENTO VD RJ;50.91;60.43;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
+FATURAMENTO VD ES;35.61;37.09;21.14.50.28.00;Cadeira Eames  Fendi;VITRINE
 FATURAMENTO VD ES;115.7;136.28;21.14.50.29.00;Conjunto 2 Cadeiras Eames  Fendi;VITRINE
 FATURAMENTO VD ES;111.54;131.4;21.14.50.299.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Preta  Base Aço Cromado;VITRINE
 FATURAMENTO VD RJ;203.64;241.72;21.14.50.30.00;Conjunto 4 Cadeiras Eames  Fendi;VITRINE
@@ -173,8 +173,8 @@ FATURAMENTO VD ES;51.25;60.37;21.14.50.394.00;Cadeira Eames Eiffel Branco  Base 
 FATURAMENTO VD ES;102.49;120.73;21.14.50.419.00;Conjunto Com 2 Cadeiras Eames Eiffel Fendi  Base Aço Cromado;VITRINE
 FATURAMENTO VD RJ;70.17;83.42;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
 FATURAMENTO VD ES;59.29;69.84;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
-FATURAMENTO VD RJ;72.06;85.76;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;78.95;98.09;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
+FATURAMENTO VD RJ;72.06;85.76;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD RJ;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;342.0;392.36;21.14.50.463.00;Conjunto Com 4 Cadeiras Saarinen Wood Nude;VITRINE
@@ -223,9 +223,9 @@ FATURAMENTO VD ES;101.67;119.77;21.14.50.64.00;Cadeira Eames Com Braço Rosa  Ba
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
-FATURAMENTO VD ES;81.3;96.79;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
-FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
+FATURAMENTO VD ES;89.38;106.56;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
+FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD ES;92.45;108.9;21.14.50.682.00;CADEIRA SAARINEN PP NUDE OFFICE PRETO;VITRINE
 FATURAMENTO VD ES;81.4;95.88;21.14.50.684.00;Cadeira Saarinen PP Preta  Office Base Preta;VITRINE
@@ -334,7 +334,7 @@ FATURAMENTO VD ES;4.77;5.42;24.10.159.258.01;Espátula de Silicone Preta 27cm - 
 FATURAMENTO VD ES;4.9;5.57;24.10.159.260.01;Colher para Servir de Silicone Preta 27cm - Lyor;VITRINE
 FATURAMENTO VD ES;3.4;3.86;24.10.159.261.01;Espátula de Silicone Preta 27cm - Lyor;VITRINE
 FATURAMENTO VD ES;34.61;39.73;24.10.159.264.00;4 Petisqueiras com Bandeja de Bambu 22x22x5,5cm - Lyor;VITRINE
-FATURAMENTO VD ES;22.07;25.33;24.10.159.266.00;3 Petisqueiras com Bandeja de Bambu 32x10x3,5cm - Lyor;VITRINE
+FATURAMENTO VD ES;24.05;27.6;24.10.159.266.00;3 Petisqueiras com Bandeja de Bambu 32x10x3,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;37.94;43.55;24.10.159.268.00;Petisqueira de Ceramica com Bandeja Natural 21x32cm - Lyor;VITRINE
 FATURAMENTO VD ES;23.18;26.6;24.10.159.269.00;3 Petisqueiras com Bandeja de Bambu 25x12x4,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;20.41;23.43;24.10.159.270.00;Petisqueira de Ceramica com Bandeja e Espátula  30cm - Lyor;VITRINE
@@ -358,7 +358,7 @@ FATURAMENTO VD ES;59.02;67.14;24.10.159.296.08;Frigideira Wok Indução Alumíni
 FATURAMENTO VD ES;6.05;6.92;24.10.159.298.00;Jogo de 50 Formas de Papel Descartável para Air Fryer 16cm;VITRINE
 FATURAMENTO VD ES;11.62;13.21;24.10.159.300.00;Pote Hérmetico com Copo Medidor de Plástico My Box 2,5L;VITRINE
 FATURAMENTO VD ES;15.83;18.01;24.10.159.303.00;Saleiro de Cerâmica com Tampa de Bambu e Colher Bianco 9cm;VITRINE
-FATURAMENTO VD ES;21.32;24.26;24.10.159.304.00;Saleiro de Cerâmica com Tampa de Bambu e Colher Bianco 10cm;VITRINE
+FATURAMENTO VD ES;22.53;25.62;24.10.159.304.00;Saleiro de Cerâmica com Tampa de Bambu e Colher Bianco 10cm;VITRINE
 FATURAMENTO VD ES;8.36;9.51;24.10.159.306.10;Mini Processador de Alimentos Plástico Premium Preto 13,5cm;VITRINE
 FATURAMENTO VD ES;11.06;12.49;24.10.159.309.00;Balança de Cozinha Digital 10kg Lyor;VITRINE
 FATURAMENTO VD ES;4.16;4.73;24.10.159.31.08;Espátula de Silicone Vermelha 27cm - Lyor;VITRINE
@@ -454,6 +454,7 @@ FATURAMENTO VD ES;13.05;14.84;24.11.159.36.00;Cesta Oval de Plástico com Forro 
 FATURAMENTO VD ES;10.41;11.84;24.11.159.39.00;Cesta Oval de plástico com Forro em Tecido 24cm;VITRINE
 FATURAMENTO VD ES;34.92;39.56;24.11.159.49.00;Potiche Cristal com Pé Diamond Âmbar Metalizado 15cm Lyor;VITRINE
 FATURAMENTO VD ES;11.97;13.74;24.11.159.69.01;Ventilador Repelente de Mesa de Plástico Preto 26cm x 9cm;VITRINE
+FATURAMENTO VD ES;14.69;16.86;24.11.159.70.06;Ventilador Repelente de Mesa de Plástico Prateado 26cm;VITRINE
 FATURAMENTO VD ES;26.7;30.51;24.11.159.74.00;Bandeja Redonda de Mármore Terrazo 20cm - Lyor;VITRINE
 FATURAMENTO VD ES;46.92;51.25;24.11.159.75.00;Bandeja Redonda de Mármore Terrazo 30cm - Lyor;VITRINE
 FATURAMENTO VD ES;21.38;24.42;24.11.159.76.00;Bandeja Retangular de Mármore Terrazo 25cm x 10cm - Lyor;VITRINE
@@ -946,6 +947,7 @@ FATURAMENTO VD ES;16.62;18.91;24.54.66.148.00;Jarra Wolff Greek de Vidro 1L;VITR
 FATURAMENTO VD ES;56.89;64.72;24.54.66.154.11;Jarra Wolff Palm Tree de Acrílico Verde 2,8L;VITRINE
 FATURAMENTO VD ES;29.18;33.19;24.54.66.156.00;Jarra Wolff Palm Tree de Cristal Incolor 1,5L;VITRINE
 FATURAMENTO VD ES;4.83;5.5;24.54.66.170.00;Saca-Rolhas 2 Estágios Wolff de Inox 13cm x 2cm;VITRINE
+FATURAMENTO VD ES;5.73;6.5;24.54.66.175.00;Taça Wolff de Vidro Rainbow 300ml;VITRINE
 FATURAMENTO VD ES;7.7;8.84;24.54.66.176.00;Tampa á Vácuo para Vinho Wolff de Aço Inox 5cm x 8cm;VITRINE
 FATURAMENTO VD ES;6.35;7.29;24.54.66.177.00;Tampa com Pressão para Champanhe Wolff de Aço Inox;VITRINE
 FATURAMENTO VD ES;31.03;35.35;24.54.66.22.00;Jogo de  Peças para Vinho com Caixa Wolff de Aço Inox;VITRINE
