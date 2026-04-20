@@ -178,7 +178,7 @@ FATURAMENTO VD ES;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen
 FATURAMENTO VD RJ;144.12;171.52;21.14.50.462.00;Conjunto Com 2 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD ES;342.0;392.36;21.14.50.463.00;Conjunto Com 4 Cadeiras Saarinen Wood Nude;VITRINE
 FATURAMENTO VD RJ;288.24;343.04;21.14.50.463.00;Conjunto Com 4 Cadeiras Saarinen Wood Nude;VITRINE
-FATURAMENTO VD ES;85.5;98.09;21.14.50.464.00;Cadeira Saarinen Wood Branca;VITRINE
+FATURAMENTO VD ES;80.26;98.09;21.14.50.464.00;Cadeira Saarinen Wood Branca;VITRINE
 FATURAMENTO VD RJ;62.19;68.86;21.14.50.464.00;Cadeira Saarinen Wood Branca;VITRINE
 FATURAMENTO VD ES;113.54;133.75;21.14.50.465.00;Conjunto Com 2 Cadeiras Saarinen Wood Branca;VITRINE
 FATURAMENTO VD RJ;113.54;133.75;21.14.50.465.00;Conjunto Com 2 Cadeiras Saarinen Wood Branca;VITRINE
@@ -194,8 +194,8 @@ FATURAMENTO VD ES;119.2;140.42;21.14.50.482.00;Cadeira Web Wood Preta;VITRINE
 FATURAMENTO VD RJ;119.2;140.42;21.14.50.482.00;Cadeira Web Wood Preta;VITRINE
 FATURAMENTO VD RJ;238.4;280.84;21.14.50.483.00;Conjunto 2 Cadeiras Web Wood Preto;VITRINE
 FATURAMENTO VD ES;238.4;280.84;21.14.50.483.00;Conjunto 2 Cadeiras Web Wood Preto;VITRINE
-FATURAMENTO VD ES;476.8;561.68;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VITRINE
 FATURAMENTO VD RJ;312.08;371.32;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VITRINE
+FATURAMENTO VD ES;476.8;561.68;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VITRINE
 FATURAMENTO VISUAL IN SP;636.02;727.62;21.14.50.484.00;Conjunto 4 Cadeiras Web Wood  Preto;VISUAL IN
 FATURAMENTO VD ES;60.28;71.02;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
 FATURAMENTO VD RJ;75.7;89.87;21.14.50.485.00;Cadeira Web Wood Branca;VITRINE
@@ -221,8 +221,8 @@ FATURAMENTO VD ES;100.48;118.37;21.14.50.62.00;Conjunto 2 Cadeiras com Braços E
 FATURAMENTO VD ES;101.67;119.77;21.14.50.64.00;Cadeira Eames Com Braço Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
 FATURAMENTO VD ES;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
-FATURAMENTO VD ES;81.3;96.79;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
+FATURAMENTO VD ES;81.3;96.79;21.14.50.666.00;Cadeira Saarinen Office Nude  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
@@ -341,7 +341,7 @@ FATURAMENTO VD ES;13.79;15.56;24.10.159.273.00;3 Petisqueiras de Ceramica  25cm 
 FATURAMENTO VD ES;24.32;27.45;24.10.159.274.00;4 Bowls de Cerâmica 9,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;8.98;10.99;24.10.159.276.00;4 Anéis para Guardanapo Curves de Aço Dourado - Lyor;VITRINE
 FATURAMENTO VD ES;10.1;12.34;24.10.159.277.00;4 Anéis para Guardanapo Circle de Aço Niquelado Prata - Lyor;VITRINE
-FATURAMENTO VD ES;9.98;12.19;24.10.159.278.00;4 Anéis para Guardanapo Circle de Aço Dourado - Lyor;VITRINE
+FATURAMENTO VD ES;10.21;12.48;24.10.159.278.00;4 Anéis para Guardanapo Circle de Aço Dourado - Lyor;VITRINE
 FATURAMENTO VD ES;8.29;9.42;24.10.159.280.00;Porta Mantimento Hermético em Vidro Borossilicato 550ml - Lyor;VITRINE
 FATURAMENTO VD ES;14.12;16.21;24.10.159.283.00;Conjunto 3 Tábuas para Corte de Bambu e PP 30cm x 22cm;VITRINE
 FATURAMENTO VD ES;25.94;29.28;24.10.159.284.00;Balança de Cozinha Digital de Vidro e Bambu 5kg;VITRINE
@@ -447,7 +447,7 @@ FATURAMENTO VD ES;40.21;45.82;24.11.159.126.57;Tapete para Banheiro 60x39cm Gran
 FATURAMENTO VD ES;10.66;12.13;24.11.159.134.57;Bandeja Oval Absorvente para Pia 28x11cm Granilite Diatomita;VITRINE
 FATURAMENTO VD ES;13.08;14.76;24.11.159.19.18;Coração Decorativo de Cerâmica Heart Rosa 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;9.04;10.28;24.11.159.20.00;Cesta Redonda de Rattan Plástico 21cm;VITRINE
-FATURAMENTO VD ES;23.41;26.52;24.11.159.33.00;Centro de Mesa de Cristal com Pé Deli Diamond 18cm - Lyor;VITRINE
+FATURAMENTO VD ES;23.4;26.52;24.11.159.33.00;Centro de Mesa de Cristal com Pé Deli Diamond 18cm - Lyor;VITRINE
 FATURAMENTO VD ES;13.05;14.84;24.11.159.36.00;Cesta Oval de Plástico com Forro em Tecido 27cm;VITRINE
 FATURAMENTO VD ES;10.41;11.84;24.11.159.39.00;Cesta Oval de plástico com Forro em Tecido 24cm;VITRINE
 FATURAMENTO VD ES;34.92;39.56;24.11.159.49.00;Potiche Cristal com Pé Diamond Âmbar Metalizado 15cm Lyor;VITRINE
@@ -929,7 +929,7 @@ FATURAMENTO VD ES;85.94;97.76;24.54.159.74.00;Suqueira de Cristal  Dublin 4,5L -
 FATURAMENTO VD ES;27.35;30.99;24.54.159.75.00;Conjunto 6 Taças de Água Vidro Faces 300ml - Lyor;VITRINE
 FATURAMENTO VD ES;6.49;7.35;24.54.159.81.00;Copo Alto Com Fio De Ouro Diamond 390Ml Vidro;VITRINE
 FATURAMENTO VD ES;3.87;4.44;24.54.163.01.00;Cortador De Lacre Para Vinhos - Oikos;VITRINE
-FATURAMENTO VD ES;92.22;104.49;24.54.65.36.00;Conjunto 6 Taças de Vinho de Cristal  Alex 600ml - Wolff;VITRINE
+FATURAMENTO VD ES;92.41;104.53;24.54.65.36.00;Conjunto 6 Taças de Vinho de Cristal  Alex 600ml - Wolff;VITRINE
 FATURAMENTO VD ES;41.08;46.54;24.54.66.01.00;Decanter com Alça Wolff de Vidro Incolor;VITRINE
 FATURAMENTO VD ES;12.8;14.5;24.54.66.04.00;Jogo de 6 Taças Para Lícor Wolff Pearl de Cristal Âmbar;VITRINE
 FATURAMENTO VD ES;34.47;39.05;24.54.66.05.00;Jogo de 6 Taças para Água Wolff Bico de Jaca de Vidro Incolor;VITRINE
@@ -1009,7 +1009,7 @@ FATURAMENTO VD ES;28.22;31.96;24.54.66.94.00;Caneca Térmica Wolff para Cerveja 
 FATURAMENTO VD ES;27.26;30.89;24.54.66.95.01;Caneca Térmica Wolff para Cerveja de Aço Inox Preta 500ml;VITRINE
 FATURAMENTO VD ES;4.31;4.9;24.55.159.08.01;Colher de Arroz de Silicone Preta 22cm - Lyor;VITRINE
 FATURAMENTO VD ES;54.83;62.37;24.55.159.12.18;Faqueiro 24 Peças de Aço Inox Positano Rosé - Lyor;VITRINE
-FATURAMENTO VD ES;3.77;4.28;24.55.159.16.00;Porta Talher de Cristal Coração 8,5cm x 8cm - Lyor;VITRINE
+FATURAMENTO VD ES;3.76;4.28;24.55.159.16.00;Porta Talher de Cristal Coração 8,5cm x 8cm - Lyor;VITRINE
 FATURAMENTO VD ES;15.45;17.55;24.55.159.21.20;Kit 6 Facas de Churrasco de Aço Inox Bambu Elegant 22,3cm;VITRINE
 FATURAMENTO VD ES;18.0;20.44;24.55.159.23.20;Jogo 6 Facas de Churrasco Aço Inox Bambu Elegant Champanhe;VITRINE
 FATURAMENTO VD ES;15.24;17.34;24.55.159.47.20;Kit 6 Garfos para Mesa de Aço Inox Bambu Elegant Champanhe;VITRINE
