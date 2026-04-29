@@ -35,7 +35,7 @@ FATURAMENTO VD RJ;373.23;426.42;21.14.46.396.12;Cadeira Esteirinha Alta Pu Creme
 FATURAMENTO VD RJ;208.76;238.51;21.14.46.52.01;Cadeira De Jantar Glam Preta;VITRINE
 FATURAMENTO VD RJ;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
 FATURAMENTO VD ES;63.26;72.28;21.14.46.97.06;Cadeira Eames Branca;VITRINE
-FATURAMENTO VD ES;67.49;79.5;21.14.50.07.00;Cadeira Eames  Azul Bic;VITRINE
+FATURAMENTO VD ES;64.07;75.47;21.14.50.07.00;Cadeira Eames  Azul Bic;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.14.50.08.00;Conjunto 2 Cadeiras Eames  Azul Bic;VITRINE
 FATURAMENTO VD ES;269.96;318.0;21.14.50.09.00;Conjunto 4 Cadeiras Eames  Azul Bic;VITRINE
 FATURAMENTO VD ES;119.2;140.42;21.14.50.100.00;Cadeira Saarinen  Branco;VITRINE
@@ -302,6 +302,7 @@ FATURAMENTO VD RJ;80.53;92.0;21.48.46.1414.00;Base De Mesa Eames Metálica;VITRI
 FATURAMENTO VD RJ;134.42;153.58;21.49.46.383.76;Poltrona Butterfly Em Pu Marrom Base Metal Pintura Preta;VITRINE
 FATURAMENTO VD ES;5.12;5.83;24.10.159.09.00;Porta Mantimento de Vidro com Tampa Arena 330ml - Lyor;VITRINE
 FATURAMENTO VD ES;4.0;4.59;24.10.159.104.00;Manteigueira de Bambu com Espátula Verona 18cm - Lyor;VITRINE
+FATURAMENTO VD ES;6.46;7.35;24.10.159.108.00;Garrafa para Azeite de Vidro com Tampa de Rolha 250ml- Lyor;VITRINE
 FATURAMENTO VD ES;6.39;7.28;24.10.159.114.00;Pegador para Macarrão de Aço Inox Positano 28cm - Lyor;VITRINE
 FATURAMENTO VD ES;31.1;38.02;24.10.159.119.20;Cuscuzeira Individual de Aço Inox 25cm;VITRINE
 FATURAMENTO VD ES;23.08;26.26;24.10.159.130.01;Bandeja Redonda Metal Fundo MDF Alça Preto Fosco 20cm;VITRINE
@@ -616,7 +617,7 @@ FATURAMENTO VD ES;43.03;48.75;24.50.66.15.00;Vaso Wolff Murano Italy  10cm x 11c
 FATURAMENTO VD ES;60.17;67.91;24.50.66.180.06;Figura Boneca Wolff de Resina Balões Branco 7cm x 7cm x 30cm;VITRINE
 FATURAMENTO VD ES;53.24;60.32;24.50.66.201.00;Lupa Decorativa Wolff de Metal e Madeira 20cm x 7cm x 2cm;VITRINE
 FATURAMENTO VD ES;20.74;23.54;24.50.66.210.05;PORTA-RETRATO AÇO BAMBU PRATEADO 20x25cm;VITRINE
-FATURAMENTO VD ES;23.66;26.87;24.50.66.212.05;PORTA-RETRATO AÇO CHESS PRATEADO 20x25cm;VITRINE
+FATURAMENTO VD ES;23.28;26.44;24.50.66.212.05;PORTA-RETRATO AÇO CHESS PRATEADO 20x25cm;VITRINE
 FATURAMENTO VD ES;12.01;13.64;24.50.66.213.05;PORTA-RETRATO AÇO CHESS PRATEADO 13x18cm;VITRINE
 FATURAMENTO VD ES;26.75;30.38;24.50.66.218.05;PORTA-RETRATO AÇO PRATEADO 20x25cm;VITRINE
 FATURAMENTO VD ES;8.74;9.98;24.50.66.22.00;Porta Vela Wolff Pearl de Vidro;VITRINE
@@ -1009,10 +1010,11 @@ FATURAMENTO VD ES;28.22;31.96;24.54.66.94.00;Caneca Térmica Wolff para Cerveja 
 FATURAMENTO VD ES;27.26;30.89;24.54.66.95.01;Caneca Térmica Wolff para Cerveja de Aço Inox Preta 500ml;VITRINE
 FATURAMENTO VD ES;4.31;4.9;24.55.159.08.01;Colher de Arroz de Silicone Preta 22cm - Lyor;VITRINE
 FATURAMENTO VD ES;54.83;62.37;24.55.159.12.18;Faqueiro 24 Peças de Aço Inox Positano Rosé - Lyor;VITRINE
-FATURAMENTO VD ES;3.76;4.28;24.55.159.16.00;Porta Talher de Cristal Coração 8,5cm x 8cm - Lyor;VITRINE
+FATURAMENTO VD ES;3.77;4.28;24.55.159.16.00;Porta Talher de Cristal Coração 8,5cm x 8cm - Lyor;VITRINE
 FATURAMENTO VD ES;11.04;12.56;24.55.159.22.20;Jogo 6 Colheres de Sobremesa de Aço Inox Bambu Elegant;VITRINE
 FATURAMENTO VD ES;18.0;20.44;24.55.159.23.20;Jogo 6 Facas de Churrasco Aço Inox Bambu Elegant Champanhe;VITRINE
 FATURAMENTO VD ES;15.24;17.34;24.55.159.47.20;Kit 6 Garfos para Mesa de Aço Inox Bambu Elegant Champanhe;VITRINE
+FATURAMENTO VD ES;13.8;15.7;24.55.159.57.00;Kit  6 Talheres para 2 Pessoas de Aço Inox Positano;VITRINE
 FATURAMENTO VD ES;46.4;52.79;24.55.159.61.20;Faqueiro 24 Peças Gastro Dourado Aço Inox - Lyor;VITRINE
 FATURAMENTO VD ES;37.22;42.26;24.55.66.01.00;Conjunto de 6 Facas para Sobremesa Wolff Berna Champanhe Fosco;VITRINE
 FATURAMENTO VD ES;141.5;160.97;24.55.66.135.00;Jogo de 6 Talheres com Cabo de Bambu Wolff de Aço Inox;VITRINE
@@ -1072,7 +1074,7 @@ FATURAMENTO VD ES;6.86;7.8;24.56.66.211.06;Bowl Wolff Bambu de Melamina Branco 1
 FATURAMENTO VD ES;9.51;10.77;24.56.66.26.08;Prato Wolff Beads de Porcelana Vermelho 25cm x 22cm x 2cm;VITRINE
 FATURAMENTO VD ES;16.71;19.01;24.56.66.293.00;Prato para Servir Wolff Taj de Cristal Incolor 20cm;VITRINE
 FATURAMENTO VD ES;13.29;15.06;24.56.66.309.00;Prato para Sobremesa Wolff Fancy de Porcelana Rose 20cm;VITRINE
-FATURAMENTO VD ES;7.21;8.21;24.56.66.321.06;Prato Raso Wolff Bambu de Melamina Branco 27cm;VITRINE
+FATURAMENTO VD ES;8.62;9.81;24.56.66.321.06;Prato Raso Wolff Bambu de Melamina Branco 27cm;VITRINE
 FATURAMENTO VD ES;20.14;22.91;24.56.66.327.04;Prato Raso Wolff de Cristal Dourado Agate 26cm;VITRINE
 FATURAMENTO VD ES;12.7;14.45;24.56.66.33.00;Travessa Wolff Pearl de Cristal 30cm x 13cm x 3cm;VITRINE
 FATURAMENTO VD ES;12.42;14.13;24.56.66.34.00;Jogo de 4 Bowls Wolff Pearl de Cristal Incolor;VITRINE
@@ -1179,7 +1181,7 @@ FATURAMENTO VD ES;10.84;12.28;24.57.66.70.00;Jogo de 2 Porta ShoyuWolff Koji de 
 FATURAMENTO VD ES;44.79;50.95;24.57.66.708.00;Conjunto 4 Talheres para Servir de Aço Inox Firenze - Wolff;VITRINE
 FATURAMENTO VD ES;44.97;51.16;24.57.66.709.00;Conjunto 4 Talheres para Servir de Aço Inox Viena - Wolff;VITRINE
 FATURAMENTO VD ES;5.52;6.28;24.57.66.722.00;Bowl Geneva 11Cm X 7Cm Cristal;VITRINE
-FATURAMENTO VD ES;8.84;10.06;24.57.66.728.00;Prato Para Sobremesa Com Fio De Ouro Império 20Cm Cristal;VITRINE
+FATURAMENTO VD ES;8.85;10.06;24.57.66.728.00;Prato Para Sobremesa Com Fio De Ouro Império 20Cm Cristal;VITRINE
 FATURAMENTO VD ES;28.65;32.33;24.57.66.93.07;Jogo de 4 Aneis de Guardanapos Peixes Decorativos Wolff Ocean de Cerâmica Azul 8cm x 6cm;VITRINE
 FATURAMENTO VD ES;27.15;32.16;24.57.67.78.00;Bandeja de Madeira Coquinho com Sisal Natural 30cm x 17cm - Woodart;VITRINE
 FATURAMENTO VD ES;7.4;8.42;24.60.159.04.01;Conjunto 5 Cabides de Plástico Aveludado Preto 41,5cm - Lyor;VITRINE
@@ -1222,7 +1224,6 @@ FATURAMENTO VD ES;85.91;98.62;24.69.163.10.00;Prateleira de Madeira e Palhinha 2
 FATURAMENTO VD ES;18.72;21.48;24.69.163.12.00;Cesto Retangular De Bambu Com Forro 29Cm - Oikos;VITRINE
 FATURAMENTO VD ES;22.43;25.75;24.69.163.13.00;Cesto Retangular De Bambu Com Forro 33Cm - Oikos;VITRINE
 FATURAMENTO VD ES;7.42;8.51;24.69.163.14.00;Kit De 3 Cabides Toq de Veludo Com Gancho Frontal - Oikos;VITRINE
-FATURAMENTO VD ES;46.75;53.65;24.69.163.19.00;Organizador Suspenso 2 Andares em Ferro e Bambu - Oikos;VITRINE
 FATURAMENTO VD ES;61.34;70.41;24.69.163.20.00;Cesto De Seagrass Branco 39Cm Com Alças - Oikos;VITRINE
 FATURAMENTO VD ES;24.77;28.44;24.69.163.29.00;Cesto Quadrado De Seagrass 30Cm - Oikos;VITRINE
 FATURAMENTO VD ES;15.84;18.18;24.69.163.31.00;Prateleira De Metal Meia Lua - Oikos;VITRINE
@@ -2351,11 +2352,11 @@ FULFILLMENT MELI;867.63;1210.0;8.07.02.46.01;Cadeirinha de Carro Jasper com Isof
 FULFILLMENT AMAZON;867.63;1210.0;8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;605.0;605.0;8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;780.86;1089.0;8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix Maxi-Cosi 0 a 36 kg Authentic Black;VITRINE
-FATURAMENTO VD RJ;1086.55;1515.32;8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;VITRINE
+FATURAMENTO VD RJ;1207.29;1683.69;8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1086.55;1515.32;8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;757.66;757.66;8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;BB TOTAL
 FULFILLMENT MELI;1086.55;1515.32;8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;1086.55;1515.32;8.07.02.47.80;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 Kg Authentic Graphite;VITRINE
+FATURAMENTO VD RJ;1207.29;1683.69;8.07.02.47.80;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 Kg Authentic Graphite;VITRINE
 FATURAMENTO VD RJ;231.64;323.05;8.07.03.11.01;Cadeirinha de Carro Alfa 9 a 36kg Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;231.64;323.05;8.07.03.11.01;Cadeirinha de Carro Alfa 9 a 36kg Voyage Preto;VITRINE
 FATURAMENTO VD RJ;231.64;323.05;8.07.03.12.58;Cadeirinha de Carro Alfa 9 a 36kg Preto e Vermelho - Voyage;VITRINE
@@ -3651,9 +3652,9 @@ FATURAMENTO VD RJ;575.04;599.0;8.13.33.08.00;Tapete e Ginásio de Atividades Gym
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Tiny Love Boho Chic;VITRINE
-FATURAMENTO VD RJ;130.3;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
+FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
 FULFILLMENT AMAZON;144.76;199.47;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
-FATURAMENTO VD RJ;130.3;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
+FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
 FATURAMENTO VD RJ;123.77;170.55;8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;16.91;17.61;8.13.47.10.69;Tapete para Banheiro Peixinhos e Polvo Colorido - KaBaby;BB TOTAL
 FATURAMENTO VD RJ;33.81;35.22;8.13.47.10.69;Tapete para Banheiro Peixinhos e Polvo Colorido - KaBaby;VITRINE
@@ -3671,8 +3672,8 @@ FATURAMENTO VD RJ;131.0;131.0;8.13.98.06.69;Tapete EPE Rolo ABC Girafa 200x180cm
 FATURAMENTO BBTOTAL ES;57.06;65.5;8.13.98.06.69;Tapete EPE Rolo ABC Girafa 200x180cm - Ibimboo;BB TOTAL
 FATURAMENTO BBTOTAL ES;57.06;65.5;8.13.98.07.69;Tapete EPE Rolo Pink Festa da Princesa 200x180cm - Ibimboo;BB TOTAL
 FATURAMENTO VD RJ;131.0;131.0;8.13.98.07.69;Tapete EPE Rolo Pink Festa da Princesa 200x180cm - Ibimboo;VITRINE
-FATURAMENTO BBTOTAL ES;65.5;65.5;8.13.98.08.69;Tapete EPE Rolo ABCD Leão 200x180cm - Ibimboo;BB TOTAL
 FATURAMENTO VD RJ;131.0;131.0;8.13.98.08.69;Tapete EPE Rolo ABCD Leão 200x180cm - Ibimboo;VITRINE
+FATURAMENTO BBTOTAL ES;65.5;65.5;8.13.98.08.69;Tapete EPE Rolo ABCD Leão 200x180cm - Ibimboo;BB TOTAL
 FATURAMENTO BBTOTAL ES;65.5;65.5;8.13.98.09.69;Tapete Tribo Animal 200x180cm - Ibimboo;BB TOTAL
 FATURAMENTO VD RJ;131.0;131.0;8.13.98.09.69;Tapete Tribo Animal 200x180cm - Ibimboo;VITRINE
 FATURAMENTO VD RJ;131.0;131.0;8.13.98.10.69;Tapete Animais nas Alturas 200x180cm - Ibimboo;VITRINE
@@ -4324,9 +4325,9 @@ FULFILLMENT AMAZON;6.1;8.51;8.25.01.03.01;Trava para Cinto de Segurança Black -
 FATURAMENTO VD ES;6.1;8.51;8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;4.26;4.26;8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;6.1;8.51;8.25.01.03.01;Trava para Cinto de Segurança Safety 1st Black;VITRINE
-FATURAMENTO VD RJ;43.73;53.48;8.25.01.04.01;Espelho Back Seat Safety 1st Black;VITRINE
+FATURAMENTO VD RJ;48.59;59.42;8.25.01.04.01;Espelho Back Seat Safety 1st Black;VITRINE
 FULFILLMENT AMAZON;43.73;53.48;8.25.01.04.01;Espelho Back Seat Safety 1st Black;VITRINE
-FATURAMENTO VD RJ;43.73;53.48;8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;VITRINE
+FATURAMENTO VD RJ;48.59;59.42;8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;VITRINE
 FULFILLMENT AMAZON;43.73;53.48;8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;26.33;27.43;8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;BB TOTAL
 FULFILLMENT MELI;44.84;54.85;8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;VITRINE
@@ -6357,8 +6358,8 @@ FATURAMENTO VD RJ;1089.0;1089.0;8.07.02.09.01;Cadeirinha de Carro Pearl 360 Pro 
 FATURAMENTO VD RJ;721.67;721.67;8.07.02.11.01;Cadeirinha para Carro com Isofix Tanza Full Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1089.0;1089.0;8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1089.0;1089.0;8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix Maxi-Cosi 0 a 36 kg Authentic Black;BB TUDO
-FATURAMENTO VD RJ;1515.32;1515.32;8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;1515.32;1515.32;8.07.02.47.80;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 Kg Authentic Graphite;BB TUDO
+FATURAMENTO VD RJ;1683.69;1683.69;8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;BB TUDO
+FATURAMENTO VD RJ;1683.69;1683.69;8.07.02.47.80;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 Kg Authentic Graphite;BB TUDO
 FATURAMENTO VD RJ;323.05;323.05;8.07.03.11.01;Cadeirinha de Carro Alfa 9 a 36kg Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;323.05;323.05;8.07.03.11.01;Cadeirinha de Carro Alfa 9 a 36kg Voyage Preto;BB TUDO
 FATURAMENTO VD RJ;323.05;323.05;8.07.03.12.58;Cadeirinha de Carro Alfa 9 a 36kg Preto e Vermelho - Voyage;BB TUDO
@@ -7555,8 +7556,8 @@ FATURAMENTO VD RJ;37.42;37.42;8.25.01.02.01;Protetor Solar Stretch Safety 1st Bl
 FATURAMENTO VD RJ;8.51;8.51;8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;BB TUDO
 FATURAMENTO VD ES;8.51;8.51;8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;8.51;8.51;8.25.01.03.01;Trava para Cinto de Segurança Safety 1st Black;BB TUDO
-FATURAMENTO VD RJ;53.48;53.48;8.25.01.04.01;Espelho Back Seat Safety 1st Black;BB TUDO
-FATURAMENTO VD RJ;53.48;53.48;8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;BB TUDO
+FATURAMENTO VD RJ;59.42;59.42;8.25.01.04.01;Espelho Back Seat Safety 1st Black;BB TUDO
+FATURAMENTO VD RJ;59.42;59.42;8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;52.01;52.01;8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;52.01;52.01;8.25.01.05.10;Almofada para Cinto de Segurança Safety 1st Grey;BB TUDO
 FATURAMENTO VD RJ;6.62;6.62;8.25.01.08.06;Trava Botão Secreto Safety 1st - White;BB TUDO
