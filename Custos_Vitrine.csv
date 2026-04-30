@@ -873,7 +873,7 @@ FATURAMENTO VD ES;84.19;95.77;24.53.66.135.00;Conjunto 12 Potes Com Tampa Hermé
 FATURAMENTO VD ES;68.37;77.78;24.53.66.137.00;Conjunto 8 Potes Com Tampa Hermética E Rack Em Bambu;VITRINE
 FATURAMENTO VD ES;17.96;20.43;24.53.66.138.00;Galheteiro 2 Em 1 De Vidro Pincel Medidor Em Silicone 550Ml;VITRINE
 FATURAMENTO VD ES;7.03;8.0;24.53.66.139.01;Garrafa Para Azeite De Vidro Preta Essência 500Ml;VITRINE
-FATURAMENTO VD ES;16.89;19.3;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
+FATURAMENTO VD ES;17.53;20.03;24.53.66.14.00;Pilão Wolff de Mármore Cinza 11cm x 11cm;VITRINE
 FATURAMENTO VD ES;12.54;14.27;24.53.66.143.00;Porta Mantimento De Vidro Com Tampa De Acácia 700Ml;VITRINE
 FATURAMENTO VD ES;13.68;15.56;24.53.66.163.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 1L;VITRINE
 FATURAMENTO VD ES;6.04;7.71;24.53.66.164.00;Porta Mantimento De Vidro Com Tampa Hermética De Bambu 600Ml;VITRINE
@@ -4825,11 +4825,8 @@ FATURAMENTO BBTOTAL ES;189.68;217.73;8.25.58.24.06;Esterilizador Elétrico 220V 
 FATURAMENTO VD RJ;418.03;435.45;8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;VITRINE
 FATURAMENTO VD RJ;27.83;27.83;8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;VITRINE
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;VITRINE
-FATURAMENTO BBTOTAL ES;10.48;13.92;8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;BB TOTAL
-FATURAMENTO VD RJ;27.83;27.83;8.25.69.01.00;Água de Passar Perfumada 500 ml Bioclub Baby;VITRINE
 FATURAMENTO VD RJ;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;VITRINE
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;VITRINE
-FATURAMENTO BBTOTAL ES;10.48;13.92;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;BB TOTAL
 FATURAMENTO VD RJ;23.09;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;VITRINE
 FATURAMENTO VD ES;23.09;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;VITRINE
 FATURAMENTO VISUAL IN SP;23.39;23.39;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;VISUAL IN
@@ -4857,7 +4854,6 @@ FATURAMENTO VD ES;24.02;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - B
 FULFILLMENT VISUAL IN;24.02;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO VD RJ;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;VITRINE
 FATURAMENTO VD RJ;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha 500ml - BioClub Baby;VITRINE
-FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha 500ml - BioClub Baby;VITRINE
 FATURAMENTO VD RJ;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;VITRINE
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;VITRINE
 FATURAMENTO VD RJ;15.69;17.98;8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;VITRINE
@@ -7882,7 +7878,6 @@ FATURAMENTO VD ES;691.35;691.35;8.25.58.24.06;Esterilizador Elétrico 220V Branc
 FATURAMENTO VD RJ;435.45;435.45;8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;BB TUDO
 FATURAMENTO VD RJ;27.83;27.83;8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;BB TUDO
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;BB TUDO
-FATURAMENTO VD RJ;27.83;27.83;8.25.69.01.00;Água de Passar Perfumada 500 ml Bioclub Baby;BB TUDO
 FATURAMENTO VD RJ;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD RJ;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TUDO
@@ -7900,7 +7895,6 @@ FATURAMENTO VD RJ;25.82;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - B
 FATURAMENTO VD ES;25.82;25.82;8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD RJ;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar - Roupa Cheirosinha 500ml BioClub Baby;BB TUDO
 FATURAMENTO VD RJ;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha 500ml - BioClub Baby;BB TUDO
-FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha 500ml - BioClub Baby;BB TUDO
 FATURAMENTO VD RJ;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;BB TUDO
 FATURAMENTO VD ES;26.85;26.85;8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;BB TUDO
 FATURAMENTO VD RJ;17.98;17.98;8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;BB TUDO
