@@ -221,6 +221,7 @@ FATURAMENTO VD RJ;79.68;94.83;21.14.50.668.00;Cadeira Saarinen  Office Cromada P
 FATURAMENTO VD ES;174.42;205.47;21.14.50.668.00;Cadeira Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD RJ;159.36;189.66;21.14.50.669.00;Conjunto 2 Cadeiras Saarinen  Office Cromada Preta;VITRINE
 FATURAMENTO VD ES;81.4;95.88;21.14.50.684.00;Cadeira Saarinen PP Preta  Office Base Preta;VITRINE
+FATURAMENTO VD ES;101.67;119.77;21.14.50.70.00;Cadeira com Braços Eames  Fendi;VITRINE
 FATURAMENTO VD ES;224.38;264.32;21.14.50.706.00;Cadeira Eames Transparente PC  Office Cromada;VITRINE
 FATURAMENTO VD ES;96.46;113.63;21.14.50.708.00;Cadeira Eames Office Ambar  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;96.46;113.63;21.14.50.712.00;Cadeira Eames Office Transparente  Base Preta;VITRINE
@@ -443,6 +444,7 @@ FATURAMENTO VD ES;23.4;26.52;24.11.159.33.00;Centro de Mesa de Cristal com Pé D
 FATURAMENTO VD ES;12.92;14.7;24.11.159.36.00;Cesta Oval de Plástico com Forro em Tecido 27cm;VITRINE
 FATURAMENTO VD ES;10.41;11.84;24.11.159.39.00;Cesta Oval de plástico com Forro em Tecido 24cm;VITRINE
 FATURAMENTO VD ES;34.92;39.56;24.11.159.49.00;Potiche Cristal com Pé Diamond Âmbar Metalizado 15cm Lyor;VITRINE
+FATURAMENTO VD ES;14.69;16.86;24.11.159.70.06;Ventilador Repelente de Mesa de Plástico Prateado 26cm;VITRINE
 FATURAMENTO VD ES;26.7;30.51;24.11.159.74.00;Bandeja Redonda de Mármore Terrazo 20cm - Lyor;VITRINE
 FATURAMENTO VD ES;46.92;51.25;24.11.159.75.00;Bandeja Redonda de Mármore Terrazo 30cm - Lyor;VITRINE
 FATURAMENTO VD ES;20.23;23.11;24.11.159.76.00;Bandeja Retangular de Mármore Terrazo 25cm x 10cm - Lyor;VITRINE
@@ -452,7 +454,6 @@ FATURAMENTO VD ES;30.05;34.18;24.11.159.80.01;Bandeja de Metal com Espelho Preta
 FATURAMENTO VD ES;29.8;33.9;24.11.159.82.04;Bandeja de Metal com Espelho Dourada 20cm x 30cm x 4cm;VITRINE
 FATURAMENTO VD ES;18.77;21.31;24.11.159.84.04;Porta Retrato de Metal Dourado 10cm x 15cm - Lyor;VITRINE
 FATURAMENTO VD ES;17.91;20.06;24.11.159.85.01;Porta Retrato de Metal Preto 10cm x 15cm - Lyor;VITRINE
-FATURAMENTO VD ES;5.96;6.78;24.11.159.86.00;Porta Retrato de Mdf 10cm x 15cm - Lyor;VITRINE
 FATURAMENTO VD ES;18.03;20.7;24.11.159.89.00;Bandeja Retangular de Mdf com Fundo Treliça 31,5cm x 21,5cm;VITRINE
 FATURAMENTO VD ES;32.22;36.98;24.11.159.91.00;Bandeja Retangular de Mdf com Fundo Treliça 41,5cm x 31,5cm;VITRINE
 FATURAMENTO VD ES;21.32;24.22;24.11.159.94.05;Porta Retrato de Metal Prata 15cm x 10cm - Lyor;VITRINE
@@ -1042,7 +1043,7 @@ FATURAMENTO VD ES;6.86;7.8;24.56.66.211.06;Bowl Wolff Bambu de Melamina Branco 1
 FATURAMENTO VD ES;9.51;10.77;24.56.66.26.08;Prato Wolff Beads de Porcelana Vermelho 25cm x 22cm x 2cm;VITRINE
 FATURAMENTO VD ES;16.71;19.01;24.56.66.293.00;Prato para Servir Wolff Taj de Cristal Incolor 20cm;VITRINE
 FATURAMENTO VD ES;13.29;15.06;24.56.66.309.00;Prato para Sobremesa Wolff Fancy de Porcelana Rose 20cm;VITRINE
-FATURAMENTO VD ES;7.46;8.49;24.56.66.321.06;Prato Raso Wolff Bambu de Melamina Branco 27cm;VITRINE
+FATURAMENTO VD ES;7.6;9.56;24.56.66.321.06;Prato Raso Wolff Bambu de Melamina Branco 27cm;VITRINE
 FATURAMENTO VD ES;20.14;22.91;24.56.66.327.04;Prato Raso Wolff de Cristal Dourado Agate 26cm;VITRINE
 FATURAMENTO VD ES;12.76;14.52;24.56.66.33.00;Travessa Wolff Pearl de Cristal 30cm x 13cm x 3cm;VITRINE
 FATURAMENTO VD ES;12.42;14.13;24.56.66.34.00;Jogo de 4 Bowls Wolff Pearl de Cristal Incolor;VITRINE
@@ -1671,6 +1672,7 @@ FATURAMENTO BBTOTAL ES;49.35;49.35;8.03.71.06.00;Almofada De Banho Unicórnio Az
 FATURAMENTO VD RJ;86.85;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;83.27;98.64;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;VISUAL IN
+FATURAMENTO BBTOTAL ES;49.32;49.32;8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;BB TOTAL
 FATURAMENTO VD RJ;86.85;97.2;8.03.71.07.00;Almofada para Banho Creme Ursinho Zeca Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;VISUAL IN
 FATURAMENTO BBTOTAL ES;40.48;47.96;8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;BB TOTAL
