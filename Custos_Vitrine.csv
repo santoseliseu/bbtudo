@@ -43,8 +43,6 @@ FATURAMENTO VD ES;57.22;67.41;21.14.50.1013.00;Cadeira Web Preta  Base Em Polipr
 FATURAMENTO VD ES;109.49;128.98;21.14.50.1014.00;Conjunto Com 2 Cadeiras Web Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;228.88;269.64;21.14.50.1015.00;Conjunto Com 4 Cadeiras Web Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;164.73;194.05;21.14.50.1049.00;Conjunto Com 2 Cadeiras Windsor Branca  Base Em Madeira;VITRINE
-FATURAMENTO VD RJ;117.25;133.24;21.14.50.1051.00;Conjunto Com 2 Cadeiras Windsor Cinza Base Em Madeira;VITRINE
-FATURAMENTO VD ES;101.48;119.55;21.14.50.1051.00;Conjunto Com 2 Cadeiras Windsor Cinza Base Em Madeira;VITRINE
 FATURAMENTO VD ES;92.91;109.44;21.14.50.1052.00;Cadeira Windsor Fendi  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;185.81;218.89;21.14.50.1053.00;Conjunto Com 2 Cadeiras Windsor Fendi  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;82.36;97.02;21.14.50.1054.00;Cadeira Windsor Preta  Base Em Madeira;VITRINE
@@ -233,7 +231,6 @@ FATURAMENTO VD ES;177.86;209.51;21.14.50.733.00;Conjunto Com 2 Cadeiras Eames Of
 FATURAMENTO VD ES;88.93;104.76;21.14.50.734.00;CADEIRA EAMES ARM PP ROSA OFFICE PRETO;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.746.00;Cadeira Eames PP Azul Bic  Office Cromada;VITRINE
 FATURAMENTO VD ES;143.68;169.27;21.14.50.747.00;Conjunto Com 2 Cadeiras Eames Office Azul Bic  Base Em Aço Cromado;VITRINE
-FATURAMENTO VD ES;138.52;161.72;21.14.50.750.00;Cadeira Eames PP Branca  Office Cromada;VITRINE
 FATURAMENTO VD ES;174.42;205.47;21.14.50.766.00;Cadeira Eames Office Rosa  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;71.84;84.63;21.14.50.778.00;Cadeira Eames Office Azul Bic  Base Preta;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.806.00;Cadeira Eames Branco  Base Em Polipropileno;VITRINE
@@ -277,7 +274,6 @@ FATURAMENTO VD ES;49.93;57.05;21.40.46.1590.18;Banquinho Petit Com pêlo Longo R
 FATURAMENTO VD RJ;49.93;57.05;21.40.46.1590.18;Banquinho Petit Com pêlo Longo Rosa Base Metal;VITRINE
 FATURAMENTO VD RJ;79.88;91.27;21.40.46.356.06;Banquinho Tube Em PP Branco;VITRINE
 FATURAMENTO VD RJ;82.19;93.91;21.40.46.467.10;Banqueta Titan Media Cinza;VITRINE
-FATURAMENTO VD RJ;170.34;194.62;21.40.46.59.07;Seat Garden Azul Acqua;VITRINE
 FATURAMENTO VD RJ;221.4;252.96;21.40.46.66.04;Seat Garden Dourado;VITRINE
 FATURAMENTO VD RJ;174.86;199.79;21.40.46.68.00;Seat Garden Navy Metálico;VITRINE
 FATURAMENTO VD ES;157.75;185.83;21.40.50.08.00;Conjunto 2 Banquetas com Braços Eames  Preto;VITRINE
@@ -758,7 +754,6 @@ FATURAMENTO VD ES;35.63;40.53;24.52.66.427.00;"Kit 4 Taças Cappuccino Vidro Fio
 
 ";VITRINE
 FATURAMENTO VD ES;21.75;24.64;24.52.66.428.00;Conjunto 4 Taças para Sobremesa de Vidro Butterfly - Wolff;VITRINE
-FATURAMENTO VD ES;15.93;18.12;24.52.66.43.00;Prato Wolff Pearl de Cristal Âmbar 20cm x 9cm;VITRINE
 FATURAMENTO VD ES;35.87;40.81;24.52.66.430.00;Kit 4 Xícaras Chá Vidro Pires Butterfly 180ml Wolff;VITRINE
 FATURAMENTO VD ES;27.2;30.93;24.52.66.44.00;Prato Wolff Pearl de Cristal Incolor 20cm x 18cm;VITRINE
 FATURAMENTO VD ES;10.67;12.13;24.52.66.50.00;Açucareiro Wolff Pearl de Cristal Incolor 10cm x 10cm x 11cm;VITRINE
@@ -786,7 +781,6 @@ FATURAMENTO VD ES;12.16;13.96;24.53.163.145.00;Pote de mantimento Circular em Vi
 FATURAMENTO VD ES;20.01;22.97;24.53.163.146.00;Pote de mantimento Circular em Vidro e Bambu 1600ml;VITRINE
 FATURAMENTO VD ES;24.18;27.75;24.53.163.147.00;Pote de mantimento Circular em Vidro e Bambu 2000ml;VITRINE
 FATURAMENTO VD ES;15.36;17.63;24.53.163.153.00;Pote 800Ml De Vidro Flat Com Tampa De Bambu Quadrado;VITRINE
-FATURAMENTO VD ES;21.63;24.82;24.53.163.155.00;Pote 1,4L De Vidro Flat Com Tampa De Bambu Quadrado;VITRINE
 FATURAMENTO VD ES;8.71;10.0;24.53.163.157.00;Pote 650Ml De Plástico Translúcido e Tampa De Bambu Quadrado;VITRINE
 FATURAMENTO VD ES;9.81;11.26;24.53.163.158.00;Pote 900Ml De Plástico Translúcido e Tampa De Bambu Quadrado;VITRINE
 FATURAMENTO VD RJ;9.75;12.02;24.53.163.158.00;Pote 900Ml De Plástico Translúcido e Tampa De Bambu Quadrado;VITRINE
@@ -1506,7 +1500,6 @@ FATURAMENTO VD RJ;75.82;107.08;8.03.01.02.82;Almofada Extra para Carrinhos SafeC
 FATURAMENTO BBTOTAL ES;36.89;43.71;8.03.01.02.82;Almofada Extra para Carrinhos SafeComfort Grey Army - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;75.8;107.08;8.03.01.03.18;Almofada Extra Para Carrinhos SafeComfort Plaid Pink - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;53.54;53.54;8.03.01.03.18;Almofada Extra Para Carrinhos SafeComfort Plaid Pink - Safety 1st;BB TOTAL
-FATURAMENTO VD RJ;75.8;107.08;8.03.01.03.18;Almofada SafeComfort Safety 1st - Plaid Pink;VITRINE
 FATURAMENTO VD RJ;76.06;107.43;8.03.01.04.01;Almofada Extra Para Carrinhos SafeComfort Plaid Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;45.51;53.93;8.03.01.04.01;Almofada Extra Para Carrinhos SafeComfort Plaid Black - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;76.06;107.43;8.03.01.04.01;Almofada SafeComfort Safety 1st Plaid Black;VITRINE
@@ -2139,7 +2132,6 @@ FULFILLMENT MELI;123.98;172.82;8.06.04.10.10;Cadeira de Alimentação Portátil 
 FATURAMENTO VD RJ;129.67;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;VITRINE
 FATURAMENTO VD RJ;428.5;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;VITRINE
 FULFILLMENT MELI;428.5;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;VITRINE
-FATURAMENTO VD RJ;428.5;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Cosco Amarela;VITRINE
 FATURAMENTO VD RJ;428.47;597.54;8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;VITRINE
 FULFILLMENT MELI;428.47;597.54;8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;VITRINE
 FULFILLMENT AMAZON;428.47;597.54;8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;VITRINE
@@ -2456,7 +2448,6 @@ FATURAMENTO VD RJ;351.45;401.54;8.07.76.08.01;Cadeirinha para Carro Trillo Preto
 FATURAMENTO VISUAL IN SP;376.5;376.5;8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember - Joie;VISUAL IN
 FULFILLMENT VISUAL IN;376.5;376.5;8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember - Joie;VISUAL IN
 FATURAMENTO BBTOTAL ES;200.77;200.77;8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember - Joie;BB TOTAL
-FATURAMENTO VD RJ;351.45;401.54;8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember Joie;VITRINE
 FATURAMENTO VD RJ;1084.44;1239.0;8.07.76.09.11;Cadeirinha de Carro Every Stage Fx Moss Isofix Verde - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;539.71;619.5;8.07.76.09.11;Cadeirinha de Carro Every Stage Fx Moss Isofix Verde - Joie;BB TOTAL
 FATURAMENTO VD RJ;438.75;501.28;8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;VITRINE
@@ -2505,7 +2496,6 @@ FULFILLMENT AMAZON;70.11;99.04;8.08.04.01.01;Canguru para Bebê Loop Cosco Preto
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;VITRINE
 FULFILLMENT AMAZON;70.11;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;49.52;49.52;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;BB TOTAL
-FATURAMENTO VD RJ;70.11;99.04;8.08.04.02.10;Canguru Loop Cosco - Cinza Escuro;VITRINE
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.03.10;Canguru Infantil Loop Até 9 kg Cinza Claro - Cosco;VITRINE
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.03.10;Canguru Loop Cosco - Cinza Claro;VITRINE
 FATURAMENTO VD RJ;59.82;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;VITRINE
@@ -2728,7 +2718,6 @@ FATURAMENTO BBTOTAL ES;1319.18;1319.18;8.09.02.74.01;Carrinho com Bebê Conforto
 FATURAMENTO VD RJ;1891.82;2638.36;8.09.02.74.01;Travel System Lila CP² Trio Maxi-Cosi - Essential Black;VITRINE
 FULFILLMENT MELI;772.49;1064.51;8.09.02.80.27;Carrinho de Bebê Eva Essential Black Champagne - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;772.49;1064.51;8.09.02.80.27;Carrinho de Bebê Eva Essential Black Champagne - Maxi-Cosi;VITRINE
-FULFILLMENT MELI;772.49;1064.51;8.09.02.80.27;Carrinho de Bebê Eva Essential Black Champagne Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;772.5;1064.51;8.09.02.81.01;Carrinho de Bebê Eva Essential Black - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;772.5;1064.51;8.09.02.81.01;Carrinho de Bebê Eva Essential Black Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;797.88;1099.5;8.09.02.82.80;Carrinho de Bebê Eva Essential Graphite - Maxi-Cosi;VITRINE
@@ -2793,7 +2782,6 @@ FULFILLMENT AMAZON;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Guarda-Chuva W
 FULFILLMENT MELI;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;VITRINE
 FATURAMENTO VD RJ;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Umbrella Wing Voyage Azul;VITRINE
 FULFILLMENT AMAZON;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Umbrella Wing Voyage Azul;VITRINE
-FULFILLMENT MELI;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Umbrella Wing Voyage Azul;VITRINE
 FATURAMENTO VD RJ;190.0;261.81;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;VITRINE
 FULFILLMENT MELI;190.0;261.81;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;VITRINE
 FATURAMENTO BBTOTAL ES;137.8;137.8;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;BB TOTAL
@@ -2845,7 +2833,6 @@ FATURAMENTO VD RJ;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Voyage - C
 FULFILLMENT AMAZON;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Voyage - Colorê;VITRINE
 FULFILLMENT MELI;212.15;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Bege - Voyage;VITRINE
 FULFILLMENT MELI;212.15;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Voyage - Bege;VITRINE
-FATURAMENTO VD RJ;212.15;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Voyage - Bege;VITRINE
 FULFILLMENT AMAZON;209.79;289.09;8.09.03.73.10;Carrinho de Bebê Umbrella Park Cinza - Voyage;VITRINE
 FULFILLMENT MELI;212.13;292.31;8.09.03.73.10;Carrinho de Bebê Umbrella Park Cinza - Voyage;VITRINE
 FULFILLMENT AMAZON;209.79;289.09;8.09.03.73.10;Carrinho de Bebê Umbrella Park Voyage - Cinza;VITRINE
@@ -2919,7 +2906,6 @@ FATURAMENTO VD RJ;651.88;909.11;8.09.04.113.10;Travel System Minny 3.0 Trio Cosc
 FATURAMENTO BBTOTAL ES;379.18;449.27;8.09.04.114.01;Carrinho com Bebê Conforto e Base Travel System Minny 3.0 Trio Preto Absoluto - Cosco;BB TOTAL
 FATURAMENTO VD RJ;651.88;909.11;8.09.04.114.01;Carrinho com Bebê Conforto e Base Travel System Minny 3.0 Trio Preto Absoluto - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;379.18;449.27;8.09.04.114.01;Travel System Minny 3.0 Trio Cosco Preto Absoluto;BB TOTAL
-FATURAMENTO VD RJ;651.88;909.11;8.09.04.114.01;Travel System Minny 3.0 Trio Cosco Preto Absoluto;VITRINE
 FATURAMENTO VD RJ;194.92;268.6;8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;113.35;134.3;8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;BB TOTAL
 FATURAMENTO VD RJ;194.92;268.6;8.09.04.115.01;Carrinho de Bebê Keep Cosco Preto;VITRINE
@@ -2940,7 +2926,6 @@ FULFILLMENT MELI;523.82;730.51;8.09.04.119.01;Carrinho com Bebê Conforto Travel
 FATURAMENTO VD RJ;303.9;418.78;8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla - Cosco;VITRINE
 FULFILLMENT MELI;303.9;418.78;8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla - Cosco;VITRINE
 FATURAMENTO VD RJ;303.9;418.78;8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla Cosco;VITRINE
-FULFILLMENT MELI;303.9;418.78;8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla Cosco;VITRINE
 FATURAMENTO VD RJ;523.82;730.51;8.09.04.121.10;Carrinho com Bebê Conforto Travel System Toffy Duo Cinza Mescla - Cosco;VITRINE
 FATURAMENTO VD RJ;523.82;730.51;8.09.04.121.10;Carrinho com Bebê Conforto Travel System Toffy Duo Cosco Cinza Mescla;VITRINE
 FATURAMENTO VD RJ;523.82;730.51;8.09.04.122.57;Carrinho com Bebê Conforto Travel System Toffy Duo Bege - Cosco;VITRINE
@@ -3044,7 +3029,6 @@ FATURAMENTO VD RJ;1154.87;1610.56;8.09.23.40.27;Carrinho com Bebê Conforto Trav
 FATURAMENTO BBTOTAL ES;944.17;944.17;8.09.23.41.27;Carrinho com Bebê Conforto Travel System Sky Trio Grey Vintage - Infanti;BB TOTAL
 FATURAMENTO VD RJ;1354.04;1888.33;8.09.23.41.27;Carrinho com Bebê Conforto Travel System Sky Trio Grey Vintage - Infanti;VITRINE
 FATURAMENTO VD RJ;1077.86;1503.18;8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;VITRINE
-FATURAMENTO VD RJ;1077.86;1503.18;8.09.23.43.27;Travel System Epic Lite Duo Infanti - Grey Steel;VITRINE
 FATURAMENTO VD RJ;1385.91;1932.8;8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;VITRINE
 FATURAMENTO VD RJ;1314.21;1832.78;8.09.23.45.27;Carrinho com Bebê Conforto Travel System Epic Lite Trio Grey Steel - Infanti;VITRINE
 FATURAMENTO VD RJ;1314.21;1832.78;8.09.23.45.27;Travel System Epic Lite Trio Infanti Grey Steel;VITRINE
@@ -4935,7 +4919,6 @@ FATURAMENTO BBTOTAL ES;63.64;63.64;8.25.75.43.10;Capa Protetora para Bebê Confo
 FATURAMENTO VD RJ;107.8;107.8;8.25.75.45.10;Capa Protetora Para Carrinho Universal Slim Lycra Cinza - D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;45.49;53.9;8.25.75.45.10;Capa Protetora Para Carrinho Universal Slim Lycra Cinza - D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;107.8;107.8;8.25.75.45.10;Capa Protetora para Carrinho Slim Lycra Cinza D´Bella for Baby;VITRINE
-FATURAMENTO BBTOTAL ES;45.49;53.9;8.25.75.45.10;Capa Protetora para Carrinho Slim Lycra Cinza D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;107.8;107.8;8.25.75.46.01;Capa Protetora Para Carrinho Universal Slim Lycra Preto - D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;53.9;53.9;8.25.75.46.01;Capa Protetora Para Carrinho Universal Slim Lycra Preto - D´Bella for Baby;BB TOTAL
 FATURAMENTO VD RJ;151.0;151.0;8.25.75.48.10;Capa Protetora Para Cadeira de Carro Lycra Cinza - D´Bella For Baby;VITRINE
@@ -5332,7 +5315,6 @@ FATURAMENTO VD RJ;63.36;87.31;8.30.33.38.00;Brinquedo Wonder Buddies Leonardo - 
 FATURAMENTO BBTOTAL ES;43.66;43.66;8.30.33.38.00;Brinquedo Wonder Buddies Leonardo - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;61.1;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Thomas - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;44.44;44.44;8.30.33.39.00;Brinquedo Wonder Buddies Thomas - Tiny Love;BB TOTAL
-FATURAMENTO VD RJ;61.1;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Tiny Love - Thomas;VITRINE
 FATURAMENTO VD RJ;72.4;99.75;8.30.33.40.00;Móbile Tummy Time Meadow Days - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;34.58;39.7;8.30.33.40.00;Móbile Tummy Time Meadow Days - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;76.22;105.0;8.30.33.41.00;Móbile Tummy Time Tiny Princess Tales - Tiny Love;VITRINE
@@ -5779,7 +5761,6 @@ FATURAMENTO VD RJ;536.22;536.22;8.02.84.01.01;Base Fix para Bebê Conforto Artio
 FATURAMENTO VD RJ;80.37;80.37;8.03.01.01.27;Almofada Extra para Carrinhos SafeComfort Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;107.08;107.08;8.03.01.02.82;Almofada Extra para Carrinhos SafeComfort Grey Army - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;107.08;107.08;8.03.01.03.18;Almofada Extra Para Carrinhos SafeComfort Plaid Pink - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;107.08;107.08;8.03.01.03.18;Almofada SafeComfort Safety 1st - Plaid Pink;BB TUDO
 FATURAMENTO VD RJ;107.43;107.43;8.03.01.04.01;Almofada Extra Para Carrinhos SafeComfort Plaid Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;107.43;107.43;8.03.01.04.01;Almofada SafeComfort Safety 1st Plaid Black;BB TUDO
 FATURAMENTO VD RJ;107.08;107.08;8.03.01.05.18;Almofada Extra Para Carrinhos SafeComfort Pink Unicorn - Safety 1st;BB TUDO
@@ -6152,7 +6133,6 @@ FATURAMENTO VD RJ;135.14;135.14;8.06.04.09.06;Cadeira de Refeição Portátil Sm
 FATURAMENTO VD RJ;180.84;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;BB TUDO
 FATURAMENTO VD RJ;180.84;180.84;8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cosco Cinza;BB TUDO
 FATURAMENTO VD RJ;597.57;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;BB TUDO
-FATURAMENTO VD RJ;597.57;597.57;8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Cosco Amarela;BB TUDO
 FATURAMENTO VD RJ;597.54;597.54;8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;BB TUDO
 FATURAMENTO VD RJ;597.54;597.54;8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cosco Cinza;BB TUDO
 FATURAMENTO VD RJ;1069.65;1069.65;8.06.04.13.01;Travel System Nexus 3.0 Trio Cosco - Preto Royal;BB TUDO
@@ -6348,7 +6328,6 @@ FATURAMENTO VD RJ;1031.47;1031.47;8.07.76.02.10;Cadeirinha de Carro Every Stage 
 FATURAMENTO VD RJ;1064.32;1064.32;8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;BB TUDO
 FATURAMENTO VD RJ;1064.32;1064.32;8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal Joie;BB TUDO
 FATURAMENTO VD RJ;401.54;401.54;8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember - Joie;BB TUDO
-FATURAMENTO VD RJ;401.54;401.54;8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember Joie;BB TUDO
 FATURAMENTO VD RJ;1239.0;1239.0;8.07.76.09.11;Cadeirinha de Carro Every Stage Fx Moss Isofix Verde - Joie;BB TUDO
 FATURAMENTO VD RJ;501.28;501.28;8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;BB TUDO
 FATURAMENTO VD RJ;501.28;501.28;8.07.76.10.01;Cadeirinha de Carro Stages Coal Preto - Joie;BB TUDO
@@ -6378,7 +6357,6 @@ FATURAMENTO VD RJ;299.5;299.5;8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Co
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.01.01;Canguru para Bebê Loop Cosco Preto;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;BB TUDO
-FATURAMENTO VD RJ;99.04;99.04;8.08.04.02.10;Canguru Loop Cosco - Cinza Escuro;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.03.10;Canguru Infantil Loop Até 9 kg Cinza Claro - Cosco;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.03.10;Canguru Loop Cosco - Cinza Claro;BB TUDO
 FATURAMENTO VD RJ;84.5;84.5;8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;BB TUDO
@@ -6561,7 +6539,6 @@ FATURAMENTO VD RJ;186.8;186.8;8.09.03.31.01;Carrinho Umbrella Quick Voyage Preto
 FATURAMENTO VD RJ;186.8;186.8;8.09.03.31.01;Carrinho de Bebê Umbrella Quick Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;407.66;407.66;8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;BB TUDO
 FATURAMENTO VD RJ;407.66;407.66;8.09.03.42.00;Carrinho de Bebê Delta Voyage - Colorê;BB TUDO
-FATURAMENTO VD RJ;292.34;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Voyage - Bege;BB TUDO
 FATURAMENTO VD RJ;289.09;289.09;8.09.03.74.01;Carrinho de Bebê Umbrella Park Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;425.68;425.68;8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;425.68;425.68;8.09.03.77.01;Carrinho de Bebê Delta Voyage Preto;BB TUDO
@@ -6593,7 +6570,6 @@ FATURAMENTO VD RJ;764.56;764.56;8.09.04.112.01;Carrinho com Bebê Conforto Trave
 FATURAMENTO VD RJ;909.11;909.11;8.09.04.113.10;Carrinho com Bebê Conforto e Base Travel System Minny 3.0 Trio Cinza Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;909.11;909.11;8.09.04.113.10;Travel System Minny 3.0 Trio Cosco Cinza Mescla;BB TUDO
 FATURAMENTO VD RJ;909.11;909.11;8.09.04.114.01;Carrinho com Bebê Conforto e Base Travel System Minny 3.0 Trio Preto Absoluto - Cosco;BB TUDO
-FATURAMENTO VD RJ;909.11;909.11;8.09.04.114.01;Travel System Minny 3.0 Trio Cosco Preto Absoluto;BB TUDO
 FATURAMENTO VD RJ;268.6;268.6;8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;BB TUDO
 FATURAMENTO VD RJ;268.6;268.6;8.09.04.115.01;Carrinho de Bebê Keep Cosco Preto;BB TUDO
 FATURAMENTO VD RJ;261.81;261.81;8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;BB TUDO
@@ -6676,7 +6652,6 @@ FATURAMENTO VD RJ;1799.5;1799.5;8.09.23.31.10;Carrinho com Bebê Conforto Travel
 FATURAMENTO VD RJ;1610.56;1610.56;8.09.23.40.27;Carrinho com Bebê Conforto Travel System Sky Trio Grey Classic - Infanti;BB TUDO
 FATURAMENTO VD RJ;1888.33;1888.33;8.09.23.41.27;Carrinho com Bebê Conforto Travel System Sky Trio Grey Vintage - Infanti;BB TUDO
 FATURAMENTO VD RJ;1503.18;1503.18;8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;BB TUDO
-FATURAMENTO VD RJ;1503.18;1503.18;8.09.23.43.27;Travel System Epic Lite Duo Infanti - Grey Steel;BB TUDO
 FATURAMENTO VD RJ;1932.8;1932.8;8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;BB TUDO
 FATURAMENTO VD RJ;1832.78;1832.78;8.09.23.45.27;Carrinho com Bebê Conforto Travel System Epic Lite Trio Grey Steel - Infanti;BB TUDO
 FATURAMENTO VD RJ;1832.78;1832.78;8.09.23.45.27;Travel System Epic Lite Trio Infanti Grey Steel;BB TUDO
@@ -8141,7 +8116,6 @@ FATURAMENTO VD RJ;17.96;17.96;8.30.33.35.00;Brinquedo Teether Rattle Tiny Love -
 FATURAMENTO VD RJ;87.31;87.31;8.30.33.37.00;Brinquedo Wonder Buddies Coco Chanel - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;87.31;87.31;8.30.33.38.00;Brinquedo Wonder Buddies Leonardo - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;84.19;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Thomas - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;84.19;84.19;8.30.33.39.00;Brinquedo Wonder Buddies Tiny Love - Thomas;BB TUDO
 FATURAMENTO VD RJ;99.75;99.75;8.30.33.40.00;Móbile Tummy Time Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;105.0;105.0;8.30.33.41.00;Móbile Tummy Time Tiny Princess Tales - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;38.33;38.33;8.30.33.43.00;Brinquedo Tiny Rolling Florence - Tiny Love;BB TUDO
