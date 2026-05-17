@@ -822,7 +822,6 @@ FATURAMENTO VD RJ;41.65;47.38;24.53.66.212.01;Leiteira de Indução em Alumínio
 FATURAMENTO VD ES;10.39;11.72;24.53.66.215.06;Colher Medidora Digital de Plástico Branca 23cm - Wolff;VITRINE
 FATURAMENTO VD ES;71.95;81.85;24.53.66.218.10;Caçarola Indução Alumínio Revest. Cerâmico 20cm Wolff;VITRINE
 FATURAMENTO VD ES;36.57;41.6;24.53.66.220.00;Kit 5 Porta Temperos Vidro Borossilicato Tampa Bambu Wolff;VITRINE
-FATURAMENTO VD ES;16.77;19.08;24.53.66.35.06;Pote Wolff Vintage Flores de Cerâmica Branco 10cm x 8cm;VITRINE
 FATURAMENTO VD ES;60.66;69.0;24.53.66.37.00;Panela Wolff Revestimento Cerâmico Indução Granilite Cinza 20cm;VITRINE
 FATURAMENTO VD ES;5.05;5.74;24.53.66.46.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 210ml - Wolff;VITRINE
 FATURAMENTO VD ES;4.83;5.5;24.53.66.47.00;Porta Mantimento de Vidro Borossilicato com Tampa de Bambu 160ml - Wolff;VITRINE
@@ -1579,7 +1578,6 @@ FATURAMENTO VD RJ;41.4;47.72;8.03.169.02.06;Mini Travesseiro Infantil Ergonômic
 FATURAMENTO VD RJ;41.4;47.72;8.03.169.03.06;Mini Travesseiro Infantil Ergonômico Bear White - Kikka Boo;VITRINE
 FATURAMENTO VD RJ;42.12;59.5;8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;41.39;41.39;8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;BB TOTAL
-FATURAMENTO VD RJ;42.12;59.5;8.03.23.03.57;Almofada de Elevação Mangiare Infanti Bege;VITRINE
 FATURAMENTO VD RJ;42.12;59.5;8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;VITRINE
 FATURAMENTO VD RJ;42.12;59.5;8.03.23.04.10;Almofada de Elevação Mangiare Infanti Cinza;VITRINE
 FATURAMENTO VD RJ;42.12;59.5;8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;VITRINE
@@ -2208,7 +2206,6 @@ FULFILLMENT AMAZON;670.53;935.12;8.07.01.32.01;Cadeirinha de Carro Multifix com 
 FATURAMENTO BBTOTAL ES;394.61;467.56;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
 FULFILLMENT MELI;522.18;728.24;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
-FULFILLMENT AMAZON;670.53;935.12;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;VITRINE
 FULFILLMENT MELI;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;729.44;729.44;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;BB TOTAL
@@ -2748,7 +2745,6 @@ FATURAMENTO VD RJ;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wi
 FULFILLMENT AMAZON;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;VITRINE
 FULFILLMENT MELI;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;VITRINE
 FATURAMENTO VD RJ;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Umbrella Wing Voyage Azul;VITRINE
-FULFILLMENT AMAZON;199.99;275.59;8.09.03.108.07;Carrinho de Bebê Umbrella Wing Voyage Azul;VITRINE
 FATURAMENTO VD RJ;189.99;261.81;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;VITRINE
 FULFILLMENT MELI;190.0;261.81;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;VITRINE
 FATURAMENTO BBTOTAL ES;137.8;137.8;8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;BB TOTAL
@@ -2797,7 +2793,6 @@ FATURAMENTO BBTOTAL ES;72.13;85.46;8.09.03.31.01;Carrinho de Bebê Umbrella Quic
 FATURAMENTO VD RJ;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;VITRINE
 FULFILLMENT AMAZON;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;VITRINE
 FATURAMENTO VD RJ;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Voyage - Colorê;VITRINE
-FULFILLMENT AMAZON;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Voyage - Colorê;VITRINE
 FULFILLMENT MELI;212.15;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Bege - Voyage;VITRINE
 FULFILLMENT MELI;212.15;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Voyage - Bege;VITRINE
 FULFILLMENT AMAZON;209.79;289.09;8.09.03.73.10;Carrinho de Bebê Umbrella Park Cinza - Voyage;VITRINE
@@ -2935,7 +2930,6 @@ FATURAMENTO VD RJ;612.59;854.3;8.09.04.76.01;Carrinho com Bebê Conforto Travel 
 FATURAMENTO VD RJ;430.12;599.82;8.09.04.77.10;Carrinho com Bebê Conforto Travel System Jetty Duo Cinza Mescla - Cosco;VITRINE
 FULFILLMENT AMAZON;408.61;569.83;8.09.04.78.18;Carrinho com Bebê Conforto Travel System Jetty Duo Rosa Mescla - Cosco;VITRINE
 FULFILLMENT AMAZON;408.61;569.83;8.09.04.78.18;Travel System Jetty Duo Cosco Rosa Mescla;VITRINE
-FATURAMENTO VD RJ;408.61;569.83;8.09.04.78.18;Travel System Jetty Duo Cosco Rosa Mescla;VITRINE
 FULFILLMENT AMAZON;272.68;375.75;8.09.04.83.10;Carrinho de Bebê Jetty Cinza Mescla - Cosco;VITRINE
 FULFILLMENT MELI;272.68;375.75;8.09.04.83.10;Carrinho de Bebê Jetty Cinza Mescla - Cosco;VITRINE
 FATURAMENTO VD RJ;272.68;375.75;8.09.04.83.10;Carrinho de Bebê Jetty Cinza Mescla - Cosco;VITRINE
@@ -2946,8 +2940,6 @@ FULFILLMENT MELI;365.43;503.56;8.09.04.94.07;Carrinho de Bebê Reverse Azul Raja
 FULFILLMENT AMAZON;365.43;503.56;8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;VITRINE
 FULFILLMENT MAGALU;300.26;403.59;8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;VITRINE
 FATURAMENTO VD RJ;364.08;501.66;8.09.04.94.07;Carrinho de Bebê Reverse Cosco - Azul Rajado;VITRINE
-FULFILLMENT MELI;365.43;503.56;8.09.04.94.07;Carrinho de Bebê Reverse Cosco - Azul Rajado;VITRINE
-FULFILLMENT AMAZON;365.43;503.56;8.09.04.94.07;Carrinho de Bebê Reverse Cosco - Azul Rajado;VITRINE
 FATURAMENTO VD RJ;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
 FULFILLMENT AMAZON;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
 FULFILLMENT MAGALU;291.38;398.95;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
@@ -4874,7 +4866,6 @@ FATURAMENTO BBTOTAL ES;63.83;75.63;8.25.75.48.10;Capa Protetora Para Cadeira de 
 FATURAMENTO VD RJ;147.46;151.05;8.25.75.48.10;Capa Protetora para Cadeira de Carro Lycra Cinza D´Bella for Baby;VITRINE
 FATURAMENTO VD RJ;150.05;152.49;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;VITRINE
 FATURAMENTO BBTOTAL ES;76.25;76.25;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;BB TOTAL
-FATURAMENTO VD RJ;150.05;152.49;8.25.75.49.01;Capa Protetora para Cadeira de Carro Lycra Preto D´Bella for Baby;VITRINE
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra Preto D´Bella for Baby;VITRINE
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;VITRINE
 FATURAMENTO BBTOTAL ES;48.5;48.5;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;BB TOTAL
@@ -5305,7 +5296,6 @@ FATURAMENTO BBTOTAL ES;21.02;21.02;8.30.53.01.18;Projetor de Berço Next 2 Stars
 FATURAMENTO VD RJ;34.91;39.96;8.30.53.02.07;Projetor de Berço Next 2 Stars Azul - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;19.98;19.98;8.30.53.02.07;Projetor de Berço Next 2 Stars Azul - Chicco;BB TOTAL
 FATURAMENTO VD RJ;39.13;44.8;8.30.53.03.18;Painel Ursinho Bons Sonhos Chicco Rosa;VITRINE
-FATURAMENTO BBTOTAL ES;22.4;22.4;8.30.53.03.18;Painel Ursinho Bons Sonhos Chicco Rosa;BB TOTAL
 FATURAMENTO VD RJ;39.13;44.8;8.30.53.03.18;Painel Ursinho Bons Sonhos Rosa - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;22.4;22.4;8.30.53.03.18;Painel Ursinho Bons Sonhos Rosa - Chicco;BB TOTAL
 FATURAMENTO VD RJ;39.23;44.74;8.30.53.04.07;Painel Ursinho Bons Sonhos Azul - Chicco;VITRINE
@@ -5782,7 +5772,6 @@ FATURAMENTO VD RJ;47.72;47.72;8.03.169.01.06;Mini Travesseiro Infantil Ergonômi
 FATURAMENTO VD RJ;47.72;47.72;8.03.169.02.06;Mini Travesseiro Infantil Ergonômico Cloud White - Kikka Boo;BB TUDO
 FATURAMENTO VD RJ;47.72;47.72;8.03.169.03.06;Mini Travesseiro Infantil Ergonômico Bear White - Kikka Boo;BB TUDO
 FATURAMENTO VD RJ;59.5;59.5;8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;BB TUDO
-FATURAMENTO VD RJ;59.5;59.5;8.03.23.03.57;Almofada de Elevação Mangiare Infanti Bege;BB TUDO
 FATURAMENTO VD RJ;59.5;59.5;8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;BB TUDO
 FATURAMENTO VD RJ;59.5;59.5;8.03.23.04.10;Almofada de Elevação Mangiare Infanti Cinza;BB TUDO
 FATURAMENTO VD RJ;59.5;59.5;8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;BB TUDO
@@ -6570,7 +6559,6 @@ FATURAMENTO VD RJ;1400.07;1400.07;8.09.04.75.68;Carrinho com Bebê Conforto Trav
 FATURAMENTO VD RJ;1400.07;1400.07;8.09.04.75.68;Travel System Poppy Trio Cosco - Rosa Mescla;BB TUDO
 FATURAMENTO VD RJ;854.3;854.3;8.09.04.76.01;Carrinho com Bebê Conforto Travel System Jetty Duo Preto Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;599.82;599.82;8.09.04.77.10;Carrinho com Bebê Conforto Travel System Jetty Duo Cinza Mescla - Cosco;BB TUDO
-FATURAMENTO VD RJ;569.83;569.83;8.09.04.78.18;Travel System Jetty Duo Cosco Rosa Mescla;BB TUDO
 FATURAMENTO VD RJ;375.75;375.75;8.09.04.83.10;Carrinho de Bebê Jetty Cinza Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;358.7;358.7;8.09.04.85.18;Carrinho de Bebê Jetty Rosa Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;501.66;501.66;8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;BB TUDO
@@ -7813,7 +7801,6 @@ FATURAMENTO VD RJ;107.8;107.8;8.25.75.46.01;Capa Protetora Para Carrinho Univers
 FATURAMENTO VD RJ;151.05;151.05;8.25.75.48.10;Capa Protetora Para Cadeira de Carro Lycra Cinza - D´Bella For Baby;BB TUDO
 FATURAMENTO VD RJ;151.05;151.05;8.25.75.48.10;Capa Protetora para Cadeira de Carro Lycra Cinza D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;152.49;152.49;8.25.75.49.01;Capa Protetora Para Cadeira de Carro Lycra Preto - D´Bella For Baby;BB TUDO
-FATURAMENTO VD RJ;152.49;152.49;8.25.75.49.01;Capa Protetora para Cadeira de Carro Lycra Preto D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra Preto D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;97.0;97.0;8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;BB TUDO
 FATURAMENTO VD RJ;87.0;87.0;8.25.75.51.10;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Cinza - D´Bella for Baby;BB TUDO
