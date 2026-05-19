@@ -358,6 +358,7 @@ FATURAMENTO VD ES;3.76;4.28;24.10.159.354.00;Espremedor de Limão Bird 12 x 2,5 
 FATURAMENTO VD ES;10.04;11.52;24.10.159.359.00;Saleiro Quadrado de Bambu com Tampa 9cm x 9cm x 7cm - Lyor;VITRINE
 FATURAMENTO VD ES;11.09;12.73;24.10.159.360.00;Saleiro Redondo de Bambu com Tampa 9cm x 6cm - Lyor;VITRINE
 FATURAMENTO VD ES;1.94;2.2;24.10.159.361.07;Pote Térmico Parede Dupla com Alça de Silicone Tampa Azul;VITRINE
+FATURAMENTO VD ES;10.66;12.13;24.10.159.366.00;Pote Hermético de Poliestireno Empilhável My Box 1L - Lyor;VITRINE
 FATURAMENTO VD ES;13.62;15.49;24.10.159.371.01;Pote Hermético de Vidro com Silicone Vintage Preto 2,3L;VITRINE
 FATURAMENTO VD ES;11.35;12.92;24.10.159.372.01;Pote Hermético de Vidro com Silicone Vintage Preto 1,6L;VITRINE
 FATURAMENTO VD ES;9.53;10.84;24.10.159.373.01;Pote Hermético de Vidro com Silicone Vintage Preto 1L;VITRINE
@@ -688,9 +689,8 @@ FATURAMENTO VD ES;13.24;15.06;24.52.159.72.18;Caneca Parede Dupla de Vidro Boros
 FATURAMENTO VD ES;27.0;30.71;24.52.159.83.00;Prato para Bolo com Pé de Cristal Roman -Lyor;VITRINE
 FATURAMENTO VD ES;17.39;19.77;24.52.159.85.00;Caneca de Vidro Borossilicato com Pires de Bambu Daisy 330ml;VITRINE
 FATURAMENTO VD ES;14.84;16.88;24.52.159.86.00;Caneca Vidro Borossilicato com Pires de Bambu Abacaxi 330ml;VITRINE
-FATURAMENTO VD ES;21.39;24.33;24.52.159.90.00;Chaleira de Vidro com Filtro de Aço Inox Love 750ml;VITRINE
+FATURAMENTO VD ES;21.17;24.07;24.52.159.90.00;Chaleira de Vidro com Filtro de Aço Inox Love 750ml;VITRINE
 FATURAMENTO VD ES;12.24;13.92;24.52.159.91.00;Meleira de Cristal Ecológico Little Bee 9cm x 9cm x 9,5cm;VITRINE
-FATURAMENTO VD ES;28.72;32.68;24.52.159.95.00;Açucareiro de Vidro com Colher e Tampa Lovely Bee 470ml;VITRINE
 FATURAMENTO VD ES;38.44;43.73;24.52.66.101.18;Jogo de 4 Xícaras de Chá Wolff Pearl Coração de Cristal Rosa 180ml;VITRINE
 FATURAMENTO VD ES;11.53;13.12;24.52.66.175.17;Caneca  com colher Wolff Blessed de Cerâmica Preto Matt Laranja 310ml;VITRINE
 FATURAMENTO VD ES;10.62;12.08;24.52.66.187.18;Caneca Wolff Love de Cerâmica Preto Matt Rosa 340ml;VITRINE
@@ -975,6 +975,7 @@ FATURAMENTO VD ES;3.2;3.64;24.56.159.47.00;Prato de Vidro Balls 107cm - Lyor;VIT
 FATURAMENTO VD ES;10.82;12.3;24.56.159.49.00;Prato Raso de Cristal Coração 28cm - Lyor;VITRINE
 FATURAMENTO VD ES;36.44;41.46;24.56.159.56.00;Jarra de Cristal Palm Hand Paiting 1,55L - Lyor;VITRINE
 FATURAMENTO VD ES;15.37;17.49;24.56.159.57.00;Prato Raso de Cristal Coração Âmbar Metalizado 28cm - Lyor;VITRINE
+FATURAMENTO VD ES;4.93;5.58;24.56.159.66.00;Prato para Sobremesa de Porcelana Clean 20,5cm - Lyor;VITRINE
 FATURAMENTO VD ES;15.45;16.09;24.56.159.77.01;Prato de Vidro Opalino Friends Time Pasta Black 28cm - Lyor;VITRINE
 FATURAMENTO VD ES;8.58;9.77;24.56.159.96.00;Prato para Sobremesa Cristal Coração Âmbar Metalizado 20cm;VITRINE
 FATURAMENTO VD ES;5.71;6.47;24.56.159.99.00;Taça para Água de Cristal Palm 240ml - Lyor;VITRINE
@@ -1004,7 +1005,7 @@ FATURAMENTO VD ES;14.54;16.54;24.56.66.38.00;Prato Wolff Pearl de Cristal Transp
 FATURAMENTO VD ES;7.09;8.06;24.56.66.384.00;Prato Wolff Pearl Rainbow de Cristal 20cm;VITRINE
 FATURAMENTO VD ES;6.59;7.49;24.56.66.388.06;Pratro para Sobremesa Wolff Bambu de Melamina Branco 22cm;VITRINE
 FATURAMENTO VD ES;21.33;24.26;24.56.66.41.04;Bowl Wolff Taj de Cristal Borda Dourada Incolor 19cm x 10cm;VITRINE
-FATURAMENTO VD ES;14.55;16.56;24.56.66.42.04;Bowl Wolff Taj de Cristal Borda Dourada Incolor 17cm x 8cm;VITRINE
+FATURAMENTO VD ES;13.79;15.68;24.56.66.42.04;Bowl Wolff Taj de Cristal Borda Dourada Incolor 17cm x 8cm;VITRINE
 FATURAMENTO VD ES;9.96;11.34;24.56.66.43.04;Bowl Wolff Taj de Cristal Borda Dourada Incolor 13cm x 6,5cm;VITRINE
 FATURAMENTO VD ES;23.37;26.58;24.56.66.44.00;Jogo de 4 Pratos para Sobremesa Wolff Daisy de Cristal Incolor;VITRINE
 FATURAMENTO VD ES;13.03;14.82;24.56.66.45.00;Prato Raso Wolff Daisy de Cristal Incolor 28cm;VITRINE
@@ -1040,7 +1041,6 @@ FATURAMENTO VD ES;4.23;4.85;24.57.159.26.10;Petisqueira Redonda com Tampa e Divi
 FATURAMENTO VD ES;4.22;4.85;24.57.159.27.57;Petisqueira Redonda com Tampa e Divisórias Bege - Lyor;VITRINE
 FATURAMENTO VD ES;4.55;5.17;24.57.159.28.18;Petisqueira Redonda com Tampa e Divisórias Rosa - Lyor;VITRINE
 FATURAMENTO VD ES;23.77;27.04;24.57.159.32.00;Queijeira com Tampa New Butterfly 19,5cm x 12,5cm;VITRINE
-FATURAMENTO VD ES;8.53;9.7;24.57.159.34.00;Caneca Little Bee 200ml Cristal Ecológico - Lyor;VITRINE
 FATURAMENTO VD ES;10.29;11.7;24.57.159.35.06;Porta Frios com Divisória e Tampa Hermética Branco;VITRINE
 FATURAMENTO VD ES;16.56;18.84;24.57.159.36.00;Leiteira Little Bee 595ml Cristal - Lyor;VITRINE
 FATURAMENTO VD ES;1.94;2.2;24.57.159.51.10;Prato Retangular de Melamina com Molheira Tóquio Granilite;VITRINE
@@ -1119,7 +1119,6 @@ FATURAMENTO VD ES;7.92;9.08;24.68.174.16.00;Conjunto Rolo Adesivo 3 Peças - Sim
 FATURAMENTO VD ES;44.69;51.3;24.68.174.28.00;Mop Spray Com Gatilho E Dispenser - Simplo;VITRINE
 FATURAMENTO VD ES;7.8;8.97;24.68.174.29.00;Refil De Microfibra Para Mop Spray - Simplo;VITRINE
 FATURAMENTO VD ES;9.12;9.5;24.68.174.30.00;Dispenser Para Mop Spray - Simplo;VITRINE
-FATURAMENTO VD ES;5.06;5.82;24.68.174.34.00;Cabo Extensor Para Mop Giro Fit - Simplo;VITRINE
 FATURAMENTO VD ES;31.3;35.93;24.68.174.36.00;Limpa Vidros 2 Em 1 Com Cabo Extensível - Simplo;VITRINE
 FATURAMENTO VD ES;9.22;10.58;24.68.174.45.00;Pano De Microfibra Para Chão Com Furo - Simplo;VITRINE
 FATURAMENTO VD ES;15.59;17.9;24.68.174.46.00;Espanador Flexível De Chenile - Simplo;VITRINE
@@ -1182,7 +1181,6 @@ FATURAMENTO VD ES;62.46;72.0;24.71.175.09.57;Cesto Com 2 Divisórias;VITRINE
 FATURAMENTO VD ES;82.8;94.99;24.71.175.12.01;Carrinho Multiuso 3 Prateleiras Preto;VITRINE
 FATURAMENTO VD ES;62.1;71.24;24.71.175.17.01;Carrinho Multiuso Gala 3 Prateleiras Metal Preto;VITRINE
 FATURAMENTO VD ES;60.96;69.96;24.73.163.01.00;Lixeira Redonda 8L De Metal Com Tampa Vazada De Bambu Preta;VITRINE
-FATURAMENTO VD ES;26.03;29.38;25.76.175.01.00;Balança Digital Corporal De Vidro;VITRINE
 FATURAMENTO VD ES;24.96;28.18;25.76.175.02.00;Balança Bioimpedância Corporal App Bluetooth;VITRINE
 FATURAMENTO VD RJ;26.17;33.83;25.76.175.02.00;Balança Bioimpedância Corporal App Bluetooth;VITRINE
 FATURAMENTO VD ES;150.33;175.86;6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;VITRINE
@@ -1211,6 +1209,7 @@ FULFILLMENT VISUAL IN;741.51;878.59;6.30.162.01.06;Moto Elétrica Infantil Road 
 FULFILLMENT VISUAL IN;863.74;1023.42;6.30.162.02.08;Trator Elétrico Infantil com Caçamba 12V Vermelho - Bang Toys;VISUAL IN
 FULFILLMENT VISUAL IN;670.0;800.0;6.30.162.03.11;Trator Elétrico Infantil com Caçamba 12V Verde - Bang Toys;VISUAL IN
 FULFILLMENT VISUAL IN;388.44;463.81;6.30.162.04.18;Moto Elétrica Infantil Scooter Lemn 6V Rosa - Bang Toy;VISUAL IN
+FATURAMENTO VD RJ;388.45;463.82;6.30.162.05.11;Moto Elétrica Infantil Scooter Lemn 6V Verde - Bang Toy;VITRINE
 FULFILLMENT VISUAL IN;388.45;463.82;6.30.162.05.11;Moto Elétrica Infantil Scooter Lemn 6V Verde - Bang Toy;VISUAL IN
 FATURAMENTO VD RJ;586.25;700.0;6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;VITRINE
 FATURAMENTO VISUAL IN SP;1324.17;1248.33;6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;VISUAL IN
@@ -5549,6 +5548,7 @@ FATURAMENTO VD ES;141.57;141.57;6.28.60.24.113;Bicicleta Infantil Balance Cecizi
 FATURAMENTO VD ES;141.57;141.57;6.28.60.25.08;Bicicleta Infantil Balance Caloi 02 Vermelho - Nathor;BB TUDO
 FATURAMENTO VD RJ;141.57;141.57;6.28.60.25.08;Bicicleta Infantil Balance Caloi 02 Vermelho - Nathor;BB TUDO
 FATURAMENTO VD ES;541.41;541.41;6.28.60.26.08;Bicicleta Infantil Zigbim Caloi Aro 14 Vermelho - Nathor;BB TUDO
+FATURAMENTO VD RJ;463.82;463.82;6.30.162.05.11;Moto Elétrica Infantil Scooter Lemn 6V Verde - Bang Toy;BB TUDO
 FATURAMENTO VD RJ;700.0;700.0;6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;BB TUDO
 FATURAMENTO VD RJ;810.51;810.51;6.30.162.07.08;Jipe Infantil Elétrico Aventura 12V até 30 kgs Vermelho - Bang Toys;BB TUDO
 FATURAMENTO VD RJ;1739.0;1739.0;6.30.162.10.08;Jipe Elétrico Infantil 4x4 com 2 lugares Bivolt Vermelho - Bang Toy;BB TUDO
