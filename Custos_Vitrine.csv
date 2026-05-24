@@ -46,7 +46,6 @@ FATURAMENTO VD ES;92.73;109.23;21.14.50.1052.00;Cadeira Windsor Fendi  Base Em M
 FATURAMENTO VD ES;185.81;218.89;21.14.50.1053.00;Conjunto Com 2 Cadeiras Windsor Fendi  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;82.36;97.02;21.14.50.1054.00;Cadeira Windsor Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;164.73;194.05;21.14.50.1055.00;Conjunto Com 2 Cadeiras Windsor Preta  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;50.74;58.73;21.14.50.1056.00;Cadeira Windsor Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;11.23;12.78;21.14.50.1062.00;Kit Fixação Eames DSW;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1076.00;Conjunto Com 4 Cadeiras Eames Azul Claro  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;50.24;59.18;21.14.50.1077.00;Cadeira Eames Com Braço Azul Claro  Base Em Polipropileno;VITRINE
@@ -1371,7 +1370,6 @@ FATURAMENTO VD RJ;135.0;140.62;8.01.71.06.07;Banheira de Bebê Pequena e Dobráv
 FATURAMENTO BBTOTAL ES;58.81;67.5;8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;BB TOTAL
 FATURAMENTO VD RJ;453.17;489.93;8.01.74.02.57;Banheira de Bebê e Ofurô Dobrável Oyster Capuccino - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;244.97;244.97;8.01.74.02.57;Banheira de Bebê e Ofurô Dobrável Oyster Capuccino - Kiddo;BB TOTAL
-FATURAMENTO VD RJ;104.83;123.64;8.01.74.04.06;Banheira Infantil Fresh com Suporte Branca Kiddo;VITRINE
 FATURAMENTO VD RJ;104.83;123.64;8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;VITRINE
 FATURAMENTO BBTOTAL ES;63.58;72.98;8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;BB TOTAL
 FATURAMENTO VD RJ;197.88;233.38;8.01.74.05.10;Banheira de Bebê Slim Plus Cinza - Kiddo;VITRINE
@@ -1781,7 +1779,6 @@ FATURAMENTO VD RJ;1493.42;1709.86;8.04.18.01.01;Moisés Black - Yoyo2;VITRINE
 FATURAMENTO VD RJ;322.32;449.5;8.04.23.04.27;Berço Portátil Stelle Grey Light - Infanti;VITRINE
 FATURAMENTO VD RJ;278.46;388.33;8.04.23.05.27;Berço Portátil Sereno Grey Hail - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;163.95;194.26;8.04.23.05.27;Berço Portátil Sereno Grey Hail - Infanti;BB TOTAL
-FATURAMENTO VD RJ;278.46;388.33;8.04.23.05.27;Berço Sereno Infanti - Grey Hail;VITRINE
 FATURAMENTO VD RJ;324.11;452.0;8.04.23.10.07;Berço Portátil Stelle Blue Cozy - Infanti;VITRINE
 FATURAMENTO VD RJ;243.45;339.51;8.04.23.12.10;Berço Hello Infanti Cinza;VITRINE
 FATURAMENTO VD RJ;243.45;339.51;8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;VITRINE
@@ -2292,7 +2289,6 @@ FATURAMENTO VD RJ;51.4;71.67;8.07.23.13.01;Assento de Elevação Booster Stage P
 FATURAMENTO VD RJ;46.25;64.5;8.07.23.14.10;Assento de Elevação Booster Stage Cinza Mescla - Infanti;VITRINE
 FATURAMENTO VD RJ;451.43;629.56;8.07.23.15.01;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Black Intense - Infanti;VITRINE
 FATURAMENTO VD RJ;462.69;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;VITRINE
-FATURAMENTO VD RJ;462.69;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Grey Brave;VITRINE
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;116.41;116.41;8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;BB TOTAL
 FATURAMENTO VD RJ;644.98;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;VITRINE
@@ -4597,7 +4593,6 @@ FATURAMENTO BBTOTAL ES;13.91;13.91;8.25.69.02.00;Detergente Líquido para Mamade
 FATURAMENTO VD ES;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VISUAL IN
 FATURAMENTO VISUAL IN SP;18.91;29.84;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;VISUAL IN
-FATURAMENTO VD ES;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool Bioclub Baby 150 ml;VITRINE
 FATURAMENTO VD ES;21.45;21.7;8.25.69.03.00;Higienizador de Mãos Sem Álcool 150 ml - Bioclub Baby;VITRINE
 FATURAMENTO VD ES;15.34;17.75;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;VITRINE
 FULFILLMENT VISUAL IN;15.34;17.75;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;VISUAL IN
@@ -5203,7 +5198,6 @@ FATURAMENTO VD RJ;88.77;122.32;8.30.33.51.00;Torre de Carros de Madeira Boho Chi
 FATURAMENTO VD RJ;85.6;117.95;8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;75.28;103.74;8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;VITRINE
 FATURAMENTO VD RJ;64.97;89.53;8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;VITRINE
-FATURAMENTO VD RJ;64.97;89.53;8.30.33.55.00;Mobile Take Along Black & White Decor -Tiny Love;VITRINE
 FATURAMENTO VD RJ;45.69;62.95;8.30.33.56.06;Meu Primeiro Livrinho Dupla Face Boho Chic  - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;31.48;31.48;8.30.33.56.06;Meu Primeiro Livrinho Dupla Face Boho Chic  - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;100.39;138.33;8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;VITRINE
@@ -5587,7 +5581,6 @@ FATURAMENTO VD RJ;153.13;153.13;8.01.70.07.18;Banheira Infantil Portátil Dobrá
 FATURAMENTO VD RJ;485.36;485.36;8.01.71.03.10;Banheira Dobrável Grande Cinza - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;140.62;140.62;8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;BB TUDO
 FATURAMENTO VD RJ;489.93;489.93;8.01.74.02.57;Banheira de Bebê e Ofurô Dobrável Oyster Capuccino - Kiddo;BB TUDO
-FATURAMENTO VD RJ;123.64;123.64;8.01.74.04.06;Banheira Infantil Fresh com Suporte Branca Kiddo;BB TUDO
 FATURAMENTO VD RJ;123.64;123.64;8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;BB TUDO
 FATURAMENTO VD RJ;233.38;233.38;8.01.74.05.10;Banheira de Bebê Slim Plus Cinza - Kiddo;BB TUDO
 FATURAMENTO VD RJ;151.46;151.46;8.01.74.07.11;Banheira de Bebê Dobrável Jelly Verde - Kiddo;BB TUDO
@@ -5830,7 +5823,6 @@ FATURAMENTO VD RJ;332.78;332.78;8.04.169.03.10;Berço Dobrável So Gifted Grey -
 FATURAMENTO VD RJ;1709.86;1709.86;8.04.18.01.01;Moisés Black - Yoyo2;BB TUDO
 FATURAMENTO VD RJ;449.5;449.5;8.04.23.04.27;Berço Portátil Stelle Grey Light - Infanti;BB TUDO
 FATURAMENTO VD RJ;388.33;388.33;8.04.23.05.27;Berço Portátil Sereno Grey Hail - Infanti;BB TUDO
-FATURAMENTO VD RJ;388.33;388.33;8.04.23.05.27;Berço Sereno Infanti - Grey Hail;BB TUDO
 FATURAMENTO VD RJ;452.0;452.0;8.04.23.10.07;Berço Portátil Stelle Blue Cozy - Infanti;BB TUDO
 FATURAMENTO VD RJ;339.51;339.51;8.04.23.12.10;Berço Hello Infanti Cinza;BB TUDO
 FATURAMENTO VD RJ;339.51;339.51;8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;BB TUDO
@@ -6137,7 +6129,6 @@ FATURAMENTO VD RJ;71.67;71.67;8.07.23.13.01;Assento de Elevação Booster Stage 
 FATURAMENTO VD RJ;64.5;64.5;8.07.23.14.10;Assento de Elevação Booster Stage Cinza Mescla - Infanti;BB TUDO
 FATURAMENTO VD RJ;629.56;629.56;8.07.23.15.01;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Black Intense - Infanti;BB TUDO
 FATURAMENTO VD RJ;645.27;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;BB TUDO
-FATURAMENTO VD RJ;645.27;645.27;8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix Infanti 0 a 36kg Grey Brave;BB TUDO
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;899.49;899.49;8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;587.65;587.65;8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;BB TUDO
@@ -7560,7 +7551,6 @@ FATURAMENTO VD RJ;27.83;27.83;8.25.69.01.00;Água de Passar Roupinha Cheirosa 50
 FATURAMENTO VD RJ;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;23.69;23.69;8.25.69.02.00;Detergente Líquido para Mamadeiras 500 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;21.7;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool 150 ml - Bioclub Baby;BB TUDO
-FATURAMENTO VD ES;21.7;21.7;8.25.69.03.00;Higienizador de Mãos Sem Ácool Bioclub Baby 150 ml;BB TUDO
 FATURAMENTO VD ES;21.7;21.7;8.25.69.03.00;Higienizador de Mãos Sem Álcool 150 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;17.75;17.75;8.25.69.04.00;Limpeza de Sapatinhos 300 ml - Bioclub Baby;BB TUDO
 FATURAMENTO VD ES;21.94;21.94;8.25.69.06.00;Limpeza de Chão Infantil Limpa Chãozinho - Bioclub Baby;BB TUDO
@@ -7968,7 +7958,6 @@ FATURAMENTO VD RJ;122.32;122.32;8.30.33.51.00;Torre de Carros de Madeira Boho Ch
 FATURAMENTO VD RJ;117.95;117.95;8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;103.74;103.74;8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;89.53;89.53;8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;89.53;89.53;8.30.33.55.00;Mobile Take Along Black & White Decor -Tiny Love;BB TUDO
 FATURAMENTO VD RJ;62.95;62.95;8.30.33.56.06;Meu Primeiro Livrinho Dupla Face Boho Chic  - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;138.33;138.33;8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;155.0;155.0;8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;BB TUDO
