@@ -46,7 +46,6 @@ FATURAMENTO VD ES;92.73;109.23;21.14.50.1052.00;Cadeira Windsor Fendi  Base Em M
 FATURAMENTO VD ES;185.81;218.89;21.14.50.1053.00;Conjunto Com 2 Cadeiras Windsor Fendi  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;82.36;97.02;21.14.50.1054.00;Cadeira Windsor Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;164.73;194.05;21.14.50.1055.00;Conjunto Com 2 Cadeiras Windsor Preta  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;11.23;12.78;21.14.50.1062.00;Kit Fixação Eames DSW;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1076.00;Conjunto Com 4 Cadeiras Eames Azul Claro  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;50.24;59.18;21.14.50.1077.00;Cadeira Eames Com Braço Azul Claro  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.1080.00;Cadeira Eames Terracota  Base Em Polipropileno;VITRINE
@@ -56,7 +55,6 @@ FATURAMENTO VD RJ;73.34;86.4;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terr
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1082.00;Conjunto Com 4 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.1083.00;Cadeira Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;200.95;236.73;21.14.50.1085.00;Conjunto Com 4 Cadeiras Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;118.57;139.68;21.14.50.110.00;Conjunto Com 2 Cadeiras Saarinen Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;36.68;39.44;21.14.50.1127.00;Cadeira Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;42.55;49.71;21.14.50.1128.00;Conjunto Com 2 Cadeiras Eames Musgo  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;100.48;118.36;21.14.50.1131.00;Conjunto Com 2 Cadeiras Eames Com Braço Musgo  Base Em Polipropileno;VITRINE
@@ -228,7 +226,6 @@ FATURAMENTO VD ES;67.49;79.5;21.14.50.818.00;Cadeira Eames Azul Bic  Base Em Pol
 FATURAMENTO VD ES;67.18;79.14;21.14.50.833.00;Cadeira Eames Rosa  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.833.00;Cadeira Eames Rosa  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;269.01;316.91;21.14.50.835.00;Conjunto Com 4 Cadeiras Eames Rosa  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;101.67;119.77;21.14.50.929.00;Cadeira Eames Com Braço Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;406.68;479.08;21.14.50.931.00;Conjunto Com 4 Cadeiras Eames Com Braço Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.932.00;Cadeira Eames Com Braço Fendi  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;61.76;62.02;21.14.50.962.00;Cadeira Saarinen Preta  Base Em Polipropileno;VITRINE
@@ -471,9 +468,7 @@ FATURAMENTO VD ES;125.38;139.55;24.11.175.192.00;Kit Varão Extensor 160 a 300cm
 FATURAMENTO VD ES;125.38;139.55;24.11.175.193.01;Kit Varão Extensor 160 a 300cm Cilindrica Preta 25-28MM;VITRINE
 FATURAMENTO VD RJ;66.91;89.91;24.11.175.212.57;Persiana Screen Rolo Solar Bege Champagne 120X160;VITRINE
 FATURAMENTO VD ES;111.04;128.0;24.11.175.215.10;Persiana Zebra Rolo Dupla Grafite Linho160x160;VITRINE
-FATURAMENTO VD ES;97.16;112.0;24.11.175.219.10;Persiana Zebra Rolo Dupla Cinza Linho 140x160;VITRINE
 FATURAMENTO VD ES;91.61;105.6;24.11.175.221.06;Persiana Screen Rolo Solar Branca 120X220;VITRINE
-FATURAMENTO VD ES;83.28;96.0;24.11.175.223.10;Persiana Zebra Rolo Dupla Grafite Linho 120x160;VITRINE
 FATURAMENTO VD ES;122.4;141.0;24.11.175.224.06;Persiana Screen Rolo Solar Branca 160X220;VITRINE
 FATURAMENTO VD ES;57.74;69.18;24.11.175.24.57;Persiana Premier Pvc 25Mm 100X160 Caramelo;VITRINE
 FATURAMENTO VD ES;47.08;52.45;24.11.175.28.10;Persiana Off 25 Pvc 25Mm 80X130 Chumbo;VITRINE
@@ -694,7 +689,7 @@ FATURAMENTO VD RJ;13.68;15.56;24.52.66.380.00;Caneca Parede Dupla De Vidro Boros
 FATURAMENTO VD ES;5.63;6.41;24.52.66.381.00;Conjunto 2 Canecas De Vidro Bubbles 220Ml;VITRINE
 FATURAMENTO VD ES;12.28;13.98;24.52.66.382.00;Conjunto 4 Taças Para Cappuccino De Vidro Classic 160Ml;VITRINE
 FATURAMENTO VD ES;31.85;36.09;24.52.66.389.01;Garrafa Térmica Carrossel Preta 1L - Wolff;VITRINE
-FATURAMENTO VD ES;13.24;15.0;24.52.66.390.06;Garrafa Térmica Essência Branca 300Ml;VITRINE
+FATURAMENTO VD ES;12.58;14.25;24.52.66.390.06;Garrafa Térmica Essência Branca 300Ml;VITRINE
 FATURAMENTO VD ES;12.52;14.19;24.52.66.391.01;Garrafa Térmica Essência Preta 300Ml;VITRINE
 FATURAMENTO VD ES;26.53;30.06;24.52.66.393.06;Garrafa Térmica Geometric Branca 1L - Wolff;VITRINE
 FATURAMENTO VD ES;62.63;70.96;24.52.66.395.76;Garrafa Térmica Marrom Com Tampa Dourada New Rattan 1L;VITRINE
