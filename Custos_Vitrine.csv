@@ -50,7 +50,7 @@ FATURAMENTO VD ES;146.68;172.8;21.14.50.1076.00;Conjunto Com 4 Cadeiras Eames Az
 FATURAMENTO VD ES;50.24;59.18;21.14.50.1077.00;Cadeira Eames Com Braço Azul Claro  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.1080.00;Cadeira Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;36.67;43.2;21.14.50.1080.00;Cadeira Eames Terracota  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;134.98;159.0;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
+FATURAMENTO VD ES;134.98;159.01;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;73.34;86.4;21.14.50.1081.00;Conjunto Com 2 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1082.00;Conjunto Com 4 Cadeiras Eames Terracota  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.1083.00;Cadeira Eames Com Braço Terracota  Base Em Polipropileno;VITRINE
@@ -107,7 +107,7 @@ FATURAMENTO VD ES;73.35;86.4;21.14.50.1344.16;Conjunto com 2 Cadeiras Eames Amar
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1345.16;Conjunto com 4 Cadeiras Eames Amarelo Lumi;VITRINE
 FATURAMENTO VD ES;73.35;86.4;21.14.50.1347.08;Conjunto com 2 Cadeiras Eames Vermelho Falu;VITRINE
 FATURAMENTO VD ES;146.68;172.8;21.14.50.1348.08;Conjunto com 4 Cadeiras Eames Vermelho Falu;VITRINE
-FATURAMENTO VD ES;38.39;42.53;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;VITRINE
+FATURAMENTO VD ES;56.97;67.11;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;VITRINE
 FATURAMENTO VD RJ;58.74;67.11;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;VITRINE
 FATURAMENTO VD ES;27.26;27.03;21.14.50.1355.07;Cadeira Infantil Tiffany Azul;VITRINE
 FATURAMENTO VD ES;56.97;67.11;21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;VITRINE
@@ -137,18 +137,19 @@ FATURAMENTO VD RJ;60.25;71.54;21.14.50.30.00;Conjunto 4 Cadeiras Eames  Fendi;VI
 FATURAMENTO VD ES;269.95;318.01;21.14.50.30.00;Conjunto 4 Cadeiras Eames  Fendi;VITRINE
 FATURAMENTO VD ES;113.07;133.19;21.14.50.300.00;Cadeira Eames Com Braço Eiffel Preta  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;112.29;131.79;21.14.50.302.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Preta  Base Preta;VITRINE
+FATURAMENTO VD ES;113.06;133.19;21.14.50.305.00;Cadeira Eames Com Braço Eiffel Branco  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;194.62;229.26;21.14.50.306.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Branco  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;111.54;131.4;21.14.50.308.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Branco  Base Preta;VITRINE
 FATURAMENTO VD ES;113.06;133.19;21.14.50.317.00;Cadeira Eames Com Braço Eiffel Fendi  Base Aço Cromado;VITRINE
 FATURAMENTO VD ES;111.55;131.4;21.14.50.331.00;Conjunto Com 2 Cadeiras Eames Com Braço Eiffel Rosa  Base Preta;VITRINE
+FATURAMENTO VD ES;67.49;79.5;21.14.50.34.00;Cadeira Eames  Preto;VITRINE
 FATURAMENTO VD RJ;66.65;78.54;21.14.50.34.00;Cadeira Eames  Preto;VITRINE
-FATURAMENTO VD ES;66.65;78.54;21.14.50.34.00;Cadeira Eames  Preto;VITRINE
 FATURAMENTO VD ES;51.03;59.17;21.14.50.348.00;Cadeira Eames Eiffel Preta  Base Preta;VITRINE
 FATURAMENTO VD RJ;99.58;118.52;21.14.50.35.00;Conjunto 2 Cadeiras Eames  Preto;VITRINE
 FATURAMENTO VD RJ;199.16;237.04;21.14.50.36.00;Conjunto 4 Cadeiras Eames  Preto;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.37.00;Cadeira Eames Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;51.25;60.37;21.14.50.394.00;Cadeira Eames Eiffel Branco  Base Aço Cromado;VITRINE
-FATURAMENTO VD ES;102.49;120.73;21.14.50.419.00;Conjunto Com 2 Cadeiras Eames Eiffel Fendi  Base Aço Cromado;VITRINE
+FATURAMENTO VD ES;194.58;229.22;21.14.50.419.00;Conjunto Com 2 Cadeiras Eames Eiffel Fendi  Base Aço Cromado;VITRINE
 FATURAMENTO VD RJ;70.17;83.42;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
 FATURAMENTO VD ES;59.29;69.84;21.14.50.452.00;Cadeira Saarinen Wood Preta;VITRINE
 FATURAMENTO VD RJ;72.06;85.76;21.14.50.461.00;Cadeira Saarinen Wood Nude;VITRINE
@@ -195,7 +196,7 @@ FATURAMENTO VD ES;102.5;120.74;21.14.50.571.00;Conjunto Com 2 Cadeiras Eames Tow
 FATURAMENTO VD ES;94.32;111.11;21.14.50.58.00;Cadeira com Braços Eames  Preto;VITRINE
 FATURAMENTO VD ES;51.25;60.37;21.14.50.588.00;Cadeira Eames Tower Azul Bic  Base Preta;VITRINE
 FATURAMENTO VD ES;100.48;118.36;21.14.50.59.00;Conjunto 2 Cadeiras com Braços Eames  Preto;VITRINE
-FATURAMENTO VD ES;105.52;116.94;21.14.50.61.00;Cadeira com Braços Eames  Branca;VITRINE
+FATURAMENTO VD ES;101.67;119.77;21.14.50.61.00;Cadeira com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;100.48;118.37;21.14.50.62.00;Conjunto 2 Cadeiras com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.64.00;Cadeira Eames Com Braço Rosa  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;79.68;94.83;21.14.50.664.00;Cadeira Saarinen  Office Cromada Branca;VITRINE
@@ -219,7 +220,7 @@ FATURAMENTO VD ES;143.68;169.27;21.14.50.747.00;Conjunto Com 2 Cadeiras Eames Of
 FATURAMENTO VD ES;174.42;205.47;21.14.50.766.00;Cadeira Eames Office Rosa  Base Em Aço Cromado;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.806.00;Cadeira Eames Branco  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;134.98;159.0;21.14.50.807.00;Conjunto Com 2 Cadeiras Eames Branco  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;67.5;79.5;21.14.50.809.00;Cadeira Eames Preta  Base Em Polipropileno;VITRINE
+FATURAMENTO VD ES;67.49;79.5;21.14.50.809.00;Cadeira Eames Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;0.0;0.0;21.14.50.810.00;Conjunto Com 2 Cadeiras Eames Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;269.92;317.96;21.14.50.811.00;Conjunto Com 4 Cadeiras Eames Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;67.49;79.5;21.14.50.818.00;Cadeira Eames Azul Bic  Base Em Polipropileno;VITRINE
@@ -1285,11 +1286,12 @@ FATURAMENTO VD ES;252.63;299.33;8.01.28.18.10;Banheira de Bebê Plástica Premiu
 FATURAMENTO VD RJ;252.63;299.33;8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;147.65;147.65;8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;BB TOTAL
 FATURAMENTO VD ES;252.63;299.33;8.01.28.18.10;Banheira para Bebê Plástica Premium Galzerano Grafite;VITRINE
+FATURAMENTO VD RJ;252.18;298.8;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;VITRINE
 FATURAMENTO VD ES;271.17;321.3;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;218.74;345.11;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;VISUAL IN
-FATURAMENTO VD RJ;252.18;298.8;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;VITRINE
 FULFILLMENT MAGALU;247.63;281.4;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;149.4;149.4;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;BB TOTAL
+FATURAMENTO VD RJ;252.18;298.8;8.01.28.21.00;Banheira para Bebê Plástica Premium Galzerano Sand;VITRINE
 FATURAMENTO VD RJ;106.45;127.05;8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;VITRINE
 FATURAMENTO VD ES;115.55;136.92;8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;VITRINE
 FULFILLMENT MAGALU;106.45;127.05;8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;VITRINE
@@ -1579,6 +1581,7 @@ FULFILLMENT VISUAL IN;83.68;98.81;8.03.71.09.00;Almofada De Banho Jacaré Léo V
 FATURAMENTO VD RJ;90.2;104.04;8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;91.04;105.75;8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;VISUAL IN
+FATURAMENTO VD RJ;90.2;104.04;8.03.71.10.00;Almofada De Banho Hipopótamo Lucas Luca Azul - Baby Pil;VITRINE
 FATURAMENTO VD RJ;82.48;96.59;8.03.71.16.07;Almofada De Banho Azul - Baby Pil;VITRINE
 FATURAMENTO VD ES;86.85;97.2;8.03.71.16.07;Almofada De Banho Azul - Baby Pil;VITRINE
 FULFILLMENT VISUAL IN;77.62;95.91;8.03.71.16.07;Almofada De Banho Azul - Baby Pil;VISUAL IN
@@ -1819,7 +1822,6 @@ FATURAMENTO VD RJ;779.0;890.02;8.04.61.09.10;Berço Portátil Acoplado 3 em 1 co
 FULFILLMENT VISUAL IN;781.29;1022.02;8.04.61.09.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Claro – Mastela;VISUAL IN
 FATURAMENTO BBTOTAL ES;387.69;445.01;8.04.61.09.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Claro – Mastela;BB TOTAL
 FATURAMENTO VD RJ;779.0;890.02;8.04.61.09.10;Berço Portátil com Balanço Automático Cinza claro - Mastela;VITRINE
-FULFILLMENT VISUAL IN;781.29;1022.02;8.04.61.09.10;Berço Portátil com Balanço Automático Cinza claro - Mastela;VISUAL IN
 FATURAMENTO VD RJ;818.44;889.84;8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;VITRINE
 FULFILLMENT VISUAL IN;818.44;889.84;8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;VISUAL IN
 FATURAMENTO BBTOTAL ES;387.61;444.92;8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;BB TOTAL
@@ -1832,9 +1834,10 @@ FATURAMENTO BBTOTAL ES;321.55;369.09;8.04.76.03.10;Moisés Ramble XL Signature O
 FATURAMENTO VD RJ;728.26;828.46;8.04.76.06.11;Moisés Ramble XL Signature Pine - Joie;VITRINE
 FATURAMENTO BBTOTAL ES;414.23;414.23;8.04.76.06.11;Moisés Ramble XL Signature Pine - Joie;BB TOTAL
 FATURAMENTO VD RJ;747.95;850.85;8.04.76.07.01;Moisés Ramble XL Signature Eclipse - Joie;VITRINE
-FATURAMENTO VD RJ;268.53;306.81;8.04.77.03.10;Berço Portátil Co-Sleeper Sugar Cinza e Branco - Singular Baby;VITRINE
+FATURAMENTO VD RJ;286.54;306.81;8.04.77.03.10;Berço Portátil Co-Sleeper Sugar Cinza e Branco - Singular Baby;VITRINE
 FATURAMENTO BBTOTAL ES;128.25;147.21;8.04.77.03.10;Berço Portátil Co-Sleeper Sugar Cinza e Branco - Singular Baby;BB TOTAL
 FULFILLMENT VISUAL IN;258.36;337.99;8.04.77.03.10;Berço Portátil Co-Sleeper Sugar Cinza e Branco - Singular Baby;VISUAL IN
+FATURAMENTO VD RJ;286.54;306.81;8.04.77.03.10;Berço Portátil Sugar Cinza e Branco - Singular Baby;VITRINE
 FATURAMENTO VD RJ;139.39;149.95;8.04.92.05.10;Organizador para Carrinho de Bebê Cinza - Skip Hop;VITRINE
 FATURAMENTO BBTOTAL ES;74.98;74.98;8.04.92.05.10;Organizador para Carrinho de Bebê Cinza - Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;95.57;102.8;8.04.92.06.10;Organizador para Carrinho de Bebê Preto e Cinza - Skip Hop;VITRINE
@@ -2572,10 +2575,10 @@ FATURAMENTO VD RJ;2118.95;2953.51;8.09.02.118.11;Carrinho com Bebê Conforto Tra
 FATURAMENTO VD RJ;2118.95;2953.51;8.09.02.118.11;Carrinho com Bebê Conforto Travel System Leona² Trio giro 360° e Isofix Maxi-Cosi Essential Green;VITRINE
 FATURAMENTO VD RJ;1030.89;1420.58;8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1302.13;1794.35;8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;616.47;849.5;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;VITRINE
+FATURAMENTO VD RJ;616.46;849.5;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;664.41;915.57;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;VITRINE
 FULFILLMENT VISUAL IN;690.98;1090.19;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;VISUAL IN
-FATURAMENTO VD RJ;616.47;849.5;8.09.02.123.10;Triciclo Patroller Maxi-Cosi - Grey Luxe;VITRINE
+FATURAMENTO VD RJ;616.46;849.5;8.09.02.123.10;Triciclo Patroller Maxi-Cosi - Grey Luxe;VITRINE
 FATURAMENTO VD RJ;797.9;1099.5;8.09.02.124.01;Carrinho de Bebê Eva² Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;463.98;549.75;8.09.02.124.01;Carrinho de Bebê Eva² Essential Black - Maxi-Cosi;BB TOTAL
 FULFILLMENT AMAZON;797.9;1099.5;8.09.02.124.01;Carrinho de Bebê Eva² Essential Black - Maxi-Cosi;VITRINE
@@ -2989,11 +2992,12 @@ FATURAMENTO VD RJ;420.73;476.01;8.09.28.68.01;Carrinho Milano Reversível II Pre
 FATURAMENTO BBTOTAL ES;253.46;253.46;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TOTAL
 FATURAMENTO VD ES;557.95;653.72;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;451.77;712.78;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;VISUAL IN
+FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VITRINE
+FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
-FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
@@ -3233,7 +3237,7 @@ FULFILLMENT VISUAL IN;58.76;71.88;8.11.160.06.02;Necessaire Ovelhinha - MaiT;VIS
 FATURAMENTO VD RJ;124.91;147.97;8.11.160.07.02;Mini Bolsa de Costas com Bolso Fronta Ovelhinha - MaiT;VITRINE
 FATURAMENTO VD RJ;124.91;147.97;8.11.160.07.02;Mini Mochila com Bolso Frontal Ovelhinha - MaiT;VITRINE
 FATURAMENTO VD RJ;128.94;161.45;8.11.160.08.57;Bolsa de Passeio Vaquinha - MaiT;VITRINE
-FATURAMENTO VD RJ;58.76;73.58;8.11.160.09.57;Necessaire Vaquinha - MaiT;VITRINE
+FATURAMENTO VD RJ;123.41;154.52;8.11.160.09.57;Necessaire Vaquinha - MaiT;VITRINE
 FULFILLMENT VISUAL IN;58.76;73.58;8.11.160.09.57;Necessaire Vaquinha - MaiT;VISUAL IN
 FATURAMENTO VD RJ;113.76;142.45;8.11.160.10.57;Mini Bolsa de Costas com Bolso Fronta Vaquinha - MaiT;VITRINE
 FATURAMENTO VD RJ;113.76;142.45;8.11.160.10.57;Mini Mochila com Bolso Frontal Vaquinha - MaiT;VITRINE
@@ -3297,7 +3301,7 @@ FATURAMENTO VD RJ;108.45;135.8;8.11.160.32.07;Mini Mochila com Pochete Xadrez Bo
 FULFILLMENT VISUAL IN;108.45;135.8;8.11.160.32.07;Mini Mochila com Pochete Xadrez Bola - MaiT;VISUAL IN
 FATURAMENTO VD RJ;105.42;132.0;8.11.160.33.07;Bolsa de Passeio Dino Marinho - MaiT;VITRINE
 FULFILLMENT VISUAL IN;105.42;132.0;8.11.160.33.07;Bolsa de Passeio Dino Marinho - MaiT;VISUAL IN
-FATURAMENTO VD RJ;56.5;60.56;8.11.160.34.07;Necessaire Dino Marinho - MaiT;VITRINE
+FATURAMENTO VD RJ;101.56;127.18;8.11.160.34.07;Necessaire Dino Marinho - MaiT;VITRINE
 FULFILLMENT VISUAL IN;56.5;60.56;8.11.160.34.07;Necessaire Dino Marinho - MaiT;VISUAL IN
 FATURAMENTO VD RJ;111.82;117.75;8.11.160.35.07;Mini Bolsa de Costas com Pochete Dino Marinho - MaiT;VITRINE
 FULFILLMENT VISUAL IN;84.1;133.91;8.11.160.35.07;Mini Bolsa de Costas com Pochete Dino Marinho - MaiT;VISUAL IN
@@ -5104,7 +5108,7 @@ FATURAMENTO VD RJ;369.52;420.36;8.30.170.18.76;Corrida de Bolinha Quadri 44 Peç
 FATURAMENTO VD RJ;526.41;598.83;8.30.170.19.06;Cozinha em Madeira Premium Infantil Branco - Hape;VITRINE
 FATURAMENTO VD RJ;526.4;598.82;8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;VITRINE
 FATURAMENTO BBTOTAL ES;299.42;299.42;8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;BB TOTAL
-FATURAMENTO VD RJ;14.54;20.02;8.30.23.03.18;Kit 2 Mordedores de Silicone Texturizado Rosa - Infanti;VITRINE
+FATURAMENTO VD RJ;13.73;18.91;8.30.23.03.18;Kit 2 Mordedores de Silicone Texturizado Rosa - Infanti;VITRINE
 FATURAMENTO VD RJ;14.54;20.02;8.30.23.04.11;Kit 2 Mordedores de Silicone Texturizado Verde - Infanti;VITRINE
 FATURAMENTO VD RJ;22.11;30.46;8.30.33.01.10;Chocalho Koala Cinza Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;22.11;30.46;8.30.33.01.10;Chocalho Koala Tiny Love Cinza Boho Chic;VITRINE
@@ -5421,7 +5425,7 @@ FATURAMENTO VD RJ;42.12;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa Base E
 FATURAMENTO VD ES;33.96;33.96;21.14.50.124.00;Cadeira Eames Infantil Rosa Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;64.76;64.76;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;84.24;84.24;21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira -  Empório Tiffany;BB TUDO
-FATURAMENTO VD ES;42.53;42.53;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;BB TUDO
+FATURAMENTO VD ES;67.11;67.11;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;BB TUDO
 FATURAMENTO VD RJ;67.11;67.11;21.14.50.1353.06;Cadeira Infantil Tiffany Branca;BB TUDO
 FATURAMENTO VD ES;27.03;27.03;21.14.50.1355.07;Cadeira Infantil Tiffany Azul;BB TUDO
 FATURAMENTO VD ES;67.11;67.11;21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;BB TUDO
@@ -5520,8 +5524,9 @@ FATURAMENTO VD RJ;30.88;30.88;8.01.28.16.06;Redutor de Banheira de Bebê Plásst
 FATURAMENTO VD ES;299.33;299.33;8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;BB TUDO
 FATURAMENTO VD RJ;299.33;299.33;8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;BB TUDO
 FATURAMENTO VD ES;299.33;299.33;8.01.28.18.10;Banheira para Bebê Plástica Premium Galzerano Grafite;BB TUDO
-FATURAMENTO VD ES;321.3;321.3;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;BB TUDO
 FATURAMENTO VD RJ;298.8;298.8;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;BB TUDO
+FATURAMENTO VD ES;321.3;321.3;8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;BB TUDO
+FATURAMENTO VD RJ;298.8;298.8;8.01.28.21.00;Banheira para Bebê Plástica Premium Galzerano Sand;BB TUDO
 FATURAMENTO VD RJ;127.05;127.05;8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;BB TUDO
 FATURAMENTO VD ES;136.92;136.92;8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;BB TUDO
 FATURAMENTO VD RJ;127.05;127.05;8.01.28.22.07;Banheira para Bebê Plástica Acqua Trio Galzerano Azul Pastel;BB TUDO
@@ -5703,6 +5708,7 @@ FATURAMENTO VD RJ;98.0;98.0;8.03.71.09.00;Almofada De Banho Jacaré Léo Verde -
 FATURAMENTO VD ES;97.2;97.2;8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;104.04;104.04;8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;BB TUDO
+FATURAMENTO VD RJ;104.04;104.04;8.03.71.10.00;Almofada De Banho Hipopótamo Lucas Luca Azul - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;96.59;96.59;8.03.71.16.07;Almofada De Banho Azul - Baby Pil;BB TUDO
 FATURAMENTO VD ES;97.2;97.2;8.03.71.16.07;Almofada De Banho Azul - Baby Pil;BB TUDO
 FATURAMENTO VD RJ;95.91;95.91;8.03.71.17.00;Almofada De Banho Creme - Baby Pil;BB TUDO
@@ -5836,6 +5842,7 @@ FATURAMENTO VD RJ;828.45;828.45;8.04.76.03.10;Moisés Ramble XL Signature Oyster
 FATURAMENTO VD RJ;828.46;828.46;8.04.76.06.11;Moisés Ramble XL Signature Pine - Joie;BB TUDO
 FATURAMENTO VD RJ;850.85;850.85;8.04.76.07.01;Moisés Ramble XL Signature Eclipse - Joie;BB TUDO
 FATURAMENTO VD RJ;306.81;306.81;8.04.77.03.10;Berço Portátil Co-Sleeper Sugar Cinza e Branco - Singular Baby;BB TUDO
+FATURAMENTO VD RJ;306.81;306.81;8.04.77.03.10;Berço Portátil Sugar Cinza e Branco - Singular Baby;BB TUDO
 FATURAMENTO VD RJ;149.95;149.95;8.04.92.05.10;Organizador para Carrinho de Bebê Cinza - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;102.8;102.8;8.04.92.06.10;Organizador para Carrinho de Bebê Preto e Cinza - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;150.05;150.05;8.04.92.07.01;Organizador Para Carrinho de Bebê Preto - Skip Hop;BB TUDO
@@ -6508,9 +6515,10 @@ FATURAMENTO VD ES;438.68;438.68;8.09.28.67.18;Carrinho Milano Reversível II Cap
 FATURAMENTO VD ES;476.01;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;476.01;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;653.72;653.72;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;BB TUDO
+FATURAMENTO VD ES;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;BB TUDO
-FATURAMENTO VD RJ;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
+FATURAMENTO VD RJ;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;786.58;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;786.58;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;786.58;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
@@ -6649,7 +6657,7 @@ FATURAMENTO VD RJ;71.88;71.88;8.11.160.06.02;Necessaire Ovelhinha - MaiT;BB TUDO
 FATURAMENTO VD RJ;147.97;147.97;8.11.160.07.02;Mini Bolsa de Costas com Bolso Fronta Ovelhinha - MaiT;BB TUDO
 FATURAMENTO VD RJ;147.97;147.97;8.11.160.07.02;Mini Mochila com Bolso Frontal Ovelhinha - MaiT;BB TUDO
 FATURAMENTO VD RJ;161.45;161.45;8.11.160.08.57;Bolsa de Passeio Vaquinha - MaiT;BB TUDO
-FATURAMENTO VD RJ;73.58;73.58;8.11.160.09.57;Necessaire Vaquinha - MaiT;BB TUDO
+FATURAMENTO VD RJ;154.52;154.52;8.11.160.09.57;Necessaire Vaquinha - MaiT;BB TUDO
 FATURAMENTO VD RJ;142.45;142.45;8.11.160.10.57;Mini Bolsa de Costas com Bolso Fronta Vaquinha - MaiT;BB TUDO
 FATURAMENTO VD RJ;142.45;142.45;8.11.160.10.57;Mini Mochila com Bolso Frontal Vaquinha - MaiT;BB TUDO
 FATURAMENTO VD RJ;161.45;161.45;8.11.160.11.76;Bolsa de Passeio Cavalinho - MaiT;BB TUDO
@@ -6681,7 +6689,7 @@ FATURAMENTO VD RJ;68.83;68.83;8.11.160.31.07;Necessaire Xadrez Bola - MaiT;BB TU
 FATURAMENTO VD RJ;135.8;135.8;8.11.160.32.07;Mini Bolsa de Costas com Pochete Xadrez Bola - MaiT;BB TUDO
 FATURAMENTO VD RJ;135.8;135.8;8.11.160.32.07;Mini Mochila com Pochete Xadrez Bola - MaiT;BB TUDO
 FATURAMENTO VD RJ;132.0;132.0;8.11.160.33.07;Bolsa de Passeio Dino Marinho - MaiT;BB TUDO
-FATURAMENTO VD RJ;60.56;60.56;8.11.160.34.07;Necessaire Dino Marinho - MaiT;BB TUDO
+FATURAMENTO VD RJ;127.18;127.18;8.11.160.34.07;Necessaire Dino Marinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;117.75;117.75;8.11.160.35.07;Mini Bolsa de Costas com Pochete Dino Marinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;117.75;117.75;8.11.160.35.07;Mini Mochila com Pochete Dino Marinho - MaiT;BB TUDO
 FATURAMENTO VD RJ;332.46;332.46;8.11.164.01.113;Mala Infantil Com Rodinha Cassie a Gata Roxa - Trunki;BB TUDO
@@ -7878,7 +7886,7 @@ FATURAMENTO VD RJ;270.06;270.06;8.30.170.16.76;Piano Musical Premium Infantil Ma
 FATURAMENTO VD RJ;420.36;420.36;8.30.170.18.76;Corrida de Bolinha Quadri 44 Peças Marrom - Hape;BB TUDO
 FATURAMENTO VD RJ;598.83;598.83;8.30.170.19.06;Cozinha em Madeira Premium Infantil Branco - Hape;BB TUDO
 FATURAMENTO VD RJ;598.82;598.82;8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;BB TUDO
-FATURAMENTO VD RJ;20.02;20.02;8.30.23.03.18;Kit 2 Mordedores de Silicone Texturizado Rosa - Infanti;BB TUDO
+FATURAMENTO VD RJ;18.91;18.91;8.30.23.03.18;Kit 2 Mordedores de Silicone Texturizado Rosa - Infanti;BB TUDO
 FATURAMENTO VD RJ;20.02;20.02;8.30.23.04.11;Kit 2 Mordedores de Silicone Texturizado Verde - Infanti;BB TUDO
 FATURAMENTO VD RJ;30.46;30.46;8.30.33.01.10;Chocalho Koala Cinza Boho Chic - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;30.46;30.46;8.30.33.01.10;Chocalho Koala Tiny Love Cinza Boho Chic;BB TUDO
