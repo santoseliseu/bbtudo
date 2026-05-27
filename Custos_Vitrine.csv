@@ -2307,6 +2307,7 @@ FATURAMENTO VD RJ;125.13;174.5;8.07.23.29.01;Assento de Elevação Booster Piazz
 FATURAMENTO VD RJ;247.4;349.5;8.07.23.32.06;Banheira de Bebê Fontana Duo Branco - Infanti;VITRINE
 FATURAMENTO VD RJ;247.4;349.5;8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;VITRINE
 FATURAMENTO VISUAL IN SP;176.62;278.66;8.07.28.14.01;Cadeirinha para Carro Maximus 0 a 25Kg Preto - Galzerano;VISUAL IN
+FATURAMENTO VD RJ;204.81;241.26;8.07.28.14.01;Cadeirinha para Carro Maximus 0 a 25Kg Preto - Galzerano;VITRINE
 FATURAMENTO VD ES;204.81;241.26;8.07.28.14.01;Cadeirinha para Carro Maximus 0 a 25Kg Preto - Galzerano;VITRINE
 FATURAMENTO BBTOTAL ES;116.11;116.11;8.07.28.14.01;Cadeirinha para Carro Maximus 0 a 25Kg Preto - Galzerano;BB TOTAL
 FULFILLMENT VISUAL IN;248.8;344.4;8.07.28.14.01;Cadeirinha para Carro Maximus 0 a 25Kg Preto - Galzerano;VISUAL IN
@@ -2992,15 +2993,16 @@ FATURAMENTO VD RJ;420.73;476.01;8.09.28.68.01;Carrinho Milano Reversível II Pre
 FATURAMENTO BBTOTAL ES;253.46;253.46;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TOTAL
 FATURAMENTO VD ES;557.95;653.72;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;VITRINE
 FULFILLMENT VISUAL IN;451.77;712.78;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;VISUAL IN
+FATURAMENTO VD RJ;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VITRINE
-FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;VITRINE
+FATURAMENTO VD RJ;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;540.96;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
-FATURAMENTO VD RJ;540.97;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;707.49;483.23;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;VISUAL IN
+FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;VITRINE
-FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VD RJ;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
+FATURAMENTO VD ES;671.34;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VITRINE
 FATURAMENTO VISUAL IN SP;575.83;908.5;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;575.56;908.12;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;VISUAL IN
 FULFILLMENT VISUAL IN;650.38;1026.29;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;VISUAL IN
@@ -6133,6 +6135,7 @@ FATURAMENTO VD RJ;649.49;649.49;8.07.23.27.01;Cadeirinha para Carro Domus i-Size
 FATURAMENTO VD RJ;174.5;174.5;8.07.23.29.01;Assento de Elevação Booster Piazzi Fix Preto Fog - Infanti;BB TUDO
 FATURAMENTO VD RJ;349.5;349.5;8.07.23.32.06;Banheira de Bebê Fontana Duo Branco - Infanti;BB TUDO
 FATURAMENTO VD RJ;349.5;349.5;8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;BB TUDO
+FATURAMENTO VD RJ;241.26;241.26;8.07.28.14.01;Cadeirinha para Carro Maximus 0 a 25Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD ES;241.26;241.26;8.07.28.14.01;Cadeirinha para Carro Maximus 0 a 25Kg Preto - Galzerano;BB TUDO
 FATURAMENTO VD RJ;310.12;310.12;8.07.39.11.01;Cadeirinha para Carro Protege Fix Preto - Burigotto;BB TUDO
 FATURAMENTO VD ES;310.12;310.12;8.07.39.11.01;Cadeirinha para Carro Protege Fix Preto - Burigotto;BB TUDO
@@ -6514,13 +6517,14 @@ FATURAMENTO VD ES;438.68;438.68;8.09.28.67.18;Carrinho Milano Reversível II Cap
 FATURAMENTO VD ES;476.01;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;476.01;476.01;8.09.28.68.01;Carrinho Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;653.72;653.72;8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;BB TUDO
-FATURAMENTO VD ES;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;BB TUDO
-FATURAMENTO VD ES;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
+FATURAMENTO VD ES;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Perto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
+FATURAMENTO VD ES;633.81;633.81;8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;BB TUDO
+FATURAMENTO VD RJ;786.58;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;786.58;786.58;8.09.28.78.01;Carrinho Travel System Napoli Preto e Cobre - Galzerano;BB TUDO
-FATURAMENTO VD ES;786.58;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;786.58;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
+FATURAMENTO VD ES;786.58;786.58;8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;888.79;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD RJ;888.79;888.79;8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;BB TUDO
 FATURAMENTO VD ES;631.98;631.98;8.09.28.80.12;Carrinho de Bebê Travel System Milano Reversível II Creme e Rosa - Galzerano;BB TUDO
