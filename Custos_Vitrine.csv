@@ -79,7 +79,6 @@ FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD RJ;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;70.12;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
-FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD ES;35.38;42.11;21.14.50.120.00;Cadeira Eames Infantil Branca Base Em Madeira -  Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.65;84.08;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infantil Branca  Base Em Madeira;VITRINE
@@ -665,7 +664,6 @@ FATURAMENTO VD ES;17.39;19.77;24.52.159.85.00;Caneca de Vidro Borossilicato com 
 FATURAMENTO VD ES;14.84;16.88;24.52.159.86.00;Caneca Vidro Borossilicato com Pires de Bambu Abacaxi 330ml;VITRINE
 FATURAMENTO VD ES;21.17;24.07;24.52.159.90.00;Chaleira de Vidro com Filtro de Aço Inox Love 750ml;VITRINE
 FATURAMENTO VD ES;12.24;13.92;24.52.159.91.00;Meleira de Cristal Ecológico Little Bee 9cm x 9cm x 9,5cm;VITRINE
-FATURAMENTO VD ES;38.44;43.73;24.52.66.101.18;Jogo de 4 Xícaras de Chá Wolff Pearl Coração de Cristal Rosa 180ml;VITRINE
 FATURAMENTO VD ES;10.62;12.08;24.52.66.187.18;Caneca Wolff Love de Cerâmica Preto Matt Rosa 340ml;VITRINE
 FATURAMENTO VD ES;28.72;32.68;24.52.66.194.04;Chaleira com Difusor Wolff Dourado de Borossilicato 600ml;VITRINE
 FATURAMENTO VD ES;15.74;17.91;24.52.66.195.00;Chaleira Wolff de Vidro Borossilicato 600ml;VITRINE
@@ -1439,7 +1437,6 @@ FULFILLMENT MAGALU;503.26;642.12;8.03.02.21.01;Bebê Conforto Citi com Base Maxi
 FULFILLMENT MELI;565.72;788.95;8.03.02.22.80;Bebê Conforto Citi com Base 0 a 13 Kg Essential Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;394.48;394.48;8.03.02.22.80;Bebê Conforto Citi com Base 0 a 13 Kg Essential Graphite - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;565.72;788.94;8.03.02.22.80;Bebê Conforto Citi com Base 0 a 13 Kg Essential Graphite - Maxi-Cosi;VITRINE
-FULFILLMENT MELI;565.72;788.95;8.03.02.22.80;Bebê Conforto Citi com Base Maxi-Cosi 0 a 13 Kg Essential Graphite;VITRINE
 FATURAMENTO VD RJ;482.08;672.29;8.03.02.23.01;Base Marble Maxi-Cosi Black;VITRINE
 FATURAMENTO VD RJ;482.08;672.29;8.03.02.23.01;Base Veicular Marble Black - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1282.77;1788.95;8.03.02.24.01;Bebê Conforto Pebble 360 com Base FamilyFix 360 Essential Black - Maxi-Cosi;VITRINE
@@ -1524,7 +1521,6 @@ FATURAMENTO VD ES;182.13;214.55;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black
 FULFILLMENT VISUAL IN;170.55;200.91;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;VISUAL IN
 FATURAMENTO VD RJ;182.13;214.55;8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;VITRINE
 FATURAMENTO VD ES;182.13;214.55;8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;VITRINE
-FATURAMENTO VD RJ;182.13;214.55;8.03.28.31.18;Bebê Conforto Grid Galzerano Rosa;VITRINE
 FATURAMENTO VD RJ;53.96;61.39;8.03.57.01.69;Almofada De Atividades Colorida - Buba;VITRINE
 FATURAMENTO VD RJ;53.96;61.39;8.03.57.03.69;Almofada de Atividades Panda - Buba ;VITRINE
 FATURAMENTO BBTOTAL ES;23.21;26.64;8.03.57.03.69;Almofada de Atividades Panda - Buba ;BB TOTAL
@@ -1836,7 +1832,6 @@ FULFILLMENT AMAZON;271.38;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori 
 FULFILLMENT MELI;271.38;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;279.64;388.79;8.05.02.09.18;Cadeira de Descanso Bouncer Kori Essential Blush - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;543.11;757.42;8.05.02.10.10;Cadeira de Dencanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;543.11;757.42;8.05.02.10.10;Cadeira de Dencanso Bouncer Swing Cassia Maxi-Cosi Beyond Graphite;VITRINE
 FATURAMENTO VD RJ;543.11;757.42;8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;543.11;757.42;8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;543.11;757.42;8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;VITRINE
@@ -2411,7 +2406,6 @@ FATURAMENTO VD RJ;1110.53;1548.75;8.09.01.28.31;Travel System Mobi Safety 1st Fu
 FATURAMENTO VD RJ;1723.38;2403.43;8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;VITRINE
 FULFILLMENT AMAZON;1723.38;2403.43;8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;VITRINE
 FATURAMENTO VD RJ;1723.38;2403.43;8.09.01.36.58;Travel System Mobi Safety 1st Grey Denim Silver;VITRINE
-FULFILLMENT AMAZON;1723.38;2403.43;8.09.01.36.58;Travel System Mobi Safety 1st Grey Denim Silver;VITRINE
 FATURAMENTO VD RJ;1110.53;1548.75;8.09.01.45.83;Travel System Mobi Safety1st Black & Silver;VITRINE
 FATURAMENTO VD RJ;8.12;11.18;8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;5.95;5.95;8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;BB TOTAL
@@ -2527,7 +2521,6 @@ FULFILLMENT AMAZON;1302.13;1794.35;8.09.02.12.10;Carrinho de Bebê Anna³ Select
 FATURAMENTO VD RJ;616.46;849.5;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;664.41;915.57;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;VITRINE
 FULFILLMENT VISUAL IN;690.98;1090.19;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;VISUAL IN
-FATURAMENTO VD RJ;616.46;849.5;8.09.02.123.10;Triciclo Patroller Maxi-Cosi - Grey Luxe;VITRINE
 FATURAMENTO VD RJ;797.9;1099.5;8.09.02.124.01;Carrinho de Bebê Eva² Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;463.98;549.75;8.09.02.124.01;Carrinho de Bebê Eva² Essential Black - Maxi-Cosi;BB TOTAL
 FULFILLMENT AMAZON;797.9;1099.5;8.09.02.124.01;Carrinho de Bebê Eva² Essential Black - Maxi-Cosi;VITRINE
@@ -2584,7 +2577,6 @@ FULFILLMENT MELI;1182.78;1649.5;8.09.02.84.80;Carrinho com Bebê Conforto Travel
 FULFILLMENT AMAZON;1182.78;1649.5;8.09.02.84.80;Travel System Eva Trio Essential Graphite Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1163.05;1622.01;8.09.02.85.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black Champagne - Maxi-Cosi;VITRINE
 FULFILLMENT AMAZON;1163.05;1622.01;8.09.02.85.01;Carrinho com Bebê Conforto Travel System Eva Trio Essential Black Champagne - Maxi-Cosi;VITRINE
-FULFILLMENT MELI;1163.05;1622.01;8.09.02.85.01;Travel System Eva Trio Essential Black Champagne Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1548.76;1978.77;8.09.02.86.76;Carrinho com Bebê Conforto Travel System Lila CP² Trio Essential Graphite Brown - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;1319.18;1319.18;8.09.02.86.76;Carrinho com Bebê Conforto Travel System Lila CP² Trio Essential Graphite Brown - Maxi-Cosi;BB TOTAL
 FATURAMENTO VD RJ;1899.81;2649.5;8.09.02.88.01;Carrinho com Bebê Conforto Travel System Eva Trio Isofix 360 Essential Black Champagne - Maxi-Cosi;VITRINE
@@ -2719,7 +2711,6 @@ FATURAMENTO VD RJ;462.21;644.59;8.09.03.95.10;Carrinho com Bebê Conforto Travel
 FATURAMENTO VD RJ;569.28;785.68;8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;VITRINE
 FATURAMENTO VD RJ;386.82;533.03;8.09.04.101.01;Carrinho de Bebê Minny Preto Absoluto - Cosco;VITRINE
 FATURAMENTO VD RJ;386.82;533.03;8.09.04.102.10;Carrinho de Bebê Minny Cinza Mescla - Cosco;VITRINE
-FATURAMENTO VD RJ;386.82;533.03;8.09.04.102.10;Carrinho de Bebê Minny Cosco Cinza Mescla;VITRINE
 FATURAMENTO VD RJ;556.22;775.7;8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;VITRINE
 FATURAMENTO VD RJ;556.22;775.7;8.09.04.106.18;Travel System Reverse Cosco Rosa Rajado;VITRINE
 FATURAMENTO VD RJ;303.9;418.78;8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;VITRINE
@@ -2886,7 +2877,6 @@ FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel
 FATURAMENTO BBTOTAL ES;398.46;398.46;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;BB TOTAL
 FATURAMENTO VD RJ;571.75;796.9;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;398.46;398.46;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza Infanti;BB TOTAL
-FATURAMENTO VD RJ;571.75;796.9;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza Infanti;VITRINE
 FATURAMENTO VD RJ;926.93;1292.69;8.09.23.66.01;Carrinho com Bebê Conforto Travel System Epic Lite Duo Black Deep - Infanti;VITRINE
 FATURAMENTO VD RJ;362.49;499.51;8.09.23.67.01;Carrinho de Bebê Lucca Infanti - Preto;VITRINE
 FATURAMENTO VD RJ;362.49;499.51;8.09.23.67.01;Carrinho de Bebê Lucca Preto - Infanti;VITRINE
@@ -3361,7 +3351,6 @@ FATURAMENTO VD RJ;125.35;172.73;8.13.33.07.00;Tapete e Ginásio de Atividades Gy
 FATURAMENTO VD RJ;351.84;420.37;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;154.87;165.53;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;VITRINE
-FATURAMENTO VD RJ;291.84;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Tiny Love Boho Chic;VITRINE
 FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
 FULFILLMENT AMAZON;144.76;199.47;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;VITRINE
 FATURAMENTO VD RJ;130.28;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;VITRINE
@@ -4723,7 +4712,6 @@ FATURAMENTO BBTOTAL ES;18.57;18.57;8.25.85.01.00;Coletor Manual de Leite Materno
 FATURAMENTO VD RJ;469.99;528.38;8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;VITRINE
 FATURAMENTO VD ES;14.33;16.45;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam;VITRINE
 FATURAMENTO BBTOTAL ES;6.2;8.23;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam;BB TOTAL
-FATURAMENTO VD RJ;14.33;14.92;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam;VITRINE
 FATURAMENTO VD RJ;12.2;14.0;8.25.86.09.18;Escova de Dente Infantil Baby's Brush 6+ meses Rosa - MAM;VITRINE
 FATURAMENTO BBTOTAL ES;7.0;7.0;8.25.86.09.18;Escova de Dente Infantil Baby's Brush 6+ meses Rosa - MAM;BB TOTAL
 FATURAMENTO VD ES;23.52;27.0;8.25.86.16.00;Chupeta Sayings 0-6m Original - Mam - Tiny Feet;VITRINE
@@ -5553,7 +5541,6 @@ FATURAMENTO VD RJ;214.55;214.55;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black
 FATURAMENTO VD ES;214.55;214.55;8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;BB TUDO
 FATURAMENTO VD RJ;214.55;214.55;8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;BB TUDO
 FATURAMENTO VD ES;214.55;214.55;8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;BB TUDO
-FATURAMENTO VD RJ;214.55;214.55;8.03.28.31.18;Bebê Conforto Grid Galzerano Rosa;BB TUDO
 FATURAMENTO VD RJ;61.39;61.39;8.03.57.01.69;Almofada De Atividades Colorida - Buba;BB TUDO
 FATURAMENTO VD RJ;61.39;61.39;8.03.57.03.69;Almofada de Atividades Panda - Buba ;BB TUDO
 FATURAMENTO VD RJ;61.39;61.39;8.03.57.04.69;Almofada de Atividades Amazônia - Buba;BB TUDO
@@ -5720,7 +5707,6 @@ FATURAMENTO VD RJ;378.47;378.47;8.05.02.05.80;Cadeira de Dencanso Bouncer Kori M
 FATURAMENTO VD RJ;378.47;378.47;8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;388.79;388.79;8.05.02.09.18;Cadeira de Descanso Bouncer Kori Essential Blush - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;757.42;757.42;8.05.02.10.10;Cadeira de Dencanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;757.42;757.42;8.05.02.10.10;Cadeira de Dencanso Bouncer Swing Cassia Maxi-Cosi Beyond Graphite;BB TUDO
 FATURAMENTO VD RJ;757.42;757.42;8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;841.58;841.58;8.05.02.11.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;841.58;841.58;8.05.02.12.11;Cadeira de Descanso Bouncer Swing Cassia Beyond Green - Maxi-Cosi;BB TUDO
@@ -6137,7 +6123,6 @@ FATURAMENTO VD RJ;2953.51;2953.51;8.09.02.118.11;Carrinho com Bebê Conforto Tra
 FATURAMENTO VD RJ;2953.51;2953.51;8.09.02.118.11;Carrinho com Bebê Conforto Travel System Leona² Trio giro 360° e Isofix Maxi-Cosi Essential Green;BB TUDO
 FATURAMENTO VD RJ;1420.58;1420.58;8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;849.5;849.5;8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;849.5;849.5;8.09.02.123.10;Triciclo Patroller Maxi-Cosi - Grey Luxe;BB TUDO
 FATURAMENTO VD RJ;1099.5;1099.5;8.09.02.124.01;Carrinho de Bebê Eva² Essential Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1099.5;1099.5;8.09.02.124.01;Carrinho de Bebê Eva² Maxi-Cosi Essential Black;BB TUDO
 FATURAMENTO VD RJ;1537.95;1537.95;8.09.02.128.10;Carrinho de Bebê Leona² Select Grey - Maxi-Cosi;BB TUDO
@@ -6227,7 +6212,6 @@ FATURAMENTO VD RJ;644.59;644.59;8.09.03.95.10;Carrinho com Bebê Conforto Travel
 FATURAMENTO VD RJ;785.68;785.68;8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;BB TUDO
 FATURAMENTO VD RJ;533.03;533.03;8.09.04.101.01;Carrinho de Bebê Minny Preto Absoluto - Cosco;BB TUDO
 FATURAMENTO VD RJ;533.03;533.03;8.09.04.102.10;Carrinho de Bebê Minny Cinza Mescla - Cosco;BB TUDO
-FATURAMENTO VD RJ;533.03;533.03;8.09.04.102.10;Carrinho de Bebê Minny Cosco Cinza Mescla;BB TUDO
 FATURAMENTO VD RJ;775.7;775.7;8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;BB TUDO
 FATURAMENTO VD RJ;775.7;775.7;8.09.04.106.18;Travel System Reverse Cosco Rosa Rajado;BB TUDO
 FATURAMENTO VD RJ;418.78;418.78;8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;BB TUDO
@@ -6333,7 +6317,6 @@ FATURAMENTO VD RJ;466.14;466.14;8.09.23.63.10;Carrinho de Bebê Breeze Cinza - I
 FATURAMENTO VD RJ;801.54;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto - Infanti;BB TUDO
 FATURAMENTO VD RJ;801.54;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto Infanti;BB TUDO
 FATURAMENTO VD RJ;796.9;796.9;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;BB TUDO
-FATURAMENTO VD RJ;796.9;796.9;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza Infanti;BB TUDO
 FATURAMENTO VD RJ;1292.69;1292.69;8.09.23.66.01;Carrinho com Bebê Conforto Travel System Epic Lite Duo Black Deep - Infanti;BB TUDO
 FATURAMENTO VD RJ;499.51;499.51;8.09.23.67.01;Carrinho de Bebê Lucca Infanti - Preto;BB TUDO
 FATURAMENTO VD RJ;499.51;499.51;8.09.23.67.01;Carrinho de Bebê Lucca Preto - Infanti;BB TUDO
@@ -6610,7 +6593,6 @@ FATURAMENTO VD RJ;203.21;203.21;8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess
 FATURAMENTO VD RJ;172.73;172.73;8.13.33.07.00;Tapete e Ginásio de Atividades Gymini Sunny Day Meadow Days - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;420.37;420.37;8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;402.15;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;402.15;402.15;8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Tiny Love Boho Chic;BB TUDO
 FATURAMENTO VD RJ;179.53;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;179.53;179.53;8.13.33.11.69;Tapete de Atividades Super Mat Tiny Love Boho Chic;BB TUDO
 FATURAMENTO VD RJ;170.55;170.55;8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;BB TUDO
@@ -7508,7 +7490,6 @@ FATURAMENTO VD RJ;20.74;20.74;8.25.83.01.00;Bolsa Térmica em Gel para Cólicas 
 FATURAMENTO VD RJ;37.14;37.14;8.25.85.01.00;Coletor Manual de Leite Materno - Loren Baby;BB TUDO
 FATURAMENTO VD RJ;528.38;528.38;8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;BB TUDO
 FATURAMENTO VD ES;16.45;16.45;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam;BB TUDO
-FATURAMENTO VD RJ;14.92;14.92;8.25.86.07.07;Chupeta Air Night Raposa 6m+ - Mam;BB TUDO
 FATURAMENTO VD RJ;14.0;14.0;8.25.86.09.18;Escova de Dente Infantil Baby's Brush 6+ meses Rosa - MAM;BB TUDO
 FATURAMENTO VD ES;27.0;27.0;8.25.86.16.00;Chupeta Sayings 0-6m Original - Mam - Tiny Feet;BB TUDO
 FATURAMENTO VD RJ;35.65;35.65;8.25.86.17.06;Absorvente para Seios Breast Pads - Mam;BB TUDO
