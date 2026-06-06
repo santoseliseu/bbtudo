@@ -88,7 +88,6 @@ FATURAMENTO VD ES;77.36;78.83;21.14.50.121.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD ES;27.16;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
-FATURAMENTO VD ES;54.97;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;VITRINE
 FATURAMENTO VD ES;54.97;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;70.66;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;VITRINE
 FATURAMENTO VD RJ;35.39;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;VITRINE
@@ -1958,7 +1957,6 @@ FATURAMENTO VD RJ;96.91;135.14;8.06.04.04.18;Cadeira de Alimentação Portátil 
 FATURAMENTO VD RJ;129.68;180.84;8.06.04.05.07;Cadeira de Alimentação Portátil Pop Azul - Cosco;VITRINE
 FATURAMENTO VD RJ;129.68;180.84;8.06.04.05.07;Cadeira de Refeição Portátil Pop Cosco - Azul;VITRINE
 FATURAMENTO VD RJ;114.76;160.04;8.06.04.05.18;Cadeira de Alimentação Portátil Pop Rosa - Cosco;VITRINE
-FATURAMENTO VD RJ;114.76;160.04;8.06.04.05.18;Cadeira de Refeição Portátil Pop Cosco - Rosa;VITRINE
 FATURAMENTO VD RJ;129.68;180.84;8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;VITRINE
 FULFILLMENT MELI;129.68;180.84;8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;VITRINE
 FATURAMENTO VD RJ;96.9;135.14;8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;VITRINE
@@ -2487,7 +2485,6 @@ FULFILLMENT MELI;652.76;899.5;8.09.02.107.80;Carrinho de Bebê Lara² Essential 
 FULFILLMENT MELI;652.76;899.5;8.09.02.107.80;Carrinho de Bebê Lara² Maxi-Cosi Essential Graphite;VITRINE
 FULFILLMENT MELI;1003.51;1399.49;8.09.02.108.01;Carrinho com Bebê Conforto Travel System Lara² Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1003.51;1399.49;8.09.02.108.01;Carrinho com Bebê Conforto Travel System Lara² Essential Black - Maxi-Cosi;VITRINE
-FULFILLMENT MELI;1003.51;1399.49;8.09.02.108.01;Carrinho com Bebê Conforto Travel System Lara² Maxi-Cosi Essential Black;VITRINE
 FATURAMENTO VD RJ;953.34;1329.52;8.09.02.109.80;Carrinho com Bebê Conforto Travel System Lara² Essential Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;953.34;1329.52;8.09.02.109.80;Carrinho com Bebê Conforto Travel System Lara² Maxi-Cosi Essential Graphite;VITRINE
 FATURAMENTO VD RJ;906.74;1249.5;8.09.02.11.10;Carrinho de Bebê Eva² Luxe Twilic Grey - Maxi-Cosi;VITRINE
@@ -2592,7 +2589,6 @@ FULFILLMENT VISUAL IN;1313.58;2072.48;8.09.02.96.106;Carrinho de Bebê Anna³ Es
 FULFILLMENT AMAZON;1171.92;1614.92;8.09.02.96.106;Carrinho de Bebê Anna³ Essential Graphite - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1302.13;1794.35;8.09.02.96.106;Carrinho de Bebê Anna³ Essential Graphite - Maxi-Cosi;VITRINE
 FULFILLMENT MELI;1171.92;1614.92;8.09.02.96.106;Carrinho de Bebê Anna³ Essential Graphite - Maxi-Cosi;VITRINE
-FULFILLMENT VISUAL IN;1313.58;2072.48;8.09.02.96.106;Carrinho de Bebê Anna³ Maxi-Cosi Essential Graphite;VISUAL IN
 FATURAMENTO VD RJ;1404.38;1958.56;8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;951.96;1127.95;8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;BB TOTAL
 FULFILLMENT MELI;1374.89;1917.43;8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;VITRINE
@@ -2702,7 +2698,6 @@ FATURAMENTO VD RJ;278.62;385.93;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mesc
 FULFILLMENT MELI;267.5;368.14;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mescla - Voyage;VITRINE
 FULFILLMENT AMAZON;303.9;418.78;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mescla - Voyage;VITRINE
 FATURAMENTO BBTOTAL ES;209.39;209.39;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mescla - Voyage;BB TOTAL
-FATURAMENTO VD RJ;278.62;385.93;8.09.03.92.10;Carrinho de Bebê Delta Voyage Cinza Mescla;VITRINE
 FATURAMENTO VD RJ;486.54;678.54;8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;VITRINE
 FULFILLMENT AMAZON;486.53;678.52;8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;VITRINE
 FULFILLMENT MELI;486.53;678.52;8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;VITRINE
@@ -2876,7 +2871,6 @@ FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel
 FATURAMENTO VD RJ;574.75;801.54;8.09.23.64.01;Carrinho com Bebê Conforto Travel System Breeze Trio Preto Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;398.46;398.46;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;BB TOTAL
 FATURAMENTO VD RJ;571.75;796.9;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza - Infanti;VITRINE
-FATURAMENTO BBTOTAL ES;398.46;398.46;8.09.23.65.10;Carrinho com Bebê Conforto Travel System Breeze Trio Cinza Infanti;BB TOTAL
 FATURAMENTO VD RJ;926.93;1292.69;8.09.23.66.01;Carrinho com Bebê Conforto Travel System Epic Lite Duo Black Deep - Infanti;VITRINE
 FATURAMENTO VD RJ;362.49;499.51;8.09.23.67.01;Carrinho de Bebê Lucca Infanti - Preto;VITRINE
 FATURAMENTO VD RJ;362.49;499.51;8.09.23.67.01;Carrinho de Bebê Lucca Preto - Infanti;VITRINE
@@ -4169,7 +4163,6 @@ FATURAMENTO VD RJ;70.3;70.3;8.25.142.01.69;Boia Colete Infantil 25 a 35 kg Dinos
 FATURAMENTO BBTOTAL ES;35.15;35.15;8.25.142.01.69;Boia Colete Infantil 25 a 35 kg Dinossauro - Sea Float;BB TOTAL
 FATURAMENTO VD RJ;70.3;70.3;8.25.142.04.69;Boia Colete Infantil 25 a 35 kg Coração - Sea Float;VITRINE
 FATURAMENTO BBTOTAL ES;29.67;35.15;8.25.142.04.69;Boia Colete Infantil 25 a 35 kg Coração - Sea Float;BB TOTAL
-FATURAMENTO VD RJ;70.3;70.3;8.25.142.04.69;Boia Colete Infantil Coração Sea Float;VITRINE
 FATURAMENTO VD RJ;70.3;70.3;8.25.142.07.69;Boia Colete Infantil 25 a 35 kg Girafe - Sea Float;VITRINE
 FATURAMENTO BBTOTAL ES;29.67;35.15;8.25.142.07.69;Boia Colete Infantil 25 a 35 kg Girafe - Sea Float;BB TOTAL
 FATURAMENTO VD RJ;70.3;70.3;8.25.142.08.69;Boia Colete Infantil 25 a 35 kg Candy - Sea Float;VITRINE
@@ -5277,7 +5270,6 @@ FATURAMENTO VD ES;83.44;83.44;21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infa
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD ES;32.0;32.0;21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
-FATURAMENTO VD ES;64.72;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta  Base Em Madeira;BB TUDO
 FATURAMENTO VD ES;64.72;64.72;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;84.09;84.09;21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;BB TUDO
 FATURAMENTO VD RJ;42.12;42.12;21.14.50.124.00;Cadeira Eames Infantil Rosa  Base Em Madeira;BB TUDO
@@ -5788,7 +5780,6 @@ FATURAMENTO VD RJ;135.14;135.14;8.06.04.04.18;Cadeira de Alimentação Portátil
 FATURAMENTO VD RJ;180.84;180.84;8.06.04.05.07;Cadeira de Alimentação Portátil Pop Azul - Cosco;BB TUDO
 FATURAMENTO VD RJ;180.84;180.84;8.06.04.05.07;Cadeira de Refeição Portátil Pop Cosco - Azul;BB TUDO
 FATURAMENTO VD RJ;160.04;160.04;8.06.04.05.18;Cadeira de Alimentação Portátil Pop Rosa - Cosco;BB TUDO
-FATURAMENTO VD RJ;160.04;160.04;8.06.04.05.18;Cadeira de Refeição Portátil Pop Cosco - Rosa;BB TUDO
 FATURAMENTO VD RJ;180.84;180.84;8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;BB TUDO
 FATURAMENTO VD RJ;135.14;135.14;8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;BB TUDO
 FATURAMENTO VD RJ;135.14;135.14;8.06.04.06.10;Cadeira de Refeição Portátil Smart Cosco - Cinza;BB TUDO
@@ -6205,7 +6196,6 @@ FATURAMENTO VD RJ;503.05;503.05;8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescl
 FATURAMENTO VD RJ;503.05;503.05;8.09.03.87.10;Carrinho de Bebê Yupi Voyage Cinza Mescla;BB TUDO
 FATURAMENTO VD RJ;502.33;502.33;8.09.03.88.01;Carrinho de Bebê Yupi Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;385.93;385.93;8.09.03.92.10;Carrinho de Bebê Delta Cinza Mescla - Voyage;BB TUDO
-FATURAMENTO VD RJ;385.93;385.93;8.09.03.92.10;Carrinho de Bebê Delta Voyage Cinza Mescla;BB TUDO
 FATURAMENTO VD RJ;678.54;678.54;8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;644.59;644.59;8.09.03.95.10;Carrinho com Bebê Conforto Travel System Delta Duo Pro Cinza Mescla - Voyage;BB TUDO
 FATURAMENTO VD RJ;644.59;644.59;8.09.03.95.10;Carrinho com Bebê Conforto Travel System Delta Duo Pro Voyage Cinza Mescla;BB TUDO
@@ -7140,7 +7130,6 @@ FATURAMENTO VD RJ;24.9;24.9;8.25.135.04.00;Adesivo de Citronela com 28 unidades 
 FATURAMENTO VD ES;8.4;8.4;8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;BB TUDO
 FATURAMENTO VD RJ;70.3;70.3;8.25.142.01.69;Boia Colete Infantil 25 a 35 kg Dinossauro - Sea Float;BB TUDO
 FATURAMENTO VD RJ;70.3;70.3;8.25.142.04.69;Boia Colete Infantil 25 a 35 kg Coração - Sea Float;BB TUDO
-FATURAMENTO VD RJ;70.3;70.3;8.25.142.04.69;Boia Colete Infantil Coração Sea Float;BB TUDO
 FATURAMENTO VD RJ;70.3;70.3;8.25.142.07.69;Boia Colete Infantil 25 a 35 kg Girafe - Sea Float;BB TUDO
 FATURAMENTO VD RJ;70.3;70.3;8.25.142.08.69;Boia Colete Infantil 25 a 35 kg Candy - Sea Float;BB TUDO
 FATURAMENTO VD RJ;9.86;9.86;8.25.142.14.11;Boia Auxiliar Infantil Até 2 anos Dinossauro - Sea Float;BB TUDO
