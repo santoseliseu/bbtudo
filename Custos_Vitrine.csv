@@ -232,7 +232,6 @@ FATURAMENTO VD RJ;366.91;419.2;21.16.46.12.01;Mesa Falcon Preta;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.16.46.18.01;Mesa Lateral Vulcan Preta;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.01.00;Mesa Eames Tampo Redondo MDF 60cm Branco;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.01.00;Mesa Eames infantil e de centro 60cm Branca;VITRINE
-FATURAMENTO VD ES;100.8;118.74;21.16.50.02.00;Mesa Eames Tampo Redondo MDF 60cm Preta;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.02.00;Mesa Eames infantil e de Centro Preta 60cm;VITRINE
 FATURAMENTO VD ES;124.51;126.23;21.16.50.05.00;Mesa Eames Tampo Redondo MDF 90cm Branco;VITRINE
 FATURAMENTO VD ES;121.88;123.89;21.16.50.06.00;Mesa Eames Tampo Redondo MDF 90cm Preto;VITRINE
@@ -672,7 +671,6 @@ FATURAMENTO VD ES;39.12;44.33;24.52.66.206.11;Garrafa Térmica Wolff Nórdica Ve
 FATURAMENTO VD ES;6.02;6.85;24.52.66.218.00;Manteigueira Wolff Pearl de Cristal 11cm x 7cm x 7cm;VITRINE
 FATURAMENTO VD ES;7.02;7.99;24.52.66.220.00;Manteigueira Wolff Pearl de Cristal Âmbar 14cm x 9cm x 8cm;VITRINE
 FATURAMENTO VD ES;19.47;22.15;24.52.66.265.00;Xícara de Café e Chá Wolff de Vidro Borossilicato 250ml;VITRINE
-FATURAMENTO VD ES;9.46;10.76;24.52.66.268.00;Xícara de Chá Wolff Pearl de Cristal 180ml;VITRINE
 FATURAMENTO VD ES;17.22;19.59;24.52.66.287.00;Conjunto 6 Canecas de Vidro Allure 140ml - Wolff;VITRINE
 FATURAMENTO VD ES;12.54;14.27;24.52.66.317.00;Prato de Cristal com Pé Pearl 20cm x 9cm - Wolff;VITRINE
 FATURAMENTO VD ES;23.21;26.4;24.52.66.33.00;Jogo de 4 Xícaras para Café Wolff Pearl de Cristal Transparente 80ml;VITRINE
@@ -1721,7 +1719,6 @@ FATURAMENTO VD RJ;54.79;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x
 FATURAMENTO BBTOTAL ES;38.7;38.7;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;BB TOTAL
 FATURAMENTO VD RJ;54.79;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Cosco Branco Estampado;VITRINE
 FATURAMENTO VD RJ;295.03;411.45;8.04.04.15.18;Berço Portátil Nanny Rosa Rajado - Cosco;VITRINE
-FATURAMENTO VD RJ;295.03;411.45;8.04.04.16.07;Berço Nanny Cosco Azul Rajado;VITRINE
 FATURAMENTO VD RJ;295.03;411.45;8.04.04.16.07;Berço Portátil Nanny Azul Rajado - Cosco;VITRINE
 FATURAMENTO VD RJ;295.03;411.45;8.04.04.17.01;Berço Portátil Nanny Preto Mescla - Cosco;VITRINE
 FATURAMENTO VD RJ;262.44;366.0;8.04.04.18.10;Berço Portátil Cozzy Cinza Lápis - Cosco Kids;VITRINE
@@ -1968,7 +1965,6 @@ FULFILLMENT MELI;133.52;156.86;8.06.04.07.06;Cadeira de Alimentação Cook Branc
 FULFILLMENT AMAZON;155.64;217.05;8.06.04.07.06;Cadeira de Alimentação Cook Branco - Cosco;VITRINE
 FATURAMENTO VD RJ;150.51;209.9;8.06.04.07.06;Cadeira de Alimentação Cook Cosco Branco;VITRINE
 FULFILLMENT MELI;133.52;156.86;8.06.04.07.06;Cadeira de Alimentação Cook Cosco Branco;VITRINE
-FULFILLMENT AMAZON;155.64;217.05;8.06.04.07.06;Cadeira de Alimentação Cook Cosco Branco;VITRINE
 FATURAMENTO VD RJ;155.64;217.05;8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;VITRINE
 FULFILLMENT AMAZON;155.64;217.05;8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;326.53;386.9;8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;BB TOTAL
@@ -2097,7 +2093,6 @@ FULFILLMENT MELI;522.18;728.24;8.07.01.32.01;Cadeirinha de Carro Multifix com Is
 FULFILLMENT AMAZON;670.53;935.12;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;394.61;467.56;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
-FULFILLMENT MELI;522.18;728.24;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;VITRINE
 FULFILLMENT MELI;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;729.44;729.44;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;BB TOTAL
@@ -2802,7 +2797,6 @@ FULFILLMENT AMAZON;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza R
 FULFILLMENT MAGALU;291.38;398.95;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
 FULFILLMENT MELI;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;VITRINE
 FATURAMENTO VD RJ;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - Cinza Rajado;VITRINE
-FULFILLMENT AMAZON;365.44;503.56;8.09.04.95.10;Carrinho de Bebê Reverse Cosco - Cinza Rajado;VITRINE
 FATURAMENTO VD RJ;365.15;503.18;8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;VITRINE
 FATURAMENTO VD RJ;365.15;503.18;8.09.04.96.01;Carrinho de Bebê Reverse Preto Rajado - Cosco;VITRINE
 FULFILLMENT MELI;335.8;462.74;8.09.04.96.01;Carrinho de Bebê Reverse Preto Rajado - Cosco;VITRINE
@@ -3667,7 +3661,6 @@ FATURAMENTO VD RJ;19.54;20.92;8.24.53.14.07;Mamadeira Step Up 6M+ 330ML Fluxo R�
 FATURAMENTO BBTOTAL ES;31.49;36.15;8.24.53.14.07;Mamadeira Step Up 6M+ 330ML Fluxo Rápido Azul - Chicco;BB TOTAL
 FATURAMENTO VD RJ;19.46;21.11;8.24.53.15.18;Mamadeira Step Up 6M+ 330ML Fluxo Rápido Rosa - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;31.78;36.48;8.24.53.15.18;Mamadeira Step Up 6M+ 330ML Fluxo Rápido Rosa - Chicco;BB TOTAL
-FATURAMENTO VD RJ;10.2;11.12;8.24.53.16.18;Mamadeira Perfect 5 150ML Fluxo Inicial Chicco Rosa;VITRINE
 FATURAMENTO VD RJ;10.2;11.12;8.24.53.16.18;Mamadeira Perfect 5 Fluxo Inicial 150ml Rosa - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;5.56;5.56;8.24.53.16.18;Mamadeira Perfect 5 Fluxo Inicial 150ml Rosa - Chicco;BB TOTAL
 FATURAMENTO VD RJ;10.2;11.18;8.24.53.17.07;Mamadeira Perfect 5 Fluxo Inicial 150ml Azul - Chicco;VITRINE
@@ -4060,7 +4053,6 @@ FATURAMENTO VD RJ;3.13;4.31;8.25.01.33.18;Trava Flexível Multiuso Pink - Safety
 FATURAMENTO VD RJ;250.24;332.38;8.25.01.34.06;Umidificador Stay Clean White Safety 1St;VITRINE
 FATURAMENTO BBTOTAL ES;30.77;30.77;8.25.01.35.01;Protetor de Banco Safety 1st Black;BB TOTAL
 FATURAMENTO VD RJ;43.56;61.53;8.25.01.35.01;Protetor de Banco Safety 1st Black;VITRINE
-FATURAMENTO VD RJ;10.82;14.91;8.25.01.36.03;Aspirador Nasal de Sucção Safety 1st Transparente;VITRINE
 FATURAMENTO VD RJ;10.82;14.91;8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;6.3;7.46;8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;BB TOTAL
 FATURAMENTO BBTOTAL ES;59.97;59.97;8.25.01.37.01;Apoio de Cabeça Safety 1st - Black;BB TOTAL
@@ -4984,7 +4976,6 @@ FATURAMENTO VD RJ;67.38;92.84;8.30.33.03.69;Móbile Take Along Treasure the Ocea
 FATURAMENTO VD RJ;64.97;89.52;8.30.33.04.00;Mobile Take Along Tiny Love - Meadow Days;VITRINE
 FATURAMENTO VD RJ;64.97;89.52;8.30.33.04.00;Móbile Take Along Meadow Days - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;49.74;49.74;8.30.33.04.00;Móbile Take Along Meadow Days - Tiny Love;BB TOTAL
-FATURAMENTO VD RJ;64.97;89.52;8.30.33.05.00;Mobile Take Along Tiny Love - Princess Tales;VITRINE
 FATURAMENTO VD RJ;64.97;89.52;8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;VITRINE
 FATURAMENTO BBTOTAL ES;49.74;49.74;8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;BB TOTAL
 FATURAMENTO VD RJ;64.97;89.52;8.30.33.06.00;Mobile Take Along Tiny Love - Magical Tales;VITRINE
@@ -5639,7 +5630,6 @@ FATURAMENTO VD RJ;67.99;67.99;8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x
 FATURAMENTO VD RJ;77.4;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;BB TUDO
 FATURAMENTO VD RJ;77.4;77.4;8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Cosco Branco Estampado;BB TUDO
 FATURAMENTO VD RJ;411.45;411.45;8.04.04.15.18;Berço Portátil Nanny Rosa Rajado - Cosco;BB TUDO
-FATURAMENTO VD RJ;411.45;411.45;8.04.04.16.07;Berço Nanny Cosco Azul Rajado;BB TUDO
 FATURAMENTO VD RJ;411.45;411.45;8.04.04.16.07;Berço Portátil Nanny Azul Rajado - Cosco;BB TUDO
 FATURAMENTO VD RJ;411.45;411.45;8.04.04.17.01;Berço Portátil Nanny Preto Mescla - Cosco;BB TUDO
 FATURAMENTO VD RJ;366.0;366.0;8.04.04.18.10;Berço Portátil Cozzy Cinza Lápis - Cosco Kids;BB TUDO
@@ -6825,7 +6815,6 @@ FATURAMENTO VD RJ;11.16;11.16;8.24.53.10.07;Mamadeira Step Up 0M+ 150ML Fluxo No
 FATURAMENTO VD RJ;19.91;19.91;8.24.53.13.18;Mamadeira Step Up 2M+ 250ML Fluxo Médio Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;20.92;20.92;8.24.53.14.07;Mamadeira Step Up 6M+ 330ML Fluxo Rápido Azul - Chicco;BB TUDO
 FATURAMENTO VD RJ;21.11;21.11;8.24.53.15.18;Mamadeira Step Up 6M+ 330ML Fluxo Rápido Rosa - Chicco;BB TUDO
-FATURAMENTO VD RJ;11.12;11.12;8.24.53.16.18;Mamadeira Perfect 5 150ML Fluxo Inicial Chicco Rosa;BB TUDO
 FATURAMENTO VD RJ;11.12;11.12;8.24.53.16.18;Mamadeira Perfect 5 Fluxo Inicial 150ml Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;11.18;11.18;8.24.53.17.07;Mamadeira Perfect 5 Fluxo Inicial 150ml Azul - Chicco;BB TUDO
 FATURAMENTO VD RJ;38.22;38.22;8.24.53.18.18;Mamadeira Perfect 5 240ML Fluxo Médio Chicco Rosa;BB TUDO
@@ -7068,7 +7057,6 @@ FATURAMENTO VD RJ;4.31;4.31;8.25.01.32.01;Trava Flexível Multiuso Black - Safet
 FATURAMENTO VD RJ;4.31;4.31;8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;332.38;332.38;8.25.01.34.06;Umidificador Stay Clean White Safety 1St;BB TUDO
 FATURAMENTO VD RJ;61.53;61.53;8.25.01.35.01;Protetor de Banco Safety 1st Black;BB TUDO
-FATURAMENTO VD RJ;14.91;14.91;8.25.01.36.03;Aspirador Nasal de Sucção Safety 1st Transparente;BB TUDO
 FATURAMENTO VD RJ;14.91;14.91;8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;119.94;119.94;8.25.01.37.01;Apoio de Cabeça Safety 1st - Black;BB TUDO
 FATURAMENTO VD RJ;120.0;120.0;8.25.01.38.06;Lixeira Anti-odor Smell Free Branca - Safety 1st;BB TUDO
@@ -7670,7 +7658,6 @@ FATURAMENTO VD RJ;165.78;165.78;8.30.33.02.69;Móbile Musical Luxe Treasure the 
 FATURAMENTO VD RJ;92.84;92.84;8.30.33.03.69;Móbile Take Along Treasure the Ocean - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;89.52;89.52;8.30.33.04.00;Mobile Take Along Tiny Love - Meadow Days;BB TUDO
 FATURAMENTO VD RJ;89.52;89.52;8.30.33.04.00;Móbile Take Along Meadow Days - Tiny Love;BB TUDO
-FATURAMENTO VD RJ;89.52;89.52;8.30.33.05.00;Mobile Take Along Tiny Love - Princess Tales;BB TUDO
 FATURAMENTO VD RJ;89.52;89.52;8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;BB TUDO
 FATURAMENTO VD RJ;89.52;89.52;8.30.33.06.00;Mobile Take Along Tiny Love - Magical Tales;BB TUDO
 FATURAMENTO VD RJ;89.52;89.52;8.30.33.06.00;Móbile Take Along Magical Tales - Tiny Love;BB TUDO
