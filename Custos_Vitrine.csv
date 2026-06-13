@@ -188,7 +188,6 @@ FATURAMENTO VD ES;60.79;71.61;21.14.50.528.00;Cadeira Saarinen Tower Preta  Base
 FATURAMENTO VD ES;121.58;143.23;21.14.50.529.00;Conjunto Com 2 Cadeiras Saarinen Tower Preta  Base Preta;VITRINE
 FATURAMENTO VD ES;102.5;120.74;21.14.50.571.00;Conjunto Com 2 Cadeiras Eames Tower Preta  Base Preta;VITRINE
 FATURAMENTO VD ES;94.32;111.11;21.14.50.58.00;Cadeira com Braços Eames  Preto;VITRINE
-FATURAMENTO VD ES;51.25;60.37;21.14.50.588.00;Cadeira Eames Tower Azul Bic  Base Preta;VITRINE
 FATURAMENTO VD ES;100.48;118.36;21.14.50.59.00;Conjunto 2 Cadeiras com Braços Eames  Preto;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.61.00;Cadeira com Braços Eames  Branca;VITRINE
 FATURAMENTO VD ES;100.48;118.37;21.14.50.62.00;Conjunto 2 Cadeiras com Braços Eames  Branca;VITRINE
@@ -223,11 +222,9 @@ FATURAMENTO VD ES;269.01;316.91;21.14.50.835.00;Conjunto Com 4 Cadeiras Eames Ro
 FATURAMENTO VD ES;406.68;479.08;21.14.50.931.00;Conjunto Com 4 Cadeiras Eames Com Braço Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;101.67;119.77;21.14.50.932.00;Cadeira Eames Com Braço Fendi  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;61.76;62.02;21.14.50.962.00;Cadeira Saarinen Preta  Base Em Polipropileno;VITRINE
-FATURAMENTO VD ES;123.52;124.04;21.14.50.963.00;Conjunto Com 2 Cadeiras Saarinen Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD ES;247.04;248.08;21.14.50.964.00;Conjunto Com 4 Cadeiras Saarinen Preta  Base Em Polipropileno;VITRINE
 FATURAMENTO VD RJ;366.91;419.2;21.16.46.12.01;Mesa Falcon Preta;VITRINE
 FATURAMENTO VD RJ;129.23;147.65;21.16.46.18.01;Mesa Lateral Vulcan Preta;VITRINE
-FATURAMENTO VD ES;100.8;118.74;21.16.50.01.00;Mesa Eames Tampo Redondo MDF 60cm Branco;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.01.00;Mesa Eames infantil e de centro 60cm Branca;VITRINE
 FATURAMENTO VD ES;100.8;118.74;21.16.50.02.00;Mesa Eames infantil e de Centro Preta 60cm;VITRINE
 FATURAMENTO VD ES;124.51;126.23;21.16.50.05.00;Mesa Eames Tampo Redondo MDF 90cm Branco;VITRINE
@@ -1198,7 +1195,6 @@ FULFILLMENT MAGALU;141.1;199.33;8.01.01.14.11;Banheira de Bebê Smile Aqua Green
 FULFILLMENT MELI;159.44;225.25;8.01.01.14.11;Banheira de Bebê Smile Aqua Green - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;105.89;105.89;8.01.01.14.11;Banheira de Bebê Smile Aqua Green - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;159.04;224.69;8.01.01.14.11;Banheira de Bebê Smile Safety 1st Aqua Green;VITRINE
-FULFILLMENT AMAZON;159.44;225.25;8.01.01.14.11;Banheira de Bebê Smile Safety 1st Aqua Green;VITRINE
 FATURAMENTO VD RJ;159.45;225.25;8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;VITRINE
 FULFILLMENT MELI;159.45;225.25;8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;VITRINE
 FULFILLMENT MAGALU;141.1;196.08;8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;VITRINE
@@ -1216,7 +1212,6 @@ FATURAMENTO VD RJ;103.98;146.89;8.01.01.20.10;Banheira Infantil Retrátil Oasis 
 FATURAMENTO BBTOTAL ES;61.98;73.44;8.01.01.20.10;Banheira Infantil Retrátil Oasis White & Grey - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;84.14;118.84;8.01.03.01.07;Banheira Infantil Dobrável Glub até 30 Litros Azul - Voyage;VITRINE
 FATURAMENTO BBTOTAL ES;50.15;59.42;8.01.03.02.18;Banheira Dobrável Glub Voyage - Rosa;BB TOTAL
-FATURAMENTO VD RJ;84.14;118.84;8.01.03.02.18;Banheira Dobrável Glub Voyage - Rosa;VITRINE
 FATURAMENTO BBTOTAL ES;50.15;59.42;8.01.03.02.18;Banheira Infantil Dobrável Glub até 30 Litros Rosa - Voyage;BB TOTAL
 FATURAMENTO VD RJ;84.14;118.84;8.01.03.02.18;Banheira Infantil Dobrável Glub até 30 Litros Rosa - Voyage;VITRINE
 FATURAMENTO VD RJ;131.24;185.39;8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;VITRINE
@@ -1678,7 +1673,6 @@ FATURAMENTO BBTOTAL ES;106.82;126.57;8.04.04.08.10;Berço Portátil Origin Cinza
 FATURAMENTO VD RJ;181.52;253.14;8.04.04.09.07;Berço Portátil Origin Azul - Cosco;VITRINE
 FATURAMENTO VD RJ;425.69;593.67;8.04.04.10.10;Berço Co-bed Pluggy Cosco - Cinza Escuro;VITRINE
 FULFILLMENT MELI;425.69;593.67;8.04.04.10.10;Berço Co-bed Pluggy Cosco - Cinza Escuro;VITRINE
-FULFILLMENT AMAZON;425.69;593.67;8.04.04.10.10;Berço Co-bed Pluggy Cosco - Cinza Escuro;VITRINE
 FATURAMENTO VD RJ;425.69;593.67;8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;VITRINE
 FULFILLMENT MELI;425.69;593.67;8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;VITRINE
 FULFILLMENT AMAZON;425.69;593.67;8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;VITRINE
@@ -1785,7 +1779,6 @@ FATURAMENTO VD RJ;236.92;330.4;8.05.01.12.00;Cadeira de Dencanso Bouncer Sunshin
 FATURAMENTO VD RJ;236.92;330.4;8.05.01.12.00;Cadeira de Dencanso Bouncer Sunshine Baby Safety 1st Pet's World;VITRINE
 FATURAMENTO VD RJ;236.92;330.4;8.05.01.12.00;Cadeira de Descanso Bouncer Sunshine Baby Pet's World - Safety 1st;VITRINE
 FATURAMENTO VD RJ;266.98;372.33;8.05.01.13.27;Moisés Dreamy Safety 1St - Gray;VITRINE
-FULFILLMENT AMAZON;314.1;438.04;8.05.01.13.27;Moisés Dreamy Safety 1St - Gray;VITRINE
 FATURAMENTO VD RJ;266.98;372.33;8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;VITRINE
 FULFILLMENT AMAZON;314.1;438.04;8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;VITRINE
 FATURAMENTO VD RJ;236.93;330.4;8.05.01.16.18;Cadeira de Dencanso Bouncer Sunshine Baby Pink Garden - Safety1st;VITRINE
@@ -1946,7 +1939,6 @@ FATURAMENTO VD RJ;155.64;217.05;8.06.04.08.10;Cadeira de Alimentação Cook Cinz
 FULFILLMENT AMAZON;155.64;217.05;8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;326.53;386.9;8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;BB TOTAL
 FATURAMENTO VD RJ;155.64;217.05;8.06.04.08.10;Cadeira de Alimentação Cook Cosco Cinza;VITRINE
-FULFILLMENT AMAZON;155.64;217.05;8.06.04.08.10;Cadeira de Alimentação Cook Cosco Cinza;VITRINE
 FATURAMENTO VD RJ;96.9;135.14;8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;VITRINE
 FULFILLMENT MELI;96.9;135.14;8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;VITRINE
 FULFILLMENT AMAZON;96.9;135.14;8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;VITRINE
@@ -2066,7 +2058,6 @@ FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com I
 FULFILLMENT MELI;522.18;728.24;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;VITRINE
 FULFILLMENT AMAZON;670.53;935.12;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;394.61;467.56;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;BB TOTAL
-FATURAMENTO VD RJ;662.56;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;VITRINE
 FATURAMENTO VD RJ;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;VITRINE
 FULFILLMENT MELI;1089.88;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;729.44;729.44;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;BB TOTAL
@@ -2114,7 +2105,6 @@ FULFILLMENT AMAZON;406.03;566.24;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36
 FULFILLMENT MAGALU;339.45;472.37;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;VITRINE
 FULFILLMENT MELI;406.03;566.24;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;385.73;537.93;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36kg Voyage Preto;VITRINE
-FULFILLMENT AMAZON;406.03;566.24;8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36kg Voyage Preto;VITRINE
 FATURAMENTO VD RJ;26.11;36.42;8.07.03.18.01;Assento de Elevação Booster Vibe 15 a 36 Kg Preto - Voyage;VITRINE
 FATURAMENTO BBTOTAL ES;18.21;18.21;8.07.03.18.01;Assento de Elevação Booster Vibe 15 a 36 Kg Preto - Voyage;BB TOTAL
 FATURAMENTO VD RJ;27.34;38.12;8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;VITRINE
@@ -2181,7 +2171,6 @@ FATURAMENTO VD RJ;1101.81;1258.85;8.07.103.07.10;Cadeirinha para Carro Vanguard 
 FATURAMENTO VD RJ;1101.81;1258.85;8.07.103.07.10;Cadeirinha para Carro com Isofix Vanguard 360 I-Size Grey - Premium Baby;VITRINE
 FATURAMENTO VD RJ;371.57;424.53;8.07.103.09.01;Cadeirinha para Carro Comfort Grow Black - Premium Baby;VITRINE
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;VITRINE
-FATURAMENTO VD RJ;160.98;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Infanti Verde Gamer;VITRINE
 FATURAMENTO VD RJ;160.98;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;VITRINE
 FATURAMENTO VD RJ;446.33;610.56;8.07.23.04.01;Cadeirinha de Carro Vita 0 a 36kg Black Strong - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;257.65;305.28;8.07.23.04.01;Cadeirinha de Carro Vita 0 a 36kg Black Strong - Infanti;BB TOTAL
@@ -2301,7 +2290,6 @@ FATURAMENTO VD RJ;124.65;176.1;8.08.01.25.27;Canguru Infantil Freedom Até 18 kg
 FATURAMENTO VD RJ;212.0;299.5;8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;VITRINE
 FULFILLMENT AMAZON;70.11;99.04;8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;VITRINE
-FATURAMENTO VD RJ;70.11;99.04;8.08.04.01.01;Canguru para Bebê Loop Cosco Preto;VITRINE
 FATURAMENTO VD RJ;70.11;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;VITRINE
 FULFILLMENT AMAZON;70.11;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;VITRINE
 FATURAMENTO BBTOTAL ES;49.52;49.52;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;BB TOTAL
@@ -2607,14 +2595,12 @@ FATURAMENTO VD RJ;230.15;317.13;8.09.03.13.01;Carrinho de Bebê Bossa Preto Plen
 FULFILLMENT MAGALU;124.31;170.91;8.09.03.31.01;Carrinho Umbrella Quick Voyage Preto;VITRINE
 FULFILLMENT AMAZON;135.58;186.8;8.09.03.31.01;Carrinho Umbrella Quick Voyage Preto;VITRINE
 FATURAMENTO VD RJ;135.58;186.8;8.09.03.31.01;Carrinho Umbrella Quick Voyage Preto;VITRINE
-FATURAMENTO BBTOTAL ES;72.13;85.46;8.09.03.31.01;Carrinho Umbrella Quick Voyage Preto;BB TOTAL
 FULFILLMENT MAGALU;124.31;170.91;8.09.03.31.01;Carrinho de Bebê Umbrella Quick Preto - Voyage;VITRINE
 FULFILLMENT AMAZON;135.58;186.8;8.09.03.31.01;Carrinho de Bebê Umbrella Quick Preto - Voyage;VITRINE
 FATURAMENTO VD RJ;135.58;186.8;8.09.03.31.01;Carrinho de Bebê Umbrella Quick Preto - Voyage;VITRINE
 FATURAMENTO BBTOTAL ES;72.13;85.46;8.09.03.31.01;Carrinho de Bebê Umbrella Quick Preto - Voyage;BB TOTAL
 FATURAMENTO VD RJ;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;VITRINE
 FULFILLMENT AMAZON;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;VITRINE
-FATURAMENTO VD RJ;295.84;407.66;8.09.03.42.00;Carrinho de Bebê Delta Voyage - Colorê;VITRINE
 FULFILLMENT MELI;212.15;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Bege - Voyage;VITRINE
 FULFILLMENT MELI;212.15;292.34;8.09.03.72.57;Carrinho de Bebê Umbrella Park Voyage - Bege;VITRINE
 FULFILLMENT AMAZON;209.79;289.09;8.09.03.73.10;Carrinho de Bebê Umbrella Park Cinza - Voyage;VITRINE
@@ -2642,7 +2628,6 @@ FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot  Voyage - 
 FULFILLMENT AMAZON;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot Preto Geo - Voyage;VITRINE
 FULFILLMENT MELI;238.97;329.31;8.09.03.82.01;Carrinho de Bebê Spot Preto Geo - Voyage;VITRINE
 FATURAMENTO VD RJ;239.3;329.76;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Rosa Geo;VITRINE
-FULFILLMENT MELI;243.06;276.2;8.09.03.83.18;Carrinho de Bebê Spot  Voyage - Rosa Geo;VITRINE
 FATURAMENTO VD RJ;239.3;329.76;8.09.03.83.18;Carrinho de Bebê Spot Rosa Geo - Voyage;VITRINE
 FULFILLMENT MELI;243.06;276.2;8.09.03.83.18;Carrinho de Bebê Spot Rosa Geo - Voyage;VITRINE
 FATURAMENTO VD RJ;365.06;503.05;8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;VITRINE
@@ -2774,7 +2759,6 @@ FATURAMENTO BBTOTAL ES;683.2;683.2;8.09.103.06.01;Carrinho com Bebê Conforto e 
 FATURAMENTO VD RJ;1201.14;1366.4;8.09.103.06.01;Carrinho com Bebê Conforto e Base Travel System Kansas Preto - Premium Baby;VITRINE
 FATURAMENTO VD RJ;1123.44;1278.0;8.09.103.12.01;Carrinho com Bebê Conforto Travel System Aria Preto - Premium Baby;VITRINE
 FATURAMENTO VD RJ;1123.44;1278.0;8.09.103.13.10;Carrinho com Bebê Conforto Travel System Aria Preto e Cinza - Premium Baby;VITRINE
-FATURAMENTO VD RJ;3099.31;3525.7;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;VITRINE
 FATURAMENTO VD RJ;3099.31;3525.7;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;VITRINE
 FATURAMENTO BBTOTAL ES;1650.75;1650.75;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;BB TOTAL
 FATURAMENTO VD RJ;3629.08;4128.37;8.09.161.17.57;Carrinho de Bebê Mixx Next Bege Cedar - Nuna;VITRINE
@@ -3479,10 +3463,8 @@ FATURAMENTO VD RJ;8.27;10.78;8.24.23.02.69;Kit 4 Copos Infantis 200 ml Colorido 
 FATURAMENTO BBTOTAL ES;5.39;5.39;8.24.23.02.69;Kit 4 Copos Infantis 200 ml Colorido - Infanti;BB TOTAL
 FATURAMENTO VD RJ;8.28;10.78;8.24.23.03.18;Kit 4 Copos Infantis 200 ml Rosa e Roxo - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;5.39;5.39;8.24.23.03.18;Kit 4 Copos Infantis 200 ml Rosa e Roxo - Infanti;BB TOTAL
-FATURAMENTO VD RJ;2.4;3.12;8.24.23.04.02;Copo Infantil 200 ml Infanti Lilás;VITRINE
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.04.02;Copo Infantil 200 ml Lilás - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.99;2.37;8.24.23.04.02;Copo Infantil 200 ml Lilás - Infanti;BB TOTAL
-FATURAMENTO VD RJ;2.4;3.12;8.24.23.05.18;Copo Infantil 200 ml Infanti Rosa Claro;VITRINE
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.05.18;Copo Infantil 200 ml Rosa Claro - Infanti;VITRINE
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.06.18;Copo Infantil 200 ml Infanti Rosa Escuro;VITRINE
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.06.18;Copo Infantil 200 ml Rosa Escuro - Infanti;VITRINE
@@ -3491,9 +3473,7 @@ FATURAMENTO VD RJ;2.4;3.12;8.24.23.07.08;Copo Infantil 200 ml Vermelho - Infanti
 FATURAMENTO BBTOTAL ES;1.56;1.56;8.24.23.07.08;Copo Infantil 200 ml Vermelho - Infanti;BB TOTAL
 FATURAMENTO VD RJ;2.41;3.12;8.24.23.08.110;Copo Infantil 200 ml Bordô - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.32;1.56;8.24.23.08.110;Copo Infantil 200 ml Bordô - Infanti;BB TOTAL
-FATURAMENTO VD RJ;2.41;3.12;8.24.23.08.110;Copo Infantil 200 ml Infanti Bordô;VITRINE
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.09.16;Copo Infantil 200 ml Amarelo - Infanti;VITRINE
-FATURAMENTO VD RJ;2.4;3.12;8.24.23.09.16;Copo Infantil 200 ml Infanti Amarelo;VITRINE
 FATURAMENTO VD RJ;2.41;3.12;8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.56;1.21;8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;BB TOTAL
 FATURAMENTO VD RJ;2.4;3.12;8.24.23.11.07;Copo Infantil 200 ml Azul Claro - Infanti;VITRINE
@@ -3515,17 +3495,14 @@ FATURAMENTO VD RJ;11.72;15.26;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 
 FATURAMENTO BBTOTAL ES;8.3;9.83;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 ml Colorido - Infanti;BB TOTAL
 FATURAMENTO VD RJ;11.71;15.26;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;7.63;7.63;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;BB TOTAL
-FATURAMENTO VD RJ;2.93;3.94;8.24.23.24.02;Prato Infantil Bowl 300 ml Infanti Lilás;VITRINE
 FATURAMENTO VD RJ;2.93;3.94;8.24.23.24.02;Prato Infantil Bowl 300 ml Lilás - Infanti;VITRINE
 FATURAMENTO VD RJ;3.36;4.38;8.24.23.25.18;Prato Infantil Bowl 300 ml Rosa Claro - Infanti;VITRINE
 FATURAMENTO VD RJ;3.36;4.38;8.24.23.26.18;Prato Infantil Bowl 300 ml Rosa Escuro - Infanti;VITRINE
 FATURAMENTO VD RJ;2.92;3.94;8.24.23.27.08;Prato Infantil Bowl 300 ml Vermelho - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;2.19;2.19;8.24.23.27.08;Prato Infantil Bowl 300 ml Vermelho - Infanti;BB TOTAL
 FATURAMENTO VD RJ;3.36;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Bordô - Infanti;VITRINE
-FATURAMENTO VD RJ;3.36;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Infanti Bordô;VITRINE
 FATURAMENTO VD RJ;2.92;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;1.62;1.92;8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;BB TOTAL
-FATURAMENTO VD RJ;2.92;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Infanti Amarelo;VITRINE
 FATURAMENTO VD RJ;3.36;4.38;8.24.23.30.07;Prato Infantil Bowl 300 ml Azul Escuro - Infanti;VITRINE
 FATURAMENTO VD RJ;3.36;4.38;8.24.23.31.07;Prato Infantil Bowl 300 ml Azul Claro - Infanti;VITRINE
 FATURAMENTO VD RJ;14.64;19.09;8.24.23.33.18;Kit com 4 Pratos Infantis Bowls 500 ml Rosa e Roxo - Infanti;VITRINE
@@ -3627,7 +3604,6 @@ FATURAMENTO VD ES;23.45;24.42;8.24.53.29.00;Kit 2 Mamadeiras Step Up Branca - Ch
 FATURAMENTO BBTOTAL ES;10.59;10.59;8.24.53.29.00;Kit 2 Mamadeiras Step Up Branca - Chicco;BB TOTAL
 FATURAMENTO VD RJ;20.32;21.18;8.24.53.30.07;Kit 2 Mamadeiras Step Up Azul - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;10.59;10.59;8.24.53.30.07;Kit 2 Mamadeiras Step Up Azul - Chicco;BB TOTAL
-FATURAMENTO VD RJ;20.29;21.21;8.24.53.31.18;Kit 2 Mamadeiras Step Up Chicco Rosa;VITRINE
 FATURAMENTO VD RJ;20.29;21.21;8.24.53.31.18;Kit 2 Mamadeiras Step Up Rosa - Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;36.66;36.66;8.24.53.31.18;Kit 2 Mamadeiras Step Up Rosa - Chicco;BB TOTAL
 FATURAMENTO VD RJ;8.51;9.49;8.24.53.33.00;Escova Para Mamadeira 3 Em 1 Chicco Branco e Azul;VITRINE
@@ -3925,7 +3901,6 @@ FATURAMENTO VD RJ;80.04;86.09;8.24.92.78.00;Lancheira Térmica Infantil com Zíp
 FATURAMENTO BBTOTAL ES;38.68;44.4;8.24.92.78.00;Lancheira Térmica Infantil com Zíper Zoo Borboleta - Skip Hop;BB TOTAL
 FATURAMENTO VD RJ;17.24;24.03;8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;12.02;12.02;8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;BB TOTAL
-FATURAMENTO VD RJ;17.24;24.03;8.25.01.01.01;Protetor Solar Duplo Safety 1st Black;VITRINE
 FATURAMENTO VD RJ;288.01;386.08;8.25.01.01.06;Babá Eletrônica Smart Vision Safety 1st Branca;VITRINE
 FATURAMENTO VD RJ;26.83;37.42;8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;20.79;20.79;8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;BB TOTAL
@@ -4204,7 +4179,6 @@ FATURAMENTO BBTOTAL ES;83.61;83.61;8.25.53.76.00;Espelho Para Banco Traseiro Chi
 FATURAMENTO VD RJ;9.41;10.78;8.25.53.77.00;Chocalho Mordedor Salada de Frutas Chicco;VITRINE
 FATURAMENTO BBTOTAL ES;5.39;5.39;8.25.53.77.00;Chocalho Mordedor Salada de Frutas Chicco;BB TOTAL
 FATURAMENTO VD RJ;2.43;2.89;8.25.53.88.00;Escova De Dentes De Bambu Bamboo Toothbrush 3A+ Chicco;VITRINE
-FATURAMENTO BBTOTAL ES;4.36;5.0;8.25.53.88.00;Escova De Dentes De Bambu Bamboo Toothbrush 3A+ Chicco;BB TOTAL
 FATURAMENTO VD RJ;9.89;10.28;8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;VITRINE
 FATURAMENTO VD ES;6.44;7.36;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;VITRINE
 FATURAMENTO BBTOTAL ES;2.73;3.14;8.25.57.02.00;Babador Com Bolso Pega Migalhas Gatinho Buba Azul e Rosa;BB TOTAL
@@ -5054,13 +5028,11 @@ FATURAMENTO BBTOTAL ES;5.38;6.18;8.30.57.01.00;Risque e Apague Com Esponja Buba;
 FATURAMENTO VD RJ;11.7;13.31;8.30.57.03.00;Baby Ball Cute Colors Buba;VITRINE
 FATURAMENTO BBTOTAL ES;5.0;5.74;8.30.57.03.00;Baby Ball Cute Colors Buba;BB TOTAL
 FATURAMENTO VD RJ;124.52;141.65;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas Buba Rosa;VITRINE
-FATURAMENTO BBTOTAL ES;70.83;70.83;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas Buba Rosa;BB TOTAL
 FATURAMENTO VD RJ;124.52;141.65;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas Rosa - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;70.83;70.83;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas Rosa - Buba;BB TOTAL
 FATURAMENTO VD RJ;117.92;134.71;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Azul - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;67.36;67.36;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Azul - Buba;BB TOTAL
 FATURAMENTO VD RJ;117.92;134.71;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Buba Azul;VITRINE
-FATURAMENTO BBTOTAL ES;67.36;67.36;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Buba Azul;BB TOTAL
 FATURAMENTO VD RJ;122.99;140.03;8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;VITRINE
 FATURAMENTO VD RJ;11.12;12.5;8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;VITRINE
 FATURAMENTO VD RJ;7.93;9.1;8.30.57.13.69;Risque e Apague Buba Colorido;VITRINE
@@ -5280,7 +5252,6 @@ FATURAMENTO VD RJ;182.78;182.78;8.01.01.17.10;Banheira Bubbles Safety 1st - Grey
 FATURAMENTO VD RJ;182.78;182.78;8.01.01.17.10;Banheira de Bebê Bubbles Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;146.89;146.89;8.01.01.20.10;Banheira Infantil Retrátil Oasis White & Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;118.84;118.84;8.01.03.01.07;Banheira Infantil Dobrável Glub até 30 Litros Azul - Voyage;BB TUDO
-FATURAMENTO VD RJ;118.84;118.84;8.01.03.02.18;Banheira Dobrável Glub Voyage - Rosa;BB TUDO
 FATURAMENTO VD RJ;118.84;118.84;8.01.03.02.18;Banheira Infantil Dobrável Glub até 30 Litros Rosa - Voyage;BB TUDO
 FATURAMENTO VD RJ;185.39;185.39;8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;BB TUDO
 FATURAMENTO VD RJ;185.39;185.39;8.01.03.04.01;Banheira Whippy Cosco Cinza;BB TUDO
@@ -5789,7 +5760,6 @@ FATURAMENTO VD RJ;399.33;399.33;8.07.01.07.01;Assento de Elevação Booster com 
 FATURAMENTO VD RJ;399.33;399.33;8.07.01.08.27;Assento de Elevação Booster com Isofix Elev i-Size Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;935.12;935.12;8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Grey Urban - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;923.22;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;923.22;923.22;8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix Safety 1st 0 a 36 kg Black Urban;BB TUDO
 FATURAMENTO VD RJ;1519.95;1519.95;8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;1519.95;1519.95;8.07.01.34.27;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Grey Urban - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;261.65;261.65;8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;BB TUDO
@@ -5857,7 +5827,6 @@ FATURAMENTO VD RJ;1258.85;1258.85;8.07.103.07.10;Cadeirinha para Carro Vanguard 
 FATURAMENTO VD RJ;1258.85;1258.85;8.07.103.07.10;Cadeirinha para Carro com Isofix Vanguard 360 I-Size Grey - Premium Baby;BB TUDO
 FATURAMENTO VD RJ;424.53;424.53;8.07.103.09.01;Cadeirinha para Carro Comfort Grow Black - Premium Baby;BB TUDO
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;BB TUDO
-FATURAMENTO VD RJ;224.5;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Infanti Verde Gamer;BB TUDO
 FATURAMENTO VD RJ;224.5;224.5;8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;BB TUDO
 FATURAMENTO VD RJ;610.56;610.56;8.07.23.04.01;Cadeirinha de Carro Vita 0 a 36kg Black Strong - Infanti;BB TUDO
 FATURAMENTO VD RJ;610.56;610.56;8.07.23.05.27;Cadeirinha de Carro Vita 0 a 36kg Grey Fuzz - Infanti;BB TUDO
@@ -5925,7 +5894,6 @@ FATURAMENTO VD RJ;176.1;176.1;8.08.01.25.27;Canguru Freedom Safety 1st Grey;BB T
 FATURAMENTO VD RJ;176.1;176.1;8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;299.5;299.5;8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;BB TUDO
-FATURAMENTO VD RJ;99.04;99.04;8.08.04.01.01;Canguru para Bebê Loop Cosco Preto;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.03.10;Canguru Infantil Loop Até 9 kg Cinza Claro - Cosco;BB TUDO
 FATURAMENTO VD RJ;99.04;99.04;8.08.04.03.10;Canguru Loop Cosco - Cinza Claro;BB TUDO
@@ -6100,7 +6068,6 @@ FATURAMENTO VD RJ;317.13;317.13;8.09.03.13.01;Carrinho de Bebê Bossa Preto Plen
 FATURAMENTO VD RJ;186.8;186.8;8.09.03.31.01;Carrinho Umbrella Quick Voyage Preto;BB TUDO
 FATURAMENTO VD RJ;186.8;186.8;8.09.03.31.01;Carrinho de Bebê Umbrella Quick Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;407.66;407.66;8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;BB TUDO
-FATURAMENTO VD RJ;407.66;407.66;8.09.03.42.00;Carrinho de Bebê Delta Voyage - Colorê;BB TUDO
 FATURAMENTO VD RJ;289.09;289.09;8.09.03.74.01;Carrinho de Bebê Umbrella Park Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;425.68;425.68;8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;BB TUDO
 FATURAMENTO VD RJ;425.68;425.68;8.09.03.77.01;Carrinho de Bebê Delta Voyage Preto;BB TUDO
@@ -6190,7 +6157,6 @@ FATURAMENTO VD RJ;1551.94;1551.94;8.09.103.05.10;Carrinho com Bebê Conforto e B
 FATURAMENTO VD RJ;1366.4;1366.4;8.09.103.06.01;Carrinho com Bebê Conforto e Base Travel System Kansas Preto - Premium Baby;BB TUDO
 FATURAMENTO VD RJ;1278.0;1278.0;8.09.103.12.01;Carrinho com Bebê Conforto Travel System Aria Preto - Premium Baby;BB TUDO
 FATURAMENTO VD RJ;1278.0;1278.0;8.09.103.13.10;Carrinho com Bebê Conforto Travel System Aria Preto e Cinza - Premium Baby;BB TUDO
-FATURAMENTO VD RJ;3525.7;3525.7;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;BB TUDO
 FATURAMENTO VD RJ;3525.7;3525.7;8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;BB TUDO
 FATURAMENTO VD RJ;4128.37;4128.37;8.09.161.17.57;Carrinho de Bebê Mixx Next Bege Cedar - Nuna;BB TUDO
 FATURAMENTO VD RJ;111.06;111.06;8.09.169.01.18;Forro Acolchoado para Carrinho Anti-Sweat Hedge-Hugs Pink - Kikka Boo;BB TUDO
@@ -6648,17 +6614,13 @@ FATURAMENTO VD RJ;388.33;388.33;8.24.169.02.11;Bomba Tira Leite Dupla Elétrica 
 FATURAMENTO VD RJ;388.33;388.33;8.24.169.03.11;Bomba Tira Leite Elétrica Winnie - Kikka Boo;BB TUDO
 FATURAMENTO VD RJ;10.78;10.78;8.24.23.02.69;Kit 4 Copos Infantis 200 ml Colorido - Infanti;BB TUDO
 FATURAMENTO VD RJ;10.78;10.78;8.24.23.03.18;Kit 4 Copos Infantis 200 ml Rosa e Roxo - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.12;3.12;8.24.23.04.02;Copo Infantil 200 ml Infanti Lilás;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.04.02;Copo Infantil 200 ml Lilás - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.12;3.12;8.24.23.05.18;Copo Infantil 200 ml Infanti Rosa Claro;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.05.18;Copo Infantil 200 ml Rosa Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.06.18;Copo Infantil 200 ml Infanti Rosa Escuro;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.06.18;Copo Infantil 200 ml Rosa Escuro - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.07.08;Copo Infantil 200 ml Vermelho - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.08.110;Copo Infantil 200 ml Bordô - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.12;3.12;8.24.23.08.110;Copo Infantil 200 ml Infanti Bordô;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.09.16;Copo Infantil 200 ml Amarelo - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.12;3.12;8.24.23.09.16;Copo Infantil 200 ml Infanti Amarelo;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.12;3.12;8.24.23.11.07;Copo Infantil 200 ml Azul Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;9.03;9.03;8.24.23.12.69;Kit 4 Copos Infantis 380 ml Colorido - Infanti;BB TUDO
@@ -6672,15 +6634,12 @@ FATURAMENTO VD RJ;4.12;4.12;8.24.23.20.07;Copo Infantil 380 ml Azul Escuro - Inf
 FATURAMENTO VD RJ;3.5;3.5;8.24.23.21.07;Copo Infantil 380 ml Azul Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;15.26;15.26;8.24.23.22.69;Kit com 4 Pratos Infantis Bowls 300 ml Colorido - Infanti;BB TUDO
 FATURAMENTO VD RJ;15.26;15.26;8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.94;3.94;8.24.23.24.02;Prato Infantil Bowl 300 ml Infanti Lilás;BB TUDO
 FATURAMENTO VD RJ;3.94;3.94;8.24.23.24.02;Prato Infantil Bowl 300 ml Lilás - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.25.18;Prato Infantil Bowl 300 ml Rosa Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.26.18;Prato Infantil Bowl 300 ml Rosa Escuro - Infanti;BB TUDO
 FATURAMENTO VD RJ;3.94;3.94;8.24.23.27.08;Prato Infantil Bowl 300 ml Vermelho - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Bordô - Infanti;BB TUDO
-FATURAMENTO VD RJ;4.38;4.38;8.24.23.28.110;Prato Infantil Bowl 300 ml Infanti Bordô;BB TUDO
 FATURAMENTO VD RJ;3.94;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;BB TUDO
-FATURAMENTO VD RJ;3.94;3.94;8.24.23.29.16;Prato Infantil Bowl 300 ml Infanti Amarelo;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.30.07;Prato Infantil Bowl 300 ml Azul Escuro - Infanti;BB TUDO
 FATURAMENTO VD RJ;4.38;4.38;8.24.23.31.07;Prato Infantil Bowl 300 ml Azul Claro - Infanti;BB TUDO
 FATURAMENTO VD RJ;19.09;19.09;8.24.23.33.18;Kit com 4 Pratos Infantis Bowls 500 ml Rosa e Roxo - Infanti;BB TUDO
@@ -6742,7 +6701,6 @@ FATURAMENTO VD RJ;10.97;10.97;8.24.53.23.00;Bico de Mamadeira Perfect 5 Fluxo R�
 FATURAMENTO VD RJ;21.18;21.18;8.24.53.29.00;Kit 2 Mamadeiras Step Up Branca - Chicco;BB TUDO
 FATURAMENTO VD ES;24.42;24.42;8.24.53.29.00;Kit 2 Mamadeiras Step Up Branca - Chicco;BB TUDO
 FATURAMENTO VD RJ;21.18;21.18;8.24.53.30.07;Kit 2 Mamadeiras Step Up Azul - Chicco;BB TUDO
-FATURAMENTO VD RJ;21.21;21.21;8.24.53.31.18;Kit 2 Mamadeiras Step Up Chicco Rosa;BB TUDO
 FATURAMENTO VD RJ;21.21;21.21;8.24.53.31.18;Kit 2 Mamadeiras Step Up Rosa - Chicco;BB TUDO
 FATURAMENTO VD RJ;9.49;9.49;8.24.53.33.00;Escova Para Mamadeira 3 Em 1 Chicco Branco e Azul;BB TUDO
 FATURAMENTO VD RJ;18.6;18.6;8.24.53.37.00;Copo de Transição 200ml Cup 4M+ Rosa - Chicco;BB TUDO
@@ -6920,7 +6878,6 @@ FATURAMENTO VD RJ;37.96;37.96;8.24.92.65.11;Garrafa com Canudo Flip Zoo 384 ml C
 FATURAMENTO VD RJ;121.3;121.3;8.24.92.68.00;Garrafa de Aço Inox 350ml Spark Style Morango - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;86.09;86.09;8.24.92.78.00;Lancheira Térmica Infantil com Zíper Zoo Borboleta - Skip Hop;BB TUDO
 FATURAMENTO VD RJ;24.03;24.03;8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;24.03;24.03;8.25.01.01.01;Protetor Solar Duplo Safety 1st Black;BB TUDO
 FATURAMENTO VD RJ;386.08;386.08;8.25.01.01.06;Babá Eletrônica Smart Vision Safety 1st Branca;BB TUDO
 FATURAMENTO VD RJ;37.42;37.42;8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;37.42;37.42;8.25.01.02.01;Protetor Solar Stretch Safety 1st Black;BB TUDO
