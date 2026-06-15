@@ -1211,11 +1211,9 @@ FATURAMENTO VD RJ;129.38;182.78;8.01.01.17.10;Banheira de Bebê Bubbles Grey - S
 FATURAMENTO VD RJ;103.98;146.89;8.01.01.20.10;Banheira Infantil Retrátil Oasis White & Grey - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;61.98;73.44;8.01.01.20.10;Banheira Infantil Retrátil Oasis White & Grey - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;84.14;118.84;8.01.03.01.07;Banheira Infantil Dobrável Glub até 30 Litros Azul - Voyage;VITRINE
-FATURAMENTO BBTOTAL ES;50.15;59.42;8.01.03.02.18;Banheira Dobrável Glub Voyage - Rosa;BB TOTAL
 FATURAMENTO BBTOTAL ES;50.15;59.42;8.01.03.02.18;Banheira Infantil Dobrável Glub até 30 Litros Rosa - Voyage;BB TOTAL
 FATURAMENTO VD RJ;84.14;118.84;8.01.03.02.18;Banheira Infantil Dobrável Glub até 30 Litros Rosa - Voyage;VITRINE
 FATURAMENTO VD RJ;131.24;185.39;8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;VITRINE
-FATURAMENTO VD RJ;131.24;185.39;8.01.03.04.01;Banheira Whippy Cosco Cinza;VITRINE
 FATURAMENTO VD RJ;131.24;185.39;8.01.03.04.01;Banheira de Bebê Whippy Cinza - Cosco;VITRINE
 FATURAMENTO VD RJ;52.8;74.58;8.01.04.01.10;Banheira Infantil Fold Up Branca e Cinza - Cosco;VITRINE
 FATURAMENTO VD RJ;52.8;74.58;8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;VITRINE
@@ -1878,7 +1876,6 @@ FATURAMENTO VD RJ;460.87;642.72;8.06.01.02.11;Cadeira de Refeição Jelly Safety
 FATURAMENTO VD RJ;460.86;642.72;8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;VITRINE
 FATURAMENTO BBTOTAL ES;321.36;321.36;8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;BB TOTAL
 FATURAMENTO VD RJ;379.96;529.89;8.06.01.06.18;Cadeira de Alimentação Feed Pink Sky - Safety 1st;VITRINE
-FATURAMENTO VD RJ;379.96;529.89;8.06.01.06.18;Cadeira de Refeição Feed Safety 1st Pink Sky;VITRINE
 FATURAMENTO VD RJ;431.61;601.92;8.06.01.07.01;Cadeira de Alimentação Dobrável Mellow Black - Safety 1st;VITRINE
 FATURAMENTO VD RJ;431.61;601.92;8.06.01.08.11;Cadeira de Alimentação Dobrável Mellow Grey - Safety 1st;VITRINE
 FATURAMENTO VD RJ;134.51;187.58;8.06.01.09.01;Cadeira de Alimentação Portátil Easy Black - Safety 1st;VITRINE
@@ -2025,7 +2022,6 @@ FATURAMENTO BBTOTAL ES;70.39;93.45;8.06.39.23.18;Cadeira de Alimentação Poke R
 FATURAMENTO VD ES;126.42;148.93;8.06.39.24.18;Cadeira de Alimentação Kiwi Rose Madder Até 15Kg - Burigotto;VITRINE
 FATURAMENTO VD RJ;324.35;382.09;8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;VITRINE
 FATURAMENTO VD ES;324.35;382.09;8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;VITRINE
-FATURAMENTO VD ES;324.36;382.1;8.06.39.26.18;Cadeira De Refeição Merenda Rosa Madder - Burigotto;VITRINE
 FATURAMENTO VD ES;324.36;382.1;8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;VITRINE
 FATURAMENTO VD RJ;324.35;382.09;8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;VITRINE
 FATURAMENTO BBTOTAL ES;182.61;182.61;8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;BB TOTAL
@@ -2430,7 +2426,6 @@ FULFILLMENT MELI;652.76;899.5;8.09.02.107.80;Carrinho de Bebê Lara² Essential 
 FULFILLMENT MELI;1003.51;1399.49;8.09.02.108.01;Carrinho com Bebê Conforto Travel System Lara² Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;1003.51;1399.49;8.09.02.108.01;Carrinho com Bebê Conforto Travel System Lara² Essential Black - Maxi-Cosi;VITRINE
 FATURAMENTO VD RJ;953.34;1329.52;8.09.02.109.80;Carrinho com Bebê Conforto Travel System Lara² Essential Graphite - Maxi-Cosi;VITRINE
-FATURAMENTO VD RJ;953.34;1329.52;8.09.02.109.80;Carrinho com Bebê Conforto Travel System Lara² Maxi-Cosi Essential Graphite;VITRINE
 FATURAMENTO VD RJ;906.74;1249.5;8.09.02.11.10;Carrinho de Bebê Eva² Luxe Twilic Grey - Maxi-Cosi;VITRINE
 FATURAMENTO BBTOTAL ES;527.28;624.75;8.09.02.11.10;Carrinho de Bebê Eva² Luxe Twilic Grey - Maxi-Cosi;BB TOTAL
 FULFILLMENT VISUAL IN;914.71;1443.17;8.09.02.11.10;Carrinho de Bebê Eva² Luxe Twilic Grey - Maxi-Cosi;VISUAL IN
@@ -2783,7 +2778,6 @@ FULFILLMENT MELI;497.09;693.24;8.09.23.59.01;Carrinho com Bebê Conforto Travel 
 FULFILLMENT AMAZON;537.4;749.44;8.09.23.60.10;Carrinho com Bebê Conforto Travel System Breeze Duo Cinza - Infanti;VITRINE
 FULFILLMENT MELI;537.4;749.44;8.09.23.60.10;Carrinho com Bebê Conforto Travel System Breeze Duo Cinza - Infanti;VITRINE
 FATURAMENTO VD RJ;537.4;749.44;8.09.23.60.10;Carrinho com Bebê Conforto Travel System Breeze Duo Cinza - Infanti;VITRINE
-FULFILLMENT AMAZON;537.4;749.44;8.09.23.60.10;Carrinho com Bebê Conforto Travel System Breeze Duo Infanti Cinza;VITRINE
 FATURAMENTO VD RJ;35.36;49.95;8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;VITRINE
 FATURAMENTO BBTOTAL ES;27.75;27.75;8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;BB TOTAL
 FATURAMENTO VD RJ;35.36;49.95;8.09.23.61.01;Bolsa Organizadora You Pack Preta Infanti;VITRINE
@@ -5022,7 +5016,6 @@ FATURAMENTO VD RJ;124.52;141.65;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas R
 FATURAMENTO BBTOTAL ES;70.83;70.83;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas Rosa - Buba;BB TOTAL
 FATURAMENTO VD RJ;117.92;134.71;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Azul - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;67.36;67.36;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Azul - Buba;BB TOTAL
-FATURAMENTO VD RJ;117.92;134.71;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Buba Azul;VITRINE
 FATURAMENTO VD RJ;122.99;140.03;8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;VITRINE
 FATURAMENTO VD RJ;11.12;12.5;8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;VITRINE
 FATURAMENTO VD RJ;7.93;9.1;8.30.57.13.69;Risque e Apague Buba Colorido;VITRINE
@@ -5061,7 +5054,6 @@ FATURAMENTO BBTOTAL ES;19.02;19.02;8.30.57.56.18;Celular Infantil Bilíngue Zoo 
 FATURAMENTO VD ES;66.08;75.18;8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;31.31;35.94;8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;BB TOTAL
 FATURAMENTO VD RJ;65.02;71.88;8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;VITRINE
-FATURAMENTO VD RJ;52.99;60.28;8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo - Buba;VITRINE
 FATURAMENTO VD RJ;52.99;60.28;8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo Colorido - Buba;VITRINE
 FATURAMENTO BBTOTAL ES;23.29;26.73;8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo Colorido - Buba;BB TOTAL
 FATURAMENTO VD RJ;110.52;125.73;8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;VITRINE
@@ -5244,7 +5236,6 @@ FATURAMENTO VD RJ;146.89;146.89;8.01.01.20.10;Banheira Infantil Retrátil Oasis 
 FATURAMENTO VD RJ;118.84;118.84;8.01.03.01.07;Banheira Infantil Dobrável Glub até 30 Litros Azul - Voyage;BB TUDO
 FATURAMENTO VD RJ;118.84;118.84;8.01.03.02.18;Banheira Infantil Dobrável Glub até 30 Litros Rosa - Voyage;BB TUDO
 FATURAMENTO VD RJ;185.39;185.39;8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;BB TUDO
-FATURAMENTO VD RJ;185.39;185.39;8.01.03.04.01;Banheira Whippy Cosco Cinza;BB TUDO
 FATURAMENTO VD RJ;185.39;185.39;8.01.03.04.01;Banheira de Bebê Whippy Cinza - Cosco;BB TUDO
 FATURAMENTO VD RJ;74.58;74.58;8.01.04.01.10;Banheira Infantil Fold Up Branca e Cinza - Cosco;BB TUDO
 FATURAMENTO VD RJ;74.58;74.58;8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;BB TUDO
@@ -5636,7 +5627,6 @@ FATURAMENTO VD RJ;642.72;642.72;8.06.01.02.11;Cadeira de Alimentação Jelly Gre
 FATURAMENTO VD RJ;642.72;642.72;8.06.01.02.11;Cadeira de Refeição Jelly Safety 1st - Green;BB TUDO
 FATURAMENTO VD RJ;642.72;642.72;8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;529.89;529.89;8.06.01.06.18;Cadeira de Alimentação Feed Pink Sky - Safety 1st;BB TUDO
-FATURAMENTO VD RJ;529.89;529.89;8.06.01.06.18;Cadeira de Refeição Feed Safety 1st Pink Sky;BB TUDO
 FATURAMENTO VD RJ;601.92;601.92;8.06.01.07.01;Cadeira de Alimentação Dobrável Mellow Black - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;601.92;601.92;8.06.01.08.11;Cadeira de Alimentação Dobrável Mellow Grey - Safety 1st;BB TUDO
 FATURAMENTO VD RJ;187.58;187.58;8.06.01.09.01;Cadeira de Alimentação Portátil Easy Black - Safety 1st;BB TUDO
@@ -5727,7 +5717,6 @@ FATURAMENTO VD ES;186.21;186.21;8.06.39.23.18;Cadeira de Alimentação Poke Rose
 FATURAMENTO VD ES;148.93;148.93;8.06.39.24.18;Cadeira de Alimentação Kiwi Rose Madder Até 15Kg - Burigotto;BB TUDO
 FATURAMENTO VD RJ;382.09;382.09;8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;BB TUDO
 FATURAMENTO VD ES;382.09;382.09;8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;BB TUDO
-FATURAMENTO VD ES;382.1;382.1;8.06.39.26.18;Cadeira De Refeição Merenda Rosa Madder - Burigotto;BB TUDO
 FATURAMENTO VD ES;382.1;382.1;8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;BB TUDO
 FATURAMENTO VD RJ;382.09;382.09;8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;BB TUDO
 FATURAMENTO VD ES;382.1;382.1;8.06.39.27.10;Cadeira De Refeição Merenda Granito - Burigotto;BB TUDO
@@ -5973,7 +5962,6 @@ FATURAMENTO VD RJ;899.5;899.5;8.09.02.106.01;Carrinho de Bebê Lara² Essential 
 FATURAMENTO VD RJ;899.5;899.5;8.09.02.106.01;Carrinho de Bebê Lara² Maxi-Cosi Essential Black;BB TUDO
 FATURAMENTO VD RJ;1399.49;1399.49;8.09.02.108.01;Carrinho com Bebê Conforto Travel System Lara² Essential Black - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1329.52;1329.52;8.09.02.109.80;Carrinho com Bebê Conforto Travel System Lara² Essential Graphite - Maxi-Cosi;BB TUDO
-FATURAMENTO VD RJ;1329.52;1329.52;8.09.02.109.80;Carrinho com Bebê Conforto Travel System Lara² Maxi-Cosi Essential Graphite;BB TUDO
 FATURAMENTO VD RJ;1249.5;1249.5;8.09.02.11.10;Carrinho de Bebê Eva² Luxe Twilic Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1249.5;1249.5;8.09.02.110.10;Carrinho de Bebê Eva Luxe Twilic Grey - Maxi-Cosi;BB TUDO
 FATURAMENTO VD RJ;1384.15;1384.15;8.09.02.112.01;Carrinho de Bebê Leona² Essential Black - Maxi-Cosi;BB TUDO
@@ -7597,7 +7585,6 @@ FATURAMENTO VD RJ;13.31;13.31;8.30.57.03.00;Baby Ball Cute Colors Buba;BB TUDO
 FATURAMENTO VD RJ;141.65;141.65;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas Buba Rosa;BB TUDO
 FATURAMENTO VD RJ;141.65;141.65;8.30.57.05.18;Bicicleta de Equilíbrio 4 Rodas Rosa - Buba;BB TUDO
 FATURAMENTO VD RJ;134.71;134.71;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Azul - Buba;BB TUDO
-FATURAMENTO VD RJ;134.71;134.71;8.30.57.06.07;Bicicleta de Equilíbrio 4 Rodas Buba Azul;BB TUDO
 FATURAMENTO VD RJ;140.03;140.03;8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;BB TUDO
 FATURAMENTO VD RJ;12.5;12.5;8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;BB TUDO
 FATURAMENTO VD RJ;9.1;9.1;8.30.57.13.69;Risque e Apague Buba Colorido;BB TUDO
@@ -7625,7 +7612,6 @@ FATURAMENTO VD RJ;21.77;21.77;8.30.57.54.69;Bichinhos Para Banho Dino Card - Bub
 FATURAMENTO VD RJ;38.04;38.04;8.30.57.56.18;Celular Infantil Bilíngue Zoo Unicórnio Rosa - Buba;BB TUDO
 FATURAMENTO VD ES;75.18;75.18;8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;BB TUDO
 FATURAMENTO VD RJ;71.88;71.88;8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;BB TUDO
-FATURAMENTO VD RJ;60.28;60.28;8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo - Buba;BB TUDO
 FATURAMENTO VD RJ;60.28;60.28;8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo Colorido - Buba;BB TUDO
 FATURAMENTO VD RJ;125.73;125.73;8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;BB TUDO
 FATURAMENTO VD RJ;125.73;125.73;8.30.57.60.18;Bicicleta de Equilíbrio Infantil com Som Rosa - Buba;BB TUDO
